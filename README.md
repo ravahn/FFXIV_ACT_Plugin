@@ -21,7 +21,9 @@ http://advancedcombattracker.com/download.php
 * Parse FFXIV data by scanning network data sent to FFXIV.  This will improve the overall parse quality, because network data is communicated reliably to the plugin, and includes some data which is not available in memory.  If you choose this:
     a) You must run ACT as an Administrator.
     b) You must configure your firewall software to allow ACT to communicate through it.  Reddit user Xepher01 contributed some instructions <a href="http://imgur.com/a/QU86T">here</a> for windows Firewall
-* If you prefer to not use this data, you can instead parse from game memory.  To do this, you must check the "Disable Parsing from Network Data" checkbox on the FFXIV Settings tab inside ACT.
+* If you prefer to not use this data, you can instead parse from game memory.  To do this, you must check the "Disable Parsing from Network Data" checkbox on the FFXIV Settings tab inside ACT.  
+ 
+However, keep in mind that there are known problems with memory-only parsing that will cause some combat information to be lost.  Network mode is more accurate, and should always be used when comparing parses between players.
 
 More information to come.
 
