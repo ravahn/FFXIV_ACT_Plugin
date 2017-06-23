@@ -6,7 +6,7 @@ This project is to track releases and issues for the ACT FFXIV Plugin:<br>
 http://www.eq2flames.com/plugin-discussion/98088-ffxiv-arr-plugin.html<br>
 The source code is not currently public.
 
-The DLL file included in this project  enables the multi-game parser Advanced Combat Tracker (ACT) to process and display combat information from Final Fantasy XIV patch 3.3. 
+The DLL file included in this project  enables the multi-game parser Advanced Combat Tracker (ACT) to process and display combat information from Final Fantasy XIV patch 4.0. 
 
 DISCLAIMER: Use of this program is at your own risk. Square Enix does not permit the use of any third party tools, even those which do not modify the game.  They have stated in interviews that they did not view parsers as a significant problem unless players use them to harass other players, so the consensus is to not discuss parsers or DPS in-game at all.
 
