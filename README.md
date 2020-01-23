@@ -18,7 +18,7 @@ http://advancedcombattracker.com/download.php
 
 2) Make sure FFXIV is running in DX11 mode.  You can verify this by opening the FFXIV Launcher and clicking the gear icon on the bottom row.  There is a slider that must be turned on to enable DX11.
 
-3) Launch the ACT Startup Wizard. On the Parsing Plugin tab, click the 'Get Available parsing plugins' button. Choose #66 "FFXIV Parsing Plugin", and click the "Use this plugin" button. Continue the wizard or close it as desired.
+3) Launch the ACT Startup Wizard. On the Parsing Plugin tab, click the 'Get Available parsing plugins' button. Choose #73 "FFXIV Parsing Plugin", and click the "Use this plugin" button. Continue the wizard or close it as desired.
 
 4) Make a decision to either:
 * Parse FFXIV data by scanning network data sent to FFXIV.  This will improve the overall parse quality, because network data is communicated reliably to the plugin, and includes some data which is not available in memory.  If you choose this:
