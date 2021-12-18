@@ -1,0 +1,106 @@
+{
+"job": "npc",
+"actions" : [
+{ "156" : "soul drain", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "2D4" : "digest", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "4DA" : "death sentence", "damage": [ { "potency": 0} ] },
+{ "5CD" : "lunatic voice", "damage": [ { "potency": 0} ] },
+{ "64A" : "blood sword", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "67B" : "putrid cloud", "heal": [ { "potency": 0} ] },
+{ "7DA" : "lunar dynamo", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "80A" : "pom cure", "heal": [ { "potency": 0} ] },
+{ "89C" : "ripe banana", "heal": [ { "potency": 0} ] },
+{ "923" : "drain-mob", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "964" : "head over heals", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "9FF" : "lunar dynamo 9ff", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "D0E" : "marrow drain", "damage": [ { "potency": 0} ] },
+{ "D5B" : "aetherial distribution", "heal": [ { "potency": 0} ] },
+{ "FDC" : "explosion", "damage": [ { "potency": 0} ] },
+{ "128B" : "bloodstain", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "13CC" : "sanguine bite", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "13CF" : "brainshaker", "damage": [ { "potency": 0} ] },
+{ "1731" : "seed of the sky", "damage": [ { "potency": 0} ] },
+{ "1734" : "retribution", "damage": [ { "potency": 0} ] },
+{ "3279" : "critical storage violation", "damage": [ { "potency": 0} ] },
+{ "35AA" : "damage down lc", "damage": [ { "potency": 0} ] },
+{ "4107" : "pulse of the land", "damage": [ { "potency": 0} ] },
+{ "4129" : "weight of the world", "damage": [ { "potency": 0} ] },
+{ "4B9D" : "the parting clouds", "damage": [ { "potency": 0} ] },
+{ "4DB7" : "reflected biting frost", "damage": [ { "potency": 0} ] },
+{ "4EB0" : "lunar dynamo 4eb0", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+{ "50F8" : "lost cure iii", "heal": [ { "potency": 0} ] },
+{ "50F9" : "lost cure iv", "heal": [ { "potency": 0} ] },
+{ "5609" : "dark-energy particle beam", "damage": [ { "potency": 0} ] },
+{ "5738" : "shadowy eruption", "damage": [ { "potency": 0} ] },
+{ "5B34" : "merciful blooms", "damage": [ { "potency": 0} ] },
+],
+"statuseffects" : [ 
+{ "CA" : "vulnerability up", "potency": [ 
+    {"type": "DamageReceivedMultiplier", "amount": 10, "limittozoneid": "523"},
+    {"type": "DamageReceivedMultiplier", "amount": 0, "amountbyte": 2} 
+] },
+{ "AC" : "infirmity", "potency": [ {"type": "healreceivemultiplier", "amount": -50} ] },
+{ "107" : "vulnerability down", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
+{ "15C" : "disseminate", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 25, "isstacked": true} ] },
+{ "179" : "infernal fetters", "potency": [ {"type": "damagedonemultiplier", "amount": -10} ] },
+{ "1BB" : "damage up", "potency": [ 
+    {"type": "damagedonemultiplier", "amount": 25},
+    {"type": "damagedonemultiplier", "amount": 15, "limittozoneid": "195"},
+    {"type": "damagedonemultiplier", "amount": 25, "limittozoneid": "446"},
+] },
+
+{ "1B6" : "minimum", "potency": [ 
+    {"type": "damagedonemultiplier", "amount": -50, "limittozoneid": "151"},
+    {"type": "DamageReceivedMultiplier", "amount": 50, "limittozoneid": "151"},
+    {"type": "damagedonemultiplier", "amount": -90, "limittozoneid": "372"},
+    {"type": "DamageReceivedMultiplier", "amount": 45, "limittozoneid": "372"},
+    {"type": "DamageReceivedMultiplier", "amount": 50, "limittozoneid": "449"},
+    {"type": "damagedonemultiplier", "amount": -50, "limittozoneid": "449"},
+    {"type": "damagedonemultiplier", "amount": -50, "limittozoneid": "151"},
+    {"type": "DamageReceivedMultiplier", "amount": 50, "limittozoneid": "151"},
+    {"type": "damagedonemultiplier", "amount": -90, "limittozoneid": "372"},
+    {"type": "DamageReceivedMultiplier", "amount": 45, "limittozoneid": "372"},
+    {"type": "DamageReceivedMultiplier", "amount": 50, "limittozoneid": "449"},
+    {"type": "damagedonemultiplier", "amount": -50, "limittozoneid": "449"}
+] },
+{ "20E" : "frost blade", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
+{ "2A9" : "offensive optimization", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 50} ] },
+{ "24F" : "bluefire", "potency": [ {"type": "damagedonemultiplier", "amount": -90, "limittozoneid": "195"},
+    {"type": "healreceivemultiplier", "amount": -80, "limittozoneid": "195"} 
+] },
+{ "2AA" : "defensive optimization", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -50} ] },
+{ "2AB" : "blessing of earth", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -40} ] },
+{ "2CA" : "vulnerability up", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 10, "isstacked": true} ] },
+{ "2B7" : "physical vulnerability up stonecrusher", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 0, "amountbyte": 2, "limittodamagetype": "Physical"} ] },
+{ "2B8" : "damage down", "potency": [ {"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2} ] },
+{ "2B9" : "healing down", "potency": [ {"type": "HealDoneMultiplier", "amount": 0, "amountbyte": 2} ] },
+{ "32C" : "magic vulnerability down", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -25, "limittodamagetype": "Magic"} ] },
+{ "3A5" : "healing potency down", "potency": [ {"type": "HealDoneMultiplier", "amount": -30} ] },
+{ "3EB" : "bigbulge biggerbrain", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -30} ] },
+{ "3F8" : "damage down", "potency": [ 
+    {"type": "damagedonemultiplier", "amount": -10},
+    {"type": "damagedonemultiplier", "amount": -3, "isstacked": true, "limittozoneid": "800"} 
+] },
+{ "472" : "magic vulnerability up weight world", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 0, "amountbyte": 2, "limittodamagetype": "Magic"} ] },
+{ "59C" : "phoenix's blessing", "potency": [ {"type": "damagedonemultiplier", "amount": 100} ] },
+{ "82C" : "damage down", "potency": [ 
+    {"type": "damagedonemultiplier", "amount": -20, "limittozoneid": "902"},
+    {"type": "damagedonemultiplier", "amount": -50, "limittozoneid": "909"},
+    {"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2} 
+] },
+{ "91C" : "lost font of magic", "potency": [ {"type": "damagedonemultiplier", "amount": 70} ] },
+{ "9B5" : "twice-come ruin", "potency": [ {"type": "damagedonemultiplier", "amount": -10} ] },
+
+{ "C6": "ice spikes", "reactiveproc": { "type": "DamageOnDamageReceived", "amount": 50 } },
+{ "C5": "blaze spikes", "reactiveproc": { "type": "DamageOnDamageReceived", "amount": 50 } },
+{ "156": "repelling spray", "reactiveproc": { "type": "DamageOnDamageReceived" } },
+{ "1DD": "mantle of the whorl", "reactiveproc": { "type": "DamageOnDamageReceived", "amount": 50 } },
+{ "1DE": "veil of the whorl 1de", "reactiveproc": { "type": "DamageOnDamageReceived", "amount": 50 } },
+{ "8D7": "shock spikes", "reactiveproc": { "type": "DamageOnDamageReceived" } },
+
+
+{"B0C": "prayers of hope", "potency": [{"type": "damagedonemultiplier", "amount": 15, "isstacked": true}]},
+]
+}
+
+

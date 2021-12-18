@@ -1,0 +1,45 @@
+{
+"job": "gunbreaker",
+"actions" : [
+{ "3F09" : "keen edge", "damage": [ { "potency": 170} ] },
+{ "3F0B" : "brutal shell", "damage": [ { "potency": 120, "combo": 260} ], "heal": [ { "potency": 200} ] },
+{ "3F0D" : "demon slice", "damage": [ { "potency": 100} ] },
+{ "3F0F" : "lightning shot", "damage": [ { "potency": 150} ] },
+{ "3F10" : "danger zone", "damage": [ { "potency": 250} ] },
+{ "3F11" : "solid barrel", "damage": [ { "potency": 120, "combo": 340 } ] },
+{ "3F22" : "burst strike", "damage": [ { "potency": 380} ] },
+{ "3F15" : "demon slaughter", "damage": [ { "potency": 100, "combo": 160} ] },
+{ "3F19" : "sonic break", "damage": [ { "potency": 300} ] },
+{ "3F1A" : "rough divide", "damage": [ { "potency": 150} ] },
+{ "3F12" : "gnashing fang", "damage": [ { "potency": 360} ] },
+{ "3F13" : "savage claw", "damage": [ { "potency": 440} ] },
+{ "3F16" : "wicked talon", "damage": [ { "potency": 520} ] },
+{ "3F1F" : "bow shock", "damage": [ { "potency": 150} ] },
+{ "3F1C" : "jugular rip", "damage": [ { "potency": 180} ] },
+{ "3F1D" : "abdomen tear", "damage": [ { "potency": 220} ] },
+{ "3F1E" : "eye gouge", "damage": [ { "potency": 260} ] },
+{ "3F23" : "fated circle", "damage": [ { "potency": 290} ] },
+{ "3F25" : "blasting zone", "damage": [ { "potency": 700} ] },
+{ "649F" : "hypervelocity", "damage": [ { "potency": 180} ] },
+{ "64a0" : "double down zone", "damage": [ { "potency": 1200, "targetindex": 0}, {"potency": 960} ] },
+
+
+],
+"statuseffects" : [ 
+{ "72B": "aurora", "timeproc": { "type": "hot", "potency": "200", "maxticks": 6 } },
+{ "72D": "sonic break", "timeproc": { "type": "dot", "potency": "60", "maxticks": 10 } },
+{ "72E": "bow shock", "timeproc": { "type": "dot", "potency": "60", "maxticks": 5 } },
+{ "727" : "no mercy", "potency": [ {"type": "damagedonemultiplier", "amount": 20} ] },
+{ "728" : "camouflage", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
+{ "72A" : "nebula", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -30} ] },
+{ "72F" : "heart of light", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
+{ "730" : "heart of stone", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -7} ] },
+{ "a7b" : "heart of corundum", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
+{ "a7c" : "clarity of corundum", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
+{ "a7d" : "catharsis of corundum", "timeproc": {"type": "groundheal", "potency": 900, "maxticks": 10} },
+
+{ "76a" : "brutal shell", "damageshield": { "type": "HealPercent", "amount": 100 } },
+
+
+]
+}

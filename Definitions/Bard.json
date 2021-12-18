@@ -1,0 +1,44 @@
+{
+"job": "bard",
+"actions" : [
+    { "61" : "heavy shot", "damage": [ { "potency": 160} ] },
+    { "62" : "straight shot", "damage": [ { "potency": 200} ] },
+    { "64" : "venomous bite", "damage": [ { "potency": 100} ] },
+    { "6A" : "quick nock", "damage": [ { "potency": 110} ] },
+    { "6E" : "bloodletter", "damage": [ { "potency": 110} ] },
+    { "71" : "windbite", "damage": [ { "potency": 60} ] },
+    { "72" : "mage's ballad", "damage": [ { "potency": 100} ] },
+    { "74" : "army's paeon", "damage": [ { "potency": 100} ] },
+    { "75" : "rain of death", "damage": [ { "potency": 100} ] },
+    { "DE6" : "empyreal arrow", "damage": [ { "potency": 200} ] },
+    { "DE7" : "the wanderer's minuet", "damage": [ { "potency": 100} ] },
+    { "DE8" : "iron jaws", "damage": [ { "potency": 100} ] },
+    { "DEA" : "sidewinder", "damage": [ { "potency": 300} ] },
+    { "1CEE" : "caustic bite", "damage": [ { "potency": 150} ] },
+    { "1CEF" : "stormbite", "damage": [ { "potency": 100} ] },
+    { "1CF1" : "refulgent arrow", "damage": [ { "potency": 280} ] },
+    { "228A" : "pitch perfect", "damage": [ { "potency": 0} ] },
+    { "406E" : "shadowbite", "damage": [ { "potency": 0} ] },
+    { "406F" : "burst shot", "damage": [ { "potency": 220} ] },
+    { "4070" : "apex arrow", "damage": [ { "potency": 0} ] },
+    { "64b7" : "ladonsbite", "damage": [ { "potency": 130} ] },
+    { "64b8" : "blast arrow", "damage": [ { "potency": 360}, { "potency": 600, "targetindex": 0} ] },
+],
+"statuseffects" : [ 
+    { "89": "army's paeon", "multiplier": [ { "type": "directhit", "amount": 3 } ] },
+    { "8D": "battle voice", "multiplier": [ { "type": "directhit", "amount": 20 } ] },
+    { "8A8": "the wanderer's minuet", "multiplier": [ { "type": "criticalhit", "amount": 2 } ] },
+
+    { "7C": "venomous bite", "timeproc": { "type": "dot", "potency": "15", "damagetype": "physical", "maxticks": "15" } },
+    { "81": "windbite", "timeproc": { "type": "dot", "potency": "20", "damagetype": "physical", "maxticks": "15" } },
+    { "4B0": "caustic bite", "timeproc": { "type": "dot", "potency": "20", "damagetype": "physical", "maxticks": "15" } },
+    { "4B1": "stormbite", "timeproc": { "type": "dot", "potency": "25", "damagetype": "physical", "maxticks": "15" } },
+
+    { "7D" : "raging strikes", "potency": [{"type": "damagedonemultiplier", "amount": 15}] },
+    { "8A9" : "mage's ballad", "potency": [{"type": "damagedonemultiplier", "amount": 1}] },
+    { "78E" : "troubador", "potency": [{"type": "DamageReceivedMultiplier", "amount": -10}] },
+    { "4B2" : "nature's minne", "potency": [{"type": "healreceivemultiplier", "amount": 20}] },
+    { "b94": "radiant finale", "potency": [{"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2}] },
+    
+ ]
+}

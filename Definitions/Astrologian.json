@@ -1,0 +1,63 @@
+{
+"job": "astrologian",
+"actions" : [
+    { "E0C" : "malefic", "damage": [ { "potency": 150} ] },
+    { "E0A" : "benefic", "heal": [ { "potency": 500} ] },
+    { "E10" : "helios", "heal": [ { "potency": 400} ] },
+    { "E1E" : "essential dignity", "heal": [ { "potency": 0} ] },
+    { "E1A" : "benefic ii", "heal": [ { "potency": 800} ] },
+    { "E0B" : "aspected benefic", "heal": [ { "potency": 250} ] },
+    { "E11" : "aspected helios", "heal": [ { "potency": 250} ] },
+    { "E1F" : "gravity", "damage": [ { "potency": 120} ] },
+    { "E0E" : "malefic ii", "damage": [ { "potency": 160} ] },
+    { "40A9" : "celestial opposition", "heal": [ { "potency": 200} ] },
+    { "2084" : "stellar detonation", "damage": [ { "potency": 0} ], "heal": [ { "potency": 0} ] },
+    { "1D12" : "malefic iii", "damage": [ { "potency": 190} ] },
+    { "40AB" : "malefic iv", "damage": [ { "potency": 230} ] },
+    { "40AC" : "celestial intersection", "heal": [ { "potency": 200} ] },
+    { "40AD" : "horoscope-1", "heal": [ { "potency": 0} ] },
+    { "40AE" : "horoscope", "heal": [ { "potency": 0} ] },
+    { "42FF" : "aspected benefic-horoscope", "heal": [ { "potency": 200} ] },
+    { "4300" : "aspected helios-horoscope", "heal": [ { "potency": 200} ] },
+    { "650f" : "fall malific", "damage": [ { "potency": 250} ] },
+    { "6510" : "gravity ii", "damage": [ { "potency": 130} ] },
+    { "6512" : "macrocosmos", "damage": [ { "potency": 150}, { "potency": 250, "targetindex": 0} ] },
+    { "6513" : "microcosmos", "heal": [ { "potency": 0} ] },
+    { "1d14" : "lord of crowns", "damage": [ { "potency": 250} ] },
+    { "1d15" : "lady of crowns", "heal": [ { "potency": 400} ] },
+
+],
+"statuseffects" : [ 
+    { "343": "aspected benefic", "timeproc": { "type": "hot", "potency": "250", "maxticks": "5" },
+                                  "damageshield": { "type": "HealPercent", "amount": 250 } },
+    { "344": "aspected helios", "timeproc": { "type": "hot", "potency": "150", "maxticks": "5" },
+                                "damageshield": { "type": "HealPercent", "amount": 125 } },
+    { "346": "combust", "timeproc": { "type": "dot", "potency": "40", "damagetype": "magic", "maxticks": "6" } },
+    { "34B": "combust ii", "timeproc": { "type": "dot", "potency": "50", "damagetype": "magic", "maxticks": "10" } },
+    { "34E": "synastry", "timeproc": { "type": "groundheal", "potency": "0", "maxticks": "6" } },
+    { "3BC": "wheel of fortune", "timeproc": { "type": "hot", "potency": "100", "maxticks": "5" } },
+    { "759": "combust iii", "timeproc": { "type": "dot", "potency": "55", "damagetype": "magic", "maxticks": "10" } },
+
+    { "75B" : "the bole", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
+    { "75C" : "the arrow", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
+    { "75E" : "the ewer", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
+    { "75F" : "the spire", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
+    { "75A" : "the balance", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
+    { "75D" : "the spear", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
+    { "756" : "divination", "potency": [{"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2}] },
+    { "764" : "neutral sect", "potency": [{"type": "HealDoneMultiplier", "amount": 20}] },
+
+    { "763": "horoscope helios", "timeproc": { "type": "groundheal", "potency": 400, "maxticks": 10 } },
+
+    { "757": "opposition", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
+    { "34F": "collective unconscious", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
+    { "a9c" : "harmony of mind", "potency": [{"type": "HealDoneMultiplier", "amount": 5}, 
+                                          {"type": "damagedonemultiplier", "amount": 5}]},
+    { "a9d": "exaltation", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] ,
+                            "timeproc": { "type": "groundheal", "potency": 500, "maxticks": 24 } },
+    { "a9e": "macrocosmos", "timeproc": {"type": "groundheal", "potency": 0, "maxticks": 10 } },
+    { "761" : "intersection", "damageshield": { "type": "HealPercent", "amount": 200 } },
+  
+
+]
+}

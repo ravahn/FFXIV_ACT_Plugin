@@ -1,0 +1,37 @@
+{
+"job": "black mage",
+"actions" : [
+{ "8D" : "fire", "damage": [ { "potency": 0} ] },
+{ "8E" : "blizzard", "damage": [ { "potency": 0} ] },
+{ "90" : "thunder", "damage": [ { "potency": 30} ] },
+{ "92" : "blizzard ii", "damage": [ { "potency": 0} ] },
+{ "93" : "fire ii", "damage": [ { "potency": 0} ] },
+{ "98" : "fire iii", "damage": [ { "potency": 0} ] },
+{ "9C" : "scathe", "damage": [ { "potency": 0} ] },
+{ "1D17" : "thunder ii", "damage": [ { "potency": 50} ] },
+{ "99" : "thunder iii", "damage": [ { "potency": 50} ] },
+{ "9A" : "blizzard iii", "damage": [ { "potency": 0} ] },
+{ "9F" : "freeze", "damage": [ { "potency": 0} ] },
+{ "A2" : "flare", "damage": [ { "potency": 0} ] },
+{ "DF8" : "blizzard iv", "damage": [ { "potency": 0} ] },
+{ "DF9" : "fire iv", "damage": [ { "potency": 0} ] },
+{ "1CFC" : "thunder iv", "damage": [ { "potency": 50} ] },
+{ "1CFE" : "foul", "damage": [ { "potency": 0} ] },
+{ "4079" : "despair", "damage": [ { "potency": 0} ] },
+{ "407B" : "xenoglossy", "damage": [ { "potency": 660} ] },
+],
+"statuseffects" : [ 
+    { "A1": "thunder", "timeproc": { "type": "dot", "potency": "35", "damagetype": "magic", "maxticks": "7" } },
+    { "A2": "thunder ii", "timeproc": { "type": "dot", "potency": "15", "damagetype": "magic", "maxticks": "5" } },
+    { "A3": "thunder iii", "timeproc": { "type": "dot", "potency": "35", "damagetype": "magic", "maxticks": "10" } },
+    { "4BA": "thunder iv", "timeproc": { "type": "dot", "potency": "20", "damagetype": "magic", "maxticks": "6" } },
+
+    { "A4" : "thundercloud", "potency": [
+        {"type": "DamageAddPotency", "amount": 245, "limitto": "thunder"},
+        {"type": "DamageAddPotency", "amount": 75, "limitto": "thunder ii"},
+        {"type": "DamageAddPotency", "amount": 350, "limitto": "thunder iii"},
+        {"type": "DamageAddPotency", "amount": 120, "limitto": "thunder iv"}
+    ] },
+    { "A8": "manaward", "damageshield": { "type": "TargetHpPercent", "amount": 30 } }
+]
+}

@@ -1,0 +1,41 @@
+{
+"job": "dancer",
+"actions" : [
+{ "3E75" : "cascade", "damage": [ { "potency": 150} ] },
+{ "3E76" : "fountain", "damage": [ { "potency": 100, "combo": 240} ] },
+{ "3E79" : "windmill", "damage": [ { "potency": 100} ] },
+{ "3E83" : "standard finish", "damage": [ { "potency": 0} ] },
+{ "3E77" : "reverse cascade", "damage": [ { "potency": 240} ] },
+{ "3E7A" : "bladeshower", "damage": [ { "potency": 100, "combo": 140} ] },
+{ "3E87" : "fan dance", "damage": [ { "potency": 150} ] },
+{ "3E7B" : "rising windmill", "damage": [ { "potency": 140} ] },
+{ "3E78" : "fountainfall", "damage": [ { "potency": 300} ] },
+{ "3E7C" : "bloodshower", "damage": [ { "potency": 180} ] },
+{ "3E88" : "fan dance ii", "damage": [ { "potency": 100} ] },
+{ "3E8F" : "curing waltz", "heal": [ { "potency": 300} ] },
+{ "3E89" : "fan dance iii", "damage": [ { "potency": 100}, { "potency": 200, "targetindex": 0 } ] },
+{ "3f41" : "single technical finish", "damage": [ { "potency": 350, "targetindex": 0}, {"potency": 88 } ] },
+{ "3f42" : "double technical finish", "damage": [ { "potency": 540, "targetindex": 0}, {"potency": 135 } ] },
+{ "3f43" : "triple technical finish", "damage": [ { "potency": 720, "targetindex": 0}, {"potency": 180 } ] },
+{ "3f44" : "quadruple technical finish", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 225 } ] },
+{ "3E85" : "saber dance", "damage": [ { "potency": 240}, {"potency": 480, "targetindex": 0 } ] },
+{ "64be" : "tillana", "damage": [ { "potency": 180}, {"potency": 360, "targetindex": 0} ] },
+{ "64bf" : "fan dance iv", "damage": [ { "potency": 150}, { "potency": 300, "targetindex": 0 } ] },
+{ "64c0" : "starfall dance", "damage": [ { "potency": 450}, { "potency": 600, "targetindex": 0 } ] },
+
+],
+"statuseffects" : [ 
+    { "721": "devilment", "multiplier": [ 
+        { "type": "criticalhit", "amount": 20 },
+        { "type": "directhit", "amount": 20 } 
+    ] },
+    { "722" : "shield samba", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
+    { "71E" : "technical finish", "potency": [ {"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2} ] },
+    { "a87": "improvisation", "timeproc": { "type": "hot", "potency": "100", "maxticks": "5" } },
+    { "a89": "improvised finish", "damageshield": {"type": "TargetHpPercent", "amount": 5 } }
+]
+}
+
+
+
+

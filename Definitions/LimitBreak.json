@@ -1,0 +1,10 @@
+{
+"job": "limit break",
+"actions" : [
+],
+"statuseffects" : [ 
+{ "C4" : "last bastion", "potency": [ {"type": "damagereceivedmultiplier", "amount": -50} ] },
+{ "35F" : "land walker", "potency": [ {"type": "damagereceivedmultiplier", "amount": -50} ] },
+{ "360" : "dark force", "potency": [ {"type": "damagereceivedmultiplier", "amount": -50} ] },
+]
+}

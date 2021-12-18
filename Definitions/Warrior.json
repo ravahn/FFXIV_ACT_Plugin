@@ -1,0 +1,50 @@
+{
+"job": "warrior",
+"actions" : [
+{ "1F" : "heavy swing", "damage": [ { "potency": 200} ] },
+{ "25" : "maim", "damage": [ { "potency": 130, "combo": 280} ] },
+{ "29" : "overpower", "damage": [ { "potency": 110} ] },
+{ "2E" : "tomahawk", "damage": [ { "potency": 100} ] },
+{ "2A" : "storm's path", "damage": [ { "potency": 120, "combo": 400} ], "heal": [ { "potency": 250} ] },
+{ "28" : "thrill of battle", "heal": [ { "potency": 0} ] },
+{ "31" : "inner beast", "damage": [ { "potency": 330} ] },
+{ "404E" : "mythril tempest", "damage": [ { "potency": 100, "combo": 150} ] },
+{ "33" : "steel cyclone", "damage": [ { "potency": 170} ] },
+{ "2D" : "storm's eye", "damage": [ { "potency": 120, "combo": 400} ] },
+{ "DDD" : "fell cleave", "damage": [ { "potency": 460} ] },
+{ "DE0" : "equilibrium", "heal": [ { "potency": 1200} ] },
+{ "DDE" : "decimate", "damage": [ { "potency": 200} ] },
+{ "1CDA" : "onslaught", "damage": [ { "potency": 150} ] },
+{ "1CDB" : "upheaval", "damage": [ { "potency": 350} ] },
+{ "1CDC" : "shake it off", "heal": [ { "potency": 300 } ] },
+{ "404F" : "chaotic cyclone", "damage": [ { "potency": 320} ] },
+{ "4051" : "inner chaos", "damage": [ { "potency": 650} ] },
+{ "6498" : "orogeny", "damage": [ { "potency": 150} ] },
+{ "6499" : "primal rend", "damage": [ { "potency": 700, "targetindex": 0}, {"potency": 210} ] },
+],
+"statuseffects" : [ 
+{ "56": "berserk", "multiplier": [ { "type":  "criticalhit", "amount": 100 }, { "type":  "directhit", "amount": 100 } ] },
+{ "499": "inner release", "multiplier": [ { "type":  "criticalhit", "amount": 100 }, { "type":  "directhit", "amount": 100 } ] },
+{ "57": "thrill of battle", "potency": [ { "type":  "HealReceiveMultiplier", "amount": 20 } ] },
+{ "A75" : "surging tempest", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
+{ "2DF" : "raw intuition", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ],
+                                        "reactiveproc": {"type": "HealOnDamageDealt" } },
+{ "5A" : "storm's eye", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
+{ "a79": "equilibrium", "timeproc": { "type": "hot", "potency": 200, "maxticks": 5 } },
+{ "59": "vengeance", "reactiveproc": { "type": "DamageOnDamageReceived", "amount": 55 },
+                    "potency": [{"type": "DamageReceivedMultiplier", "amount": -30}]
+},
+{ "741": "nascent flash","reactiveproc": { "type": "HealOnDamageDealt" } },
+{ "742": "nascent glint", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 } ],
+                "timeproc": {"type":"groundheal", "potency": 0, "maxticks": 4 }
+},
+
+{ "8B3": "nascent flash self", "reactiveproc": { "type": "HealOnDamageDealt" } },
+{ "A76": "bloodwhetting", "reactiveproc": { "type": "HealOnDamageDealt" },
+                              "potency": [ { "type": "DamageReceivedMultiplier", "amount": -10 }] },
+
+{ "5b1": "shake it off", "damageshield": { "type": "TargetHpPercent", "amount": 15 } },
+{ "a78": "stem the tide", "damageshield": { "type": "potency", "amount": 400 } }
+
+]
+}

@@ -1,0 +1,38 @@
+{
+"job": "reaper",
+"actions" : [
+{ "5f35" : "slice", "damage": [ { "potency": 300} ] },
+{ "5f36" : "waxing slice", "damage": [ { "potency": 140, "combo": 380} ] },
+{ "5f3a" : "shadow of death", "damage": [ { "potency": 300} ] },
+{ "5f42" : "harpe", "damage": [ { "potency": 300} ] },
+{ "5f38" : "spinning scythe", "damage": [ { "potency": 140} ] },
+{ "5f37" : "infernal slice", "damage": [ { "potency": 140, "combo": 460} ] },
+{ "5f3b" : "whorl of death", "damage": [ { "potency": 100} ] },
+{ "5f39" : "nightmare scythe", "damage": [ { "potency": 120, "combo": 180} ] },
+{ "5f45" : "blood stalk", "damage": [ { "potency": 340} ] },
+{ "5f48" : "grim swathe", "damage": [ { "potency": 140} ] },
+{ "5f3c" : "soul slice", "damage": [ { "potency": 460} ] },
+{ "5f3d" : "soul scythe", "damage": [ { "potency": 180} ] },
+{ "5f3e" : "gibbet", "damage": [ { "potency": 0} ] },
+{ "5f3f" : "gallows", "damage": [ { "potency": 0} ] },
+{ "5f40" : "guillotine", "damage": [ { "potency": 200} ] },
+{ "5f46" : "unveiled gibbet", "damage": [ { "potency": 0} ] },
+{ "5f47" : "unveiled gallows", "damage": [ { "potency": 0} ] },
+{ "5f49" : "gluttony", "damage": [ { "potency": 500, "targetindex": 0}, {"potency": 375 } ] },
+{ "5f4b" : "void reaping", "damage": [ { "potency": 0} ] },
+{ "5f4c" : "cross reaping", "damage": [ { "potency": 0} ] },
+{ "5f4d" : "grim reaping", "damage": [ { "potency": 200} ] },
+{ "5f44" : "harvest moon", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 300 } ] },
+{ "5f4f" : "lemure's slice", "damage": [ { "potency": 200} ] },
+{ "5f50" : "lemure's scythe", "damage": [ { "potency": 100} ] },
+{ "5f41" : "plentiful harvest", "damage": [ { "potency": 0} ] },
+{ "5f4e" : "communio", "damage": [ { "potency": 1000, "targetindex": 0}, {"potency": 400 } ] },
+],
+"statuseffects" : [ 
+{ "a1a" : "death's design", "potency": [ {"type": "damagereceivedmultiplier", "amount": 10 } ] },
+{ "a26" : "crest of time returned", "timeproc": {"type": "hot", "potency": 100, "maxticks": 5 } },
+{ "a27" : "arcane circle", "potency": [ {"type": "damagedonemultiplier", "amount": 3 } ] },
+{ "a24" : "crest of time borrowed", "damageshield": { "type": "TargetHpPercent", "amount": 10 } }
+
+]
+}

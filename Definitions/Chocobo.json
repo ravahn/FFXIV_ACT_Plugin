@@ -1,0 +1,20 @@
+{
+"job": "chocobo",
+"actions" : [
+{ "331" : "choco strike", "damage": [ { "potency": 150} ] },
+{ "333" : "choco kick", "damage": [ { "potency": 130} ] },
+{ "334" : "choco drop", "damage": [ { "potency": 150} ] },
+{ "335" : "choco blast", "damage": [ { "potency": 170} ] },
+{ "336" : "choco rush", "damage": [ { "potency": 130} ] },
+{ "337" : "choco beak", "damage": [ { "potency": 130} ] },
+{ "338" : "choco slash", "damage": [ { "potency": 150} ] },
+{ "339" : "choco medica", "heal": [ { "potency": 150} ] },
+{ "33B" : "choco cure", "heal": [ { "potency": 300} ] },
+],
+"statuseffects" : [ 
+{ "EC": "choco beak", "timeproc": { "type": "dot", "potency": 20, "damagetype": "physical", "maxticks": 6 } },
+{ "ED": "choco regen", "timeproc": { "type": "hot", "potency": 25, "maxticks": 6 } },
+{ "EE" : "choco surge", "potency": [ {"type": "HealDoneMultiplier", "amount": 30} ] },
+]
+}
+

@@ -1,0 +1,23 @@
+{
+"job": "eureka",
+"actions" : [
+],
+"statuseffects" : [ 
+{ "65F" : "wisdom of the aetherweaver", "potency": [ {"type": "DamageDoneMultiplier", "amount": 60, "limittodamagetype": "Magic" } ] },
+{ "660" : "wisdom of the martialist", "potency": [ {"type": "DamageDoneMultiplier", "amount": 40} ] },
+{ "664" : "wisdom of the skirmisher", "potency": [ {"type": "DamageDoneMultiplier", "amount": 20} ] },
+{ "665" : "wisdom of the watcher", "potency": [ {"type": "DamageDoneMultiplier", "amount": -5} ] },
+{ "666" : "wisdom of the templar", "potency": [ {"type": "DamageDoneMultiplier", "amount": -5} ] },
+{ "678" : "boost", "potency": [ {"type": "DamageDoneMultiplier", "amount": 30, "isstacked": true} ] },
+{ "66E" : "bravery l", "potency": [ {"type": "DamageDoneMultiplier", "amount": 10} ] },
+{ "674" : "magic burst l", "potency": [ {"type": "DamageDoneMultiplier", "amount": 1, "isstacked": true, "limittodamagetype": "Magic" } ] },
+{ "675" : "double edge l", "potency": [ {"type": "DamageDoneMultiplier", "amount": 15, "limittodamagetype": "Physical" } ] },
+{ "6CB" : "wisdom of the elder", "potency": [ {"type": "DamageDoneMultiplier", "amount": 35, "limittodamagetype": "Magic" } ] },
+{ "6CC" : "wisdom of the irregular", "potency": [ {"type": "DamageDoneMultiplier", "amount": 30, "limittodamagetype": "Magic" } ] },
+{ "6CD" : "wisdom of the fiendhunter", "potency": [ {"type": "DamageDoneMultiplier", "amount": 25, "limittodamagetype": "Physical" } ] },
+
+{ "913" : "spirit of the bloodsucker", "reactiveproc": { "type": "HealOnDamageDealt" } },
+{ "914" : "spirit of the beast", "reactiveproc": { "type": "HealOnDamageDealt" } },
+
+]
+}
