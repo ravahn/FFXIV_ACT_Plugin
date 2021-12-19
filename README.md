@@ -4,7 +4,7 @@ The ACT Parsing Plugin for Final Fantasy XIV
 
 This project is to track releases and issues for the ACT FFXIV Plugin.  The source code is not currently public.
 
-The DLL file included in this project enables the multi-game parser Advanced Combat Tracker (ACT) to process and display combat information from Final Fantasy XIV patch 5.40. 
+The DLL file included in this project enables the multi-game parser Advanced Combat Tracker (ACT) to process and display combat information from Final Fantasy XIV patch 6.0. 
 
 DISCLAIMER: Use of this program is at your own risk. Square Enix does not permit the use of any third party tools, even those which do not modify the game.  They have stated in interviews that they did not view parsers as a significant problem unless players use them to harass other players, so the consensus is to not discuss parsers or DPS in-game at all.
 
@@ -16,17 +16,13 @@ Installation Instructions:
 1) Download & install ACT. If you have an existing ACT installation, please remove any other plugins, to ensure there are not any conflicts to start with.  ACT can be downloaded here:<br>
 http://advancedcombattracker.com/download.php
 
-2) Make sure FFXIV is running in DX11 mode.  You can verify this by opening the FFXIV Launcher and clicking the gear icon on the bottom row.  There is a slider that must be turned on to enable DX11.
+2) Launch the ACT Startup Wizard. On the Parsing Plugin tab, click the 'Get Available parsing plugins' button. Choose #73 "FFXIV Parsing Plugin", and click the "Use this plugin" button. Continue the wizard or close it as desired.
 
-3) Launch the ACT Startup Wizard. On the Parsing Plugin tab, click the 'Get Available parsing plugins' button. Choose #73 "FFXIV Parsing Plugin", and click the "Use this plugin" button. Continue the wizard or close it as desired.
+3) The FFXIV_ACT_Plugin reads a combination of memory and network data from your local pc.  It has two different ways of accessing the network data:
 
-4) Make a decision to either:
-* Parse FFXIV data by scanning network data sent to FFXIV.  This will improve the overall parse quality, because network data is communicated reliably to the plugin, and includes some data which is not available in memory.  If you choose this:
-    a) You must run ACT as an Administrator.
-    b) You must configure your firewall software to allow ACT to communicate through it.  Reddit user Xepher01 contributed some instructions for Windows 7  <a href="http://imgur.com/a/QU86T">here</a>, and EQ2Flames user Aristar added instructions for windows 8 & 10  <a href="http://imgur.com/a/HiGKr">here</a>.
-* If you prefer to not use this data, you can instead parse from game memory.  To do this, you must check the "Disable Parsing from Network Data" checkbox on the FFXIV Settings tab inside ACT.  
+    a) Default mode - by default, it will use a windows raw socket for the game's network data.  This requires running ACT as a local administrator and adding a firewall rule to permit it to do so.  For Windows Defender it will prompt you to add this rule, but for other firewalls you will need to configure it youtself.
+    
+    b) Use Npcap kernel driver - If you prefer, you can install Npcap separately from ACT and the FFXIV plugin.  This will allow the plugin to read network data and bypass unique firewall or vpn configurations, and does not require running ACT as an Administrator.  After installing Npcap, the feature can be enabled by going to the ACT Plugins tab, then to the FFXIV ACT Plugin tab, and enabling the "Use Winpcap-compatible library" feature.
  
-However, keep in mind that there are limitations with memory-only parsing that will cause some combat information to be lost, such as DoT ticks.  Network mode is more accurate, and should always be used when possible.
-
 
 
