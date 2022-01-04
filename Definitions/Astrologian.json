@@ -28,10 +28,8 @@
 
 ],
 "statuseffects" : [ 
-    { "343": "aspected benefic", "timeproc": { "type": "hot", "potency": "250", "maxticks": "5" },
-                                  "damageshield": { "type": "HealPercent", "amount": 250 } },
-    { "344": "aspected helios", "timeproc": { "type": "hot", "potency": "150", "maxticks": "5" },
-                                "damageshield": { "type": "HealPercent", "amount": 125 } },
+    { "343": "aspected benefic", "timeproc": { "type": "hot", "potency": "250", "maxticks": "5" } },
+    { "344": "aspected helios", "timeproc": { "type": "hot", "potency": "150", "maxticks": "5" } },
     { "346": "combust", "timeproc": { "type": "dot", "potency": "40", "damagetype": "magic", "maxticks": "6" } },
     { "34B": "combust ii", "timeproc": { "type": "dot", "potency": "50", "damagetype": "magic", "maxticks": "10" } },
     { "34E": "synastry", "timeproc": { "type": "groundheal", "potency": "0", "maxticks": "6" } },
@@ -46,7 +44,9 @@
     { "75D" : "the spear", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
     { "756" : "divination", "potency": [{"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2}] },
     { "764" : "neutral sect", "potency": [{"type": "HealDoneMultiplier", "amount": 20}] },
+    { "781" : "neutral sect shield", "damageshield": { "type": "HealPercent", "amount": 125 } },
 
+    { "762": "horoscope", "timeproc": { "type": "groundheal", "potency": 200, "maxticks": 10 } },
     { "763": "horoscope helios", "timeproc": { "type": "groundheal", "potency": 400, "maxticks": 10 } },
 
     { "757": "opposition", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
