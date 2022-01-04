@@ -55,12 +55,6 @@
     {"type": "damagedonemultiplier", "amount": -90, "limittozoneid": "372"},
     {"type": "DamageReceivedMultiplier", "amount": 45, "limittozoneid": "372"},
     {"type": "DamageReceivedMultiplier", "amount": 50, "limittozoneid": "449"},
-    {"type": "damagedonemultiplier", "amount": -50, "limittozoneid": "449"},
-    {"type": "damagedonemultiplier", "amount": -50, "limittozoneid": "151"},
-    {"type": "DamageReceivedMultiplier", "amount": 50, "limittozoneid": "151"},
-    {"type": "damagedonemultiplier", "amount": -90, "limittozoneid": "372"},
-    {"type": "DamageReceivedMultiplier", "amount": 45, "limittozoneid": "372"},
-    {"type": "DamageReceivedMultiplier", "amount": 50, "limittozoneid": "449"},
     {"type": "damagedonemultiplier", "amount": -50, "limittozoneid": "449"}
 ] },
 { "20E" : "frost blade", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },

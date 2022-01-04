@@ -30,7 +30,7 @@
 ],
 "statuseffects" : [ 
 { "a1a" : "death's design", "potency": [ {"type": "damagereceivedmultiplier", "amount": 10 } ] },
-{ "a26" : "crest of time returned", "timeproc": {"type": "hot", "potency": 100, "maxticks": 5 } },
+{ "a26" : "crest of time returned", "timeproc": {"type": "hot", "potency": 50, "maxticks": 5 } },
 { "a27" : "arcane circle", "potency": [ {"type": "damagedonemultiplier", "amount": 3 } ] },
 { "a24" : "crest of time borrowed", "damageshield": { "type": "TargetHpPercent", "amount": 10 } }
 

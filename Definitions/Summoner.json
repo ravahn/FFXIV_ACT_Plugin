@@ -13,7 +13,7 @@
 { "1D02" : "ruin iv", "damage": [ { "potency": 430, "targetindex": 0}, {"potency": 172} ] },
 { "1D04" : "wyrmwave", "damage": [ { "potency": 150} ] },
 { "1D19" : "akh morn", "damage": [ { "potency": 1300, "targetindex": 0}, {"potency": 520 } ] },
-{ "4083" : "brand of purgatory", "damage": [ { "potency": 180} ] },
+{ "4083" : "brand of purgatory", "damage": [ { "potency": 240} ] },
 { "4086" : "revelation", "damage": [ { "potency": 1300, "targetindex": 0}, {"potency": 520} ] },
 { "64e2" : "tri-disaster", "damage": [{ "potency": 120 }]},
 { "64DC" : "astral impulse", "damage": [{ "potency": 430 }]},
@@ -21,7 +21,7 @@
 { "64e0" : "topaz rite", "damage": [{ "potency": 330 }]},
 { "64df" : "ruby rite", "damage": [{ "potency": 430 }]},
 { "64e6" : "rekindle", "heal": [{ "potency": 400 }]},
-{ "4082" : "fountain of fire", "damage": [{ "potency": 430 }]},
+{ "4082" : "fountain of fire", "damage": [{ "potency": 520 }]},
 { "64DD" : "astral impulse", "damage": [{ "potency": 180 }]},
 { "4087" : "scarlet flame", "damage": [ { "potency": 150} ] },
 

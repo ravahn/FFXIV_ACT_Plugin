@@ -13,10 +13,10 @@
 { "60" : "dragonfire dive", "damage": [ { "potency": 300} ] },
 { "DE2" : "fang and claw", "damage": [ { "potency": 0} ] },
 { "DE4" : "wheeling thrust", "damage": [ { "potency": 0} ] },
-{ "DE3" : "geirskogul", "damage": [ { "potency": 175}, {"potency": 250, "targetindex": 0} ] },
+{ "DE3" : "geirskogul", "damage": [ { "potency": 182}, {"potency": 260, "targetindex": 0} ] },
 { "1CE5" : "sonic thrust", "damage": [ { "potency": 100, "combo": 120} ] },
 { "1CE7" : "mirage dive", "damage": [ { "potency": 200} ] },
-{ "1CE8" : "nastrond", "damage": [ { "potency": 245},{"potency": 350, "targetindex": 0} ] },
+{ "1CE8" : "nastrond", "damage": [ { "potency": 252},{"potency": 360, "targetindex": 0} ] },
 { "405D" : "coerthan torment", "damage": [ { "potency": 100, "combo": 150} ] },
 { "405E" : "high jump", "damage": [ { "potency": 400} ] },
 { "405F" : "raiden thrust", "damage": [ { "potency": 260} ] },
@@ -25,7 +25,7 @@
 { "64aa" : "draconian fury", "damage": [ { "potency": 130} ] },
 { "64ab" : "heavens' thrust", "damage": [ { "potency": 100, "combo": 430} ] },
 { "64ac" : "chaotic spring", "damage": [ { "potency": 0 } ] },
-{ "64ad" : "wyrmwind thrust", "damage": [ { "potency": 370, "targetindex": 0}, { "potency": 185} ] },
+{ "64ad" : "wyrmwind thrust", "damage": [ { "potency": 420, "targetindex": 0}, { "potency": 210} ] },
 
 
 

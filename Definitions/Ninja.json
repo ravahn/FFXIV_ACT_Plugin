@@ -16,8 +16,8 @@
 { "1CE9" : "hellfrog medium", "damage": [ { "potency": 160} ] },
 { "1CEA" : "bhavacakra", "damage": [ { "potency": 0} ] },
 { "64AE" : "phantom kamaitachi", "damage": [ { "potency": 550, "targetindex": 0}, {"potency": 275} ] },
-{ "64B1" : "forked raiju", "damage": [ { "potency": 400} ] },
-{ "64B2" : "fleeting raiju", "damage": [ { "potency": 450} ] },
+{ "64B1" : "forked raiju", "damage": [ { "potency": 560} ] },
+{ "64B2" : "fleeting raiju", "damage": [ { "potency": 560} ] },
 { "64B0" :  "hollow nozuchi", "damage": [ {"potency": 50 }]},
 
 { "8D9" : "fuma shuriken", "damage": [ { "potency": 450} ] },

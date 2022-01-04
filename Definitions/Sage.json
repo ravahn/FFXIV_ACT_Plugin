@@ -34,7 +34,7 @@
     { "5efc" : "toxikon ii", "damage": [{"potency": 330, "targetindex": 0}, {"potency": 165}],
                               "heal": [ { "potency": 170} ] },
     { "5efe" : "pneuma", "damage": [{"potency": 330, "targetindex": 0}, {"potency": 198}],
-                              "heal": [ { "potency": 170} ] },
+                              "heal": [ { "potency": 170} ] }
 
 
 ],
@@ -43,6 +43,7 @@
     { "a53": "panhaimatinon", "timeproc": { "type": "groundheal", "potency": 150, "maxticks": 5 } },
 
     { "a2c": "kardia", "timeproc": { "type": "groundheal", "potency": 0, "maxticks": 20 } },
+    { "a2d": "kardion", "timeproc": { "type": "groundheal", "potency": 0, "maxticks": 20 } },
     { "a39": "physis", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
     { "a36": "eukrasian dosis", "timeproc": { "type": "dot", "potency": 40, "maxticks": 10 } },
     { "a3a": "kerachole", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 },
@@ -60,7 +61,7 @@
     { "a30" : "differential diagnosis", "damageshield": { "type": "HealPercent", "amount": 180 } },
     { "a31" : "eukrasian prognosis", "damageshield": { "type": "HealPercent", "amount": 320 } },
     { "a34" : "haima", "damageshield": { "type": "potency", "amount": 300 } },
-    { "a35" : "panhaima", "damageshield": { "type": "potency", "amount": 200 } },
+    { "a35" : "panhaima", "damageshield": { "type": "potency", "amount": 200 } }
 
 
      

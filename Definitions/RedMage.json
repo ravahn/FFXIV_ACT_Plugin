@@ -38,7 +38,7 @@
 "statuseffects" : [ 
 { "4D7" : "embolden", "potency": [ {"type": "damagedonemultiplier", "amount": 5, "limittodamagetype": "Magic"} ] },
 { "511" : "embolden-party", "potency": [ {"type": "damagedonemultiplier", "amount": 5 } ] },
-{ "7B3" : "manafication", "potency": [ {"type": "damagedonemultiplier", "amount": 5, "isstacked": true, "limittodamagetype": "Magic"} ] },
+{ "7B3" : "manafication", "potency": [ {"type": "damagedonemultiplier", "amount": 5, "limittodamagetype": "Magic"} ] },
 {"4d6" : "acceleration", "potency": [ {"type": "DamageAddPotency", "amount": 50, "limitto": "scatter,impact" }]},
 { "a93" : "magick barrier", "potency": [
   {"type": "healreceivemultiplier", "amount": 5},
