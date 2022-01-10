@@ -30,7 +30,7 @@
 "statuseffects" : [ 
     { "B3": "bio", "timeproc": { "type": "dot", "potency": 20, "damagetype": "magic", "maxticks": 10 } },
     { "BD": "bio ii", "timeproc": { "type": "dot", "potency": 40, "damagetype": "magic", "maxticks": 10 } },
-    { "317" : "dissipation", "potency": [ {"type": "HealDoneMultiplier", "amount": 20} ] },
+    { "317" : "dissipation", "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ] },
     { "318": "emergency tactics", "reactiveproc": { "type": "HealOnHealCast" } },
     { "4C5": "chain strategem", "multiplier": [ { "type":  "criticalreceived", "amount": 10 } ] },
     { "767": "biolysis", "timeproc": { "type": "dot", "potency": 70, "damagetype": "magic", "maxticks": 10 } },
@@ -40,7 +40,7 @@
     { "12B": "sacred soil", "timeproc": { "type": "groundheal", "potency": "100", "maxticks": "2" } },
     
     { "13B": "whispering dawn", "timeproc": { "type": "hot", "potency": 80, "maxticks": 7 } },
-    { "13D" : "fey illumination", "potency": [ {"type": "HealDoneMultiplier", "amount": 10}, 
+    { "13D" : "fey illumination", "potency": [ {"type": "HealDoneMultiplier", "amount": 10, "limittoactioncategory": "spell"}, 
                                                {"type": "DamageReceivedMultiplier", "amount": -5, "LimitToDamageType": "magic"} ] },
     { "4C7": "fey union", "timeproc": { "type": "groundheal", "potency": "300", "maxticks": 20 } },
     { "752": "angel's whisper", "timeproc": { "type": "hot", "potency": 80, "maxticks": 7 } },

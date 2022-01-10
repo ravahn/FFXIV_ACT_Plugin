@@ -40,7 +40,7 @@
 { "a94" : "aquaveil", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
 
 { "4C3": "confession", "timeproc": { "type": "groundheal", "potency": 200, "maxticks": 3 } },
-{ "750" : "temeprance self", "potency": [ {"type": "HealDoneMultiplier", "amount": 20} ] },
+{ "750" : "temeprance self", "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ] },
 { "751" : "temeprance others", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
 { "4c2" : "divine benison", "damageshield": { "type": "Potency", "amount": 500 } },
 

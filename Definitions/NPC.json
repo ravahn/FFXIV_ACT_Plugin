@@ -94,6 +94,7 @@
 
 
 {"B0C": "prayers of hope", "potency": [{"type": "damagedonemultiplier", "amount": 15, "isstacked": true}]},
+{ "b5f" : "damage down", "potency": [ {"type": "DamageDoneMultiplier", "amountbyte": 2 } ] },
 ]
 }
 
