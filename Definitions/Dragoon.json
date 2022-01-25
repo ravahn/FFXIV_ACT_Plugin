@@ -19,11 +19,11 @@
 { "1CE8" : "nastrond", "damage": [ { "potency": 252},{"potency": 360, "targetindex": 0} ] },
 { "405D" : "coerthan torment", "damage": [ { "potency": 100, "combo": 150} ] },
 { "405E" : "high jump", "damage": [ { "potency": 400} ] },
-{ "405F" : "raiden thrust", "damage": [ { "potency": 260} ] },
-{ "4060" : "stardiver", "damage": [ { "potency": 500, "targetindex": 0}, { "potency": 350} ] },
+{ "405F" : "raiden thrust", "damage": [ { "potency": 280} ] },
+{ "4060" : "stardiver", "damage": [ { "potency": 620, "targetindex": 0}, { "potency": 434} ] },
 
 { "64aa" : "draconian fury", "damage": [ { "potency": 130} ] },
-{ "64ab" : "heavens' thrust", "damage": [ { "potency": 100, "combo": 430} ] },
+{ "64ab" : "heavens' thrust", "damage": [ { "potency": 100, "combo": 480} ] },
 { "64ac" : "chaotic spring", "damage": [ { "potency": 0 } ] },
 { "64ad" : "wyrmwind thrust", "damage": [ { "potency": 420, "targetindex": 0}, { "potency": 210} ] },
 

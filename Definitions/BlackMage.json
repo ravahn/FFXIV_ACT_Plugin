@@ -18,7 +18,7 @@
 { "1CFC" : "thunder iv", "damage": [ { "potency": 50} ] },
 { "1CFE" : "foul", "damage": [ { "potency": 0} ] },
 { "4079" : "despair", "damage": [ { "potency": 0} ] },
-{ "407B" : "xenoglossy", "damage": [ { "potency": 660} ] },
+{ "407B" : "xenoglossy", "damage": [ { "potency": 760} ] },
 ],
 "statuseffects" : [ 
     { "A1": "thunder", "timeproc": { "type": "dot", "potency": "35", "damagetype": "magic", "maxticks": "7" } },

@@ -1,8 +1,8 @@
 {
 "job": "ninja",
 "actions" : [
-{ "8C0" : "spinning edge", "damage": [ { "potency": 200} ] },
-{ "8C2" : "gust slash", "damage": [ { "potency": 140, "combo": 300} ] },
+{ "8C0" : "spinning edge", "damage": [ { "potency": 210} ] },
+{ "8C2" : "gust slash", "damage": [ { "potency": 160, "combo": 320} ] },
 { "8C7" : "throwing dagger", "damage": [ { "potency": 120} ] },
 { "8C8" : "mug", "damage": [ { "potency": 150} ] },
 { "8D2" : "trick attack", "damage": [ { "potency": 300, "combo": 400} ] },
@@ -26,7 +26,7 @@
 { "8DC" : "hyoton", "damage": [ { "potency": 350} ] },
 { "8DF" : "suiton", "damage": [ { "potency": 500} ] },
 { "406B" : "goka mekkyaku", "damage": [ { "potency": 600} ] },
-{ "406C" : "hyosho ranryu", "damage": [ { "potency": 1200} ] },
+{ "406C" : "hyosho ranryu", "damage": [ { "potency": 1300} ] },
 ],
 "statuseffects" : [ 
 { "27E" : "vulnerability up", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 5} ] },

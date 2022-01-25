@@ -7,7 +7,7 @@
 { "10" : "shield bash", "damage": [ { "potency": 100} ] },
 { "18" : "shield lob", "damage": [ { "potency": 100} ] },
 { "15" : "rage of halone", "damage": [ { "potency": 100, "combo": 330} ] },
-{ "1D" : "spirits within", "damage": [ { "potency": 250} ] },
+{ "1D" : "spirits within", "damage": [ { "potency": 270} ] },
 { "4049" : "prominence", "damage": [ { "potency": 100, "combo": 170} ] },
 { "17" : "circle of scorn", "damage": [ { "potency": 100} ] },
 { "DD2" : "goring blade", "damage": [ { "potency": 100, "combo": 250} ] },
@@ -20,10 +20,10 @@
 { "404D" : "intervene", "damage": [ { "potency": 150} ] },
 { "404C" : "atonement", "damage": [ { "potency": 420} ] },
 { "404B" : "confiteor", "damage": [ { "potency": 900} ] },
-{ "6493" : "expiacion", "damage": [ { "potency": 300, "targetindex": 0},{"potency": 150} ] },
-{ "6494" : "blade of faith", "damage": [ { "potency": 250, "targetindex": 0},{"potency": 125} ] },
-{ "6495" : "blade of truth", "damage": [ { "potency": 350, "targetindex": 0},{"potency": 175} ] },
-{ "6496" : "blade of valor", "damage": [ { "potency": 420, "targetindex": 0},{"potency": 210} ] }
+{ "6493" : "expiacion", "damage": [ { "potency": 340, "targetindex": 0},{"potency": 170} ] },
+{ "6494" : "blade of faith", "damage": [ { "potency": 420, "targetindex": 0},{"potency": 210} ] },
+{ "6495" : "blade of truth", "damage": [ { "potency": 500, "targetindex": 0},{"potency": 250} ] },
+{ "6496" : "blade of valor", "damage": [ { "potency": 580, "targetindex": 0},{"potency": 290} ] }
 
 
 

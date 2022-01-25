@@ -22,7 +22,7 @@
 { "405C" : "six-sided star", "damage": [ { "potency": 550} ] },
 { "64a7" : "shadow of the destroyer", "damage": [ { "potency": 110} ] },
 { "64a8" : "rising phoenix", "damage": [ { "potency": 700, "targetindex": 0},{"potency": 210} ] },
-{ "64a9" : "phantom rush", "damage": [ { "potency": 1000, "targetindex": 0},{"potency": 500} ] },
+{ "64a9" : "phantom rush", "damage": [ { "potency": 1150, "targetindex": 0},{"potency": 575} ] },
 ],
 "statuseffects" : [ 
 { "65" : "twin snakes", "potency": [ {"type": "damagedonemultiplier", "amount": 15} ] },

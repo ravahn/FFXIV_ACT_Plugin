@@ -4,7 +4,7 @@
 { "1F" : "heavy swing", "damage": [ { "potency": 200} ] },
 { "25" : "maim", "damage": [ { "potency": 130, "combo": 280} ] },
 { "29" : "overpower", "damage": [ { "potency": 110} ] },
-{ "2E" : "tomahawk", "damage": [ { "potency": 100} ] },
+{ "2E" : "tomahawk", "damage": [ { "potency": 150} ] },
 { "2A" : "storm's path", "damage": [ { "potency": 120, "combo": 400} ], "heal": [ { "potency": 250} ] },
 { "28" : "thrill of battle", "heal": [ { "potency": 0} ] },
 { "31" : "inner beast", "damage": [ { "potency": 330} ] },
