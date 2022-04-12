@@ -1,7 +1,7 @@
 {
 "job": "ninja",
 "actions" : [
-{ "8C0" : "spinning edge", "damage": [ { "potency": 210} ] },
+{ "8C0" : "spinning edge", "damage": [ { "potency": 220} ] },
 { "8C2" : "gust slash", "damage": [ { "potency": 160, "combo": 320} ] },
 { "8C7" : "throwing dagger", "damage": [ { "potency": 120} ] },
 { "8C8" : "mug", "damage": [ { "potency": 150} ] },
@@ -9,13 +9,13 @@
 { "8CF" : "aeolian edge", "damage": [ { "potency": 0} ] },
 { "8CE" : "death blossom", "damage": [ { "potency": 100} ] },
 { "8C6" : "assassinate", "damage": [ { "potency": 200} ] },
-{ "4068" : "hakke mijinsatsu", "damage": [ { "potency": 100, "combo": 120} ] },
+{ "4068" : "hakke mijinsatsu", "damage": [ { "potency": 100, "combo": 130} ] },
 { "DEB" : "armor crush", "damage": [ { "potency": 0} ] },
 { "DEE" : "dream within a dream", "damage": [ { "potency": 150} ] },
 { "6514" : "huraijin", "damage": [ { "potency": 200} ] },
 { "1CE9" : "hellfrog medium", "damage": [ { "potency": 160} ] },
 { "1CEA" : "bhavacakra", "damage": [ { "potency": 0} ] },
-{ "64AE" : "phantom kamaitachi", "damage": [ { "potency": 550, "targetindex": 0}, {"potency": 275} ] },
+{ "64AE" : "phantom kamaitachi", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 300} ] },
 { "64B1" : "forked raiju", "damage": [ { "potency": 560} ] },
 { "64B2" : "fleeting raiju", "damage": [ { "potency": 560} ] },
 { "64B0" :  "hollow nozuchi", "damage": [ {"potency": 50 }]},
@@ -30,7 +30,9 @@
 ],
 "statuseffects" : [ 
 { "27E" : "vulnerability up", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 5} ] },
-{ "1F5": "doton", "timeproc": { "type": "grounddamage", "potency": 70, "damagetype": "physical", "maxticks": 8 } },
+{ "cb6" : "trick attack", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 10} ] },
+
+{ "1F5": "doton", "timeproc": { "type": "grounddamage", "potency": 80, "damagetype": "physical", "maxticks": 6 } },
 { "1F1" : "kassatsu", "potency": [ {"type": "damagedonemultiplier", "amount": 30, "limitto": "fuma shuriken,katon,raiton,hyoton,huton,doton,suiton,goka mekkyaku,hyosho ranryu"} ] },
 { "1e8" : "shade shift", "damageshield": { "type": "TargetHpPercent", "amount": 20 } },
 ]

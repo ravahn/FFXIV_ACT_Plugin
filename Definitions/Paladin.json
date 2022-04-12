@@ -19,11 +19,11 @@
 { "404A" : "holy circle", "damage": [ { "potency": 0} ], "heal": [{"potency": 400}] },
 { "404D" : "intervene", "damage": [ { "potency": 150} ] },
 { "404C" : "atonement", "damage": [ { "potency": 420} ] },
-{ "404B" : "confiteor", "damage": [ { "potency": 900} ] },
+{ "404B" : "confiteor", "damage": [ { "potency": 900} ], "heal":  [{"potency": 400}] }, 
 { "6493" : "expiacion", "damage": [ { "potency": 340, "targetindex": 0},{"potency": 170} ] },
-{ "6494" : "blade of faith", "damage": [ { "potency": 420, "targetindex": 0},{"potency": 210} ] },
-{ "6495" : "blade of truth", "damage": [ { "potency": 500, "targetindex": 0},{"potency": 250} ] },
-{ "6496" : "blade of valor", "damage": [ { "potency": 580, "targetindex": 0},{"potency": 290} ] }
+{ "6494" : "blade of faith", "damage": [ { "potency": 420, "targetindex": 0},{"potency": 210} ], "heal":  [{"potency": 400}]  },
+{ "6495" : "blade of truth", "damage": [ { "potency": 500, "targetindex": 0},{"potency": 250} ], "heal":  [{"potency": 400}]  },
+{ "6496" : "blade of valor", "damage": [ { "potency": 580, "targetindex": 0},{"potency": 290} ], "heal":  [{"potency": 400}]  }
 
 
 

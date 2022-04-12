@@ -24,7 +24,9 @@
 ],
 "statuseffects" : [ 
 { "56": "berserk", "multiplier": [ { "type":  "criticalhit", "amount": 100 }, { "type":  "directhit", "amount": 100 } ] },
-{ "499": "inner release", "multiplier": [ { "type":  "criticalhit", "amount": 100 }, { "type":  "directhit", "amount": 100 } ] },
+{ "499": "inner release", "multiplier": [ 
+    { "type":  "criticalhit", "amount": 100, "limitto": "fell cleave,decimate" }, 
+    { "type":  "directhit", "amount": 100, "limitto": "fell cleave,decimate" } ] },
 { "57": "thrill of battle", "potency": [ { "type":  "HealReceiveMultiplier", "amount": 20 } ] },
 { "A75" : "surging tempest", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
 { "2DF" : "raw intuition", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ],

@@ -6,7 +6,7 @@
 { "E25" : "unleash", "damage": [ { "potency": 120} ] },
 { "E28" : "unmend", "damage": [ { "potency": 150} ] },
 { "E30" : "souleater", "damage": [ { "potency": 120, "combo": 340} ], "heal": [ { "potency": 300} ] },
-{ "4052" : "flood of darkness", "damage": [ { "potency": 130} ] },
+{ "4052" : "flood of darkness", "damage": [ { "potency": 100} ] },
 { "4053" : "edge of darkness", "damage": [ { "potency": 300} ] },
 { "E38" : "plunge", "damage": [ { "potency": 150} ] },
 { "E39" : "abyssal drain", "damage": [ { "potency": 150} ],  "heal": [ { "potency": 200} ] },

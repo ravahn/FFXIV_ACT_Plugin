@@ -30,7 +30,7 @@
 "statuseffects" : [ 
     { "343": "aspected benefic", "timeproc": { "type": "hot", "potency": "250", "maxticks": "5" } },
     { "344": "aspected helios", "timeproc": { "type": "hot", "potency": "150", "maxticks": "5" } },
-    { "346": "combust", "timeproc": { "type": "dot", "potency": "40", "damagetype": "magic", "maxticks": "6" } },
+    { "346": "combust", "timeproc": { "type": "dot", "potency": "40", "damagetype": "magic", "maxticks": "10" } },
     { "34B": "combust ii", "timeproc": { "type": "dot", "potency": "50", "damagetype": "magic", "maxticks": "10" } },
     { "34E": "synastry", "timeproc": { "type": "groundheal", "potency": "0", "maxticks": "6" } },
     { "3BC": "wheel of fortune", "timeproc": { "type": "hot", "potency": "100", "maxticks": "5" } },
