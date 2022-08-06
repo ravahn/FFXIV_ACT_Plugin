@@ -25,10 +25,11 @@
     { "2ED": "salted earth", "timeproc": { "type": "grounddamage", "potency": "50", "damagetype": "physical", "maxticks": "5" } },
     { "2EB" : "shadow wall", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -30} ] },
     { "2EF" : "darkside", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
-    { "766" : "dark missionary", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
+    { "766" : "dark missionary", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10, "limittodamagetype": "Magic"} ] },
     { "2EA" : "dark mind", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -20, "limittodamagetype": "Magic"} ] },
     { "a7a" : "oblation", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10 } ] },
     { "49a" : "blackest night", "damageshield": { "type": "TargetHpPercent", "amount": 25 } },
+    { "32B" : "walking dead", "reactiveproc": { "type": "HealOnDamageDealt" } }
 
 
 ]

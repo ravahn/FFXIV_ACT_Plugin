@@ -15,6 +15,7 @@
 { "EC": "choco beak", "timeproc": { "type": "dot", "potency": 20, "damagetype": "physical", "maxticks": 6 } },
 { "ED": "choco regen", "timeproc": { "type": "hot", "potency": 25, "maxticks": 6 } },
 { "EE" : "choco surge", "potency": [ {"type": "HealDoneMultiplier", "amount": 30} ] },
+{ "3F": "choco guard", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -15 }] }
 ]
 }
 

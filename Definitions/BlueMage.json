@@ -85,7 +85,7 @@
 { "6BB": "feather rain", "timeproc": { "type": "dot", "potency": "40", "damagetype": "magic", "maxticks": "2" } },
 { "9BF": "angel's snack", "timeproc": { "type": "hot", "potency": "200", "maxticks": "5" } },
 { "9C3": "incendiary burns", "timeproc": { "type": "dot", "potency": "50", "maxticks": "5" } },
-{ "9C6": "phantom flurry", "timeproc": { "type": "grounddamage", "potency": "200", "maxticks": "5" } },
+{ "9C6": "phantom flurry", "timeproc": { "type": "grounddamage", "potency": "200", "maxticks": "6" } },
 { "6B2": "nightbloom", "timeproc": { "type": "dot", "potency": "75", "maxticks": "20" } },
 { "6C8": "dropsy", "timeproc": { "type": "dot", "potency": "20", "damagetype": "magic", "maxticks": "4" } },
 
@@ -99,7 +99,7 @@
 { "6B9" : "peculiar light", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 5, "limittodamagetype": "Magic"} ] },
 { "6BA" : "diamondback", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -90} ] },
 { "846" : "harmonized", "potency": [ {"type": "damagedonemultiplier", "amount": 80, "limittodamagetype": "Physical", "limittoactioncategory": "spell"} ] },
-{ "847" : "cactguard", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -5} ] },
+{ "847" : "cactguard", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15, "amountbyte": 2} ] },
 { "84B" : "physical attenuation", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 5, "limittodamagetype": "Physical"} ] },
 { "84E" : "aetherial mimicry: healer", "potency": [ {"type": "HealDoneMultiplier", "amount": 20} ] },
 { "9BC" : "tingling", "potency": [ {"type": "DamageAddPotency", "amount": 100, "limittodamagetype": "Physical"} ] },
@@ -114,6 +114,7 @@
 { "842" : "Gobskin", "damageshield": { "type": "Potency", "amount": 0 } },
 { "843" : "Magic Hammer", "potency": [ { "type": "damagedonemultiplier", "amount": -10, "limittodamagetype": "magic"} ] },
 { "9C0" : "Chelonian Gate", "potency": [ { "type": "DamageReceivedMultiplier", "amount": -20 }] },
+{ "9C4" : "Dragon Force", "potency": [{"type": "DamageReceivedMultiplier", "amount": -40, "amountbyte": 2}] }
 
 ]
 }

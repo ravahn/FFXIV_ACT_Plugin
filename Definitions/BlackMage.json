@@ -16,19 +16,22 @@
 { "DF8" : "blizzard iv", "damage": [ { "potency": 0} ] },
 { "DF9" : "fire iv", "damage": [ { "potency": 0} ] },
 { "1CFC" : "thunder iv", "damage": [ { "potency": 50} ] },
-{ "1CFE" : "foul", "damage": [ { "potency": 0} ] },
+{ "1CFE" : "foul", "damage": [ { "potency": 560, "targetindex": 0}, {"potency": 224} ] },
 { "4079" : "despair", "damage": [ { "potency": 0} ] },
 { "407B" : "xenoglossy", "damage": [ { "potency": 760} ] },
+{ "64C2" : "high fire ii", "damage": [ { "potency": 0} ] },
+{ "64C3" : "high blizzard ii", "damage": [ { "potency": 0} ] },
+{ "64C5" : "paradox", "damage": [ { "potency": 500} ] }
 ],
 "statuseffects" : [ 
     { "A1": "thunder", "timeproc": { "type": "dot", "potency": "35", "damagetype": "magic", "maxticks": "7" } },
-    { "A2": "thunder ii", "timeproc": { "type": "dot", "potency": "15", "damagetype": "magic", "maxticks": "5" } },
+    { "A2": "thunder ii", "timeproc": { "type": "dot", "potency": "15", "damagetype": "magic", "maxticks": "6" } },
     { "A3": "thunder iii", "timeproc": { "type": "dot", "potency": "35", "damagetype": "magic", "maxticks": "10" } },
     { "4BA": "thunder iv", "timeproc": { "type": "dot", "potency": "20", "damagetype": "magic", "maxticks": "6" } },
 
     { "A4" : "thundercloud", "potency": [
         {"type": "DamageAddPotency", "amount": 245, "limitto": "thunder"},
-        {"type": "DamageAddPotency", "amount": 75, "limitto": "thunder ii"},
+        {"type": "DamageAddPotency", "amount": 90, "limitto": "thunder ii"},
         {"type": "DamageAddPotency", "amount": 350, "limitto": "thunder iii"},
         {"type": "DamageAddPotency", "amount": 120, "limitto": "thunder iv"}
     ] },

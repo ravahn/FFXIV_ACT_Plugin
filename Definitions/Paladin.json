@@ -38,7 +38,8 @@
 { "a73": "knight's resolve", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -15 }] },
 { "aa1": "blade of valor", "timeproc": { "type": "dot", "potency": 80, "damagetype": "physical", "maxticks": 7 } },
 { "2d6": "divine veil", "timeproc": { "type": "groundheal", "potency": 400, "maxticks": 24 } },
-{ "2d7": "divine veil", "damageshield": { "type": "TargetHpPercent", "amount": 10 } }
+{ "2d7": "divine veil", "damageshield": { "type": "TargetHpPercent", "amount": 10 } },
+{ "498": "arms up", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] }
 
 ]
 }

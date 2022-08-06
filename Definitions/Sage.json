@@ -26,29 +26,30 @@
     { "5ef6" : "holos", "heal": [ { "potency": 300} ]},
     { "5ef8" : "dosis iii", "damage": [ { "potency": 330} ],
                             "heal": [{"potency": 170}] },
-    { "5ef9" : "phlegma iii", "damage": [{"potency": 510, "targetindex": 0}, {"potency": 260}],
+    { "5ef9" : "phlegma iii", "damage": [{"potency": 510, "targetindex": 0}, {"potency": 255}],
                               "heal": [ { "potency": 170} ] },
     { "5efa" : "eukrasian dosis iii", "heal": [ { "potency": 170} ] },
     { "5efb" : "dyskrasia ii", "damage": [ { "potency": 170} ],
                                 "heal": [{"potency": 170}] },
     { "5efc" : "toxikon ii", "damage": [{"potency": 330, "targetindex": 0}, {"potency": 165}],
                               "heal": [ { "potency": 170} ] },
-    { "5efe" : "pneuma", "damage": [{"potency": 330, "targetindex": 0}, {"potency": 198}],
-                              "heal": [ { "potency": 170} ] }
+    { "5efe" : "pneuma attack", "damage": [{"potency": 330, "targetindex": 0}, {"potency": 198}],
+                              "heal": [ { "potency": 170} ] },
+    { "6B84" : "pneuma heal", "heal": [ { "potency": 600} ] }
 
 
 ],
 "statuseffects" : [ 
     { "a52": "haimatinon", "timeproc": { "type": "groundheal", "potency": 150, "maxticks": 5 } },
-    { "a53": "panhaimatinon", "timeproc": { "type": "groundheal", "potency": 150, "maxticks": 5 } },
+    { "a53": "panhaimatinon", "timeproc": { "type": "groundheal", "potency": 100, "maxticks": 5 } },
 
     { "a2c": "kardia", "timeproc": { "type": "groundheal", "potency": 0, "maxticks": 20 } },
     { "a2d": "kardion", "timeproc": { "type": "groundheal", "potency": 0, "maxticks": 20 } },
     { "a39": "physis", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
     { "a36": "eukrasian dosis", "timeproc": { "type": "dot", "potency": 40, "maxticks": 10 } },
-    { "a3a": "kerachole", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 },
-                               "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
-    { "a33": "zoe", "potency": [{"type": "HealDoneMultiplier", "amount": 50}] }, 
+    { "a3a": "kerachole", "potency": [ { "type": "DamageReceivedMultiplier", "amount": -10 } ] },
+    { "B7A": "kerakeia", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
+    { "a33": "zoe", "potency": [ {"type": "HealDoneMultiplier", "amount": 50}] }, 
     { "a3c": "physis ii", "timeproc": { "type": "hot", "potency": 130, "maxticks": 5 } },
     { "a3d": "autophysis", "potency": [{"type": "healreceivemultiplier", "amount": 10}] },
     { "a3b": "taurochole", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
