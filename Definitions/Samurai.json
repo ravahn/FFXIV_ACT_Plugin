@@ -14,8 +14,8 @@
 { "1D44" : "hissatsu: gyoten", "damage": [ { "potency": 100} ] },
 { "1D45" : "hissatsu: yaten", "damage": [ { "potency": 100} ] },
 { "1D42" : "hissatsu: shinten", "damage": [ { "potency": 250} ] },
-{ "1D43" : "hissatsu: kyuten", "damage": [ { "potency": 110} ] },
-{ "1D48" : "hissatsu: guren", "damage": [ { "potency": 500, "targetindex": 0},{"potency": 250} ] },
+{ "1D43" : "hissatsu: kyuten", "damage": [ { "potency": 120} ] },
+{ "1D48" : "hissatsu: guren", "damage": [ { "potency": 500, "targetindex": 0},{"potency": 375} ] },
 { "4061" : "hissatsu: senei", "damage": [ { "potency": 800} ] },
 { "4063" : "tsubame-gaeshi", "damage": [ { "potency": 0} ] },
 { "4067" : "shoha", "damage": [ { "potency": 520} ] },
@@ -25,10 +25,10 @@
 { "64b6" : "kaeshi: namikiri", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 200} ] },
 
 { "1D41" : "higanbana", "damage": [ { "potency": 200} ] },
-{ "1D40" : "tenka goken", "damage": [ { "potency": 280} ] },
+{ "1D40" : "tenka goken", "damage": [ { "potency": 300} ] },
 { "1D3F" : "midare setsugekka", "damage": [ { "potency": 640} ] },
 { "4064" : "kaeshi: higanbana", "damage": [ { "potency": 200} ] },
-{ "4065" : "kaeshi: goken", "damage": [ { "potency": 280} ] },
+{ "4065" : "kaeshi: goken", "damage": [ { "potency": 300} ] },
 { "4066" : "kaeshi: setsugekka", "damage": [ { "potency": 640} ] },
 ],
 "statuseffects" : [ 

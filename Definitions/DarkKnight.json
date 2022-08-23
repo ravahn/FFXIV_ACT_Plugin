@@ -9,7 +9,7 @@
 { "4052" : "flood of darkness", "damage": [ { "potency": 100} ] },
 { "4053" : "edge of darkness", "damage": [ { "potency": 300} ] },
 { "E38" : "plunge", "damage": [ { "potency": 150} ] },
-{ "E39" : "abyssal drain", "damage": [ { "potency": 150} ],  "heal": [ { "potency": 200} ] },
+{ "E39" : "abyssal drain", "damage": [ { "potency": 240} ],  "heal": [ { "potency": 200} ] },
 { "E3B" : "carve and spit", "damage": [ { "potency": 510} ] },
 { "1CE0" : "bloodspiller", "damage": [ { "potency": 500} ] },
 { "1CDF" : "quietus", "damage": [ { "potency": 200} ] },

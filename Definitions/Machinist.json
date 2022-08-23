@@ -18,8 +18,8 @@
 { "4074" : "air anchor", "damage": [ { "potency": 580} ] },
 { "1CF8" : "rook overload", "damage": [ { "potency": 0} ] },
 { "4077" : "pile bunker", "damage": [ { "potency": 0} ] },
-{ "4078" : "arm punch", "damage": [ { "potency": 120} ] },
-{ "4336" : "roller dash", "damage": [ { "potency": 240} ] },
+{ "4078" : "arm punch", "damage": [ { "potency": 0} ] },
+{ "4336" : "roller dash", "damage": [ { "potency": 0} ] },
 { "64ba" : "scattergun", "damage": [ { "potency": 150} ] },
 { "64bb" : "crowned collider", "damage": [ { "potency": 0} ] },
 { "64bc" : "chain saw", "damage": [ { "potency": 580, "targetindex": 0},{"potency": 203} ] },
@@ -27,7 +27,7 @@
 
 
 
-{ "B4B" : "volley fire", "damage": [ { "potency": 70} ] },
+{ "B4B" : "volley fire", "damage": [ { "potency": 0} ] },
 { "B4C" : "aether mortar", "damage": [ { "potency": 0} ] },
 { "E04" : "charged volley fire", "damage": [ { "potency": 0} ] },
 { "E05" : "charged aether mortar", "damage": [ { "potency": 0} ] },

@@ -1,12 +1,12 @@
 {
 "job": "reaper",
 "actions" : [
-{ "5f35" : "slice", "damage": [ { "potency": 300} ] },
-{ "5f36" : "waxing slice", "damage": [ { "potency": 140, "combo": 380} ] },
+{ "5f35" : "slice", "damage": [ { "potency": 320} ] },
+{ "5f36" : "waxing slice", "damage": [ { "potency": 160, "combo": 400} ] },
 { "5f3a" : "shadow of death", "damage": [ { "potency": 300} ] },
 { "5f42" : "harpe", "damage": [ { "potency": 300} ] },
 { "5f38" : "spinning scythe", "damage": [ { "potency": 140} ] },
-{ "5f37" : "infernal slice", "damage": [ { "potency": 140, "combo": 460} ] },
+{ "5f37" : "infernal slice", "damage": [ { "potency": 180, "combo": 500} ] },
 { "5f3b" : "whorl of death", "damage": [ { "potency": 100} ] },
 { "5f39" : "nightmare scythe", "damage": [ { "potency": 120, "combo": 180} ] },
 { "5f45" : "blood stalk", "damage": [ { "potency": 340} ] },

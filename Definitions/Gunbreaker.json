@@ -2,11 +2,11 @@
 "job": "gunbreaker",
 "actions" : [
 { "3F09" : "keen edge", "damage": [ { "potency": 170} ] },
-{ "3F0B" : "brutal shell", "damage": [ { "potency": 120, "combo": 260} ], "heal": [ { "potency": 200} ] },
+{ "3F0B" : "brutal shell", "damage": [ { "potency": 130, "combo": 270} ], "heal": [ { "potency": 200} ] },
 { "3F0D" : "demon slice", "damage": [ { "potency": 100} ] },
 { "3F0F" : "lightning shot", "damage": [ { "potency": 150} ] },
 { "3F10" : "danger zone", "damage": [ { "potency": 250} ] },
-{ "3F11" : "solid barrel", "damage": [ { "potency": 120, "combo": 340 } ] },
+{ "3F11" : "solid barrel", "damage": [ { "potency": 140, "combo": 360 } ] },
 { "3F22" : "burst strike", "damage": [ { "potency": 380} ] },
 { "3F15" : "demon slaughter", "damage": [ { "potency": 100, "combo": 160} ] },
 { "3F19" : "sonic break", "damage": [ { "potency": 300} ] },
@@ -18,10 +18,10 @@
 { "3F1C" : "jugular rip", "damage": [ { "potency": 200} ] },
 { "3F1D" : "abdomen tear", "damage": [ { "potency": 240} ] },
 { "3F1E" : "eye gouge", "damage": [ { "potency": 280} ] },
-{ "3F23" : "fated circle", "damage": [ { "potency": 290} ] },
-{ "3F25" : "blasting zone", "damage": [ { "potency": 700} ] },
+{ "3F23" : "fated circle", "damage": [ { "potency": 300} ] },
+{ "3F25" : "blasting zone", "damage": [ { "potency": 720} ] },
 { "649F" : "hypervelocity", "damage": [ { "potency": 180} ] },
-{ "64a0" : "double down zone", "damage": [ { "potency": 1200, "targetindex": 0}, {"potency": 960} ] },
+{ "64a0" : "double down zone", "damage": [ { "potency": 1200, "targetindex": 0}, {"potency": 1020} ] },
 
 
 ],
