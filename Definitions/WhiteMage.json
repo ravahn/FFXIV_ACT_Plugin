@@ -9,7 +9,7 @@
 { "87" : "cure ii", "heal": [ { "potency": 800} ] },
 { "83" : "cure iii", "heal": [ { "potency": 600} ] },
 { "8B" : "holy", "damage": [ { "potency": 140} ] },
-{ "84" : "aero ii", "damage": [ { "potency": 60} ] },
+{ "84" : "aero ii", "damage": [ { "potency": 50} ] },
 { "85" : "medica ii", "heal": [ { "potency": 250} ] },
 { "8C" : "benediction", "heal": [ { "potency": 0} ] },
 { "4093" : "afflatus solace", "heal": [ { "potency": 800} ] },
@@ -25,12 +25,13 @@
 { "4097" : "afflatus misery", "damage": [ { "potency": 1240, "targetindex": 0},  { "potency": 620 }  ] },
 { "6503" : "glare iii", "damage": [ { "potency": 310 } ] },
 { "6504" : "holy iii", "damage": [ { "potency": 150 } ] },
-{ "6508": "liturgy of the bell", "heal": [{"potency": 0 }]},
+{ "6507": "liturgy of the bell tick", "heal": [{"potency": 400 }]},
+{ "6508": "liturgy of the bell expire", "heal": [{"potency": 0 }]}
 
 ],
 "statuseffects" : [ 
 { "8F": "aero", "timeproc": { "type": "dot", "potency": 30, "damagetype": "magic", "maxticks": 10 } },
-{ "90": "aero ii", "timeproc": { "type": "dot", "potency": 60, "damagetype": "magic", "maxticks": 10 } },
+{ "90": "aero ii", "timeproc": { "type": "dot", "potency": 50, "damagetype": "magic", "maxticks": 10 } },
 { "96": "medica ii", "timeproc": { "type": "hot", "potency": 150, "maxticks": 5 } },
 { "9E": "regen", "timeproc": { "type": "hot", "potency": 250, "maxticks": 6 } },
 { "777": "asylum", "timeproc": { "type": "groundheal", "potency": 100, "maxticks": 8 } },
@@ -40,8 +41,8 @@
 { "a94" : "aquaveil", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
 
 { "4C3": "confession", "timeproc": { "type": "groundheal", "potency": 200, "maxticks": 3 } },
-{ "750" : "temeprance self", "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ] },
-{ "751" : "temeprance others", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
+{ "750" : "temperance self", "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ] },
+{ "751" : "temperance others", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
 { "4c2" : "divine benison", "damageshield": { "type": "Potency", "amount": 500 } },
 
 ]

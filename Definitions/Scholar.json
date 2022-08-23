@@ -36,8 +36,8 @@
     { "767": "biolysis", "timeproc": { "type": "dot", "potency": 70, "damagetype": "magic", "maxticks": 10 } },
     { "a96": "protraction", "potency": [{ "type": "HealReceiveMultiplier", "amount":10 }] },
     { "a98": "expedience", "potency": [{ "type": "damagereceivedmultiplier", "amount": -10 }] },
-    { "798": "sacred soil-self", "timeproc": { "type": "groundheal", "potency": "100", "maxticks": "5" } },
-    { "12B": "sacred soil", "timeproc": { "type": "groundheal", "potency": "100", "maxticks": "2" } },
+    { "798": "sacred soil regen", "timeproc": { "type": "groundheal", "potency": "100", "maxticks": "5" } },
+    { "12B": "sacred soil", "potency": [ { "type": "DamageReceivedMultiplier", "amount": -10 } ] },
     
     { "13B": "whispering dawn", "timeproc": { "type": "hot", "potency": 80, "maxticks": 7 } },
     { "13D" : "fey illumination", "potency": [ {"type": "HealDoneMultiplier", "amount": 10, "limittoactioncategory": "spell"}, 

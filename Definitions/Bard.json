@@ -22,7 +22,7 @@
     { "406F" : "burst shot", "damage": [ { "potency": 220} ] },
     { "4070" : "apex arrow", "damage": [ { "potency": 0} ] },
     { "64b7" : "ladonsbite", "damage": [ { "potency": 130} ] },
-    { "64b8" : "blast arrow", "damage": [ { "potency": 360}, { "potency": 600, "targetindex": 0} ] },
+    { "64b8" : "blast arrow", "damage": [ { "potency": 240}, { "potency": 600, "targetindex": 0} ] },
 ],
 "statuseffects" : [ 
     { "89": "army's paeon", "multiplier": [ { "type": "directhit", "amount": 3 } ] },

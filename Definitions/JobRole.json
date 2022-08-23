@@ -8,6 +8,7 @@
 ],
 "statuseffects" : [ 
 { "988": "lost flare star", "timeproc": { "type": "dot", "potency": "350", "damagetype": "magic", "maxticks": "20" } },
+{ "4A7" : "rampart", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -20} ] },
 { "4A9" : "reprisal", "potency": [ {"type": "damagedonemultiplier", "amount": -10} ] },
 { "31": "medicated", "potency": [ { "type": "damagedonemultiplier", "amount": 15 },
                                     { "type": "healdonemultiplier", "amount": 10 } ] },

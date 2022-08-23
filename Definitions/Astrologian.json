@@ -42,7 +42,7 @@
     { "75F" : "the spire", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
     { "75A" : "the balance", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
     { "75D" : "the spear", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
-    { "756" : "divination", "potency": [{"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2}] },
+    { "756" : "divination", "potency": [{"type": "damagedonemultiplier", "amount": 6, "amountbyte": 2}] },
     { "764" : "neutral sect", "potency": [{"type": "HealDoneMultiplier", "amount": 20}] },
     { "781" : "neutral sect shield", "damageshield": { "type": "HealPercent", "amount": 125 } },
 

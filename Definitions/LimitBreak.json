@@ -3,8 +3,11 @@
 "actions" : [
 ],
 "statuseffects" : [ 
-{ "C4" : "last bastion", "potency": [ {"type": "damagereceivedmultiplier", "amount": -50} ] },
-{ "35F" : "land walker", "potency": [ {"type": "damagereceivedmultiplier", "amount": -50} ] },
-{ "360" : "dark force", "potency": [ {"type": "damagereceivedmultiplier", "amount": -50} ] },
+{ "C2" : "shield wall", "potency": [ {"type": "damagereceivedmultiplier", "amount": -20} ] },
+{ "C3" : "stronghold", "potency": [ {"type": "damagereceivedmultiplier", "amount": -40} ] },
+{ "C4" : "last bastion", "potency": [ {"type": "damagereceivedmultiplier", "amount": -80} ] },
+{ "35F" : "land waker", "potency": [ {"type": "damagereceivedmultiplier", "amount": -80} ] },
+{ "360" : "dark force", "potency": [ {"type": "damagereceivedmultiplier", "amount": -80} ] },
+{ "78B" : "gunmetal soul", "potency": [ {"type": "damagereceivedmultiplier", "amount": -80} ] }
 ]
 }
