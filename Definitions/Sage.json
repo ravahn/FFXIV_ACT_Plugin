@@ -55,6 +55,7 @@
     { "a3b": "taurochole", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
     { "a37": "eukrasian dosis ii", "timeproc": { "type": "dot", "potency": 60, "maxticks": 10 } },
     { "bbb": "holos", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
+    { "d25": "holosakos", "damageshield": { "type": "HealPercent", "amount": 100 } },
     { "a38": "eukrasian dosis iii", "timeproc": { "type": "dot", "potency": 70, "maxticks": 10 } },
     { "a3e": "krasis", "potency": [{"type": "healreceivemultiplier", "amount": 20}] },
     { "a3f": "pneuma", "timeproc": {"type": "groundheal", "potency": 600, "maxticks": 1}},
