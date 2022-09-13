@@ -5,7 +5,7 @@
 { "BE" : "physick", "heal": [ { "potency": 450} ] },
 { "B9" : "adloquium", "heal": [ { "potency": 300} ] },
 { "BA" : "succor", "heal": [ { "potency": 200} ] },
-{ "AC" : "ruin ii", "damage": [ { "potency": 220} ] },
+{ "45CE" : "ruin ii", "damage": [ { "potency": 220} ] },
 
 
 { "A7" : "energy drain", "damage": [ { "potency": 100} ], "heal": [ { "potency": 0} ] },
