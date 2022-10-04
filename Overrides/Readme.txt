@@ -1,6 +1,6 @@
 Overrides
 
-This folder contains resource name overrides in the form:
+This folder contains resource name overrides for action names and status effect names in the form:
 Old Name|New Name
 
 example:
