@@ -1,0 +1,213 @@
+﻿#action_data
+_rsv_30746_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inviolate Bonds
+_rsv_30750_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inviolate Purgation
+_rsv_31221_-1_1_0_0_SE2DC5B04_EE2DC5B04|Multicast
+_rsv_31311_-1_1_0_0_SE2DC5B04_EE2DC5B04|Famine's Harvest
+_rsv_31312_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death's Harvest
+_rsv_31313_-1_1_0_0_SE2DC5B04_EE2DC5B04|War's Harvest
+_rsv_30746_-1_2_0_0_SE2DC5B04_EE2DC5B04|Siegelschaffung
+_rsv_30746_-1_2_0_1_SE2DC5B04_EE2DC5B04|Siegelschaffung
+_rsv_30750_-1_2_0_0_SE2DC5B04_EE2DC5B04|Siegelschaffung der Hölle
+_rsv_30750_-1_2_0_1_SE2DC5B04_EE2DC5B04|Siegelschaffung der Hölle
+_rsv_31221_-1_2_0_0_SE2DC5B04_EE2DC5B04|Multizauber
+_rsv_31221_-1_2_0_1_SE2DC5B04_EE2DC5B04|Multizauber
+_rsv_31311_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wilde Wucherung des Lebens
+_rsv_31311_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wilde Wucherung des Lebens
+_rsv_31312_-1_2_0_0_SE2DC5B04_EE2DC5B04|Unheilvolle Wucherung des Lebens
+_rsv_31312_-1_2_0_1_SE2DC5B04_EE2DC5B04|Unheilvolle Wucherung des Lebens
+_rsv_31313_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaotische Wucherung des Lebens
+_rsv_31313_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaotische Wucherung des Lebens
+_rsv_30746_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tracé de sigil
+_rsv_30746_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tracé de sigil
+_rsv_30750_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tracé de sigils multiples
+_rsv_30750_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tracé de sigils multiples
+_rsv_31221_-1_3_0_0_SE2DC5B04_EE2DC5B04|Multisort
+_rsv_31221_-1_3_0_1_SE2DC5B04_EE2DC5B04|Multisort
+_rsv_31311_-1_3_0_0_SE2DC5B04_EE2DC5B04|Bourgeonnement de vie féroce
+_rsv_31311_-1_3_0_1_SE2DC5B04_EE2DC5B04|Bourgeonnement de vie féroce
+_rsv_31312_-1_3_0_0_SE2DC5B04_EE2DC5B04|Bourgeonnement de vie morbide
+_rsv_31312_-1_3_0_1_SE2DC5B04_EE2DC5B04|Bourgeonnement de vie morbide
+_rsv_31313_-1_3_0_0_SE2DC5B04_EE2DC5B04|Bourgeonnement de vie chaotique
+_rsv_31313_-1_3_0_1_SE2DC5B04_EE2DC5B04|Bourgeonnement de vie chaotique
+_rsv_30746_-1_0_0_0_SE2DC5B04_EE2DC5B04|魔印創成
+_rsv_30746_-1_0_0_1_SE2DC5B04_EE2DC5B04|魔印創成
+_rsv_30750_-1_0_0_0_SE2DC5B04_EE2DC5B04|魔印創成・獄
+_rsv_30750_-1_0_0_1_SE2DC5B04_EE2DC5B04|魔印創成・獄
+_rsv_31221_-1_0_0_0_SE2DC5B04_EE2DC5B04|マルチキャスト
+_rsv_31221_-1_0_0_1_SE2DC5B04_EE2DC5B04|マルチキャスト
+_rsv_31311_-1_0_0_0_SE2DC5B04_EE2DC5B04|生命の繁茂【猛】
+_rsv_31311_-1_0_0_1_SE2DC5B04_EE2DC5B04|生命の繁茂【猛】
+_rsv_31312_-1_0_0_0_SE2DC5B04_EE2DC5B04|生命の繁茂【凶】
+_rsv_31312_-1_0_0_1_SE2DC5B04_EE2DC5B04|生命の繁茂【凶】
+_rsv_31313_-1_0_0_0_SE2DC5B04_EE2DC5B04|生命の繁茂【乱】
+_rsv_31313_-1_0_0_1_SE2DC5B04_EE2DC5B04|生命の繁茂【乱】
+
+#status_data
+_rsv_3308_-1_1_0_0_S74CFC3B0_E74CFC3B0|Inviolate Winds
+_rsv_3308_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by wind magicks that will be unleashed in the surrounding area when this effect expires.
+_rsv_3309_-1_1_0_0_S74CFC3B0_E74CFC3B0|Holy Bonds
+_rsv_3309_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by light magicks that will be unleashed in the surrounding area when this effect expires.
+_rsv_3310_-1_1_0_0_S74CFC3B0_E74CFC3B0|Purgatory Winds
+_rsv_3310_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by punishing wind magicks that will be unleashed in the surrounding area when this effect expires, and leave a timed sigil in their wake.
+_rsv_3311_-1_1_0_0_S74CFC3B0_E74CFC3B0|Holy Purgation
+_rsv_3311_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by punishing wind magicks that will be unleashed in the surrounding area when this effect expires, and leave a timed sigil in their wake.
+_rsv_3391_-1_1_0_0_S74CFC3B0_E74CFC3B0|Purgatory Winds
+_rsv_3391_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by punishing wind magicks that will be unleashed in the surrounding area when this effect expires, and leave a timed sigil in their wake.
+_rsv_3392_-1_1_0_0_S74CFC3B0_E74CFC3B0|Purgatory Winds
+_rsv_3392_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by punishing wind magicks that will be unleashed in the surrounding area when this effect expires, and leave a timed sigil in their wake.
+_rsv_3393_-1_1_0_0_S74CFC3B0_E74CFC3B0|Purgatory Winds
+_rsv_3393_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by punishing wind magicks that will be unleashed in the surrounding area when this effect expires, and leave a timed sigil in their wake.
+_rsv_3394_-1_1_0_0_S74CFC3B0_E74CFC3B0|Holy Purgation
+_rsv_3394_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by punishing wind magicks that will be unleashed in the surrounding area when this effect expires, and leave a timed sigil in their wake.
+_rsv_3395_-1_1_0_0_S74CFC3B0_E74CFC3B0|Holy Purgation
+_rsv_3395_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by punishing wind magicks that will be unleashed in the surrounding area when this effect expires, and leave a timed sigil in their wake.
+_rsv_3396_-1_1_0_0_S74CFC3B0_E74CFC3B0|Holy Purgation
+_rsv_3396_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by punishing wind magicks that will be unleashed in the surrounding area when this effect expires, and leave a timed sigil in their wake.
+_rsv_3397_-1_1_0_0_S74CFC3B0_E74CFC3B0|Inviolate Winds
+_rsv_3397_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by wind magicks that will be unleashed in the surrounding area when this effect expires.
+_rsv_3398_-1_1_0_0_S74CFC3B0_E74CFC3B0|Holy Bonds
+_rsv_3398_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ensnared by light magicks that will be unleashed in the surrounding area when this effect expires.
+_rsv_3308_-1_2_0_0_S74CFC3B0_E74CFC3B0|Zeichen des Windes
+_rsv_3308_-1_2_0_1_S74CFC3B0_E74CFC3B0|Zeichen des Windes
+_rsv_3308_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber aus.
+_rsv_3308_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber aus.
+_rsv_3309_-1_2_0_0_S74CFC3B0_E74CFC3B0|Zeichen der Heiligkeit
+_rsv_3309_-1_2_0_1_S74CFC3B0_E74CFC3B0|Zeichen der Heiligkeit
+_rsv_3309_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber aus.
+_rsv_3309_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber aus.
+_rsv_3310_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3310_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3310_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3310_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3311_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3311_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3311_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3311_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3391_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3391_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3391_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3391_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3392_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3392_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3392_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3392_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3393_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3393_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3393_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3393_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3394_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3394_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3394_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3394_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3395_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3395_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3395_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3395_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3396_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3396_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3396_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3396_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3397_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3397_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen des Windes
+_rsv_3397_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3397_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3398_-1_2_0_0_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3398_-1_2_0_1_S74CFC3B0_E74CFC3B0|Doppeltes Zeichen der Heiligkeit
+_rsv_3398_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3398_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst nach Ablauf einen flächendeckenden Zauber und einen temporären Magiezirkel aus.
+_rsv_3308_-1_3_0_0_S74CFC3B0_E74CFC3B0|Sigil du vent
+_rsv_3308_-1_3_0_1_S74CFC3B0_E74CFC3B0|Sigil du vent
+_rsv_3308_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un sigil. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_3308_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un sigil. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_3309_-1_3_0_0_S74CFC3B0_E74CFC3B0|Sigil sacré
+_rsv_3309_-1_3_0_1_S74CFC3B0_E74CFC3B0|Sigil sacré
+_rsv_3309_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un sigil. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_3309_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un sigil. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_3310_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double sigil du vent
+_rsv_3310_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double sigil du vent
+_rsv_3310_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3310_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3311_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double sigil sacré
+_rsv_3311_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double sigil sacré
+_rsv_3311_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3311_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3391_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double sigil du vent
+_rsv_3391_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double sigil du vent
+_rsv_3391_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3391_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3392_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double sigil du vent
+_rsv_3392_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double sigil du vent
+_rsv_3392_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3392_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3393_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double sigil du vent
+_rsv_3393_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double sigil du vent
+_rsv_3393_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3393_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3394_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double sigil sacré
+_rsv_3394_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double sigil sacré
+_rsv_3394_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3394_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3395_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double sigil sacré
+_rsv_3395_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double sigil sacré
+_rsv_3395_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3395_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3396_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double sigil sacré
+_rsv_3396_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double sigil sacré
+_rsv_3396_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3396_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un double sigil. Un sort se déclenche autour de lui et une sphère arcanique à retardement apparaît sur le terrain lorsque la durée de l'effet s'est écoulée.
+_rsv_3397_-1_3_0_0_S74CFC3B0_E74CFC3B0|Sigil du vent
+_rsv_3397_-1_3_0_1_S74CFC3B0_E74CFC3B0|Sigil du vent
+_rsv_3397_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un sigil. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_3397_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un sigil. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_3398_-1_3_0_0_S74CFC3B0_E74CFC3B0|Sigil sacré
+_rsv_3398_-1_3_0_1_S74CFC3B0_E74CFC3B0|Sigil sacré
+_rsv_3398_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est marqué par un sigil. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_3398_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est marqué par un sigil. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_3308_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の魔印
+_rsv_3308_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の魔印
+_rsv_3308_-1_0_1_0_S74CFC3B0_E74CFC3B0|魔印が刻まれた状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_3308_-1_0_1_1_S74CFC3B0_E74CFC3B0|魔印が刻まれた状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_3309_-1_0_0_0_S74CFC3B0_E74CFC3B0|聖の魔印
+_rsv_3309_-1_0_0_1_S74CFC3B0_E74CFC3B0|聖の魔印
+_rsv_3309_-1_0_1_0_S74CFC3B0_E74CFC3B0|魔印が刻まれた状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_3309_-1_0_1_1_S74CFC3B0_E74CFC3B0|魔印が刻まれた状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_3310_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の二重印
+_rsv_3310_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の二重印
+_rsv_3310_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3310_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3311_-1_0_0_0_S74CFC3B0_E74CFC3B0|聖の二重印
+_rsv_3311_-1_0_0_1_S74CFC3B0_E74CFC3B0|聖の二重印
+_rsv_3311_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3311_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3391_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の二重印
+_rsv_3391_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の二重印
+_rsv_3391_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3391_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3392_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の二重印
+_rsv_3392_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の二重印
+_rsv_3392_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3392_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3393_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の二重印
+_rsv_3393_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の二重印
+_rsv_3393_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3393_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3394_-1_0_0_0_S74CFC3B0_E74CFC3B0|聖の二重印
+_rsv_3394_-1_0_0_1_S74CFC3B0_E74CFC3B0|聖の二重印
+_rsv_3394_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3394_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3395_-1_0_0_0_S74CFC3B0_E74CFC3B0|聖の二重印
+_rsv_3395_-1_0_0_1_S74CFC3B0_E74CFC3B0|聖の二重印
+_rsv_3395_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3395_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3396_-1_0_0_0_S74CFC3B0_E74CFC3B0|聖の二重印
+_rsv_3396_-1_0_0_1_S74CFC3B0_E74CFC3B0|聖の二重印
+_rsv_3396_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3396_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重に魔印が刻まれた状態。効果時間が終了すると周囲に魔法が発動し、さらにその場に時限式の魔法陣が設置される。
+_rsv_3397_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の魔印
+_rsv_3397_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の魔印
+_rsv_3397_-1_0_1_0_S74CFC3B0_E74CFC3B0|魔印が刻まれた状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_3397_-1_0_1_1_S74CFC3B0_E74CFC3B0|魔印が刻まれた状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_3398_-1_0_0_0_S74CFC3B0_E74CFC3B0|聖の魔印
+_rsv_3398_-1_0_0_1_S74CFC3B0_E74CFC3B0|聖の魔印
+_rsv_3398_-1_0_1_0_S74CFC3B0_E74CFC3B0|魔印が刻まれた状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_3398_-1_0_1_1_S74CFC3B0_E74CFC3B0|魔印が刻まれた状態。効果時間が終了すると、周囲に魔法が発動する。

@@ -1,0 +1,59 @@
+﻿#Actions (SE2DC5B04_EE2DC5B04)
+_rsv_30478_-1_1_0_0_SE2DC5B04_EE2DC5B04|Claw to Tail
+_rsv_30478_-1_1_0_1_SE2DC5B04_EE2DC5B04|Claw to Tail
+_rsv_30482_-1_1_0_0_SE2DC5B04_EE2DC5B04|Tail to Claw
+_rsv_30482_-1_1_0_1_SE2DC5B04_EE2DC5B04|Tail to Claw
+_rsv_30491_-1_1_0_0_SE2DC5B04_EE2DC5B04|Double Rush
+_rsv_30491_-1_1_0_1_SE2DC5B04_EE2DC5B04|Double Rush
+_rsv_30492_-1_1_0_0_SE2DC5B04_EE2DC5B04|Double Rush
+_rsv_30492_-1_1_0_1_SE2DC5B04_EE2DC5B04|Double Rush
+_rsv_30478_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kralle und Schwanz
+_rsv_30478_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kralle und Schwanz
+_rsv_30482_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schwanz und Kralle
+_rsv_30482_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schwanz und Kralle
+_rsv_30491_-1_2_0_0_SE2DC5B04_EE2DC5B04|Doppelsturm
+_rsv_30491_-1_2_0_1_SE2DC5B04_EE2DC5B04|Doppelsturm
+_rsv_30492_-1_2_0_0_SE2DC5B04_EE2DC5B04|Doppelsturm
+_rsv_30492_-1_2_0_1_SE2DC5B04_EE2DC5B04|Doppelsturm
+_rsv_30478_-1_3_0_0_SE2DC5B04_EE2DC5B04|Griffes et queue
+_rsv_30478_-1_3_0_1_SE2DC5B04_EE2DC5B04|Griffes et queue
+_rsv_30482_-1_3_0_0_SE2DC5B04_EE2DC5B04|Queue et griffes
+_rsv_30482_-1_3_0_1_SE2DC5B04_EE2DC5B04|Queue et griffes
+_rsv_30491_-1_3_0_0_SE2DC5B04_EE2DC5B04|Double ruée
+_rsv_30491_-1_3_0_1_SE2DC5B04_EE2DC5B04|Double ruée
+_rsv_30492_-1_3_0_0_SE2DC5B04_EE2DC5B04|Double ruée
+_rsv_30492_-1_3_0_1_SE2DC5B04_EE2DC5B04|Double ruée
+_rsv_30478_-1_0_0_0_SE2DC5B04_EE2DC5B04|クロウ・アンド・テイル
+_rsv_30478_-1_0_0_1_SE2DC5B04_EE2DC5B04|クロウ・アンド・テイル
+_rsv_30482_-1_0_0_0_SE2DC5B04_EE2DC5B04|テイル・アンド・クロウ
+_rsv_30482_-1_0_0_1_SE2DC5B04_EE2DC5B04|テイル・アンド・クロウ
+_rsv_30491_-1_0_0_0_SE2DC5B04_EE2DC5B04|ダブルラッシュ
+_rsv_30491_-1_0_0_1_SE2DC5B04_EE2DC5B04|ダブルラッシュ
+_rsv_30492_-1_0_0_0_SE2DC5B04_EE2DC5B04|ダブルラッシュ
+_rsv_30492_-1_0_0_1_SE2DC5B04_EE2DC5B04|ダブルラッシュ
+
+#Logmessage (SF15185AF_EF15185AF)
+_rsv_10173_-1_1_0_0_SF15185AF_EF15185AF|The proto-Carbuncle spews bile from its empty belly!
+_rsv_10173_-1_1_0_1_SF15185AF_EF15185AF|The proto-Carbuncle spews bile from its empty belly!
+_rsv_10184_-1_1_0_0_SF15185AF_EF15185AF|Something is emerging from the caustic pools...
+_rsv_10184_-1_1_0_1_SF15185AF_EF15185AF|Something is emerging from the caustic pools...
+_rsv_10189_-1_1_0_0_SF15185AF_EF15185AF|Lively bait oozes out of the caustic pools!
+_rsv_10189_-1_1_0_1_SF15185AF_EF15185AF|Lively bait oozes out of the caustic pools!
+_rsv_10173_-1_2_0_0_SF15185AF_EF15185AF|Das Proto-Karfunkel ist so hungrig, dass es seine ätzende Magensäure verspuckt!
+_rsv_10173_-1_2_0_1_SF15185AF_EF15185AF|Das Proto-Karfunkel ist so hungrig, dass es seine ätzende Magensäure verspuckt!
+_rsv_10184_-1_2_0_0_SF15185AF_EF15185AF|Irgendetwas zappelt in den Öffnungen...
+_rsv_10184_-1_2_0_1_SF15185AF_EF15185AF|Irgendetwas zappelt in den Öffnungen...
+_rsv_10189_-1_2_0_0_SF15185AF_EF15185AF|Zappelnde Köder erscheinen!
+_rsv_10189_-1_2_0_1_SF15185AF_EF15185AF|Zappelnde Köder erscheinen!
+_rsv_10173_-1_3_0_0_SF15185AF_EF15185AF|Proto-Carbuncle est si affamé qu'il répand partout sa bave acide!
+_rsv_10173_-1_3_0_1_SF15185AF_EF15185AF|Proto-Carbuncle est si affamé qu'il répand partout sa bave acide!
+_rsv_10184_-1_3_0_0_SF15185AF_EF15185AF|Les flaques semblent contenir autre chose que du poison...
+_rsv_10184_-1_3_0_1_SF15185AF_EF15185AF|Les flaques semblent contenir autre chose que du poison...
+_rsv_10189_-1_3_0_0_SF15185AF_EF15185AF|Les flaques de poison ont craché des amuse-gueule!
+_rsv_10189_-1_3_0_1_SF15185AF_EF15185AF|Les flaques de poison ont craché des amuse-gueule!
+_rsv_10173_-1_0_0_0_SF15185AF_EF15185AF|プロトカーバンクルが、飢えのあまり酸の唾液をまき散らそうとしている……！:w
+_rsv_10173_-1_0_0_1_SF15185AF_EF15185AF|プロトカーバンクルが、飢えのあまり酸の唾液をまき散らそうとしている……！:w
+_rsv_10184_-1_0_0_0_SF15185AF_EF15185AF|噴出口から、猛毒とともに何かが溢れ出ようとしている……
+_rsv_10184_-1_0_0_1_SF15185AF_EF15185AF|噴出口から、猛毒とともに何かが溢れ出ようとしている……
+_rsv_10189_-1_0_0_0_SF15185AF_EF15185AF|噴出口からライブリー・ベイトが出現した……
+_rsv_10189_-1_0_0_1_SF15185AF_EF15185AF|噴出口からライブリー・ベイトが出現した……

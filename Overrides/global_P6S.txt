@@ -1,0 +1,164 @@
+﻿#action_data
+_rsv_30828_-1_1_0_0_SE2DC5B04_EE2DC5B04|Exchange of Agonies
+_rsv_30828_-1_1_0_1_SE2DC5B04_EE2DC5B04|Exchange of Agonies
+_rsv_30838_-1_1_0_0_SE2DC5B04_EE2DC5B04|Cachexia
+_rsv_30838_-1_1_0_1_SE2DC5B04_EE2DC5B04|Cachexia
+_rsv_30839_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aetheronecrosis
+_rsv_30839_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aetheronecrosis
+_rsv_30840_-1_1_0_0_SE2DC5B04_EE2DC5B04|Dual Predation
+_rsv_30840_-1_1_0_1_SE2DC5B04_EE2DC5B04|Dual Predation
+_rsv_30841_-1_1_0_0_SE2DC5B04_EE2DC5B04|Dual Predation
+_rsv_30841_-1_1_0_1_SE2DC5B04_EE2DC5B04|Dual Predation
+_rsv_30842_-1_1_0_0_SE2DC5B04_EE2DC5B04|Glossal Predation
+_rsv_30842_-1_1_0_1_SE2DC5B04_EE2DC5B04|Glossal Predation
+_rsv_30843_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chelic Predation
+_rsv_30843_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chelic Predation
+_rsv_30844_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30844_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30845_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30845_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30846_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30846_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30858_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chelic Synergy
+_rsv_30858_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chelic Synergy
+_rsv_30828_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wechselschub
+_rsv_30828_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wechselschub
+_rsv_30838_-1_2_0_0_SE2DC5B04_EE2DC5B04|Cachexia
+_rsv_30838_-1_2_0_1_SE2DC5B04_EE2DC5B04|Cachexia
+_rsv_30839_-1_2_0_0_SE2DC5B04_EE2DC5B04|Explozelle
+_rsv_30839_-1_2_0_1_SE2DC5B04_EE2DC5B04|Explozelle
+_rsv_30840_-1_2_0_0_SE2DC5B04_EE2DC5B04|Doppelte Prädation
+_rsv_30840_-1_2_0_1_SE2DC5B04_EE2DC5B04|Doppelte Prädation
+_rsv_30841_-1_2_0_0_SE2DC5B04_EE2DC5B04|Doppelte Prädation
+_rsv_30841_-1_2_0_1_SE2DC5B04_EE2DC5B04|Doppelte Prädation
+_rsv_30842_-1_2_0_0_SE2DC5B04_EE2DC5B04|Glossale Prädation
+_rsv_30842_-1_2_0_1_SE2DC5B04_EE2DC5B04|Glossale Prädation
+_rsv_30843_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chelische Prädation
+_rsv_30843_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chelische Prädation
+_rsv_30844_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30844_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30845_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30845_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30846_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30846_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30858_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chelische Synergie
+_rsv_30858_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chelische Synergie
+_rsv_30828_-1_3_0_0_SE2DC5B04_EE2DC5B04|Panaché ténébreux
+_rsv_30828_-1_3_0_1_SE2DC5B04_EE2DC5B04|Panaché ténébreux
+_rsv_30838_-1_3_0_0_SE2DC5B04_EE2DC5B04|Cachexie
+_rsv_30838_-1_3_0_1_SE2DC5B04_EE2DC5B04|Cachexie
+_rsv_30839_-1_3_0_0_SE2DC5B04_EE2DC5B04|Cellules magiques actives
+_rsv_30839_-1_3_0_1_SE2DC5B04_EE2DC5B04|Cellules magiques actives
+_rsv_30840_-1_3_0_0_SE2DC5B04_EE2DC5B04|Double attaque parasitaire
+_rsv_30840_-1_3_0_1_SE2DC5B04_EE2DC5B04|Double attaque parasitaire
+_rsv_30841_-1_3_0_0_SE2DC5B04_EE2DC5B04|Double attaque parasitaire
+_rsv_30841_-1_3_0_1_SE2DC5B04_EE2DC5B04|Double attaque parasitaire
+_rsv_30842_-1_3_0_0_SE2DC5B04_EE2DC5B04|Attaque de mollusque
+_rsv_30842_-1_3_0_1_SE2DC5B04_EE2DC5B04|Attaque de mollusque
+_rsv_30843_-1_3_0_0_SE2DC5B04_EE2DC5B04|Attaque de crustacé
+_rsv_30843_-1_3_0_1_SE2DC5B04_EE2DC5B04|Attaque de crustacé
+_rsv_30844_-1_3_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30844_-1_3_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30845_-1_3_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30845_-1_3_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30846_-1_3_0_0_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30846_-1_3_0_1_SE2DC5B04_EE2DC5B04|Ptera Ixou
+_rsv_30858_-1_3_0_0_SE2DC5B04_EE2DC5B04|Synergie chélique
+_rsv_30858_-1_3_0_1_SE2DC5B04_EE2DC5B04|Synergie chélique
+_rsv_30828_-1_0_0_0_SE2DC5B04_EE2DC5B04|チェンジバースト
+_rsv_30828_-1_0_0_1_SE2DC5B04_EE2DC5B04|チェンジバースト
+_rsv_30838_-1_0_0_0_SE2DC5B04_EE2DC5B04|カヘキシー
+_rsv_30838_-1_0_0_1_SE2DC5B04_EE2DC5B04|カヘキシー
+_rsv_30839_-1_0_0_0_SE2DC5B04_EE2DC5B04|魔活細胞
+_rsv_30839_-1_0_0_1_SE2DC5B04_EE2DC5B04|魔活細胞
+_rsv_30840_-1_0_0_0_SE2DC5B04_EE2DC5B04|甲軟双撃
+_rsv_30840_-1_0_0_1_SE2DC5B04_EE2DC5B04|甲軟双撃
+_rsv_30841_-1_0_0_0_SE2DC5B04_EE2DC5B04|甲軟双撃
+_rsv_30841_-1_0_0_1_SE2DC5B04_EE2DC5B04|甲軟双撃
+_rsv_30842_-1_0_0_0_SE2DC5B04_EE2DC5B04|軟体水撃
+_rsv_30842_-1_0_0_1_SE2DC5B04_EE2DC5B04|軟体水撃
+_rsv_30843_-1_0_0_0_SE2DC5B04_EE2DC5B04|甲殻爪撃
+_rsv_30843_-1_0_0_1_SE2DC5B04_EE2DC5B04|甲殻爪撃
+_rsv_30844_-1_0_0_0_SE2DC5B04_EE2DC5B04|プテラ・イクソス
+_rsv_30844_-1_0_0_1_SE2DC5B04_EE2DC5B04|プテラ・イクソス
+_rsv_30845_-1_0_0_0_SE2DC5B04_EE2DC5B04|プテラ・イクソス
+_rsv_30845_-1_0_0_1_SE2DC5B04_EE2DC5B04|プテラ・イクソス
+_rsv_30846_-1_0_0_0_SE2DC5B04_EE2DC5B04|プテラ・イクソス
+_rsv_30846_-1_0_0_1_SE2DC5B04_EE2DC5B04|プテラ・イクソス
+_rsv_30858_-1_0_0_0_SE2DC5B04_EE2DC5B04|キール・シュネルギア
+_rsv_30858_-1_0_0_1_SE2DC5B04_EE2DC5B04|キール・シュネルギア
+
+#status_data
+_rsv_3315_-1_1_0_0_S74CFC3B0_E74CFC3B0|Chelomorph
+_rsv_3315_-1_1_0_1_S74CFC3B0_E74CFC3B0|Chelomorph
+_rsv_3315_-1_1_1_0_S74CFC3B0_E74CFC3B0|Host to a chelic parasite, which will take control of body once this effect expires..
+_rsv_3315_-1_1_1_1_S74CFC3B0_E74CFC3B0|Host to a chelic parasite, which will take control of body once this effect expires.
+_rsv_3319_-1_1_0_0_S74CFC3B0_E74CFC3B0|Glossal Resistance Down
+_rsv_3319_-1_1_0_1_S74CFC3B0_E74CFC3B0|Glossal Resistance Down
+_rsv_3319_-1_1_1_0_S74CFC3B0_E74CFC3B0|Resistance to attacks by glossal parasites is reduced.
+_rsv_3319_-1_1_1_1_S74CFC3B0_E74CFC3B0|Resistance to attacks by glossal parasites is reduced.
+_rsv_3320_-1_1_0_0_S74CFC3B0_E74CFC3B0|Chelic Resistance Down
+_rsv_3320_-1_1_0_1_S74CFC3B0_E74CFC3B0|Chelic Resistance Down
+_rsv_3320_-1_1_1_0_S74CFC3B0_E74CFC3B0|Resistance to attacks by chelic parasites is reduced.
+_rsv_3320_-1_1_1_1_S74CFC3B0_E74CFC3B0|Resistance to attacks by chelic parasites is reduced.
+_rsv_3321_-1_1_0_0_S74CFC3B0_E74CFC3B0|Aetheronecrosis
+_rsv_3321_-1_1_0_1_S74CFC3B0_E74CFC3B0|Aetheronecrosis
+_rsv_3321_-1_1_1_0_S74CFC3B0_E74CFC3B0|Infected with aetherially activated cells, which will burst explosively when this effect expires.
+_rsv_3321_-1_1_1_1_S74CFC3B0_E74CFC3B0|Infected with aetherially activated cells, which will burst explosively when this effect expires.
+_rsv_3315_-1_2_0_0_S74CFC3B0_E74CFC3B0|Chelomorph
+_rsv_3315_-1_2_0_1_S74CFC3B0_E74CFC3B0|Chelomorph
+_rsv_3315_-1_2_1_0_S74CFC3B0_E74CFC3B0|Parasitenbefall. Nach Ablauf verliert der Wirtskörper die Kontrolle.
+_rsv_3315_-1_2_1_1_S74CFC3B0_E74CFC3B0|Parasitenbefall. Nach Ablauf verliert der Wirtskörper die Kontrolle.
+_rsv_3319_-1_2_0_0_S74CFC3B0_E74CFC3B0|Glossaler Widerstand -
+_rsv_3319_-1_2_0_1_S74CFC3B0_E74CFC3B0|Glossaler Widerstand -
+_rsv_3319_-1_2_1_0_S74CFC3B0_E74CFC3B0|Parasitenbefall. Nach Ablauf verliert der Wirtskörper die Kontrolle.
+_rsv_3319_-1_2_1_1_S74CFC3B0_E74CFC3B0|Parasitenbefall. Nach Ablauf verliert der Wirtskörper die Kontrolle.
+_rsv_3320_-1_2_0_0_S74CFC3B0_E74CFC3B0|Chelischer Widerstand -
+_rsv_3320_-1_2_0_1_S74CFC3B0_E74CFC3B0|Chelischer Widerstand -
+_rsv_3320_-1_2_1_0_S74CFC3B0_E74CFC3B0|Parasitenbefall. Nach Ablauf verliert der Wirtskörper die Kontrolle.
+_rsv_3320_-1_2_1_1_S74CFC3B0_E74CFC3B0|Parasitenbefall. Nach Ablauf verliert der Wirtskörper die Kontrolle.
+_rsv_3321_-1_2_0_0_S74CFC3B0_E74CFC3B0|Explozelle
+_rsv_3321_-1_2_0_1_S74CFC3B0_E74CFC3B0|Explozelle
+_rsv_3321_-1_2_1_0_S74CFC3B0_E74CFC3B0|Zellulärer Befall. Löst nach Ablauf eine Explosion aus.
+_rsv_3321_-1_2_1_1_S74CFC3B0_E74CFC3B0|Zellulärer Befall. Löst nach Ablauf eine Explosion aus.
+_rsv_3315_-1_3_0_0_S74CFC3B0_E74CFC3B0|Crustacé parasite
+_rsv_3315_-1_3_0_1_S74CFC3B0_E74CFC3B0|Crustacé parasite
+_rsv_3315_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est parasité par un crustacé. Devient Incontrôlable lorsque la durée de l'effet s'est écoulée.
+_rsv_3315_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est parasité par un crustacé. Devient Incontrôlable lorsque la durée de l'effet s'est écoulée.
+_rsv_3319_-1_3_0_0_S74CFC3B0_E74CFC3B0|Résistance aux attaques de mollusques réduite
+_rsv_3319_-1_3_0_1_S74CFC3B0_E74CFC3B0|Résistance aux attaques de mollusques réduite
+_rsv_3319_-1_3_1_0_S74CFC3B0_E74CFC3B0|La résistance aux attaques de mollusques est réduite.
+_rsv_3319_-1_3_1_1_S74CFC3B0_E74CFC3B0|La résistance aux attaques de mollusques est réduite.
+_rsv_3320_-1_3_0_0_S74CFC3B0_E74CFC3B0|Résistance aux attaques de crustacés réduite
+_rsv_3320_-1_3_0_1_S74CFC3B0_E74CFC3B0|Résistance aux attaques de crustacés réduite
+_rsv_3320_-1_3_1_0_S74CFC3B0_E74CFC3B0|La résistance aux attaques de crustacés est réduite.
+_rsv_3320_-1_3_1_1_S74CFC3B0_E74CFC3B0|La résistance aux attaques de crustacés est réduite.
+_rsv_3321_-1_3_0_0_S74CFC3B0_E74CFC3B0|Cellules magiques actives
+_rsv_3321_-1_3_0_1_S74CFC3B0_E74CFC3B0|Cellules magiques actives
+_rsv_3321_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est envahi par des cellules magiques actives. Celles-ci produisent une explosion lorsque la durée de l'effet s'est écoulée.
+_rsv_3321_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est envahi par des cellules magiques actives. Celles-ci produisent une explosion lorsque la durée de l'effet s'est écoulée.
+_rsv_3315_-1_0_0_0_S74CFC3B0_E74CFC3B0|甲殻寄生
+_rsv_3315_-1_0_0_1_S74CFC3B0_E74CFC3B0|甲殻寄生
+_rsv_3315_-1_0_1_0_S74CFC3B0_E74CFC3B0|甲殻生物に寄生された状態。効果時間が終了すると、制御不能状態に陥る。
+_rsv_3315_-1_0_1_1_S74CFC3B0_E74CFC3B0|甲殻生物に寄生された状態。効果時間が終了すると、制御不能状態に陥る。
+_rsv_3319_-1_0_0_0_S74CFC3B0_E74CFC3B0|軟体攻撃耐性低下
+_rsv_3319_-1_0_0_1_S74CFC3B0_E74CFC3B0|軟体攻撃耐性低下
+_rsv_3319_-1_0_1_0_S74CFC3B0_E74CFC3B0|軟体生物から放たれる攻撃への耐性が低下した状態。
+_rsv_3319_-1_0_1_1_S74CFC3B0_E74CFC3B0|軟体生物から放たれる攻撃への耐性が低下した状態。
+_rsv_3320_-1_0_0_0_S74CFC3B0_E74CFC3B0|甲殻攻撃耐性低下
+_rsv_3320_-1_0_0_1_S74CFC3B0_E74CFC3B0|甲殻攻撃耐性低下
+_rsv_3320_-1_0_1_0_S74CFC3B0_E74CFC3B0|甲殻生物から放たれる攻撃への耐性が低下した状態。
+_rsv_3320_-1_0_1_1_S74CFC3B0_E74CFC3B0|甲殻生物から放たれる攻撃への耐性が低下した状態。
+_rsv_3321_-1_0_0_0_S74CFC3B0_E74CFC3B0|魔活細胞
+_rsv_3321_-1_0_0_1_S74CFC3B0_E74CFC3B0|魔活細胞
+_rsv_3321_-1_0_1_0_S74CFC3B0_E74CFC3B0|活性化した細胞を付けられた状態。効果時間が終了すると爆発を起こす。
+_rsv_3321_-1_0_1_1_S74CFC3B0_E74CFC3B0|活性化した細胞を付けられた状態。効果時間が終了すると爆発を起こす。
+
+#logmessage_data
+_rsv_10095_-1_1_0_0_SF15185AF_EF15185AF|A chelic parasite attaches itself to you!
+_rsv_10095_-1_1_0_1_SF15185AF_EF15185AF|A chelic parasite attaches itself to you!
+_rsv_10095_-1_2_0_0_SF15185AF_EF15185AF|Ein Parasit in Gestalt eines Schalentiers erscheint!
+_rsv_10095_-1_2_0_1_SF15185AF_EF15185AF|Ein Parasit in Gestalt eines Schalentiers erscheint!
+_rsv_10095_-1_3_0_0_SF15185AF_EF15185AF|Un crustacé parasite s'accroche à vo
+_rsv_10095_-1_0_0_0_SF15185AF_EF15185AF|甲殻生物に寄生された……
+_rsv_10095_-1_0_0_1_SF15185AF_EF15185AF|甲殻生物に寄生された……
