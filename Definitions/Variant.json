@@ -1,0 +1,12 @@
+{
+"job": "variant",
+"actions" : [
+    { "7421" : "variant cure", "heal": [ { "potency": 0} ] }
+],
+"statuseffects" : [
+    { "d27" : "rehabilitation", "timeproc": { "type": "hot", "potency": 4200, "maxticks": 5 } },
+    { "d1f" : "sustained damage", "timeproc": { "type": "dot", "potency": 2040, "maxticks": 10 } },
+    { "d4d" : "damage barrier", "damageshield": { "type": "Potency", "amount": 21000 } },
+    { "d20" : "vulnerability down", "potency": [ { "type": "DamageReceivedMultiplier", "amount": -20 } ] }
+]
+}
