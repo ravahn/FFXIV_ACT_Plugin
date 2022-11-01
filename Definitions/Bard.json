@@ -10,7 +10,7 @@
     { "72" : "mage's ballad", "damage": [ { "potency": 0} ] },
     { "74" : "army's paeon", "damage": [ { "potency": 0} ] },
     { "75" : "rain of death", "damage": [ { "potency": 100} ] },
-    { "DE6" : "empyreal arrow", "damage": [ { "potency": 200} ] },
+    { "DE6" : "empyreal arrow", "damage": [ { "potency": 230} ] },
     { "DE7" : "the wanderer's minuet", "damage": [ { "potency": 0} ] },
     { "DE8" : "iron jaws", "damage": [ { "potency": 100} ] },
     { "DEA" : "sidewinder", "damage": [ { "potency": 300} ] },

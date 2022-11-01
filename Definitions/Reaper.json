@@ -23,10 +23,10 @@
 { "5f4c" : "cross reaping", "damage": [ { "potency": 0} ] },
 { "5f4d" : "grim reaping", "damage": [ { "potency": 200} ] },
 { "5f44" : "harvest moon", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 300 } ] },
-{ "5f4f" : "lemure's slice", "damage": [ { "potency": 200} ] },
+{ "5f4f" : "lemure's slice", "damage": [ { "potency": 220} ] },
 { "5f50" : "lemure's scythe", "damage": [ { "potency": 100} ] },
 { "5f41" : "plentiful harvest", "damage": [ { "potency": 0} ] },
-{ "5f4e" : "communio", "damage": [ { "potency": 1000, "targetindex": 0}, {"potency": 400 } ] },
+{ "5f4e" : "communio", "damage": [ { "potency": 1100, "targetindex": 0}, {"potency": 440 } ] },
 ],
 "statuseffects" : [ 
 { "a1a" : "death's design", "potency": [ {"type": "damagereceivedmultiplier", "amount": 10 } ] },

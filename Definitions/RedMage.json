@@ -29,9 +29,9 @@
 { "6500" : "veraero iii", "damage": [ { "potency": 380} ] },
 { "6502" : "resolution", "damage": [ { "potency": 750, "targetindex": 0}, {"potency": 300} ] },
 
-{ "1D67" : "enchanted riposte", "damage": [ { "potency": 220} ] },
-{ "1D68" : "enchanted zwerchhau", "damage": [ { "potency": 100, "combo": 290} ] },
-{ "1D69" : "enchanted redoublement", "damage": [ { "potency": 100, "combo": 470} ] },
+{ "1D67" : "enchanted riposte", "damage": [ { "potency": 280} ] },
+{ "1D68" : "enchanted zwerchhau", "damage": [ { "potency": 150, "combo": 340} ] },
+{ "1D69" : "enchanted redoublement", "damage": [ { "potency": 130, "combo": 500} ] },
 { "1D6A" : "enchanted moulinet", "damage": [ { "potency": 130} ] },
 { "4090" : "enchanted reprise", "damage": [ { "potency": 330} ] },
 ],

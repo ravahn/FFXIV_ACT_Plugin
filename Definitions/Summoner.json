@@ -5,7 +5,7 @@
 { "3F66" : "smn physick", "heal": [ { "potency": 400} ] },
 { "64F3" : "glittering ruby", "damage": [ { "potency": 400} ] },
 { "64D0" : "ruby ruin", "damage": [ { "potency": 340} ] },
-{ "B5" : "fester", "damage": [ { "potency": 300} ] },
+{ "B5" : "fester", "damage": [ { "potency": 340} ] },
 { "407c" : "energy drain", "damage": [ { "potency": 200} ] },
 { "64F4" : "glittering topaz", "damage": [ { "potency": 400} ] },
 { "64D1" : "topaz ruin", "damage": [ { "potency": 240} ] },
@@ -61,9 +61,9 @@
 { "651D" : "crimson strike", "damage": [ { "potency": 430, "targetindex": 0}, {"potency": 151} ] },
 { "64EC" : "mountain buster", "damage": [ { "potency": 150, "targetindex": 0}, {"potency": 45} ] },
 { "64ED" : "slipstream", "damage": [ { "potency": 430, "targetindex": 0}, {"potency": 151} ] },
-{ "64FC" : "inferno ii", "damage": [ { "potency": 700, "targetindex": 0}, {"potency": 280} ] },
-{ "64FD" : "earthen fury ii", "damage": [ { "potency": 700, "targetindex": 0}, {"potency": 280} ] },
-{ "64FE" : "aerial blast ii", "damage": [ { "potency": 700, "targetindex": 0}, {"potency": 280} ] }
+{ "64FC" : "inferno ii", "damage": [ { "potency": 750, "targetindex": 0}, {"potency": 300} ] },
+{ "64FD" : "earthen fury ii", "damage": [ { "potency": 750, "targetindex": 0}, {"potency": 300} ] },
+{ "64FE" : "aerial blast ii", "damage": [ { "potency": 750, "targetindex": 0}, {"potency": 300} ] }
 
 ],
 "statuseffects" : [ 
