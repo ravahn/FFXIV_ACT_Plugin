@@ -26,7 +26,7 @@
     { "5ef6" : "holos", "heal": [ { "potency": 300} ]},
     { "5ef8" : "dosis iii", "damage": [ { "potency": 330} ],
                             "heal": [{"potency": 170}] },
-    { "5ef9" : "phlegma iii", "damage": [{"potency": 510, "targetindex": 0}, {"potency": 255}],
+    { "5ef9" : "phlegma iii", "damage": [{"potency": 600, "targetindex": 0}, {"potency": 300}],
                               "heal": [ { "potency": 170} ] },
     { "5efa" : "eukrasian dosis iii", "heal": [ { "potency": 170} ] },
     { "5efb" : "dyskrasia ii", "damage": [ { "potency": 170} ],
