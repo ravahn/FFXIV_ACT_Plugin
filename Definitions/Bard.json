@@ -25,7 +25,7 @@
     { "64b8" : "blast arrow", "damage": [ { "potency": 240}, { "potency": 600, "targetindex": 0} ] },
 ],
 "statuseffects" : [ 
-    { "89": "army's paeon", "multiplier": [ { "type": "directhit", "amount": 3 } ] },
+    { "8AA": "army's paeon", "multiplier": [ { "type": "directhit", "amount": 3 } ] },
     { "8D": "battle voice", "multiplier": [ { "type": "directhit", "amount": 20 } ] },
     { "8A8": "the wanderer's minuet", "multiplier": [ { "type": "criticalhit", "amount": 2 } ] },
 
