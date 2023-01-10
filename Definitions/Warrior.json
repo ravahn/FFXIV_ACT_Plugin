@@ -46,6 +46,7 @@
                               "potency": [ { "type": "DamageReceivedMultiplier", "amount": -10 }] },
 
 { "5b1": "shake it off", "damageshield": { "type": "TargetHpPercent", "amount": 15 } },
+{ "xxx": "shake it off heal", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
 { "a77": "stem the flow", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
 { "a78": "stem the tide", "damageshield": { "type": "potency", "amount": 400 } }
 
