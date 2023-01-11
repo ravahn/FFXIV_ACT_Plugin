@@ -4,16 +4,16 @@
 { "B32" : "split shot", "damage": [ { "potency": 140} ] },
 { "B34" : "slug shot", "damage": [ { "potency": 100, "combo": 210} ] },
 { "B38" : "hot shot", "damage": [ { "potency": 240} ] },
-{ "B3A" : "gauss round", "damage": [ { "potency": 120} ] },
+{ "B3A" : "gauss round", "damage": [ { "potency": 130} ] },
 { "B36" : "spread shot", "damage": [ { "potency": 140} ] },
 { "B39" : "clean shot", "damage": [ { "potency": 100, "combo": 270 } ] },
 { "1CF2" : "heat blast", "damage": [ { "potency": 200 } ] },
-{ "B4A" : "ricochet", "damage": [ { "potency": 120, "targetindex": 0},{"potency": 60} ] },
+{ "B4A" : "ricochet", "damage": [ { "potency": 130, "targetindex": 0},{"potency": 65} ] },
 { "4071" : "auto crossbow", "damage": [ { "potency": 140} ] },
 { "1CF3" : "heated split shot", "damage": [ { "potency": 200} ] },
 { "4072" : "drill", "damage": [ { "potency": 600} ] },
-{ "1CF4" : "heated slug shot", "damage": [ { "potency": 120, "combo": 280} ] },
-{ "1CF5" : "heated clean shot", "damage": [ { "potency": 110, "combo": 360} ] },
+{ "1CF4" : "heated slug shot", "damage": [ { "potency": 120, "combo": 300} ] },
+{ "1CF5" : "heated clean shot", "damage": [ { "potency": 120, "combo": 380} ] },
 { "4073" : "bioblaster", "damage": [ { "potency": 50} ] },
 { "4074" : "air anchor", "damage": [ { "potency": 600} ] },
 { "1CF8" : "rook overload", "damage": [ { "potency": 0} ] },
@@ -39,6 +39,7 @@
 { "74A": "bioblaster", "timeproc": { "type": "dot", "potency": 50, "damagetype": "physical", "maxticks": 5 } },
 { "2B0" : "hypercharge", "potency": [ {"type": "DamageAddPotency", "amount": 20, "limitto": "split shot,slug shot,hot shot,clean shot,heat blast,heated split shot,drill,heated slug shot,heated clean shot,air anchor,arm punch,roller dash,chain saw"} ] },
 { "79F" : "tactician", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
+{ "35C" : "Dismantled", "potency": [ { "type": "DamageDoneMultiplier", "amount": -10 } ] }
 ]
 }
 

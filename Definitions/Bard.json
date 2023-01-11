@@ -25,7 +25,7 @@
     { "64b8" : "blast arrow", "damage": [ { "potency": 240}, { "potency": 600, "targetindex": 0} ] },
 ],
 "statuseffects" : [ 
-    { "89": "army's paeon", "multiplier": [ { "type": "directhit", "amount": 3 } ] },
+    { "8AA": "army's paeon", "multiplier": [ { "type": "directhit", "amount": 3 } ] },
     { "8D": "battle voice", "multiplier": [ { "type": "directhit", "amount": 20 } ] },
     { "8A8": "the wanderer's minuet", "multiplier": [ { "type": "criticalhit", "amount": 2 } ] },
 
@@ -37,7 +37,7 @@
     { "7D" : "raging strikes", "potency": [{"type": "damagedonemultiplier", "amount": 15}] },
     { "8A9" : "mage's ballad", "potency": [{"type": "damagedonemultiplier", "amount": 1}] },
     { "78E" : "troubador", "potency": [{"type": "DamageReceivedMultiplier", "amount": -10}] },
-    { "4B2" : "nature's minne", "potency": [{"type": "healreceivemultiplier", "amount": 20}] },
+    { "4B2" : "nature's minne", "potency": [{"type": "healreceivemultiplier", "amount": 15}] },
     { "b94": "radiant finale", "potency": [{"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2}] },
     
  ]
