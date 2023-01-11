@@ -30,7 +30,7 @@
 ],
 "statuseffects" : [ 
 { "4C" : "fight or flight", "potency": [ {"type": "damagedonemultiplier", "amount": 25} ] },
-{ "740": "sheltron", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] }
+{ "740": "sheltron", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
 { "4A" : "sentinel", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -30} ] },
 { "F8": "circle of scorn", "timeproc": { "type": "dot", "potency": 30, "damagetype": "physical", "maxticks": 5 } },
 { "552": "divine veil", "damageshield": { "type": "TargetHpPercent", "amount": 10 } },
