@@ -39,7 +39,7 @@
 { "74A": "bioblaster", "timeproc": { "type": "dot", "potency": 50, "damagetype": "physical", "maxticks": 5 } },
 { "2B0" : "hypercharge", "potency": [ {"type": "DamageAddPotency", "amount": 20, "limitto": "split shot,slug shot,hot shot,clean shot,heat blast,heated split shot,drill,heated slug shot,heated clean shot,air anchor,arm punch,roller dash,chain saw"} ] },
 { "79F" : "tactician", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
-{"xxx": "dismantle", "potency": [ { "type": "damagedonemultiplier", "amount": -10 } ] }
+{ "35C" : "Dismantled", "potency": [ { "type": "DamageDoneMultiplier", "amount": -10 } ] }
 ]
 }
 

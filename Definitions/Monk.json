@@ -30,7 +30,7 @@
 { "66" : "mantra", "potency": [ {"type": "healreceivemultiplier", "amount": 10} ] },
 { "bb9" : "disciplined fist", "potency": [ {"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2} ] },
 { "49b" : "riddle of earth", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -20} ] },
-{ "xxx" : "earth's reply", "timeproc": {"type": "hot", "potency": 100, "maxticks": 5 } },
+{ "49C" : "earth's reply", "timeproc": {"type": "hot", "potency": 100, "maxticks": 5 } },
 { "49D" : "riddle of fire", "potency": [ {"type": "damagedonemultiplier", "amount": 0, "amountbyte": 2} ] },
 { "4A1" : "brotherhood", "potency": [ {"type": "damagedonemultiplier", "amount": 5} ] },
 ]

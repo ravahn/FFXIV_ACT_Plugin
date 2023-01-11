@@ -30,18 +30,15 @@
 ],
 "statuseffects" : [ 
 { "4C" : "fight or flight", "potency": [ {"type": "damagedonemultiplier", "amount": 25} ] },
+{ "740": "sheltron", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] }
 { "4A" : "sentinel", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -30} ] },
 { "F8": "circle of scorn", "timeproc": { "type": "dot", "potency": 30, "damagetype": "physical", "maxticks": 5 } },
-{ "2D5": "goring blade", "timeproc": { "type": "dot", "potency": 65, "damagetype": "physical", "maxticks": 7 } },
-{ "1CD6" : "intervention", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 0, "amountbyte": 2 } ] },
+{ "552": "divine veil", "damageshield": { "type": "TargetHpPercent", "amount": 10 } },
+{ "496" : "intervention", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 0, "amountbyte": 2 } ] },
 { "a74": "knight's benediction", "timeproc": { "type": "hot", "potency": 250, "maxticks": 4 } },
 { "a73": "knight's resolve", "potency": [{ "type": "DamageReceivedMultiplier", "amount": 0, "amountbyte": 2 }] },
-{ "aa1": "blade of valor", "timeproc": { "type": "dot", "potency": 80, "damagetype": "physical", "maxticks": 7 } },
-{ "2d6": "divine veil", "timeproc": { "type": "groundheal", "potency": 400, "maxticks": 24 } },
-{ "2d7": "divine veil", "damageshield": { "type": "TargetHpPercent", "amount": 10 } },
 { "498": "arms up", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
-{ "xxx": "sheltron", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] }
-{ "xxx": "holy sheltron", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] }
+{ "A72": "holy sheltron", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] }
 
 ]
 }
