@@ -1,8 +1,8 @@
 {
 "job": "gunbreaker",
 "actions" : [
-{ "3F09" : "keen edge", "damage": [ { "potency": 170} ] },
-{ "3F0B" : "brutal shell", "damage": [ { "potency": 130, "combo": 270} ], "heal": [ { "potency": 200} ] },
+{ "3F09" : "keen edge", "damage": [ { "potency": 200} ] },
+{ "3F0B" : "brutal shell", "damage": [ { "potency": 160, "combo": 300} ], "heal": [ { "potency": 200} ] },
 { "3F0D" : "demon slice", "damage": [ { "potency": 100} ] },
 { "3F0F" : "lightning shot", "damage": [ { "potency": 150} ] },
 { "3F10" : "danger zone", "damage": [ { "potency": 250} ] },
