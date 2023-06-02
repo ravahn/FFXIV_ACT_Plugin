@@ -1,0 +1,27 @@
+﻿# action_data
+_rsv_33130_-1_1_0_0_SE2DC5B04_EE2DC5B04|Rear Combination
+_rsv_33211_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chimeric Succession
+_rsv_34702_-1_1_0_0_SE2DC5B04_EE2DC5B04|Front Firestrikes
+_rsv_33128_-1_1_0_0_SE2DC5B04_EE2DC5B04|Front Combination
+_rsv_33129_-1_1_0_0_SE2DC5B04_EE2DC5B04|Rear Combination
+_rsv_33127_-1_1_0_0_SE2DC5B04_EE2DC5B04|Front Combination
+_rsv_34703_-1_1_0_0_SE2DC5B04_EE2DC5B04|Rear Firestrikes
+_rsv_34702_-1_1_0_1_SE2DC5B04_EE2DC5B04|Front Firestrikes
+_rsv_34703_-1_1_0_1_SE2DC5B04_EE2DC5B04|Rear Firestrikes
+_rsv_33127_-1_1_0_1_SE2DC5B04_EE2DC5B04|Front Combination
+_rsv_33128_-1_1_0_1_SE2DC5B04_EE2DC5B04|Front Combination
+_rsv_33130_-1_1_0_1_SE2DC5B04_EE2DC5B04|Rear Combination
+_rsv_33129_-1_1_0_1_SE2DC5B04_EE2DC5B04|Rear Combination
+_rsv_33211_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chimeric Succession
+
+# status_data
+_rsv_3545_-1_1_0_0_S74CFC3B0_E74CFC3B0|Chimeric Soul
+_rsv_3545_-1_1_1_0_S74CFC3B0_E74CFC3B0|Wielding the power of multiple ancient souls.
+_rsv_3545_-1_1_0_1_S74CFC3B0_E74CFC3B0|Chimeric Soul
+_rsv_3545_-1_1_1_1_S74CFC3B0_E74CFC3B0|Wielding the power of multiple ancient souls.
+
+#
+_rsv_12454_-1_1_0_0_S64755250_E64755250|chimera's lament
+_rsv_12454_-1_1_2_0_S64755250_E64755250|chimera's laments
+_rsv_12454_-1_1_0_1_S64755250_E64755250|chimera's lament
+_rsv_12454_-1_1_2_1_S64755250_E64755250|chimera's laments
