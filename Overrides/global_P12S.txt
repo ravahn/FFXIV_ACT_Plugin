@@ -1,0 +1,333 @@
+﻿# action_data
+# EN
+_rsv_33498_-1_1_0_0_SE2DC5B04_EE2DC5B04|Superchain Theory I
+_rsv_33501_-1_1_0_0_SE2DC5B04_EE2DC5B04|Superchain Radiation
+_rsv_33502_-1_1_0_0_SE2DC5B04_EE2DC5B04|Superchain Emission
+_rsv_33521_-1_1_0_0_SE2DC5B04_EE2DC5B04|Searing Radiance
+_rsv_33522_-1_1_0_0_SE2DC5B04_EE2DC5B04|Shadowsear
+_rsv_33534_-1_1_0_0_SE2DC5B04_EE2DC5B04|Apodialogos
+_rsv_33535_-1_1_0_0_SE2DC5B04_EE2DC5B04|Peridialogos
+_rsv_33536_-1_1_0_0_SE2DC5B04_EE2DC5B04|Apodialogos
+_rsv_33537_-1_1_0_0_SE2DC5B04_EE2DC5B04|Peridialogos
+_rsv_33542_-1_1_0_0_SE2DC5B04_EE2DC5B04|Theos's Holy
+_rsv_33543_-1_1_0_0_SE2DC5B04_EE2DC5B04|Polarized Ray
+_rsv_33544_-1_1_0_0_SE2DC5B04_EE2DC5B04|Umbral Impact
+_rsv_33545_-1_1_0_0_SE2DC5B04_EE2DC5B04|Astral Impact
+_rsv_33546_-1_1_0_0_SE2DC5B04_EE2DC5B04|Theos's Cross
+_rsv_33547_-1_1_0_0_SE2DC5B04_EE2DC5B04|Theos's Saltire
+_rsv_33548_-1_1_0_0_SE2DC5B04_EE2DC5B04|Umbral Glow
+_rsv_33549_-1_1_0_0_SE2DC5B04_EE2DC5B04|Astral Glow
+_rsv_33550_-1_1_0_0_SE2DC5B04_EE2DC5B04|Umbral Advance
+_rsv_33551_-1_1_0_0_SE2DC5B04_EE2DC5B04|Astral Advance
+_rsv_33552_-1_1_0_0_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33553_-1_1_0_0_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33554_-1_1_0_0_SE2DC5B04_EE2DC5B04|Shock
+_rsv_33555_-1_1_0_0_SE2DC5B04_EE2DC5B04|Electrify
+_rsv_33559_-1_1_0_0_SE2DC5B04_EE2DC5B04|Crush Helm
+_rsv_33560_-1_1_0_0_SE2DC5B04_EE2DC5B04|Crush Helm
+_rsv_33561_-1_1_0_0_SE2DC5B04_EE2DC5B04|Crush Helm
+_rsv_33562_-1_1_0_0_SE2DC5B04_EE2DC5B04|Palladian Grasp
+_rsv_33563_-1_1_0_0_SE2DC5B04_EE2DC5B04|Palladian Grasp
+_rsv_33564_-1_1_0_0_SE2DC5B04_EE2DC5B04|Palladian Grasp
+_rsv_33565_-1_1_0_0_SE2DC5B04_EE2DC5B04|Palladian Grasp
+_rsv_33566_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33567_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33568_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33569_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33570_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33571_-1_1_0_0_SE2DC5B04_EE2DC5B04|Palladian Ray
+_rsv_33572_-1_1_0_0_SE2DC5B04_EE2DC5B04|Palladian Ray
+_rsv_33573_-1_1_0_0_SE2DC5B04_EE2DC5B04|Palladian Ray
+_rsv_33574_-1_1_0_0_SE2DC5B04_EE2DC5B04|Gaiaochos
+_rsv_33575_-1_1_0_0_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_33576_-1_1_0_0_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_33577_-1_1_0_0_SE2DC5B04_EE2DC5B04|Geocentrism
+_rsv_33578_-1_1_0_0_SE2DC5B04_EE2DC5B04|Geocentrism
+_rsv_33579_-1_1_0_0_SE2DC5B04_EE2DC5B04|Geocentrism
+_rsv_33580_-1_1_0_0_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_33581_-1_1_0_0_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_33582_-1_1_0_0_SE2DC5B04_EE2DC5B04|Divine Excoriation
+_rsv_33584_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima Ray
+_rsv_33583_-1_1_0_0_SE2DC5B04_EE2DC5B04|Summon Darkness
+_rsv_33586_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fusion Burst
+_rsv_33585_-1_1_0_0_SE2DC5B04_EE2DC5B04|The Classical Concepts
+_rsv_33588_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aspect Effect
+_rsv_33589_-1_1_0_0_SE2DC5B04_EE2DC5B04|Tilted Balance
+_rsv_33587_-1_1_0_0_SE2DC5B04_EE2DC5B04|Implode
+_rsv_33590_-1_1_0_0_SE2DC5B04_EE2DC5B04|Panta Rhei
+_rsv_33591_-1_1_0_0_SE2DC5B04_EE2DC5B04|Panta Rhei
+_rsv_33592_-1_1_0_0_SE2DC5B04_EE2DC5B04|Caloric Theory
+_rsv_33593_-1_1_0_0_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33594_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pyre Pulse
+_rsv_33595_-1_1_0_0_SE2DC5B04_EE2DC5B04|Dynamic Atmosphere
+_rsv_33596_-1_1_0_0_SE2DC5B04_EE2DC5B04|Entropic Excess
+_rsv_33597_-1_1_0_0_SE2DC5B04_EE2DC5B04|Caloric Theory
+_rsv_33598_-1_1_0_0_SE2DC5B04_EE2DC5B04|Caloric Theory
+_rsv_33599_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pangenesis
+_rsv_33600_-1_1_0_0_SE2DC5B04_EE2DC5B04|Biochemical Factor
+_rsv_33601_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ex-factor
+_rsv_33602_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pantheos
+_rsv_33603_-1_1_0_0_SE2DC5B04_EE2DC5B04|Umbral Advent
+_rsv_33604_-1_1_0_0_SE2DC5B04_EE2DC5B04|Astral Advent
+_rsv_33605_-1_1_0_0_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33606_-1_1_0_0_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33607_-1_1_0_0_SE2DC5B04_EE2DC5B04|Factor In
+_rsv_33608_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima Blow
+_rsv_33609_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ignorabimus
+_rsv_33616_-1_1_0_0_SE2DC5B04_EE2DC5B04|Polarized Glow
+_rsv_33620_-1_1_0_0_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_34134_-1_1_0_0_SE2DC5B04_EE2DC5B04|Theos's Ultima
+_rsv_34182_-1_1_0_0_SE2DC5B04_EE2DC5B04|Missing Link
+_rsv_34434_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima
+_rsv_34435_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_34550_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima
+_rsv_34554_-1_1_0_0_SE2DC5B04_EE2DC5B04|Superchain Theory IIA
+_rsv_34555_-1_1_0_0_SE2DC5B04_EE2DC5B04|Superchain Theory IIB
+_rsv_34557_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pyre Pulse
+_rsv_34706_-1_1_0_0_SE2DC5B04_EE2DC5B04|Caloric Theory
+_rsv_34719_-1_1_0_0_SE2DC5B04_EE2DC5B04|Gaiaochos
+_rsv_34720_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima
+_rsv_33498_-1_1_0_1_SE2DC5B04_EE2DC5B04|Superchain Theory I
+_rsv_33501_-1_1_0_1_SE2DC5B04_EE2DC5B04|Superchain Radiation
+_rsv_33502_-1_1_0_1_SE2DC5B04_EE2DC5B04|Superchain Emission
+_rsv_33521_-1_1_0_1_SE2DC5B04_EE2DC5B04|Searing Radiance
+_rsv_33522_-1_1_0_1_SE2DC5B04_EE2DC5B04|Shadowsear
+_rsv_33534_-1_1_0_1_SE2DC5B04_EE2DC5B04|Apodialogos
+_rsv_33535_-1_1_0_1_SE2DC5B04_EE2DC5B04|Peridialogos
+_rsv_33536_-1_1_0_1_SE2DC5B04_EE2DC5B04|Apodialogos
+_rsv_33537_-1_1_0_1_SE2DC5B04_EE2DC5B04|Peridialogos
+_rsv_33542_-1_1_0_1_SE2DC5B04_EE2DC5B04|Theos's Holy
+_rsv_33543_-1_1_0_1_SE2DC5B04_EE2DC5B04|Polarized Ray
+_rsv_33544_-1_1_0_1_SE2DC5B04_EE2DC5B04|Umbral Impact
+_rsv_33545_-1_1_0_1_SE2DC5B04_EE2DC5B04|Astral Impact
+_rsv_33546_-1_1_0_1_SE2DC5B04_EE2DC5B04|Theos's Cross
+_rsv_33548_-1_1_0_1_SE2DC5B04_EE2DC5B04|Umbral Glow
+_rsv_33549_-1_1_0_1_SE2DC5B04_EE2DC5B04|Astral Glow
+_rsv_33547_-1_1_0_1_SE2DC5B04_EE2DC5B04|Theos's Saltire
+_rsv_33550_-1_1_0_1_SE2DC5B04_EE2DC5B04|Umbral Advance
+_rsv_33552_-1_1_0_1_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33553_-1_1_0_1_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33554_-1_1_0_1_SE2DC5B04_EE2DC5B04|Shock
+_rsv_33555_-1_1_0_1_SE2DC5B04_EE2DC5B04|Electrify
+_rsv_33559_-1_1_0_1_SE2DC5B04_EE2DC5B04|Crush Helm
+_rsv_33551_-1_1_0_1_SE2DC5B04_EE2DC5B04|Astral Advance
+_rsv_33561_-1_1_0_1_SE2DC5B04_EE2DC5B04|Crush Helm
+_rsv_33562_-1_1_0_1_SE2DC5B04_EE2DC5B04|Palladian Grasp
+_rsv_33560_-1_1_0_1_SE2DC5B04_EE2DC5B04|Crush Helm
+_rsv_33563_-1_1_0_1_SE2DC5B04_EE2DC5B04|Palladian Grasp
+_rsv_33564_-1_1_0_1_SE2DC5B04_EE2DC5B04|Palladian Grasp
+_rsv_33565_-1_1_0_1_SE2DC5B04_EE2DC5B04|Palladian Grasp
+_rsv_33566_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33567_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33568_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33569_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33570_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_33571_-1_1_0_1_SE2DC5B04_EE2DC5B04|Palladian Ray
+_rsv_33572_-1_1_0_1_SE2DC5B04_EE2DC5B04|Palladian Ray
+_rsv_33573_-1_1_0_1_SE2DC5B04_EE2DC5B04|Palladian Ray
+_rsv_33574_-1_1_0_1_SE2DC5B04_EE2DC5B04|Gaiaochos
+_rsv_33575_-1_1_0_1_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_33576_-1_1_0_1_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_33577_-1_1_0_1_SE2DC5B04_EE2DC5B04|Geocentrism
+_rsv_33578_-1_1_0_1_SE2DC5B04_EE2DC5B04|Geocentrism
+_rsv_33579_-1_1_0_1_SE2DC5B04_EE2DC5B04|Geocentrism
+_rsv_33580_-1_1_0_1_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_33581_-1_1_0_1_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_33582_-1_1_0_1_SE2DC5B04_EE2DC5B04|Divine Excoriation
+_rsv_33583_-1_1_0_1_SE2DC5B04_EE2DC5B04|Summon Darkness
+_rsv_33584_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima Ray
+_rsv_33585_-1_1_0_1_SE2DC5B04_EE2DC5B04|The Classical Concepts
+_rsv_33586_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fusion Burst
+_rsv_33587_-1_1_0_1_SE2DC5B04_EE2DC5B04|Implode
+_rsv_33588_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aspect Effect
+_rsv_33591_-1_1_0_1_SE2DC5B04_EE2DC5B04|Panta Rhei
+_rsv_33590_-1_1_0_1_SE2DC5B04_EE2DC5B04|Panta Rhei
+_rsv_33593_-1_1_0_1_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33592_-1_1_0_1_SE2DC5B04_EE2DC5B04|Caloric Theory
+_rsv_33594_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pyre Pulse
+_rsv_33595_-1_1_0_1_SE2DC5B04_EE2DC5B04|Dynamic Atmosphere
+_rsv_33596_-1_1_0_1_SE2DC5B04_EE2DC5B04|Entropic Excess
+_rsv_33597_-1_1_0_1_SE2DC5B04_EE2DC5B04|Caloric Theory
+_rsv_33598_-1_1_0_1_SE2DC5B04_EE2DC5B04|Caloric Theory
+_rsv_33599_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pangenesis
+_rsv_33600_-1_1_0_1_SE2DC5B04_EE2DC5B04|Biochemical Factor
+_rsv_33601_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ex-factor
+_rsv_33602_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pantheos
+_rsv_33603_-1_1_0_1_SE2DC5B04_EE2DC5B04|Umbral Advent
+_rsv_33604_-1_1_0_1_SE2DC5B04_EE2DC5B04|Astral Advent
+_rsv_33589_-1_1_0_1_SE2DC5B04_EE2DC5B04|Tilted Balance
+_rsv_33605_-1_1_0_1_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33606_-1_1_0_1_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_33607_-1_1_0_1_SE2DC5B04_EE2DC5B04|Factor In
+_rsv_33608_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima Blow
+_rsv_33609_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ignorabimus
+_rsv_33616_-1_1_0_1_SE2DC5B04_EE2DC5B04|Polarized Glow
+_rsv_33620_-1_1_0_1_SE2DC5B04_EE2DC5B04|Demi Parhelion
+_rsv_34134_-1_1_0_1_SE2DC5B04_EE2DC5B04|Theos's Ultima
+_rsv_34182_-1_1_0_1_SE2DC5B04_EE2DC5B04|Missing Link
+_rsv_34434_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima
+_rsv_34435_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ekpyrosis
+_rsv_34550_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima
+_rsv_34554_-1_1_0_1_SE2DC5B04_EE2DC5B04|Superchain Theory IIA
+_rsv_34555_-1_1_0_1_SE2DC5B04_EE2DC5B04|Superchain Theory IIB
+_rsv_34557_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pyre Pulse
+_rsv_34706_-1_1_0_1_SE2DC5B04_EE2DC5B04|Caloric Theory
+_rsv_34719_-1_1_0_1_SE2DC5B04_EE2DC5B04|Gaiaochos
+_rsv_34720_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima
+
+# status_data
+# EN
+_rsv_3577_-1_1_0_0_S74CFC3B0_E74CFC3B0|Astral Tilt
+_rsv_3577_-1_1_1_0_S74CFC3B0_E74CFC3B0|Internal aether is dramatically polarized toward the astral. Damage taken from astral attacks is increased, though explosive damage from umbral attacks can be quelled. 
+_rsv_3576_-1_1_0_0_S74CFC3B0_E74CFC3B0|Umbral Tilt
+_rsv_3578_-1_1_0_0_S74CFC3B0_E74CFC3B0|Heavensflame Soul
+_rsv_3578_-1_1_1_0_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Theos's Holy when this effect expires.
+_rsv_3579_-1_1_0_0_S74CFC3B0_E74CFC3B0|Umbralbright Soul
+_rsv_3579_-1_1_1_0_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Umbral Glow when this effect expires.
+_rsv_3580_-1_1_0_0_S74CFC3B0_E74CFC3B0|Astralbright Soul
+_rsv_3580_-1_1_1_0_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Astral Glow when this effect expires.
+_rsv_3581_-1_1_0_0_S74CFC3B0_E74CFC3B0|Umbralstrong Soul
+_rsv_3581_-1_1_1_0_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Umbral Impact when this effect expires.
+_rsv_3582_-1_1_0_0_S74CFC3B0_E74CFC3B0|Astralstrong Soul
+_rsv_3582_-1_1_1_0_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Astral Impact when this effect expires.
+_rsv_3583_-1_1_0_0_S74CFC3B0_E74CFC3B0|Quartered Soul
+_rsv_3576_-1_1_1_0_S74CFC3B0_E74CFC3B0|Internal aether is dramatically polarized toward the umbral. Damage taken from umbral attacks is increased, though explosive damage from astral attacks can be quelled. 
+_rsv_3583_-1_1_1_0_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Theos's Cross when this effect expires.
+_rsv_3584_-1_1_0_0_S74CFC3B0_E74CFC3B0|X-marked Soul
+_rsv_3584_-1_1_1_0_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Theos's Saltire when this effect expires.
+_rsv_3586_-1_1_0_0_S74CFC3B0_E74CFC3B0|Ascended
+_rsv_3586_-1_1_1_0_S74CFC3B0_E74CFC3B0|Drawn into the celestial realm created by Athena.
+_rsv_3588_-1_1_0_0_S74CFC3B0_E74CFC3B0|Shackled Together
+_rsv_3588_-1_1_1_0_S74CFC3B0_E74CFC3B0|Chained to an ally. Drawing too far from this partner will result in increased damage taken.
+_rsv_3589_-1_1_1_0_S74CFC3B0_E74CFC3B0|Movement causes the accumulation of a physical substance composed of pure heat. Accumulating 5 stacks will result in a massive explosion.
+_rsv_3590_-1_1_0_0_S74CFC3B0_E74CFC3B0|Pyrefaction
+_rsv_3590_-1_1_1_0_S74CFC3B0_E74CFC3B0|Subject to unleashing Pyre Pulse when this effect expires.
+_rsv_3591_-1_1_0_0_S74CFC3B0_E74CFC3B0|Atmosfaction
+_rsv_3589_-1_1_0_0_S74CFC3B0_E74CFC3B0|Close Caloric
+_rsv_3591_-1_1_1_0_S74CFC3B0_E74CFC3B0|Subject to unleashing Dynamic Atmosphere when this effect expires.
+_rsv_3592_-1_1_0_0_S74CFC3B0_E74CFC3B0|Entropifaction
+_rsv_3592_-1_1_1_0_S74CFC3B0_E74CFC3B0|Subject to unleashing Entropic Excess periodically. Each release of Entropic Excess will decrease the stacks of this effect. The effect may be transferred to another subject via physical contact.
+_rsv_3593_-1_1_0_0_S74CFC3B0_E74CFC3B0|Unstable Factor
+_rsv_3593_-1_1_1_0_S74CFC3B0_E74CFC3B0|Subject to a factor that will cause explosive damage when this effect ends. Physical contact with another subject with unstable factors will result in both subjects' stack counts being added together, divided by two, and redistributed. Fractions will be rounded down to the nearest whole number.
+_rsv_3594_-1_1_0_0_S74CFC3B0_E74CFC3B0|Critical Factor
+_rsv_3594_-1_1_1_0_S74CFC3B0_E74CFC3B0|Subject to an as-yet-unknown element that increases damage taken from attacks by forbidden factors.
+_rsv_3617_-1_1_0_0_S74CFC3B0_E74CFC3B0|Entropy Resistance
+_rsv_3617_-1_1_1_0_S74CFC3B0_E74CFC3B0|Invulnerable to entropifaction.
+_rsv_3618_-1_1_0_0_S74CFC3B0_E74CFC3B0|Stable System
+_rsv_3618_-1_1_1_0_S74CFC3B0_E74CFC3B0|Unaffected by contact with subjects with unstable factors.
+_rsv_3576_-1_1_0_1_S74CFC3B0_E74CFC3B0|Umbral Tilt
+_rsv_3576_-1_1_1_1_S74CFC3B0_E74CFC3B0|Internal aether is dramatically polarized toward the umbral. Damage taken from umbral attacks is increased, though explosive damage from astral attacks can be quelled. 
+_rsv_3577_-1_1_0_1_S74CFC3B0_E74CFC3B0|Astral Tilt
+_rsv_3577_-1_1_1_1_S74CFC3B0_E74CFC3B0|Internal aether is dramatically polarized toward the astral. Damage taken from astral attacks is increased, though explosive damage from umbral attacks can be quelled. 
+_rsv_3578_-1_1_0_1_S74CFC3B0_E74CFC3B0|Heavensflame Soul
+_rsv_3578_-1_1_1_1_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Theos's Holy when this effect expires.
+_rsv_3579_-1_1_0_1_S74CFC3B0_E74CFC3B0|Umbralbright Soul
+_rsv_3579_-1_1_1_1_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Umbral Glow when this effect expires.
+_rsv_3580_-1_1_0_1_S74CFC3B0_E74CFC3B0|Astralbright Soul
+_rsv_3580_-1_1_1_1_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Astral Glow when this effect expires.
+_rsv_3581_-1_1_0_1_S74CFC3B0_E74CFC3B0|Umbralstrong Soul
+_rsv_3581_-1_1_1_1_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Umbral Impact when this effect expires.
+_rsv_3582_-1_1_0_1_S74CFC3B0_E74CFC3B0|Astralstrong Soul
+_rsv_3582_-1_1_1_1_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Astral Impact when this effect expires.
+_rsv_3583_-1_1_0_1_S74CFC3B0_E74CFC3B0|Quartered Soul
+_rsv_3583_-1_1_1_1_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Theos's Cross when this effect expires.
+_rsv_3584_-1_1_0_1_S74CFC3B0_E74CFC3B0|X-marked Soul
+_rsv_3584_-1_1_1_1_S74CFC3B0_E74CFC3B0|Soul has been commandeered to unleash Theos's Saltire when this effect expires.
+_rsv_3586_-1_1_0_1_S74CFC3B0_E74CFC3B0|Ascended
+_rsv_3586_-1_1_1_1_S74CFC3B0_E74CFC3B0|Drawn into the celestial realm created by Athena.
+_rsv_3588_-1_1_0_1_S74CFC3B0_E74CFC3B0|Shackled Together
+_rsv_3588_-1_1_1_1_S74CFC3B0_E74CFC3B0|Chained to an ally. Drawing too far from this partner will result in increased damage taken.
+_rsv_3589_-1_1_0_1_S74CFC3B0_E74CFC3B0|Close Caloric
+_rsv_3589_-1_1_1_1_S74CFC3B0_E74CFC3B0|Movement causes the accumulation of a physical substance composed of pure heat. Accumulating 5 stacks will result in a massive explosion.
+_rsv_3590_-1_1_0_1_S74CFC3B0_E74CFC3B0|Pyrefaction
+_rsv_3590_-1_1_1_1_S74CFC3B0_E74CFC3B0|Subject to unleashing Pyre Pulse when this effect expires.
+_rsv_3591_-1_1_0_1_S74CFC3B0_E74CFC3B0|Atmosfaction
+_rsv_3591_-1_1_1_1_S74CFC3B0_E74CFC3B0|Subject to unleashing Dynamic Atmosphere when this effect expires.
+_rsv_3592_-1_1_0_1_S74CFC3B0_E74CFC3B0|Entropifaction
+_rsv_3592_-1_1_1_1_S74CFC3B0_E74CFC3B0|Subject to unleashing Entropic Excess periodically. Each release of Entropic Excess will decrease the stacks of this effect. The effect may be transferred to another subject via physical contact.
+_rsv_3593_-1_1_0_1_S74CFC3B0_E74CFC3B0|Unstable Factor
+_rsv_3593_-1_1_1_1_S74CFC3B0_E74CFC3B0|Subject to a factor that will cause explosive damage when this effect ends. Physical contact with another subject with unstable factors will result in both subjects' stack counts being added together, divided by two, and redistributed. Fractions will be rounded down to the nearest whole number.
+_rsv_3594_-1_1_0_1_S74CFC3B0_E74CFC3B0|Critical Factor
+_rsv_3594_-1_1_1_1_S74CFC3B0_E74CFC3B0|Subject to an as-yet-unknown element that increases damage taken from attacks by forbidden factors.
+_rsv_3617_-1_1_0_1_S74CFC3B0_E74CFC3B0|Entropy Resistance
+_rsv_3617_-1_1_1_1_S74CFC3B0_E74CFC3B0|Invulnerable to entropifaction.
+_rsv_3618_-1_1_0_1_S74CFC3B0_E74CFC3B0|Stable System
+_rsv_3618_-1_1_1_1_S74CFC3B0_E74CFC3B0|Unaffected by contact with subjects with unstable factors.
+
+# instancecontenttextdata_data
+# EN
+_rsv_36912_-1_1_0_0_S13095D61_E13095D61|Miscalculations are inevitable...but vexing.
+_rsv_36913_-1_1_0_0_S13095D61_E13095D61|What arrogance to defy a god!
+_rsv_36914_-1_1_0_0_S13095D61_E13095D61|Could my theories have been flawed...?
+_rsv_36915_-1_1_0_0_S13095D61_E13095D61|Although I wished so ardently...
+_rsv_36916_-1_1_0_0_S13095D61_E13095D61|But perhaps...with the Heart of Sabik!
+_rsv_36917_-1_1_0_0_S13095D61_E13095D61|Yes... The flaws are not mine...
+_rsv_36918_-1_1_0_0_S13095D61_E13095D61|This misbegotten world is to blame...
+_rsv_36919_-1_1_0_0_S13095D61_E13095D61|Only the hands of a god can fix it─my hands!
+_rsv_36920_-1_1_0_0_S13095D61_E13095D61|I can create worlds─or unmake them!
+_rsv_36921_-1_1_0_0_S13095D61_E13095D61|Only I can guide this star to its rightful place!
+_rsv_36922_-1_1_0_0_S13095D61_E13095D61|The heavens bend to my will!
+_rsv_36923_-1_1_0_0_S13095D61_E13095D61|Denizens of the abyss! From ink of blackest night, I summon you!
+_rsv_36924_-1_1_0_0_S13095D61_E13095D61|Misfortune hangs heavy on the prideful. Poor cover for when the heavens fall.
+_rsv_36925_-1_1_0_0_S13095D61_E13095D61|From base elements is greatness forged!
+_rsv_36926_-1_1_0_0_S13095D61_E13095D61|The wheel of life turns by my hand!
+_rsv_36927_-1_1_0_0_S13095D61_E13095D61|The elements flow according to my design.
+_rsv_36928_-1_1_0_0_S13095D61_E13095D61|Creation's course is mine to set!
+_rsv_36929_-1_1_0_0_S13095D61_E13095D61|A god's will cannot be disobeyed!
+_rsv_36930_-1_1_0_0_S13095D61_E13095D61|This world must be made anew!
+_rsv_36931_-1_1_0_0_S13095D61_E13095D61|I will not be denied!
+_rsv_36932_-1_1_0_0_S13095D61_E13095D61|Why do you suffer this pathetic existence!?
+_rsv_36933_-1_1_0_0_S13095D61_E13095D61|I...I am infallible...
+_rsv_36934_-1_1_0_0_S13095D61_E13095D61|Why...does this world persist?
+_rsv_36935_-1_1_0_0_S13095D61_E13095D61|Why...do I persist?
+_rsv_36912_-1_1_0_1_S13095D61_E13095D61|Miscalculations are inevitable...but vexing.
+_rsv_36913_-1_1_0_1_S13095D61_E13095D61|What arrogance to defy a god!
+_rsv_36914_-1_1_0_1_S13095D61_E13095D61|Could my theories have been flawed...?
+_rsv_36916_-1_1_0_1_S13095D61_E13095D61|But perhaps...with the Heart of Sabik!
+_rsv_36915_-1_1_0_1_S13095D61_E13095D61|Although I wished so ardently...
+_rsv_36917_-1_1_0_1_S13095D61_E13095D61|Yes... The flaws are not mine...
+_rsv_36918_-1_1_0_1_S13095D61_E13095D61|This misbegotten world is to blame...
+_rsv_36919_-1_1_0_1_S13095D61_E13095D61|Only the hands of a god can fix it─my hands!
+_rsv_36920_-1_1_0_1_S13095D61_E13095D61|I can create worlds─or unmake them!
+_rsv_36921_-1_1_0_1_S13095D61_E13095D61|Only I can guide this star to its rightful place!
+_rsv_36922_-1_1_0_1_S13095D61_E13095D61|The heavens bend to my will!
+_rsv_36923_-1_1_0_1_S13095D61_E13095D61|Denizens of the abyss! From ink of blackest night, I summon you!
+_rsv_36924_-1_1_0_1_S13095D61_E13095D61|Misfortune hangs heavy on the prideful. Poor cover for when the heavens fall.
+_rsv_36925_-1_1_0_1_S13095D61_E13095D61|From base elements is greatness forged!
+_rsv_36926_-1_1_0_1_S13095D61_E13095D61|The wheel of life turns by my hand!
+_rsv_36927_-1_1_0_1_S13095D61_E13095D61|The elements flow according to my design.
+_rsv_36928_-1_1_0_1_S13095D61_E13095D61|Creation's course is mine to set!
+_rsv_36929_-1_1_0_1_S13095D61_E13095D61|A god's will cannot be disobeyed!
+_rsv_36930_-1_1_0_1_S13095D61_E13095D61|This world must be made anew!
+_rsv_36931_-1_1_0_1_S13095D61_E13095D61|I will not be denied!
+_rsv_36932_-1_1_0_1_S13095D61_E13095D61|Why do you suffer this pathetic existence!?
+_rsv_36933_-1_1_0_1_S13095D61_E13095D61|I...I am infallible...
+_rsv_36934_-1_1_0_1_S13095D61_E13095D61|Why...does this world persist?
+_rsv_36935_-1_1_0_1_S13095D61_E13095D61|Why...do I persist?
+
+#
+# EN
+_rsv_12382_-1_1_0_0_S64755250_E64755250|Pallas Athena
+_rsv_12382_-1_1_2_0_S64755250_E64755250|Pallas Athena
+_rsv_12383_-1_1_0_0_S64755250_E64755250|hemitheos
+_rsv_12383_-1_1_2_0_S64755250_E64755250|hemitheoi
+_rsv_12384_-1_1_0_0_S64755250_E64755250|concept of fire
+_rsv_12384_-1_1_2_0_S64755250_E64755250|concepts of fire
+_rsv_12385_-1_1_0_0_S64755250_E64755250|concept of water
+_rsv_12385_-1_1_2_0_S64755250_E64755250|concepts of water
+_rsv_12386_-1_1_0_0_S64755250_E64755250|concept of earth
+_rsv_12386_-1_1_2_0_S64755250_E64755250|concepts of earth
+_rsv_12387_-1_1_0_0_S64755250_E64755250|forbidden factor
+_rsv_12387_-1_1_2_0_S64755250_E64755250|forbidden factors
+_rsv_12382_-1_1_0_1_S64755250_E64755250|Pallas Athena
+_rsv_12387_-1_1_2_1_S64755250_E64755250|forbidden factors
+_rsv_12384_-1_1_2_1_S64755250_E64755250|concepts of fire
+_rsv_12382_-1_1_2_1_S64755250_E64755250|Pallas Athena
+_rsv_12384_-1_1_0_1_S64755250_E64755250|concept of fire
+_rsv_12385_-1_1_2_1_S64755250_E64755250|concepts of water
+_rsv_12386_-1_1_0_1_S64755250_E64755250|concept of earth
+_rsv_12383_-1_1_2_1_S64755250_E64755250|hemitheoi
+_rsv_12386_-1_1_2_1_S64755250_E64755250|concepts of earth
+_rsv_12387_-1_1_0_1_S64755250_E64755250|forbidden factor
+_rsv_12385_-1_1_0_1_S64755250_E64755250|concept of water
+_rsv_12383_-1_1_0_1_S64755250_E64755250|hemitheos
