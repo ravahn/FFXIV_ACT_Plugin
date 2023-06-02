@@ -1,4 +1,5 @@
 ﻿# action_data
+# EN
 _rsv_33130_-1_1_0_0_SE2DC5B04_EE2DC5B04|Rear Combination
 _rsv_33211_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chimeric Succession
 _rsv_34702_-1_1_0_0_SE2DC5B04_EE2DC5B04|Front Firestrikes
@@ -13,15 +14,42 @@ _rsv_33128_-1_1_0_1_SE2DC5B04_EE2DC5B04|Front Combination
 _rsv_33130_-1_1_0_1_SE2DC5B04_EE2DC5B04|Rear Combination
 _rsv_33129_-1_1_0_1_SE2DC5B04_EE2DC5B04|Rear Combination
 _rsv_33211_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chimeric Succession
+# FR
+_rsv_33127_-1_3_0_0_SE2DC5B04_EE2DC5B04|Coups de pied pivotants avant en série
+_rsv_33211_-1_3_0_0_SE2DC5B04_EE2DC5B04|Combo chimérique
+_rsv_34702_-1_3_0_0_SE2DC5B04_EE2DC5B04|Coups enflammés avant en série
+_rsv_34703_-1_3_0_0_SE2DC5B04_EE2DC5B04|Coups enflammés arrière en série
+_rsv_33127_-1_3_0_1_SE2DC5B04_EE2DC5B04|Coups de pied pivotants avant en série
+_rsv_33128_-1_3_0_1_SE2DC5B04_EE2DC5B04|Coups de pied pivotants avant en série
+_rsv_33129_-1_3_0_1_SE2DC5B04_EE2DC5B04|Coups de pied pivotants arrière en série
+_rsv_33128_-1_3_0_0_SE2DC5B04_EE2DC5B04|Coups de pied pivotants avant en série
+_rsv_33129_-1_3_0_0_SE2DC5B04_EE2DC5B04|Coups de pied pivotants arrière en série
+_rsv_33130_-1_3_0_1_SE2DC5B04_EE2DC5B04|Coups de pied pivotants arrière en série
+_rsv_33211_-1_3_0_1_SE2DC5B04_EE2DC5B04|Combo chimérique
+_rsv_34702_-1_3_0_1_SE2DC5B04_EE2DC5B04|Coups enflammés avant en série
+_rsv_34703_-1_3_0_1_SE2DC5B04_EE2DC5B04|Coups enflammés arrière en série
+_rsv_33130_-1_3_0_0_SE2DC5B04_EE2DC5B04|Coups de pied pivotants arrière en série
 
 # status_data
+# EN
 _rsv_3545_-1_1_0_0_S74CFC3B0_E74CFC3B0|Chimeric Soul
 _rsv_3545_-1_1_1_0_S74CFC3B0_E74CFC3B0|Wielding the power of multiple ancient souls.
 _rsv_3545_-1_1_0_1_S74CFC3B0_E74CFC3B0|Chimeric Soul
 _rsv_3545_-1_1_1_1_S74CFC3B0_E74CFC3B0|Wielding the power of multiple ancient souls.
+# FR
+_rsv_3545_-1_3_0_0_S74CFC3B0_E74CFC3B0|Âme de chimère
+_rsv_3545_-1_3_1_0_S74CFC3B0_E74CFC3B0|Plusieurs âmes ont été avalées, et leurs pouvoirs ont été mélangés.
+_rsv_3545_-1_3_1_1_S74CFC3B0_E74CFC3B0|Plusieurs âmes ont été avalées, et leurs pouvoirs ont été mélangés.
+_rsv_3545_-1_3_0_1_S74CFC3B0_E74CFC3B0|Âme de chimère
 
 #
+# EN
 _rsv_12454_-1_1_0_0_S64755250_E64755250|chimera's lament
 _rsv_12454_-1_1_2_0_S64755250_E64755250|chimera's laments
 _rsv_12454_-1_1_0_1_S64755250_E64755250|chimera's lament
 _rsv_12454_-1_1_2_1_S64755250_E64755250|chimera's laments
+# FR
+_rsv_12454_-1_3_0_1_S64755250_E64755250|Cocyte chimère
+_rsv_12454_-1_3_2_0_S64755250_E64755250|Cocyte chimères
+_rsv_12454_-1_3_2_1_S64755250_E64755250|Cocyte chimères
+_rsv_12454_-1_3_0_0_S64755250_E64755250|Cocyte chimère
