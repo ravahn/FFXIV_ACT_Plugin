@@ -305,7 +305,7 @@ _rsv_36933_-1_1_0_1_S13095D61_E13095D61|I...I am infallible...
 _rsv_36934_-1_1_0_1_S13095D61_E13095D61|Why...does this world persist?
 _rsv_36935_-1_1_0_1_S13095D61_E13095D61|Why...do I persist?
 
-#
+# bnpc_data
 # EN
 _rsv_12382_-1_1_0_0_S64755250_E64755250|Pallas Athena
 _rsv_12382_-1_1_2_0_S64755250_E64755250|Pallas Athena

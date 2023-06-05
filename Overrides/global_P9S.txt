@@ -29,6 +29,36 @@ _rsv_33211_-1_3_0_1_SE2DC5B04_EE2DC5B04|Combo chimérique
 _rsv_34702_-1_3_0_1_SE2DC5B04_EE2DC5B04|Coups enflammés avant en série
 _rsv_34703_-1_3_0_1_SE2DC5B04_EE2DC5B04|Coups enflammés arrière en série
 _rsv_33130_-1_3_0_0_SE2DC5B04_EE2DC5B04|Coups de pied pivotants arrière en série
+# JA
+_rsv_34703_-1_0_0_0_SE2DC5B04_EE2DC5B04|後方炎連撃
+_rsv_34703_-1_0_0_1_SE2DC5B04_EE2DC5B04|後方炎連撃
+_rsv_33130_-1_0_0_0_SE2DC5B04_EE2DC5B04|後方連転脚
+_rsv_33130_-1_0_0_1_SE2DC5B04_EE2DC5B04|後方連転脚
+_rsv_33127_-1_0_0_0_SE2DC5B04_EE2DC5B04|前方連転脚
+_rsv_33127_-1_0_0_1_SE2DC5B04_EE2DC5B04|前方連転脚
+_rsv_34702_-1_0_0_0_SE2DC5B04_EE2DC5B04|前方炎連撃
+_rsv_34702_-1_0_0_1_SE2DC5B04_EE2DC5B04|前方炎連撃
+_rsv_33128_-1_0_0_0_SE2DC5B04_EE2DC5B04|前方連転脚
+_rsv_33128_-1_0_0_1_SE2DC5B04_EE2DC5B04|前方連転脚
+_rsv_33211_-1_0_0_0_SE2DC5B04_EE2DC5B04|キメリックコンボ
+_rsv_33211_-1_0_0_1_SE2DC5B04_EE2DC5B04|キメリックコンボ
+_rsv_33129_-1_0_0_0_SE2DC5B04_EE2DC5B04|後方連転脚
+_rsv_33129_-1_0_0_1_SE2DC5B04_EE2DC5B04|後方連転脚
+# DE
+_rsv_34703_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flammensalve hinten
+_rsv_34703_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flammensalve hinten
+_rsv_33130_-1_2_0_0_SE2DC5B04_EE2DC5B04|Trittfolge zurück
+_rsv_33130_-1_2_0_1_SE2DC5B04_EE2DC5B04|Trittfolge zurück
+_rsv_33127_-1_2_0_0_SE2DC5B04_EE2DC5B04|Trittfolge vor
+_rsv_33127_-1_2_0_1_SE2DC5B04_EE2DC5B04|Trittfolge vor
+_rsv_34702_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flammensalve vorne
+_rsv_34702_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flammensalve vorne
+_rsv_33128_-1_2_0_0_SE2DC5B04_EE2DC5B04|Trittfolge vor
+_rsv_33128_-1_2_0_1_SE2DC5B04_EE2DC5B04|Trittfolge vor
+_rsv_33211_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chimärische Kombo
+_rsv_33211_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chimärische Kombo
+_rsv_33129_-1_2_0_0_SE2DC5B04_EE2DC5B04|Trittfolge zurück
+_rsv_33129_-1_2_0_1_SE2DC5B04_EE2DC5B04|Trittfolge zurück
 
 # status_data
 # EN
@@ -41,8 +71,18 @@ _rsv_3545_-1_3_0_0_S74CFC3B0_E74CFC3B0|Âme de chimère
 _rsv_3545_-1_3_1_0_S74CFC3B0_E74CFC3B0|Plusieurs âmes ont été avalées, et leurs pouvoirs ont été mélangés.
 _rsv_3545_-1_3_1_1_S74CFC3B0_E74CFC3B0|Plusieurs âmes ont été avalées, et leurs pouvoirs ont été mélangés.
 _rsv_3545_-1_3_0_1_S74CFC3B0_E74CFC3B0|Âme de chimère
+# JA
+_rsv_3545_-1_0_0_0_S74CFC3B0_E74CFC3B0|キメリックソウル
+_rsv_3545_-1_0_1_0_S74CFC3B0_E74CFC3B0|複数の魂を喰らい、その力を共存させた状態。
+_rsv_3545_-1_0_0_1_S74CFC3B0_E74CFC3B0|キメリックソウル
+_rsv_3545_-1_0_1_1_S74CFC3B0_E74CFC3B0|複数の魂を喰らい、その力を共存させた状態。
+# DE
+_rsv_3545_-1_2_0_0_S74CFC3B0_E74CFC3B0|Chimärenseele
+_rsv_3545_-1_2_1_0_S74CFC3B0_E74CFC3B0|Hat mehrere Seelen gefressen und deren Kräfte übernommen.
+_rsv_3545_-1_2_0_1_S74CFC3B0_E74CFC3B0|Chimärenseele
+_rsv_3545_-1_2_1_1_S74CFC3B0_E74CFC3B0|Hat mehrere Seelen gefressen und deren Kräfte übernommen.
 
-#
+# bnpc_data
 # EN
 _rsv_12454_-1_1_0_0_S64755250_E64755250|chimera's lament
 _rsv_12454_-1_1_2_0_S64755250_E64755250|chimera's laments
@@ -53,3 +93,11 @@ _rsv_12454_-1_3_0_1_S64755250_E64755250|Cocyte chimère
 _rsv_12454_-1_3_2_0_S64755250_E64755250|Cocyte chimères
 _rsv_12454_-1_3_2_1_S64755250_E64755250|Cocyte chimères
 _rsv_12454_-1_3_0_0_S64755250_E64755250|Cocyte chimère
+# JA
+_rsv_12454_-1_0_0_0_S64755250_E64755250|キメリック・コキュートス
+_rsv_12454_-1_0_0_1_S64755250_E64755250|キメリック・コキュートス
+# DE
+_rsv_12454_-1_2_0_0_S64755250_E64755250|Kokytos-Chimäre
+_rsv_12454_-1_2_0_1_S64755250_E64755250|Kokytos-Chimäre
+_rsv_12454_-1_2_2_0_S64755250_E64755250|Kokytos-Chimären
+_rsv_12454_-1_2_2_1_S64755250_E64755250|Kokytos-Chimären
