@@ -50,7 +50,7 @@
     { "763": "horoscope helios", "timeproc": { "type": "groundheal", "potency": 400, "maxticks": 10 } },
 
     { "757": "opposition", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
-    { "34F": "collective unconscious", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
+    { "351": "collective unconscious", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
     { "a9c" : "harmony of mind", "potency": [{"type": "HealDoneMultiplier", "amount": 5}, 
                                           {"type": "damagedonemultiplier", "amount": 5}]},
     { "a9d": "exaltation", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] ,
