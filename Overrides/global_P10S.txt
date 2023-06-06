@@ -1,0 +1,38 @@
+﻿# action_data
+# EN
+_rsv_34596_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pandæmoniac Web
+_rsv_33407_-1_1_0_1_SE2DC5B04_EE2DC5B04|Steel Web
+_rsv_34734_-1_1_0_0_SE2DC5B04_EE2DC5B04|Tetradæmoniac Bonds
+_rsv_33442_-1_1_0_0_SE2DC5B04_EE2DC5B04|Dæmoniac Bonds
+_rsv_33441_-1_1_0_0_SE2DC5B04_EE2DC5B04|Dæmoniac Bonds
+_rsv_33441_-1_1_0_1_SE2DC5B04_EE2DC5B04|Dæmoniac Bonds
+_rsv_33442_-1_1_0_1_SE2DC5B04_EE2DC5B04|Dæmoniac Bonds
+_rsv_33443_-1_1_0_1_SE2DC5B04_EE2DC5B04|Duodæmoniac Bonds
+_rsv_33407_-1_1_0_0_SE2DC5B04_EE2DC5B04|Steel Web
+_rsv_34595_-1_1_0_0_SE2DC5B04_EE2DC5B04|Steel Web
+_rsv_34735_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pandæmoniac Turrets
+_rsv_33443_-1_1_0_0_SE2DC5B04_EE2DC5B04|Duodæmoniac Bonds
+_rsv_34595_-1_1_0_1_SE2DC5B04_EE2DC5B04|Steel Web
+_rsv_34596_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pandæmoniac Web
+_rsv_34734_-1_1_0_1_SE2DC5B04_EE2DC5B04|Tetradæmoniac Bonds
+_rsv_34735_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pandæmoniac Turrets
+
+# status_data
+# EN
+_rsv_3550_-1_1_0_0_S74CFC3B0_E74CFC3B0|Dæmoniac Bonds
+_rsv_3550_-1_1_1_0_S74CFC3B0_E74CFC3B0|Fated to take damage when this effect expires.
+_rsv_3551_-1_1_0_0_S74CFC3B0_E74CFC3B0|Duodæmoniac Bonds
+_rsv_3551_-1_1_1_0_S74CFC3B0_E74CFC3B0|Fated twofold to take damage when this effect expires.
+_rsv_3696_-1_1_0_0_S74CFC3B0_E74CFC3B0|Tetradæmoniac Bonds
+_rsv_3550_-1_1_0_1_S74CFC3B0_E74CFC3B0|Dæmoniac Bonds
+_rsv_3550_-1_1_1_1_S74CFC3B0_E74CFC3B0|Fated to take damage when this effect expires.
+_rsv_3696_-1_1_1_0_S74CFC3B0_E74CFC3B0|Fated fourfold to take damage when this effect expires.
+_rsv_3551_-1_1_0_1_S74CFC3B0_E74CFC3B0|Duodæmoniac Bonds
+_rsv_3551_-1_1_1_1_S74CFC3B0_E74CFC3B0|Fated twofold to take damage when this effect expires.
+_rsv_3696_-1_1_0_1_S74CFC3B0_E74CFC3B0|Tetradæmoniac Bonds
+_rsv_3696_-1_1_1_1_S74CFC3B0_E74CFC3B0|Fated fourfold to take damage when this effect expires.
+
+# logmessage_data
+# EN
+_rsv_10322_-1_1_0_0_SF15185AF_EF15185AF|The webs are impassable!
+_rsv_10322_-1_1_0_1_SF15185AF_EF15185AF|The webs are impassable!
