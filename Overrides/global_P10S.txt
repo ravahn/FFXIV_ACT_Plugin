@@ -1,4 +1,21 @@
 ﻿# action_data
+# JA
+_rsv_33407_-1_0_0_0_SE2DC5B04_EE2DC5B04|ヘビーウェブ
+_rsv_33407_-1_0_0_1_SE2DC5B04_EE2DC5B04|ヘビーウェブ
+_rsv_33441_-1_0_0_0_SE2DC5B04_EE2DC5B04|パンデモニックボンド
+_rsv_33441_-1_0_0_1_SE2DC5B04_EE2DC5B04|パンデモニックボンド
+_rsv_33442_-1_0_0_0_SE2DC5B04_EE2DC5B04|パンデモニックボンド
+_rsv_33442_-1_0_0_1_SE2DC5B04_EE2DC5B04|パンデモニックボンド
+_rsv_33443_-1_0_0_0_SE2DC5B04_EE2DC5B04|パンデモニックボンド・ダブル
+_rsv_33443_-1_0_0_1_SE2DC5B04_EE2DC5B04|パンデモニックボンド・ダブル
+_rsv_34595_-1_0_0_0_SE2DC5B04_EE2DC5B04|ヘビーウェブ
+_rsv_34595_-1_0_0_1_SE2DC5B04_EE2DC5B04|ヘビーウェブ
+_rsv_34596_-1_0_0_0_SE2DC5B04_EE2DC5B04|パンデモニックウェブ
+_rsv_34596_-1_0_0_1_SE2DC5B04_EE2DC5B04|パンデモニックウェブ
+_rsv_34734_-1_0_0_0_SE2DC5B04_EE2DC5B04|パンデモニックボンド・クアドラ
+_rsv_34734_-1_0_0_1_SE2DC5B04_EE2DC5B04|パンデモニックボンド・クアドラ
+_rsv_34735_-1_0_0_0_SE2DC5B04_EE2DC5B04|パンデモニックタレット
+_rsv_34735_-1_0_0_1_SE2DC5B04_EE2DC5B04|パンデモニックタレット
 # EN
 _rsv_34596_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pandæmoniac Web
 _rsv_33407_-1_1_0_1_SE2DC5B04_EE2DC5B04|Steel Web
@@ -16,8 +33,55 @@ _rsv_34595_-1_1_0_1_SE2DC5B04_EE2DC5B04|Steel Web
 _rsv_34596_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pandæmoniac Web
 _rsv_34734_-1_1_0_1_SE2DC5B04_EE2DC5B04|Tetradæmoniac Bonds
 _rsv_34735_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pandæmoniac Turrets
+# DE
+_rsv_33407_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schwernetz
+_rsv_33407_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schwernetz
+_rsv_33441_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dæmonische Fessel
+_rsv_33441_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dæmonische Fessel
+_rsv_33442_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dæmonische Fessel
+_rsv_33442_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dæmonische Fessel
+_rsv_33443_-1_2_0_0_SE2DC5B04_EE2DC5B04|Duodæmonische Fessel
+_rsv_33443_-1_2_0_1_SE2DC5B04_EE2DC5B04|Duodæmonische Fessel
+_rsv_34595_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schwernetz
+_rsv_34595_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schwernetz
+_rsv_34596_-1_2_0_0_SE2DC5B04_EE2DC5B04|Pandæmonisches Netz
+_rsv_34596_-1_2_0_1_SE2DC5B04_EE2DC5B04|Pandæmonisches Netz
+_rsv_34734_-1_2_0_0_SE2DC5B04_EE2DC5B04|Tetradæmonische Fessel
+_rsv_34734_-1_2_0_1_SE2DC5B04_EE2DC5B04|Tetradæmonische Fessel
+_rsv_34735_-1_2_0_0_SE2DC5B04_EE2DC5B04|Pandæmonischer Feuerturm
+_rsv_34735_-1_2_0_1_SE2DC5B04_EE2DC5B04|Pandæmonischer Feuerturm
+# FR
+_rsv_33407_-1_3_0_0_SE2DC5B04_EE2DC5B04|Toile dense
+_rsv_33407_-1_3_0_1_SE2DC5B04_EE2DC5B04|Toile dense
+_rsv_33441_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lien pandæmoniaque
+_rsv_33441_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lien pandæmoniaque
+_rsv_33442_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lien pandæmoniaque
+_rsv_33442_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lien pandæmoniaque
+_rsv_33443_-1_3_0_0_SE2DC5B04_EE2DC5B04|Double lien pandæmoniaque
+_rsv_33443_-1_3_0_1_SE2DC5B04_EE2DC5B04|Double lien pandæmoniaque
+_rsv_34595_-1_3_0_0_SE2DC5B04_EE2DC5B04|Toile dense
+_rsv_34595_-1_3_0_1_SE2DC5B04_EE2DC5B04|Toile dense
+_rsv_34596_-1_3_0_0_SE2DC5B04_EE2DC5B04|Toile pandæmoniaque
+_rsv_34596_-1_3_0_1_SE2DC5B04_EE2DC5B04|Toile pandæmoniaque
+_rsv_34734_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple lien pandæmoniaque
+_rsv_34734_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple lien pandæmoniaque
+_rsv_34735_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tourelles pandæmoniaques
+_rsv_34735_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tourelles pandæmoniaques
 
 # status_data
+# JA
+_rsv_3550_-1_0_0_0_S74CFC3B0_E74CFC3B0|パンデモニックボンド
+_rsv_3550_-1_0_0_1_S74CFC3B0_E74CFC3B0|パンデモニックボンド
+_rsv_3550_-1_0_1_0_S74CFC3B0_E74CFC3B0|呪いを受け、効果時間終了時に被害が発生する状態。
+_rsv_3550_-1_0_1_1_S74CFC3B0_E74CFC3B0|呪いを受け、効果時間終了時に被害が発生する状態。
+_rsv_3551_-1_0_0_0_S74CFC3B0_E74CFC3B0|パンデモニックボンド・ダブル
+_rsv_3551_-1_0_0_1_S74CFC3B0_E74CFC3B0|パンデモニックボンド・ダブル
+_rsv_3551_-1_0_1_0_S74CFC3B0_E74CFC3B0|二重の呪いを受け、効果時間終了時に被害が発生する状態。
+_rsv_3551_-1_0_1_1_S74CFC3B0_E74CFC3B0|二重の呪いを受け、効果時間終了時に被害が発生する状態。
+_rsv_3696_-1_0_0_0_S74CFC3B0_E74CFC3B0|パンデモニックボンド・クアドラ
+_rsv_3696_-1_0_0_1_S74CFC3B0_E74CFC3B0|パンデモニックボンド・クアドラ
+_rsv_3696_-1_0_1_0_S74CFC3B0_E74CFC3B0|四重の呪いを受け、効果時間終了時に被害が発生する状態。
+_rsv_3696_-1_0_1_1_S74CFC3B0_E74CFC3B0|四重の呪いを受け、効果時間終了時に被害が発生する状態。
 # EN
 _rsv_3550_-1_1_0_0_S74CFC3B0_E74CFC3B0|Dæmoniac Bonds
 _rsv_3550_-1_1_1_0_S74CFC3B0_E74CFC3B0|Fated to take damage when this effect expires.
@@ -31,8 +95,44 @@ _rsv_3551_-1_1_0_1_S74CFC3B0_E74CFC3B0|Duodæmoniac Bonds
 _rsv_3551_-1_1_1_1_S74CFC3B0_E74CFC3B0|Fated twofold to take damage when this effect expires.
 _rsv_3696_-1_1_0_1_S74CFC3B0_E74CFC3B0|Tetradæmoniac Bonds
 _rsv_3696_-1_1_1_1_S74CFC3B0_E74CFC3B0|Fated fourfold to take damage when this effect expires.
+# DE
+_rsv_3550_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dæmonische Fessel
+_rsv_3550_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dæmonische Fessel
+_rsv_3550_-1_2_1_0_S74CFC3B0_E74CFC3B0|Erleidet nach Ablauf Schaden.
+_rsv_3550_-1_2_1_1_S74CFC3B0_E74CFC3B0|Erleidet nach Ablauf Schaden.
+_rsv_3551_-1_2_0_0_S74CFC3B0_E74CFC3B0|Duodæmonische Fessel
+_rsv_3551_-1_2_0_1_S74CFC3B0_E74CFC3B0|Duodæmonische Fessel
+_rsv_3551_-1_2_1_0_S74CFC3B0_E74CFC3B0|Erleidet nach Ablauf Schaden.
+_rsv_3551_-1_2_1_1_S74CFC3B0_E74CFC3B0|Erleidet nach Ablauf Schaden.
+_rsv_3696_-1_2_0_0_S74CFC3B0_E74CFC3B0|Tetradæmonische Fessel
+_rsv_3696_-1_2_0_1_S74CFC3B0_E74CFC3B0|Tetradæmonische Fessel
+_rsv_3696_-1_2_1_0_S74CFC3B0_E74CFC3B0|Erleidet nach Ablauf Schaden.
+_rsv_3696_-1_2_1_1_S74CFC3B0_E74CFC3B0|Erleidet nach Ablauf Schaden.
+# FR
+_rsv_3550_-1_3_0_0_S74CFC3B0_E74CFC3B0|Lien pandæmoniaque
+_rsv_3550_-1_3_0_1_S74CFC3B0_E74CFC3B0|Lien pandæmoniaque
+_rsv_3550_-1_3_1_0_S74CFC3B0_E74CFC3B0|La victime est maudite, et subit des dégâts à la fin de l'effet.
+_rsv_3550_-1_3_1_1_S74CFC3B0_E74CFC3B0|La victime est maudite, et subit des dégâts à la fin de l'effet.
+_rsv_3551_-1_3_0_0_S74CFC3B0_E74CFC3B0|Double lien pandæmoniaque
+_rsv_3551_-1_3_0_1_S74CFC3B0_E74CFC3B0|Double lien pandæmoniaque
+_rsv_3551_-1_3_1_0_S74CFC3B0_E74CFC3B0|La victime est doublement maudite, et subit des dégâts à la fin de l'effet.
+_rsv_3551_-1_3_1_1_S74CFC3B0_E74CFC3B0|La victime est doublement maudite, et subit des dégâts à la fin de l'effet.
+_rsv_3696_-1_3_0_0_S74CFC3B0_E74CFC3B0|Quadruple lien pandæmoniaque
+_rsv_3696_-1_3_0_1_S74CFC3B0_E74CFC3B0|Quadruple lien pandæmoniaque
+_rsv_3696_-1_3_1_0_S74CFC3B0_E74CFC3B0|La victime est quadruplement maudite, et subit des dégâts à la fin de l'effet.
+_rsv_3696_-1_3_1_1_S74CFC3B0_E74CFC3B0|La victime est quadruplement maudite, et subit des dégâts à la fin de l'effet.
 
 # logmessage_data
+# JA
+_rsv_10322_-1_0_0_0_SF15185AF_EF15185AF|粘糸によって、障壁が生成された……
+_rsv_10322_-1_0_0_1_SF15185AF_EF15185AF|粘糸によって、障壁が生成された……
 # EN
 _rsv_10322_-1_1_0_0_SF15185AF_EF15185AF|The webs are impassable!
 _rsv_10322_-1_1_0_1_SF15185AF_EF15185AF|The webs are impassable!
+# DE
+_rsv_10322_-1_2_0_0_SF15185AF_EF15185AF|Die Fäden bilden ein Hindernis!
+_rsv_10322_-1_2_0_1_SF15185AF_EF15185AF|Die Fäden bilden ein Hindernis!
+# FR
+_rsv_10322_-1_3_0_0_SF15185AF_EF15185AF|La toile d'araignée forme une barrière impénétrable!
+_rsv_10322_-1_3_0_1_SF15185AF_EF15185AF|La toile d'araignée forme une barrière impénétrable!
+
