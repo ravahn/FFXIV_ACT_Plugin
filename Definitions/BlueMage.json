@@ -57,7 +57,7 @@
 { "5AE1" : "tingle", "damage": [ { "potency": 50}, { "potency": 100, "targetindex": 0} ] },
 { "5AE2" : "tatami gaeshi", "damage": [ { "potency": 110} , { "potency": 220, "targetindex": 0} ] },
 { "5AE4" : "white death", "damage": [ { "potency": 400} ] },
-{ "5AE5" : "stotram", "damage": [ { "potency": 140} ], "heal": [ { "potency": 300} ] },
+{ "5AE5" : "stotram attack", "damage": [ { "potency": 140} ] },
 { "5AE6" : "saintly beam", "damage": [ { "potency": 0} ] },
 { "5AE7" : "feculent flood", "damage": [ { "potency": 110}, { "potency": 220, "targetindex": 0} ] },
 { "5AE8" : "angel's snack", "heal": [ { "potency": 400} ] },
@@ -74,8 +74,9 @@
 { "5AF7" : "both ends", "damage": [ { "potency": 600} ] },
 { "5AF9" : "phantom flurry", "damage": [ { "potency": 300}, {"potency":600, "targetindex": 0} ] },
 { "5AFA" : "nightbloom", "damage": [ { "potency": 200}, { "potency": 400, "targetindex": 0} ] },
-{ "5B78" : "stotram", "damage": [ { "potency": 140} ], "heal": [ { "potency": 300} ] },
+{ "5B78" : "stotram heal", "heal": [ { "potency": 300} ] }
 ],
+
 "statuseffects" : [ 
 { "84D": "aetherial mimicry: dps", "multiplier": [
     { "type": "criticalhit", "amount": 20 },
