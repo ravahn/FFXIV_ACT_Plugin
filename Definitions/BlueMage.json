@@ -130,10 +130,14 @@
 { "842" : "Gobskin", "damageshield": { "type": "Potency", "amount": 0 } },
 { "843" : "Magic Hammer", "potency": [ { "type": "damagedonemultiplier", "amount": -10, "limittodamagetype": "magic"} ] },
 { "9C0" : "Chelonian Gate", "potency": [ { "type": "DamageReceivedMultiplier", "amount": -20 }] },
+{ "9C2" : "basic instinct", "potency": [ 
+    { "type": "HealDoneMultiplier", "amount": 100, "limitto": "pom cure,exuviation,stotram,angel's snack,rehydration" },
+    { "type": "damagedonemultiplier", "amount": 100 }
+] },
 { "9C4" : "Dragon Force", "potency": [{"type": "DamageReceivedMultiplier", "amount": -40, "amountbyte": 2}] },
 { "E2F" : "schiltron", "reactiveproc": { "type": "DamageOnDamageReceived", "amount": 0 } },
 { "E34" : "begrimed", "timeproc": { "type": "dot", "potency": "10", "damagetype": "magic", "maxticks": "3" } },
-{ "E35" : "spick-and-span", "timeproc": { "type": "hot", "potency": "0", "maxticks": "5" } },
+{ "E35" : "spick-and-span", "timeproc": { "type": "hot", "potency": "50", "maxticks": "5", "isstacked": true } },
 { "E36" : "force field physical", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -50, "limittodamagetype": "physical"} ] },
 { "E37" : "force field magical", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -50, "limittodamagetype": "magic"} ] },
 { "E39" : "winged redemption", "potency": [ {"type": "damagedonemultiplier", "amount": 100, "limitto": "Conviction Marcato"} ] },
