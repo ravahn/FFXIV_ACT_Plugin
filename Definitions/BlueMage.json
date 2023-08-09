@@ -164,7 +164,7 @@
 { "E37" : "force field magical", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -50, "limittodamagetype": "magic"} ] },
 { "E39" : "winged redemption", "potency": [ {"type": "damagedonemultiplier", "amount": 100, "limitto": "Conviction Marcato"} ] },
 { "E3A" : "candy cane", "potency": [ { "type": "damagedonemultiplier", "amount": -10, "limittodamagetype": "physical"} ] },
-{ "E3B" : "mortal flame", "timeproc": { "type": "dot", "potency": "40", "damagetype": "magic" } },
+{ "E3B" : "mortal flame", "timeproc": { "type": "dot", "potency": "40", "damagetype": "magic", "maxticks": "9999" } },
 { "E3C" : "apokalypsis", "timeproc": { "type": "grounddamage", "potency": "140", "maxticks": "11" } },
 { "E80" : "breath of magic", "timeproc": { "type": "dot", "potency": "120", "damagetype": "magic", "maxticks": "20" } }
 ]
