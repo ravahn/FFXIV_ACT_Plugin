@@ -151,7 +151,7 @@
 { "843" : "Magic Hammer", "potency": [ { "type": "damagedonemultiplier", "amount": -10, "limittodamagetype": "magic"} ] },
 { "9C0" : "Chelonian Gate", "potency": [ { "type": "DamageReceivedMultiplier", "amount": -20 }] },
 { "9C2" : "basic instinct", "potency": [ 
-    { "type": "HealDoneMultiplier", "amount": 100, "limitto": "pom cure,exuviation,stotram,angel's snack,rehydration" },
+    { "type": "HealDoneMultiplier", "amount": 100 },
     { "type": "damagedonemultiplier", "amount": 100 }
 ] },
 { "9C4" : "Dragon Force", "potency": [{"type": "DamageReceivedMultiplier", "amount": -40, "amountbyte": 2}] },
