@@ -5,7 +5,7 @@
 { "BE" : "physick", "heal": [ { "potency": 450} ] },
 { "B9" : "adloquium", "heal": [ { "potency": 300} ] },
 { "BA" : "succor", "heal": [ { "potency": 200} ] },
-{ "45CE" : "ruin ii", "damage": [ { "potency": 220} ] },
+{ "45CE" : "ruin ii", "damage": [ { "potency": 240} ] },
 
 
 { "A7" : "energy drain", "damage": [ { "potency": 100} ], "heal": [ { "potency": 0} ] },
@@ -17,7 +17,7 @@
 { "409D" : "broil iii", "damage": [ { "potency": 255} ] },
 { "40A0" : "fey blessing", "heal": [ { "potency": 320} ] },
 { "40A3" : "consolation", "heal": [ { "potency": 250} ] },
-{ "6509" : "broil iv", "damage": [ { "potency": 295} ] },
+{ "6509" : "broil iv", "damage": [ { "potency": 310} ] },
 { "650a" : "art of war ii", "damage": [ { "potency": 180} ] },
 { "650b" : "protraction", "heal": [ { "potency": 0} ] },
 
@@ -26,6 +26,11 @@
 { "409F" : "fey blessing", "heal": [ { "potency": 320} ] },
 { "40A4" : "seraphic veil", "heal": [ { "potency": 180} ] },
 { "40A2" : "consolation", "heal": [ { "potency": 250} ] },
+
+{ "9095" : "concitation", "heal": [ { "potency": 200} ] },
+{ "9097" : "manifestation", "heal": [ { "potency": 360} ] },
+{ "9098" : "accession", "heal": [ { "potency": 240} ] },
+
 ],
 "statuseffects" : [ 
     { "B3": "bio", "timeproc": { "type": "dot", "potency": 20, "damagetype": "magic", "maxticks": 10 } },
@@ -33,7 +38,7 @@
     { "317" : "dissipation", "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ] },
     { "318": "emergency tactics", "reactiveproc": { "type": "HealOnHealCast" } },
     { "4C5": "chain strategem", "multiplier": [ { "type":  "criticalreceived", "amount": 10 } ] },
-    { "767": "biolysis", "timeproc": { "type": "dot", "potency": 70, "damagetype": "magic", "maxticks": 10 } },
+    { "767": "biolysis", "timeproc": { "type": "dot", "potency": 75, "damagetype": "magic", "maxticks": 10 } },
     { "a96": "protraction", "potency": [{ "type": "HealReceiveMultiplier", "amount":10 }] },
     { "a98": "expedience", "potency": [{ "type": "damagereceivedmultiplier", "amount": -10 }] },
     { "798": "sacred soil regen", "timeproc": { "type": "groundheal", "potency": "100", "maxticks": "5" } },
@@ -49,7 +54,10 @@
     { "4C4": "excogitation", "timeproc": { "type": "groundheal", "potency":800, "maxticks": 15 } },
     { "129": "galvanize", "damageshield": { "type": "HealPercent", "amount": 180 } },
     { "77e": "catalyze", "damageshield": { "type": "HealPercent", "amount": 180 } },
-    { "77d": "seraphic veil", "damageshield": { "type": "HealPercent", "amount": 100 } }
+    { "77d": "seraphic veil", "damageshield": { "type": "HealPercent", "amount": 100 } },
+
+    { "f2b": "baneful impaction", "timeproc": { "type": "dot", "potency": 140, "damagetype": "magic", "maxticks": 5 } },
+    { "f2d": "seraphism", "timeproc": { "type": "hot", "potency": 100, "maxticks": 7 } },
 
 
 ]

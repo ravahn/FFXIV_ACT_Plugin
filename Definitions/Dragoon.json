@@ -5,28 +5,31 @@
 { "4E" : "vorpal thrust", "damage": [ { "potency": 130, "combo": 280} ] },
 { "5A" : "piercing talon", "damage": [ { "potency": 150} ] },
 { "57" : "disembowel", "damage": [ { "potency": 140, "combo": 250} ] },
-{ "54" : "full thrust", "damage": [ { "potency": 100, "combo": 400} ] },
+{ "54" : "full thrust", "damage": [ { "potency": 100, "combo": 380} ] },
 { "5C" : "jump", "damage": [ { "potency": 320} ] },
 { "56" : "doom spike", "damage": [ { "potency": 110} ] },
-{ "5F" : "spineshatter dive", "damage": [ { "potency": 250} ] },
 { "58" : "chaos thrust", "damage": [ { "potency": 0} ] },
-{ "60" : "dragonfire dive", "damage": [ { "potency": 300} ] },
+{ "60" : "dragonfire dive", "damage": [ { "potency": 250}, { "potency": 500, "targetindex":  0} ] },
 { "DE2" : "fang and claw", "damage": [ { "potency": 0} ] },
 { "DE4" : "wheeling thrust", "damage": [ { "potency": 0} ] },
-{ "DE3" : "geirskogul", "damage": [ { "potency": 182}, {"potency": 260, "targetindex": 0} ] },
+{ "DE3" : "geirskogul", "damage": [ { "potency": 140}, {"potency": 280, "targetindex": 0} ] },
 { "1CE5" : "sonic thrust", "damage": [ { "potency": 100, "combo": 120} ] },
 { "1CE7" : "mirage dive", "damage": [ { "potency": 200} ] },
-{ "1CE8" : "nastrond", "damage": [ { "potency": 252},{"potency": 360, "targetindex": 0} ] },
+{ "1CE8" : "nastrond", "damage": [ { "potency": 180},{"potency": 360, "targetindex": 0} ] },
 { "405D" : "coerthan torment", "damage": [ { "potency": 100, "combo": 150} ] },
 { "405E" : "high jump", "damage": [ { "potency": 400} ] },
-{ "405F" : "raiden thrust", "damage": [ { "potency": 280} ] },
-{ "4060" : "stardiver", "damage": [ { "potency": 620, "targetindex": 0}, { "potency": 434} ] },
-
+{ "405F" : "raiden thrust", "damage": [ { "potency": 320} ] },
+{ "4060" : "stardiver", "damage": [ { "potency": 620, "targetindex": 0}, { "potency": 310} ] },
 { "64aa" : "draconian fury", "damage": [ { "potency": 130} ] },
-{ "64ab" : "heavens' thrust", "damage": [ { "potency": 100, "combo": 480} ] },
+{ "64ab" : "heavens' thrust", "damage": [ { "potency": 140, "combo": 440} ] },
 { "64ac" : "chaotic spring", "damage": [ { "potency": 0 } ] },
-{ "64ad" : "wyrmwind thrust", "damage": [ { "potency": 420, "targetindex": 0}, { "potency": 210} ] },
+{ "64ad" : "wyrmwind thrust", "damage": [ { "potency": 440, "targetindex": 0}, { "potency": 220} ] },
 
+{ "9058" : "drakesbane", "damage": [ { "potency": 440 } ] },
+{ "9059" : "rise of the dragon", "damage": [ { "potency": 550, "targetindex": 0}, { "potency": 275} ] },
+{ "905a" : "lance barrage", "damage": [ { "potency": 130, "combo": 340} ] },
+{ "905b" : "spiral blow", "damage": [ { "potency": 140, "combo": 300} ] },
+{ "905c" : "starcross", "damage": [ { "potency": 700, "targetindex": 0}, { "potency": 350} ] },
 
 
 ],
@@ -34,7 +37,7 @@
 { "312": "battle litany", "multiplier": [ { "type":  "criticalhit", "amount": 10 } ] },
 { "76": "chaos thrust", "timeproc": { "type": "dot", "potency": 40, "damagetype": "physical", "maxticks": 8 } },
 { "748" : "lance charge", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
-{ "77A" : "disembowel", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
+{ "77A" : "power surge", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
 { "5AE" : "left eye", "potency": [ {"type": "damagedonemultiplier", "amount": 5} ] },
 { "5AD" : "right eye", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
 { "776" : "right eye only", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
@@ -43,6 +46,7 @@
 { "aa0" : "power surge", "potency": [ {"type": "damagedonemultiplier", "amount": 10} ] },
 { "a9f": "chaotic spring", "timeproc": { "type": "dot", "potency": 45, "damagetype": "physical", "maxticks": 8 } },
 
+{ "f04": "life of the dragon", "potency":  [ {"type": "damagedonemultiplier", "amount": 15} ] },
 
 ]
 }

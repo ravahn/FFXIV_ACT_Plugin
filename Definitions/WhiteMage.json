@@ -19,14 +19,16 @@
 { "DF2" : "tetragrammaton", "heal": [ { "potency": 700} ] },
 { "1D07" : "stone iv", "damage": [ { "potency": 260} ] },
 { "1D09" : "plenary indulgence", "heal": [ { "potency": 0} ] },
-{ "4094" : "dia", "damage": [ { "potency": 65} ] },
+{ "4094" : "dia", "damage": [ { "potency": 70} ] },
 { "4095" : "glare", "damage": [ { "potency": 290} ] },
 { "4096" : "afflatus rapture", "heal": [ { "potency": 400} ] },
-{ "4097" : "afflatus misery", "damage": [ { "potency": 1240, "targetindex": 0},  { "potency": 620 }  ] },
-{ "6503" : "glare iii", "damage": [ { "potency": 310 } ] },
+{ "4097" : "afflatus misery", "damage": [ { "potency": 1320, "targetindex": 0},  { "potency": 660 }  ] },
+{ "6503" : "glare iii", "damage": [ { "potency": 330 } ] },
 { "6504" : "holy iii", "damage": [ { "potency": 150 } ] },
 { "6507": "liturgy of the bell tick", "heal": [{"potency": 400 }]},
-{ "6508": "liturgy of the bell expire", "heal": [{"potency": 0 }]}
+{ "6508": "liturgy of the bell expire", "heal": [{"potency": 0 }]},
+{ "9091" : "glare iv", "damage": [ { "potency": 640, "targetindex": 0}, {"potency": 384 } ] },
+{ "9092" : "medica iii", "heal": [ { "potency": 250} ] },
 
 ],
 "statuseffects" : [ 
@@ -37,13 +39,19 @@
 { "777": "asylum", "timeproc": { "type": "groundheal", "potency": 100, "maxticks": 8 } },
 { "2E3": "asylum", "timeproc": { "type": "groundheal", "potency": 100, "maxticks": 8 } },
 { "778" : "asylum", "potency": [ {"type": "HealReceiveMultiplier", "amount": 10} ] },
-{ "74F": "dia", "timeproc": { "type": "dot", "potency": 65, "damagetype": "magic", "maxticks": 10 } },
+{ "74F": "dia", "timeproc": { "type": "dot", "potency": 70, "damagetype": "magic", "maxticks": 10 } },
 { "a94" : "aquaveil", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
 
 { "4C3": "confession", "timeproc": { "type": "groundheal", "potency": 200, "maxticks": 3 } },
 { "750" : "temperance self", "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ] },
 { "751" : "temperance others", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
 { "4c2" : "divine benison", "damageshield": { "type": "Potency", "amount": 500 } },
+
+{ "f28": "medica iii", "timeproc": { "type": "hot", "potency": 175, "maxticks": 5 } },
+{ "f3f" : "divine caress", 
+    "damageshield": { "type": "potency", "amount": 400 },
+    "timeproc": { "type": "hot", "potency": 200, "maxticks": 5 } 
+},
 
 ]
 }

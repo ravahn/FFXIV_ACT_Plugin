@@ -24,19 +24,22 @@
                               "heal": [ { "potency": 170} ] },
     { "53f4" : "eukrasian dosis ii", "heal": [ { "potency": 170} ] },
     { "5ef6" : "holos", "heal": [ { "potency": 300} ]},
-    { "5ef8" : "dosis iii", "damage": [ { "potency": 330} ],
+    { "5ef8" : "dosis iii", "damage": [ { "potency": 360} ],
                             "heal": [{"potency": 170}] },
     { "5ef9" : "phlegma iii", "damage": [{"potency": 600, "targetindex": 0}, {"potency": 300}],
                               "heal": [ { "potency": 170} ] },
     { "5efa" : "eukrasian dosis iii", "heal": [ { "potency": 170} ] },
     { "5efb" : "dyskrasia ii", "damage": [ { "potency": 170} ],
                                 "heal": [{"potency": 170}] },
-    { "5efc" : "toxikon ii", "damage": [{"potency": 330, "targetindex": 0}, {"potency": 165}],
+    { "5efc" : "toxikon ii", "damage": [{"potency": 360, "targetindex": 0}, {"potency": 180}],
                               "heal": [ { "potency": 170} ] },
-    { "5efe" : "pneuma attack", "damage": [{"potency": 330, "targetindex": 0}, {"potency": 198}],
+    { "5efe" : "pneuma attack", "damage": [{"potency": 360, "targetindex": 0}, {"potency": 216}],
                               "heal": [ { "potency": 170} ] },
-    { "6B84" : "pneuma heal", "heal": [ { "potency": 600} ] }
+    { "6B84" : "pneuma heal", "heal": [ { "potency": 600} ] },
 
+    { "90a8" : "eukrasian dyskrasia", "heal": [ { "potency": 170} ] },
+    { "90a9" : "psyche", "damage": [{"potency": 600, "targetindex": 0}, {"potency": 300 } ] },
+    { "90aa" : "eukrasian prognosis ii", "heal": [ { "potency": 100} ] },
 
 ],
 "statuseffects" : [ 
@@ -50,7 +53,10 @@
     { "a3a": "kerachole", "potency": [ { "type": "DamageReceivedMultiplier", "amount": -10 } ] },
     { "B7A": "kerakeia", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
     { "a33": "zoe", "potency": [ {"type": "HealDoneMultiplier", "amount": 50}] }, 
-    { "a3c": "physis ii", "timeproc": { "type": "hot", "potency": 130, "maxticks": 5 } },
+    { "a3c": "physis ii", 
+      "timeproc": { "type": "hot", "potency": 130, "maxticks": 5 },
+      "potency": [{ "type": "HealReceiveMultiplier", "amount": 10}]
+    },
     { "a3d": "autophysis", "potency": [{"type": "healreceivemultiplier", "amount": 10}] },
     { "a3b": "taurochole", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
     { "a37": "eukrasian dosis ii", "timeproc": { "type": "dot", "potency": 60, "maxticks": 10 } },
@@ -63,9 +69,14 @@
     { "a30" : "differential diagnosis", "damageshield": { "type": "HealPercent", "amount": 180 } },
     { "a31" : "eukrasian prognosis", "damageshield": { "type": "HealPercent", "amount": 320 } },
     { "a34" : "haima", "damageshield": { "type": "potency", "amount": 300 } },
-    { "a35" : "panhaima", "damageshield": { "type": "potency", "amount": 200 } }
+    { "a35" : "panhaima", "damageshield": { "type": "potency", "amount": 200 } },
 
-
+    {"f39" : "eukrasian dyskrasia", "timeproc": {"type": "dot", "potency": 40, "maxticks": 10 } },
+    { "118004" : "eukrasian prognosis ii", "damageshield": { "type": "healpercent", "amount": 360 } },
+    { "f3a" : "philosophia", 
+      "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ],
+      "reactiveproc": { "type": "HealOnHealCast" }
+    },
      
 ]
 }

@@ -1,26 +1,29 @@
 {
 "job": "warrior",
 "actions" : [
-{ "1F" : "heavy swing", "damage": [ { "potency": 200} ] },
-{ "25" : "maim", "damage": [ { "potency": 150, "combo": 300} ] },
+{ "1F" : "heavy swing", "damage": [ { "potency": 220} ] },
+{ "25" : "maim", "damage": [ { "potency": 190, "combo": 340} ] },
 { "29" : "overpower", "damage": [ { "potency": 110} ] },
 { "2E" : "tomahawk", "damage": [ { "potency": 150} ] },
-{ "2A" : "storm's path", "damage": [ { "potency": 160, "combo": 440} ], "heal": [ { "potency": 250} ] },
+{ "2A" : "storm's path", "damage": [ { "potency": 200, "combo": 480} ], "heal": [ { "potency": 250} ] },
 { "28" : "thrill of battle", "heal": [ { "potency": 0} ] },
 { "31" : "inner beast", "damage": [ { "potency": 330} ] },
-{ "404E" : "mythril tempest", "damage": [ { "potency": 100, "combo": 150} ] },
-{ "33" : "steel cyclone", "damage": [ { "potency": 170} ] },
-{ "2D" : "storm's eye", "damage": [ { "potency": 160, "combo": 440} ] },
-{ "DDD" : "fell cleave", "damage": [ { "potency": 520} ] },
+{ "404E" : "mythril tempest", "damage": [ { "potency": 100, "combo": 140} ] },
+{ "33" : "steel cyclone", "damage": [ { "potency": 160} ] },
+{ "2D" : "storm's eye", "damage": [ { "potency": 200, "combo": 480} ] },
+{ "DDD" : "fell cleave", "damage": [ { "potency": 0} ] },
 { "DE0" : "equilibrium", "heal": [ { "potency": 1200} ] },
-{ "DDE" : "decimate", "damage": [ { "potency": 200} ] },
+{ "DDE" : "decimate", "damage": [ { "potency": 0} ] },
 { "1CDA" : "onslaught", "damage": [ { "potency": 150} ] },
 { "1CDB" : "upheaval", "damage": [ { "potency": 400} ] },
 { "1CDC" : "shake it off", "heal": [ { "potency": 300 } ] },
-{ "404F" : "chaotic cyclone", "damage": [ { "potency": 320} ] },
-{ "4051" : "inner chaos", "damage": [ { "potency": 660} ] },
+{ "404F" : "chaotic cyclone", "damage": [ { "potency": 0 } ] },
+{ "4051" : "inner chaos", "damage": [ { "potency": 0} ] },
 { "6498" : "orogeny", "damage": [ { "potency": 150} ] },
-{ "6499" : "primal rend", "damage": [ { "potency": 700, "targetindex": 0}, {"potency": 210} ] },
+{ "6499" : "primal rend", "damage": [ { "potency": 0 } ] },
+{ "903c" : "primal wrath", "damage": [ { "potency": 700, "targetindex": 0 }, {"potency": 210 } ] },
+{ "903d" : "primal ruination", "damage": [ { "potency": 0 } ] },
+
 ],
 "statuseffects" : [ 
 { "56": "berserk", "multiplier": [ { "type":  "criticalhit", "amount": 100 }, { "type":  "directhit", "amount": 100 } ] },
@@ -48,7 +51,13 @@
 { "5b1": "shake it off", "damageshield": { "type": "TargetHpPercent", "amount": 15 } },
 { "83C": "shake it off (over time)", "timeproc": { "type": "hot", "potency": 100, "maxticks": 5 } },
 { "a77": "stem the flow", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10} ] },
-{ "a78": "stem the tide", "damageshield": { "type": "potency", "amount": 400 } }
+{ "a78": "stem the tide", "damageshield": { "type": "potency", "amount": 400 } },
+
+{ "ef8": "damnation", "reactiveproc": { "type": "DamageOnDamageReceived", "amount": 55 },
+                    "potency": [{"type": "DamageReceivedMultiplier", "amount": -40}]
+},
+{ "f3c": "primeval impulse", "timeproc": { "type": "hot", "potency": 400, "maxticks": 5 } },
+
 
 ]
 }

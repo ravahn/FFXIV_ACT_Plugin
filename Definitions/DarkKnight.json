@@ -1,25 +1,27 @@
 {
 "job": "dark knight",
 "actions" : [
-{ "E21" : "hard slash", "damage": [ { "potency": 170} ] },
-{ "E27" : "syphon strike", "damage": [ { "potency": 120, "combo": 260} ] },
+{ "E21" : "hard slash", "damage": [ { "potency": 260} ] },
+{ "E27" : "syphon strike", "damage": [ { "potency": 220, "combo": 360} ] },
 { "E25" : "unleash", "damage": [ { "potency": 120} ] },
 { "E28" : "unmend", "damage": [ { "potency": 150} ] },
-{ "E30" : "souleater", "damage": [ { "potency": 120, "combo": 340} ], "heal": [ { "potency": 300} ] },
+{ "E30" : "souleater", "damage": [ { "potency": 240, "combo": 460} ], "heal": [ { "potency": 300} ] },
 { "4052" : "flood of darkness", "damage": [ { "potency": 100} ] },
+{ "4054" : "stalwart soul", "damage": [ { "potency": 120, "combo": 160} ] },
 { "4053" : "edge of darkness", "damage": [ { "potency": 300} ] },
-{ "E38" : "plunge", "damage": [ { "potency": 150} ] },
 { "E39" : "abyssal drain", "damage": [ { "potency": 240} ],  "heal": [ { "potency": 200} ] },
 { "E3B" : "carve and spit", "damage": [ { "potency": 510} ] },
-{ "1CE0" : "bloodspiller", "damage": [ { "potency": 500} ] },
-{ "1CDF" : "quietus", "damage": [ { "potency": 200} ] },
-{ "4054" : "stalwart soul", "damage": [ { "potency": 100, "combo": 140} ] },
+{ "1CE0" : "bloodspiller", "damage": [ { "potency": 580} ] },
+{ "1CDF" : "quietus", "damage": [ { "potency": 240} ] },
 { "45f3" : "flood of shadow", "damage": [{ "potency": 160} ] },
-
 { "4056" : "edge of shadow", "damage": [ { "potency": 460 } ] },
-{ "649d" : "shadowbringer", "damage": [ { "potency": 300 }, {"potency": 600, "targetindex": 0} ] },
 { "649C" : "salt and darkness", "damage": [ { "potency": 250 }, {"potency": 500, "targetindex": 0} ] },
-
+{ "649d" : "shadowbringer", "damage": [ { "potency": 300 }, {"potency": 600, "targetindex": 0} ] },
+{ "9040" : "scarlet delirium", "damage": [ { "potency": 600 } ] },
+{ "9041" : "comeuppance", "damage": [ { "potency": 700 } ] },
+{ "9042" : "torcleaver", "damage": [ { "potency": 800 } ] },
+{ "9043" : "impalement", "damage": [ { "potency": 320 } ] },
+{ "9044" : "disesteem", "damage": [ { "potency": 400 }, {"potency": 800, "targetindex": 0} ] },
 ],
 "statuseffects" : [ 
     { "2ED": "salted earth", "timeproc": { "type": "grounddamage", "potency": "50", "damagetype": "physical", "maxticks": "5" } },
@@ -29,7 +31,8 @@
     { "2EA" : "dark mind", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -20, "limittodamagetype": "Magic"} ] },
     { "a7a" : "oblation", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -10 } ] },
     { "49a" : "blackest night", "damageshield": { "type": "TargetHpPercent", "amount": 25 } },
-    { "32B" : "walking dead", "reactiveproc": { "type": "HealOnDamageDealt" } }
+    { "32B" : "walking dead", "reactiveproc": { "type": "HealOnDamageDealt" } },
+    { "efb": "shadowed vigil", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -40 } ] },
 
 
 ]
