@@ -72,7 +72,6 @@
     { "a35" : "panhaima", "damageshield": { "type": "potency", "amount": 200 } },
 
     {"f39" : "eukrasian dyskrasia", "timeproc": {"type": "dot", "potency": 40, "maxticks": 10 } },
-    { "118004" : "eukrasian prognosis ii", "damageshield": { "type": "healpercent", "amount": 360 } },
     { "f3a" : "philosophia", 
       "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ],
       "reactiveproc": { "type": "HealOnHealCast" }
