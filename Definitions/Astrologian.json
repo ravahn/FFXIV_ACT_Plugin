@@ -21,7 +21,7 @@
     { "4300" : "aspected helios-horoscope", "heal": [ { "potency": 200} ] },
     { "650f" : "fall malific", "damage": [ { "potency": 270} ] },
     { "6510" : "gravity ii", "damage": [ { "potency": 130} ] },
-    { "6512" : "macrocosmos", "damage": [ { "potency": 150}, { "potency": 250, "targetindex": 0} ] },
+    { "6512" : "macrocosmos", "damage": [ { "potency": 150}, { "potency": 270, "targetindex": 0} ] },
     { "6513" : "microcosmos", "heal": [ { "potency": 0} ] },
     { "1d14" : "lord of crowns", "damage": [ { "potency": 400} ] },
     { "1d15" : "lady of crowns", "heal": [ { "potency": 400} ] },
