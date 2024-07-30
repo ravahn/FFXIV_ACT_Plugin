@@ -22,15 +22,15 @@
 { "405C" : "six-sided star", "damage": [ { "potency": 0} ] },
 { "64a7" : "shadow of the destroyer", "damage": [ { "potency": 120} ] },
 { "64a8" : "rising phoenix", "damage": [ { "potency": 900, "targetindex": 0},{"potency": 270} ] },
-{ "64a9" : "phantom rush", "damage": [ { "potency": 1400, "targetindex": 0},{"potency": 700} ] },
+{ "64a9" : "phantom rush", "damage": [ { "potency": 1500, "targetindex": 0},{"potency": 750} ] },
 
 { "9050" : "earth's reply'", "heal": [ { "potency": 300} ] },
 { "9051" : "leaping opo", "damage": [ { "potency": 0 } ] },
 { "9052" : "rising raptor", "damage": [ { "potency": 0 } ] },
 { "9053" : "pouncing coeurl", "damage": [ { "potency": 0 } ] },
 { "9054" : "elixir burst", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 270 } ] },
-{ "9055" : "wind's reply", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 400 } ] },
-{ "9056" : "fire's reply", "damage": [ { "potency": 1100, "targetindex": 0}, {"potency": 550 } ] },
+{ "9055" : "wind's reply", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 450 } ] },
+{ "9056" : "fire's reply", "damage": [ { "potency": 1200, "targetindex": 0}, {"potency": 600 } ] },
 ],
 
 "statuseffects" : [ 

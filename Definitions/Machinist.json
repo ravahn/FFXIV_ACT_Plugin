@@ -36,7 +36,7 @@
 { "9073" : "double check", "damage": [ { "potency": 160, "targetindex": 0}, {"potency": 80} ] },
 { "9074" : "checkmate", "damage": [ { "potency": 160, "targetindex": 0}, {"potency": 80} ] },
 { "9075" : "excavator", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 210} ] },
-{ "9076" : "full metal field", "damage": [ { "potency": 700, "targetindex": 0}, {"potency": 350} ] },
+{ "9076" : "full metal field", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 450} ] },
 
 
 ],

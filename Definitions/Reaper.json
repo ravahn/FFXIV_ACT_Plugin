@@ -11,7 +11,7 @@
 { "5f39" : "nightmare scythe", "damage": [ { "potency": 140, "combo": 200} ] },
 { "5f45" : "blood stalk", "damage": [ { "potency": 340} ] },
 { "5f48" : "grim swathe", "damage": [ { "potency": 140} ] },
-{ "5f3c" : "soul slice", "damage": [ { "potency": 460} ] },
+{ "5f3c" : "soul slice", "damage": [ { "potency": 520} ] },
 { "5f3d" : "soul scythe", "damage": [ { "potency": 180} ] },
 { "5f3e" : "gibbet", "damage": [ { "potency": 0} ] },
 { "5f3f" : "gallows", "damage": [ { "potency": 0} ] },
@@ -33,7 +33,7 @@
 
 { "906b" : "executioner's gallows", "damage": [ { "potency": 0} ] },
 { "906c" : "executioner's guillotine", "damage": [ { "potency": 300} ] },
-{ "906d" : "perfectio", "damage": [ { "potency": 1200, "targetindex": 0},{"potency": 480} ] },
+{ "906d" : "perfectio", "damage": [ { "potency": 1300, "targetindex": 0},{"potency": 520} ] },
 
 ],
 "statuseffects" : [ 

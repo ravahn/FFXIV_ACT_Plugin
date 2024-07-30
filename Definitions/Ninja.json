@@ -2,7 +2,7 @@
 "job": "ninja",
 "actions" : [
 { "8C0" : "spinning edge", "damage": [ { "potency": 300} ] },
-{ "8C2" : "gust slash", "damage": [ { "potency": 220, "combo": 380} ] },
+{ "8C2" : "gust slash", "damage": [ { "potency": 240, "combo": 400} ] },
 { "8C7" : "throwing dagger", "damage": [ { "potency": 120} ] },
 { "8C8" : "mug", "damage": [ { "potency": 150} ] },
 { "8D2" : "trick attack", "damage": [ { "potency": 0} ] },
@@ -16,8 +16,8 @@
 { "1CEA" : "bhavacakra", "damage": [ { "potency": 0} ] },
 { "64AE" : "phantom kamaitachi", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 300} ] },
 { "64B0" : "hollow nozuchi", "damage": [ {"potency": 50 }]},
-{ "64B1" : "forked raiju", "damage": [ { "potency": 640} ] },
-{ "64B2" : "fleeting raiju", "damage": [ { "potency": 640} ] },
+{ "64B1" : "forked raiju", "damage": [ { "potency": 700} ] },
+{ "64B2" : "fleeting raiju", "damage": [ { "potency": 700} ] },
 
 { "8D9" : "fuma shuriken", "damage": [ { "potency": 500} ] },
 { "8DA" : "katon", "damage": [ { "potency": 350} ] },
@@ -32,7 +32,7 @@
 { "905e" : "kunai's bane", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 300} ] },
 { "905f" : "deathfrog medium", "damage": [ { "potency": 300 } ] },
 { "9060" : "zesho meppo", "damage": [ { "potency": 0} ] },
-{ "9061" : "tenri jindo", "damage": [ { "potency": 1000, "targetindex": 0}, {"potency": 500} ] },
+{ "9061" : "tenri jindo", "damage": [ { "potency": 1100, "targetindex": 0}, {"potency": 550} ] },
 
 ],
 "statuseffects" : [ 

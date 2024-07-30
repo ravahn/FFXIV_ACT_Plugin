@@ -3,7 +3,7 @@
 "actions" : [
 { "8D" : "fire", "damage": [ { "potency": 0} ] },
 { "8E" : "blizzard", "damage": [ { "potency": 0} ] },
-{ "90" : "thunder", "damage": [ { "potency": 120} ] },
+{ "90" : "thunder", "damage": [ { "potency": 100} ] },
 { "92" : "blizzard ii", "damage": [ { "potency": 0} ] },
 { "9C" : "scathe", "damage": [ { "potency": 0} ] },
 { "93" : "fire ii", "damage": [ { "potency": 0} ] },
@@ -11,7 +11,7 @@
 { "98" : "fire iii", "damage": [ { "potency": 0} ] },
 { "9A" : "blizzard iii", "damage": [ { "potency": 0} ] },
 { "9F" : "freeze", "damage": [ { "potency": 0} ] },
-{ "99" : "thunder iii", "damage": [ { "potency": 160} ] },
+{ "99" : "thunder iii", "damage": [ { "potency": 120} ] },
 { "A2" : "flare", "damage": [ { "potency": 0} ] },
 { "DF8" : "blizzard iv", "damage": [ { "potency": 0} ] },
 { "DF9" : "fire iv", "damage": [ { "potency": 0} ] },
@@ -21,19 +21,19 @@
 { "407B" : "xenoglossy", "damage": [ { "potency": 880} ] },
 { "64C2" : "high fire ii", "damage": [ { "potency": 0} ] },
 { "64C3" : "high blizzard ii", "damage": [ { "potency": 0} ] },
-{ "64C5" : "paradox", "damage": [ { "potency": 500} ] },
+{ "64C5" : "paradox", "damage": [ { "potency": 520} ] },
 
-{ "907a" : "high thunder", "damage": [ { "potency": 200} ] },
+{ "907a" : "high thunder", "damage": [ { "potency": 150} ] },
 { "907b" : "high thunder ii", "damage": [ { "potency": 100} ] },
 { "907d" : "flare star", "damage": [ { "potency": 0} ] },
 
 ],
 "statuseffects" : [ 
-    { "A1": "thunder", "timeproc": { "type": "dot", "potency": 40, "damagetype": "magic", "maxticks": 8 } },
+    { "A1": "thunder", "timeproc": { "type": "dot", "potency": 45, "damagetype": "magic", "maxticks": 8 } },
     { "A2": "thunder ii", "timeproc": { "type": "dot", "potency": 30, "damagetype": "magic", "maxticks": 6 } },
-    { "A3": "thunder iii", "timeproc": { "type": "dot", "potency": 45, "damagetype": "magic", "maxticks": 9 } },
+    { "A3": "thunder iii", "timeproc": { "type": "dot", "potency": 50, "damagetype": "magic", "maxticks": 9 } },
     { "4BA": "thunder iv", "timeproc": { "type": "dot", "potency": 35, "damagetype": "magic", "maxticks": 7 } },
-    { "f1f": "high thunder", "timeproc": { "type": "dot", "potency": 55, "damagetype": "magic", "maxticks": 10 } },
+    { "f1f": "high thunder", "timeproc": { "type": "dot", "potency": 60, "damagetype": "magic", "maxticks": 10 } },
     { "f20": "high thunder ii", "timeproc": { "type": "dot", "potency": 40, "damagetype": "magic", "maxticks": 8 } },
 
     { "A8": "manaward", "damageshield": { "type": "TargetHpPercent", "amount": 30 } }
