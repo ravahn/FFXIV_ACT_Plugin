@@ -3,7 +3,7 @@
 "actions" : [
 { "4B" : "true thrust", "damage": [ { "potency": 230} ] },
 { "4E" : "vorpal thrust", "damage": [ { "potency": 130, "combo": 280} ] },
-{ "5A" : "piercing talon", "damage": [ { "potency": 150} ] },
+{ "5A" : "piercing talon", "damage": [ { "potency": 0} ] },
 { "57" : "disembowel", "damage": [ { "potency": 140, "combo": 250} ] },
 { "54" : "full thrust", "damage": [ { "potency": 100, "combo": 380} ] },
 { "5C" : "jump", "damage": [ { "potency": 320} ] },
@@ -14,12 +14,12 @@
 { "DE4" : "wheeling thrust", "damage": [ { "potency": 0} ] },
 { "DE3" : "geirskogul", "damage": [ { "potency": 140}, {"potency": 280, "targetindex": 0} ] },
 { "1CE5" : "sonic thrust", "damage": [ { "potency": 100, "combo": 120} ] },
-{ "1CE7" : "mirage dive", "damage": [ { "potency": 200} ] },
-{ "1CE8" : "nastrond", "damage": [ { "potency": 180},{"potency": 360, "targetindex": 0} ] },
+{ "1CE7" : "mirage dive", "damage": [ { "potency": 380 } ] },
+{ "1CE8" : "nastrond", "damage": [ { "potency": 360 },{ "potency": 720, "targetindex": 0} ] },
 { "405D" : "coerthan torment", "damage": [ { "potency": 100, "combo": 150} ] },
 { "405E" : "high jump", "damage": [ { "potency": 400} ] },
 { "405F" : "raiden thrust", "damage": [ { "potency": 320} ] },
-{ "4060" : "stardiver", "damage": [ { "potency": 720, "targetindex": 0}, { "potency": 360} ] },
+{ "4060" : "stardiver", "damage": [ { "potency": 820, "targetindex": 0}, { "potency": 410} ] },
 { "64aa" : "draconian fury", "damage": [ { "potency": 130} ] },
 { "64ab" : "heavens' thrust", "damage": [ { "potency": 140, "combo": 440} ] },
 { "64ac" : "chaotic spring", "damage": [ { "potency": 0 } ] },
@@ -29,7 +29,7 @@
 { "9059" : "rise of the dragon", "damage": [ { "potency": 550, "targetindex": 0}, { "potency": 275} ] },
 { "905a" : "lance barrage", "damage": [ { "potency": 130, "combo": 340} ] },
 { "905b" : "spiral blow", "damage": [ { "potency": 140, "combo": 300} ] },
-{ "905c" : "starcross", "damage": [ { "potency": 900, "targetindex": 0}, { "potency": 450} ] },
+{ "905c" : "starcross", "damage": [ { "potency": 1000, "targetindex": 0}, { "potency": 500} ] },
 
 
 ],

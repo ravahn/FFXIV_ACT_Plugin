@@ -3,7 +3,7 @@
 "actions" : [
 { "8C0" : "spinning edge", "damage": [ { "potency": 300} ] },
 { "8C2" : "gust slash", "damage": [ { "potency": 240, "combo": 400} ] },
-{ "8C7" : "throwing dagger", "damage": [ { "potency": 120} ] },
+{ "8C7" : "throwing dagger", "damage": [ { "potency": 200} ] },
 { "8C8" : "mug", "damage": [ { "potency": 150} ] },
 { "8D2" : "trick attack", "damage": [ { "potency": 0} ] },
 { "8CF" : "aeolian edge", "damage": [ { "potency": 0} ] },
@@ -11,7 +11,7 @@
 { "8C6" : "assassinate", "damage": [ { "potency": 200} ] },
 { "4068" : "hakke mijinsatsu", "damage": [ { "potency": 100, "combo": 130} ] },
 { "DEB" : "armor crush", "damage": [ { "potency": 0} ] },
-{ "DEE" : "dream within a dream", "damage": [ { "potency": 150} ] },
+{ "DEE" : "dream within a dream", "damage": [ { "potency": 180} ] },
 { "1CE9" : "hellfrog medium", "damage": [ { "potency": 160} ] },
 { "1CEA" : "bhavacakra", "damage": [ { "potency": 0} ] },
 { "64AE" : "phantom kamaitachi", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 300} ] },
@@ -28,7 +28,7 @@
 { "406B" : "goka mekkyaku", "damage": [ { "potency": 600} ] },
 { "406C" : "hyosho ranryu", "damage": [ { "potency": 1300} ] },
 
-{ "905d" : "dokumori", "damage": [ { "potency": 300} ] },
+{ "905d" : "dokumori", "damage": [ { "potency": 300, "targetindex": 0}, {"potency": 225 } ] },
 { "905e" : "kunai's bane", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 300} ] },
 { "905f" : "deathfrog medium", "damage": [ { "potency": 300 } ] },
 { "9060" : "zesho meppo", "damage": [ { "potency": 0} ] },

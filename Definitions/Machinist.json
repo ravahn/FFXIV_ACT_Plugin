@@ -13,7 +13,7 @@
 { "1CF3" : "heated split shot", "damage": [ { "potency": 220} ] },
 { "4072" : "drill", "damage": [ { "potency": 600} ] },
 { "1CF4" : "heated slug shot", "damage": [ { "potency": 140, "combo": 320} ] },
-{ "1CF5" : "heated clean shot", "damage": [ { "potency": 140, "combo": 400} ] },
+{ "1CF5" : "heated clean shot", "damage": [ { "potency": 160, "combo": 420} ] },
 { "4073" : "bioblaster", "damage": [ { "potency": 50} ] },
 { "4074" : "air anchor", "damage": [ { "potency": 600} ] },
 { "1CF8" : "rook overload", "damage": [ { "potency": 0} ] },
@@ -32,9 +32,9 @@
 { "E04" : "charged volley fire", "damage": [ { "potency": 0} ] },
 { "E05" : "charged aether mortar", "damage": [ { "potency": 0} ] },
 
-{ "9072" : "blazing shot", "damage": [ { "potency": 220} ] },
-{ "9073" : "double check", "damage": [ { "potency": 160, "targetindex": 0}, {"potency": 80} ] },
-{ "9074" : "checkmate", "damage": [ { "potency": 160, "targetindex": 0}, {"potency": 80} ] },
+{ "9072" : "blazing shot", "damage": [ { "potency": 240} ] },
+{ "9073" : "double check", "damage": [ { "potency": 170, "targetindex": 0}, {"potency": 85} ] },
+{ "9074" : "checkmate", "damage": [ { "potency": 170, "targetindex": 0}, {"potency": 85} ] },
 { "9075" : "excavator", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 210} ] },
 { "9076" : "full metal field", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 450} ] },
 
@@ -43,7 +43,7 @@
 "statuseffects" : [ 
 { "353": "Reassembled", "multiplier": [ { "type":  "criticalhit", "amount": 100 }, { "type":  "directhit", "amount": 100 } ] },
 { "35D": "wildfire", "timeproc": { "type": "grounddamage", "potency": 0, "damagetype": "physical", "maxticks": 2 } },
-{ "4B5": "flamethrower", "timeproc": { "type": "grounddamage", "potency": 80, "damagetype": "physical", "maxticks": 4 } },
+{ "4B5": "flamethrower", "timeproc": { "type": "grounddamage", "potency": 100, "damagetype": "physical", "maxticks": 4 } },
 { "74A": "bioblaster", "timeproc": { "type": "dot", "potency": 50, "damagetype": "physical", "maxticks": 5 } },
 { "A80" : "overheated", "potency": [ {"type": "DamageAddPotency", "amount": 20, "limitto": "split shot,slug shot,hot shot,gauss round,clean shot,heat blast,heated split shot,drill,heated slug shot,heated clean shot,blazing shot,air anchor,arm punch,roller dash,pile bunker"} ] },
 { "79F" : "tactician", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },

@@ -30,8 +30,8 @@
 { "4065" : "kaeshi: goken", "damage": [ { "potency": 300} ] },
 { "4066" : "kaeshi: setsugekka", "damage": [ { "potency": 0} ] },
 
-{ "9063" : "gyofu", "damage": [ { "potency": 230} ] },
-{ "9064" : "zanshin", "damage": [ { "potency": 820, "targetindex": 0}, {"potency": 328} ] },
+{ "9063" : "gyofu", "damage": [ { "potency": 240} ] },
+{ "9064" : "zanshin", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 360} ] },
 { "9065" : "tendo goken", "damage": [ { "potency": 410} ] },
 { "9066" : "tendo setsugekka", "damage": [ { "potency": 0} ] },
 { "9067" : "tendo kaeshi goken", "damage": [ { "potency": 410} ] },

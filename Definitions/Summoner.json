@@ -70,7 +70,7 @@
 { "9085" : "lux solaris", "heal": [{ "potency": 500}]},
 { "9082" : "umbral impulse", "damage": [{ "potency": 620}]},
 { "9083" : "umbral flare", "damage": [{ "potency": 280}]},
-{ "9084" : "sunflare", "damage": [ { "potency": 700, "targetindex": 0}, {"potency": 280} ] },
+{ "9084" : "sunflare", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 320} ] },
 { "9086" : "enkindle solar bahamut", "damage": [ { "potency": 1400, "targetindex": 0}, {"potency": 560} ] },
 { "9081" : "luxware", "damage": [ { "potency": 160 } ] },
 { "9087" : "exodus", "damage": [ { "potency": 1400, "targetindex": 0}, {"potency": 560} ] },
