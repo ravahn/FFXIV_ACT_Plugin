@@ -1,0 +1,377 @@
+#action_data
+# EN
+_rsv_40461_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chaos-condensed Particle Beam
+_rsv_40461_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chaos-condensed Particle Beam
+_rsv_40462_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chaos-condensed Particle Beam
+_rsv_40462_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chaos-condensed Particle Beam
+_rsv_40463_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chaos-condensed Particle Beam
+_rsv_40463_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chaos-condensed Particle Beam
+_rsv_40464_-1_1_0_0_SE2DC5B04_EE2DC5B04|Diffusive-force Particle Beam
+_rsv_40464_-1_1_0_1_SE2DC5B04_EE2DC5B04|Diffusive-force Particle Beam
+_rsv_40465_-1_1_0_0_SE2DC5B04_EE2DC5B04|Diffusive-force Particle Beam
+_rsv_40465_-1_1_0_1_SE2DC5B04_EE2DC5B04|Diffusive-force Particle Beam
+_rsv_40466_-1_1_0_0_SE2DC5B04_EE2DC5B04|Diffusive-force Particle Beam
+_rsv_40466_-1_1_0_1_SE2DC5B04_EE2DC5B04|Diffusive-force Particle Beam
+_rsv_40467_-1_1_0_0_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40467_-1_1_0_1_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40468_-1_1_0_0_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40468_-1_1_0_1_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40469_-1_1_0_0_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40469_-1_1_0_1_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40470_-1_1_0_0_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40470_-1_1_0_1_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40471_-1_1_0_0_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40471_-1_1_0_1_SE2DC5B04_EE2DC5B04|Active-pivot Particle Beam
+_rsv_40480_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Third Art of Darkness
+_rsv_40480_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Third Art of Darkness
+_rsv_40481_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Art of Darkness
+_rsv_40481_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Art of Darkness
+_rsv_40482_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Art of Darkness
+_rsv_40482_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Art of Darkness
+_rsv_40483_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Third Art of Darkness
+_rsv_40483_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Third Art of Darkness
+_rsv_40484_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Art of Darkness
+_rsv_40484_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Art of Darkness
+_rsv_40485_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Art of Darkness
+_rsv_40485_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Art of Darkness
+_rsv_40486_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hyper-focused Particle Beam
+_rsv_40486_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hyper-focused Particle Beam
+_rsv_40487_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hyper-focused Particle Beam
+_rsv_40487_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hyper-focused Particle Beam
+_rsv_40488_-1_1_0_0_SE2DC5B04_EE2DC5B04|Multi-pronged Particle Beam
+_rsv_40488_-1_1_0_1_SE2DC5B04_EE2DC5B04|Multi-pronged Particle Beam
+_rsv_40489_-1_1_0_0_SE2DC5B04_EE2DC5B04|Multi-pronged Particle Beam
+_rsv_40489_-1_1_0_1_SE2DC5B04_EE2DC5B04|Multi-pronged Particle Beam
+_rsv_40490_-1_1_0_0_SE2DC5B04_EE2DC5B04|Evil Seed
+_rsv_40490_-1_1_0_1_SE2DC5B04_EE2DC5B04|Evil Seed
+_rsv_40491_-1_1_0_0_SE2DC5B04_EE2DC5B04|Evil Seed
+_rsv_40491_-1_1_0_1_SE2DC5B04_EE2DC5B04|Evil Seed
+_rsv_40492_-1_1_0_0_SE2DC5B04_EE2DC5B04|Thorny Vine
+_rsv_40492_-1_1_0_1_SE2DC5B04_EE2DC5B04|Thorny Vine
+_rsv_40493_-1_1_0_0_SE2DC5B04_EE2DC5B04|Thorny Vine
+_rsv_40493_-1_1_0_1_SE2DC5B04_EE2DC5B04|Thorny Vine
+_rsv_40495_-1_1_0_0_SE2DC5B04_EE2DC5B04|Lateral-core Phaser
+_rsv_40495_-1_1_0_1_SE2DC5B04_EE2DC5B04|Lateral-core Phaser
+_rsv_40496_-1_1_0_0_SE2DC5B04_EE2DC5B04|Core-lateral Phaser
+_rsv_40496_-1_1_0_1_SE2DC5B04_EE2DC5B04|Core-lateral Phaser
+_rsv_40497_-1_1_0_0_SE2DC5B04_EE2DC5B04|Phaser
+_rsv_40497_-1_1_0_1_SE2DC5B04_EE2DC5B04|Phaser
+_rsv_40515_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40515_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40516_-1_1_0_0_SE2DC5B04_EE2DC5B04|Vortex
+_rsv_40516_-1_1_0_1_SE2DC5B04_EE2DC5B04|Vortex
+_rsv_40517_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40517_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40518_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40518_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40519_-1_1_0_0_SE2DC5B04_EE2DC5B04|Vortex
+_rsv_40519_-1_1_0_1_SE2DC5B04_EE2DC5B04|Vortex
+_rsv_40520_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40520_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40521_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40521_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death IV
+_rsv_40522_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40522_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40523_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40523_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40524_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40524_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40525_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40525_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40526_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40526_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aero IV
+_rsv_40531_-1_1_0_0_SE2DC5B04_EE2DC5B04|Endeath IV
+_rsv_40531_-1_1_0_1_SE2DC5B04_EE2DC5B04|Endeath IV
+_rsv_40532_-1_1_0_0_SE2DC5B04_EE2DC5B04|Enaero IV
+_rsv_40532_-1_1_0_1_SE2DC5B04_EE2DC5B04|Enaero IV
+# DE
+_rsv_40461_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hyperdichter Partikelstrahl
+_rsv_40461_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hyperdichter Partikelstrahl
+_rsv_40462_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hyperdichter Partikelstrahl
+_rsv_40462_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hyperdichter Partikelstrahl
+_rsv_40463_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hyperdichter Partikelstrahl
+_rsv_40463_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hyperdichter Partikelstrahl
+_rsv_40464_-1_2_0_0_SE2DC5B04_EE2DC5B04|Diffusiver Partikelstrahl
+_rsv_40464_-1_2_0_1_SE2DC5B04_EE2DC5B04|Diffusiver Partikelstrahl
+_rsv_40465_-1_2_0_0_SE2DC5B04_EE2DC5B04|Diffusiver Partikelstrahl
+_rsv_40465_-1_2_0_1_SE2DC5B04_EE2DC5B04|Diffusiver Partikelstrahl
+_rsv_40466_-1_2_0_0_SE2DC5B04_EE2DC5B04|Diffusiver Partikelstrahl
+_rsv_40466_-1_2_0_1_SE2DC5B04_EE2DC5B04|Diffusiver Partikelstrahl
+_rsv_40467_-1_2_0_0_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40467_-1_2_0_1_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40468_-1_2_0_0_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40468_-1_2_0_1_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40469_-1_2_0_0_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40469_-1_2_0_1_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40470_-1_2_0_0_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40470_-1_2_0_1_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40471_-1_2_0_0_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40471_-1_2_0_1_SE2DC5B04_EE2DC5B04|Rotierender Partikelstrahl
+_rsv_40480_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dunkle Taktik: Dreifach
+_rsv_40480_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dunkle Taktik: Dreifach
+_rsv_40481_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dunkle Taktik
+_rsv_40481_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dunkle Taktik
+_rsv_40482_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dunkle Taktik
+_rsv_40482_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dunkle Taktik
+_rsv_40483_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dunkle Taktik: Dreifach
+_rsv_40483_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dunkle Taktik: Dreifach
+_rsv_40484_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dunkle Taktik
+_rsv_40484_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dunkle Taktik
+_rsv_40485_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dunkle Taktik
+_rsv_40485_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dunkle Taktik
+_rsv_40486_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hochpräziser Partikelstrahl
+_rsv_40486_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hochpräziser Partikelstrahl
+_rsv_40487_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hochpräziser Partikelstrahl
+_rsv_40487_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hochpräziser Partikelstrahl
+_rsv_40488_-1_2_0_0_SE2DC5B04_EE2DC5B04|Mehrfacher Partikelstrahl
+_rsv_40488_-1_2_0_1_SE2DC5B04_EE2DC5B04|Mehrfacher Partikelstrahl
+_rsv_40489_-1_2_0_0_SE2DC5B04_EE2DC5B04|Mehrfacher Partikelstrahl
+_rsv_40489_-1_2_0_1_SE2DC5B04_EE2DC5B04|Mehrfacher Partikelstrahl
+_rsv_40490_-1_2_0_0_SE2DC5B04_EE2DC5B04|Saatkugel
+_rsv_40490_-1_2_0_1_SE2DC5B04_EE2DC5B04|Saatkugel
+_rsv_40491_-1_2_0_0_SE2DC5B04_EE2DC5B04|Saatkugel
+_rsv_40491_-1_2_0_1_SE2DC5B04_EE2DC5B04|Saatkugel
+_rsv_40492_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dornenranken
+_rsv_40492_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dornenranken
+_rsv_40493_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dornenranken
+_rsv_40493_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dornenranken
+_rsv_40495_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zentral-Lateral-Phaser
+_rsv_40495_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zentral-Lateral-Phaser
+_rsv_40496_-1_2_0_0_SE2DC5B04_EE2DC5B04|Lateral-Zentral-Phaser
+_rsv_40496_-1_2_0_1_SE2DC5B04_EE2DC5B04|Lateral-Zentral-Phaser
+_rsv_40497_-1_2_0_0_SE2DC5B04_EE2DC5B04|Phaser
+_rsv_40497_-1_2_0_1_SE2DC5B04_EE2DC5B04|Phaser
+_rsv_40515_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40515_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40516_-1_2_0_0_SE2DC5B04_EE2DC5B04|Einsaugen
+_rsv_40516_-1_2_0_1_SE2DC5B04_EE2DC5B04|Einsaugen
+_rsv_40517_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40517_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40518_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40518_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40519_-1_2_0_0_SE2DC5B04_EE2DC5B04|Einsaugen
+_rsv_40519_-1_2_0_1_SE2DC5B04_EE2DC5B04|Einsaugen
+_rsv_40520_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40520_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40521_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40521_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todka
+_rsv_40522_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40522_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40523_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40523_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40524_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40524_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40525_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40525_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40526_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40526_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windka
+_rsv_40531_-1_2_0_0_SE2DC5B04_EE2DC5B04|Adtodka
+_rsv_40531_-1_2_0_1_SE2DC5B04_EE2DC5B04|Adtodka
+_rsv_40532_-1_2_0_0_SE2DC5B04_EE2DC5B04|Adwindka
+_rsv_40532_-1_2_0_1_SE2DC5B04_EE2DC5B04|Adwindka
+# JP
+_rsv_40467_-1_0_0_0_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40461_-1_0_0_0_SE2DC5B04_EE2DC5B04|凝縮式波動砲
+_rsv_40462_-1_0_0_0_SE2DC5B04_EE2DC5B04|凝縮式波動砲
+_rsv_40464_-1_0_0_0_SE2DC5B04_EE2DC5B04|分散式波動砲
+_rsv_40463_-1_0_0_0_SE2DC5B04_EE2DC5B04|凝縮式波動砲
+_rsv_40466_-1_0_0_0_SE2DC5B04_EE2DC5B04|分散式波動砲
+_rsv_40465_-1_0_0_0_SE2DC5B04_EE2DC5B04|分散式波動砲
+_rsv_40468_-1_0_0_0_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40470_-1_0_0_0_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40471_-1_0_0_0_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40481_-1_0_0_0_SE2DC5B04_EE2DC5B04|闇の戦技
+_rsv_40482_-1_0_0_0_SE2DC5B04_EE2DC5B04|闇の戦技
+_rsv_40483_-1_0_0_0_SE2DC5B04_EE2DC5B04|闇の戦技：三重
+_rsv_40484_-1_0_0_0_SE2DC5B04_EE2DC5B04|闇の戦技
+_rsv_40486_-1_0_0_0_SE2DC5B04_EE2DC5B04|狙撃式 波動砲
+_rsv_40487_-1_0_0_0_SE2DC5B04_EE2DC5B04|狙撃式 波動砲
+_rsv_40488_-1_0_0_0_SE2DC5B04_EE2DC5B04|乱激式 波動砲
+_rsv_40489_-1_0_0_0_SE2DC5B04_EE2DC5B04|乱激式 波動砲
+_rsv_40480_-1_0_0_0_SE2DC5B04_EE2DC5B04|闇の戦技：三重
+_rsv_40485_-1_0_0_0_SE2DC5B04_EE2DC5B04|闇の戦技
+_rsv_40469_-1_0_0_0_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40490_-1_0_0_0_SE2DC5B04_EE2DC5B04|種子弾
+_rsv_40491_-1_0_0_0_SE2DC5B04_EE2DC5B04|種子弾
+_rsv_40492_-1_0_0_0_SE2DC5B04_EE2DC5B04|茨の蔓
+_rsv_40493_-1_0_0_0_SE2DC5B04_EE2DC5B04|茨の蔓
+_rsv_40495_-1_0_0_0_SE2DC5B04_EE2DC5B04|跳躍波動砲【正撃・側撃】
+_rsv_40497_-1_0_0_0_SE2DC5B04_EE2DC5B04|跳躍波動砲
+_rsv_40515_-1_0_0_0_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40517_-1_0_0_0_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40519_-1_0_0_0_SE2DC5B04_EE2DC5B04|吸引
+_rsv_40520_-1_0_0_0_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40521_-1_0_0_0_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40522_-1_0_0_0_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40523_-1_0_0_0_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40516_-1_0_0_0_SE2DC5B04_EE2DC5B04|吸引
+_rsv_40524_-1_0_0_0_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40462_-1_0_0_1_SE2DC5B04_EE2DC5B04|凝縮式波動砲
+_rsv_40463_-1_0_0_1_SE2DC5B04_EE2DC5B04|凝縮式波動砲
+_rsv_40465_-1_0_0_1_SE2DC5B04_EE2DC5B04|分散式波動砲
+_rsv_40466_-1_0_0_1_SE2DC5B04_EE2DC5B04|分散式波動砲
+_rsv_40467_-1_0_0_1_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40469_-1_0_0_1_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40470_-1_0_0_1_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40471_-1_0_0_1_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40480_-1_0_0_1_SE2DC5B04_EE2DC5B04|闇の戦技：三重
+_rsv_40481_-1_0_0_1_SE2DC5B04_EE2DC5B04|闇の戦技
+_rsv_40482_-1_0_0_1_SE2DC5B04_EE2DC5B04|闇の戦技
+_rsv_40483_-1_0_0_1_SE2DC5B04_EE2DC5B04|闇の戦技：三重
+_rsv_40532_-1_0_0_0_SE2DC5B04_EE2DC5B04|エンエアロジャ
+_rsv_40486_-1_0_0_1_SE2DC5B04_EE2DC5B04|狙撃式 波動砲
+_rsv_40487_-1_0_0_1_SE2DC5B04_EE2DC5B04|狙撃式 波動砲
+_rsv_40461_-1_0_0_1_SE2DC5B04_EE2DC5B04|凝縮式波動砲
+_rsv_40488_-1_0_0_1_SE2DC5B04_EE2DC5B04|乱激式 波動砲
+_rsv_40489_-1_0_0_1_SE2DC5B04_EE2DC5B04|乱激式 波動砲
+_rsv_40485_-1_0_0_1_SE2DC5B04_EE2DC5B04|闇の戦技
+_rsv_40491_-1_0_0_1_SE2DC5B04_EE2DC5B04|種子弾
+_rsv_40490_-1_0_0_1_SE2DC5B04_EE2DC5B04|種子弾
+_rsv_40492_-1_0_0_1_SE2DC5B04_EE2DC5B04|茨の蔓
+_rsv_40484_-1_0_0_1_SE2DC5B04_EE2DC5B04|闇の戦技
+_rsv_40531_-1_0_0_0_SE2DC5B04_EE2DC5B04|エンデスジャ
+_rsv_40493_-1_0_0_1_SE2DC5B04_EE2DC5B04|茨の蔓
+_rsv_40495_-1_0_0_1_SE2DC5B04_EE2DC5B04|跳躍波動砲【正撃・側撃】
+_rsv_40496_-1_0_0_1_SE2DC5B04_EE2DC5B04|跳躍波動砲【側撃・正撃】
+_rsv_40497_-1_0_0_1_SE2DC5B04_EE2DC5B04|跳躍波動砲
+_rsv_40515_-1_0_0_1_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40516_-1_0_0_1_SE2DC5B04_EE2DC5B04|吸引
+_rsv_40468_-1_0_0_1_SE2DC5B04_EE2DC5B04|旋回式波動砲
+_rsv_40517_-1_0_0_1_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40518_-1_0_0_1_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40519_-1_0_0_1_SE2DC5B04_EE2DC5B04|吸引
+_rsv_40520_-1_0_0_1_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40521_-1_0_0_1_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40518_-1_0_0_0_SE2DC5B04_EE2DC5B04|デスジャ
+_rsv_40496_-1_0_0_0_SE2DC5B04_EE2DC5B04|跳躍波動砲【側撃・正撃】
+_rsv_40525_-1_0_0_0_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40526_-1_0_0_0_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40464_-1_0_0_1_SE2DC5B04_EE2DC5B04|分散式波動砲
+_rsv_40522_-1_0_0_1_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40523_-1_0_0_1_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40524_-1_0_0_1_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40525_-1_0_0_1_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40526_-1_0_0_1_SE2DC5B04_EE2DC5B04|エアロジャ
+_rsv_40532_-1_0_0_1_SE2DC5B04_EE2DC5B04|エンエアロジャ
+_rsv_40531_-1_0_0_1_SE2DC5B04_EE2DC5B04|エンデスジャ
+
+#bnpc_data
+
+#status_data
+# EN
+_rsv_4177_-1_1_0_0_S74CFC3B0_E74CFC3B0|Inner Darkness
+_rsv_4177_-1_1_0_1_S74CFC3B0_E74CFC3B0|Inner Darkness
+_rsv_4177_-1_1_1_0_S74CFC3B0_E74CFC3B0|Inside a barrier of darkness. Attacks on entities spawning from the gloom outside are ineffective.
+_rsv_4177_-1_1_1_1_S74CFC3B0_E74CFC3B0|Inside a barrier of darkness. Attacks on entities spawning from the gloom outside are ineffective.
+_rsv_4178_-1_1_0_0_S74CFC3B0_E74CFC3B0|Outer Darkness
+_rsv_4178_-1_1_0_1_S74CFC3B0_E74CFC3B0|Outer Darkness
+_rsv_4178_-1_1_1_0_S74CFC3B0_E74CFC3B0|Outside a barrier of darkness. Attacks on the Cloud of Darkness within are ineffective.
+_rsv_4178_-1_1_1_1_S74CFC3B0_E74CFC3B0|Outside a barrier of darkness. Attacks on the Cloud of Darkness within are ineffective.
+_rsv_4180_-1_1_0_0_S74CFC3B0_E74CFC3B0|Arcane Design
+_rsv_4180_-1_1_0_1_S74CFC3B0_E74CFC3B0|Arcane Design
+_rsv_4180_-1_1_1_0_S74CFC3B0_E74CFC3B0|Attack magic potency is enhanced, allowing the use of powerful spells. Damage taken is increased.
+_rsv_4180_-1_1_1_1_S74CFC3B0_E74CFC3B0|Attack magic potency is enhanced, allowing the use of powerful spells. Damage taken is increased.
+_rsv_4181_-1_1_0_0_S74CFC3B0_E74CFC3B0|Deadly Embrace
+_rsv_4181_-1_1_0_1_S74CFC3B0_E74CFC3B0|Deadly Embrace
+_rsv_4181_-1_1_1_0_S74CFC3B0_E74CFC3B0|Shrouded by darkness and taking damage over time. A soul-crushing death's hand will emerge once this effect expires.
+_rsv_4181_-1_1_1_1_S74CFC3B0_E74CFC3B0|Shrouded by darkness and taking damage over time. A soul-crushing death's hand will emerge once this effect expires.
+_rsv_4182_-1_1_0_0_S74CFC3B0_E74CFC3B0|Abyssal Edge
+_rsv_4182_-1_1_0_1_S74CFC3B0_E74CFC3B0|Abyssal Edge
+_rsv_4182_-1_1_1_0_S74CFC3B0_E74CFC3B0|Channeling abyssal aether to wristblades, to be unleashed upon next use of Blade of Darkness.
+_rsv_4182_-1_1_1_1_S74CFC3B0_E74CFC3B0|Channeling abyssal aether to wristblades, to be unleashed upon next use of Blade of Darkness.
+# DE
+_rsv_4177_-1_2_0_0_S74CFC3B0_E74CFC3B0|Innere Nichtsbarriere
+_rsv_4177_-1_2_0_1_S74CFC3B0_E74CFC3B0|Innere Nichtsbarriere
+_rsv_4177_-1_2_1_0_S74CFC3B0_E74CFC3B0|Im Inneren der Nichtsbarriere. Angriffe auf Feinde, die der Dunkelheit außerhalb der Barriere entspringen, sind wirkungslos.
+_rsv_4177_-1_2_1_1_S74CFC3B0_E74CFC3B0|Im Inneren der Nichtsbarriere. Angriffe auf Feinde, die der Dunkelheit außerhalb der Barriere entspringen, sind wirkungslos.
+_rsv_4178_-1_2_0_0_S74CFC3B0_E74CFC3B0|Äußere Nichtsbarriere
+_rsv_4178_-1_2_0_1_S74CFC3B0_E74CFC3B0|Äußere Nichtsbarriere
+_rsv_4178_-1_2_1_0_S74CFC3B0_E74CFC3B0|Außerhalb der Nichtsbarriere. Angriffe auf die Wolke der Dunkelheit innerhalb der Barriere sind wirkungslos.
+_rsv_4178_-1_2_1_1_S74CFC3B0_E74CFC3B0|Außerhalb der Nichtsbarriere. Angriffe auf die Wolke der Dunkelheit innerhalb der Barriere sind wirkungslos.
+_rsv_4180_-1_2_0_0_S74CFC3B0_E74CFC3B0|Arkane Enthüllung
+_rsv_4180_-1_2_0_1_S74CFC3B0_E74CFC3B0|Arkane Enthüllung
+_rsv_4180_-1_2_1_0_S74CFC3B0_E74CFC3B0|Arkane Muster zieren den Boden. Das magische Potenzial ist erhöht und mächtigere Zauber sind ermöglicht. Dafür ist der erlittene Schaden erhöht.
+_rsv_4180_-1_2_1_1_S74CFC3B0_E74CFC3B0|Arkane Muster zieren den Boden. Das magische Potenzial ist erhöht und mächtigere Zauber sind ermöglicht. Dafür ist der erlittene Schaden erhöht.
+_rsv_4181_-1_2_0_0_S74CFC3B0_E74CFC3B0|Schwarze Umarmung
+_rsv_4181_-1_2_0_1_S74CFC3B0_E74CFC3B0|Schwarze Umarmung
+_rsv_4181_-1_2_1_0_S74CFC3B0_E74CFC3B0|Erleidet schrittweise Schaden. Bei Ende des Effekts taucht eine Hand des Todes auf und zerquetscht die Seele des Ziels.
+_rsv_4181_-1_2_1_1_S74CFC3B0_E74CFC3B0|Erleidet schrittweise Schaden. Bei Ende des Effekts taucht eine Hand des Todes auf und zerquetscht die Seele des Ziels.
+_rsv_4182_-1_2_0_0_S74CFC3B0_E74CFC3B0|Wolkenschneide
+_rsv_4182_-1_2_0_1_S74CFC3B0_E74CFC3B0|Wolkenschneide
+_rsv_4182_-1_2_1_0_S74CFC3B0_E74CFC3B0|Magie sammelt sich um einen Klingenarm. Die nächste Schwarze Schneide setzt arkane Energie frei.
+_rsv_4182_-1_2_1_1_S74CFC3B0_E74CFC3B0|Magie sammelt sich um einen Klingenarm. Die nächste Schwarze Schneide setzt arkane Energie frei.
+# JP
+_rsv_4177_-1_0_0_0_S74CFC3B0_E74CFC3B0|闇の結界：内部
+_rsv_4177_-1_0_1_0_S74CFC3B0_E74CFC3B0|闇の結界の内側にいる状態。闇の結界の外側にいる闇より出づる者への攻撃が無効化される。
+_rsv_4177_-1_0_0_1_S74CFC3B0_E74CFC3B0|闇の結界：内部
+_rsv_4177_-1_0_1_1_S74CFC3B0_E74CFC3B0|闇の結界の内側にいる状態。闇の結界の外側にいる闇より出づる者への攻撃が無効化される。
+_rsv_4178_-1_0_0_0_S74CFC3B0_E74CFC3B0|闇の結界：外部
+_rsv_4178_-1_0_1_0_S74CFC3B0_E74CFC3B0|闇の結界の外側にいる状態。闇の結界の内側にいる暗闇の雲への攻撃が無効化される。
+_rsv_4178_-1_0_0_1_S74CFC3B0_E74CFC3B0|闇の結界：外部
+_rsv_4178_-1_0_1_1_S74CFC3B0_E74CFC3B0|闇の結界の外側にいる状態。闇の結界の内側にいる暗闇の雲への攻撃が無効化される。
+_rsv_4180_-1_0_0_0_S74CFC3B0_E74CFC3B0|魔法陣展開
+_rsv_4180_-1_0_1_0_S74CFC3B0_E74CFC3B0|魔法陣を展開した状態。魔法攻撃力が向上し強力な魔法を行使できる代わりに、被ダメージが増加する。
+_rsv_4180_-1_0_0_1_S74CFC3B0_E74CFC3B0|魔法陣展開
+_rsv_4180_-1_0_1_1_S74CFC3B0_E74CFC3B0|魔法陣を展開した状態。魔法攻撃力が向上し強力な魔法を行使できる代わりに、被ダメージが増加する。
+_rsv_4181_-1_0_0_0_S74CFC3B0_E74CFC3B0|闇の抱擁
+_rsv_4181_-1_0_1_0_S74CFC3B0_E74CFC3B0|闇の抱擁を受け、ＨＰが徐々に失われる状態。効果時間終了時に「魂掴み」が出現し、対象の魂を圧潰する。
+_rsv_4181_-1_0_0_1_S74CFC3B0_E74CFC3B0|闇の抱擁
+_rsv_4181_-1_0_1_1_S74CFC3B0_E74CFC3B0|闇の抱擁を受け、ＨＰが徐々に失われる状態。効果時間終了時に「魂掴み」が出現し、対象の魂を圧潰する。
+_rsv_4182_-1_0_0_0_S74CFC3B0_E74CFC3B0|雲の魔刃
+_rsv_4182_-1_0_1_0_S74CFC3B0_E74CFC3B0|腕部の刃に魔力を込めた状態。次に闇の刃を実行した際、魔力を放出する。
+_rsv_4182_-1_0_0_1_S74CFC3B0_E74CFC3B0|雲の魔刃
+_rsv_4182_-1_0_1_1_S74CFC3B0_E74CFC3B0|腕部の刃に魔力を込めた状態。次に闇の刃を実行した際、魔力を放出する。
+
+#instancecontenttextdata_data
+# EN
+_rsv_41709_-1_1_0_0_S13095D61_E13095D61|Death is but a prelude to nothingness...
+_rsv_41709_-1_1_0_1_S13095D61_E13095D61|Death is but a prelude to nothingness...
+_rsv_41710_-1_1_0_0_S13095D61_E13095D61|Winds of Darkness, usher all unto oblivion!
+_rsv_41710_-1_1_0_1_S13095D61_E13095D61|Winds of Darkness, usher all unto oblivion!
+_rsv_41711_-1_1_0_0_S13095D61_E13095D61|Death abide in my breast!
+_rsv_41711_-1_1_0_1_S13095D61_E13095D61|Death abide in my breast!
+_rsv_41712_-1_1_0_0_S13095D61_E13095D61|Wind abide in my breast!
+_rsv_41712_-1_1_0_1_S13095D61_E13095D61|Wind abide in my breast!
+# DE
+_rsv_41709_-1_2_0_0_S13095D61_E13095D61|Auch der Tod ist nur ein Teil des allumfassenden Nichts!
+_rsv_41709_-1_2_0_1_S13095D61_E13095D61|Auch der Tod ist nur ein Teil des allumfassenden Nichts!
+_rsv_41710_-1_2_0_0_S13095D61_E13095D61|Dunkler Wind, wirble alles in die Finsternis!
+_rsv_41710_-1_2_0_1_S13095D61_E13095D61|Dunkler Wind, wirble alles in die Finsternis!
+_rsv_41711_-1_2_0_0_S13095D61_E13095D61|Kalter Tod, erfülle unsere Brust!
+_rsv_41711_-1_2_0_1_S13095D61_E13095D61|Kalter Tod, erfülle unsere Brust!
+_rsv_41712_-1_2_0_0_S13095D61_E13095D61|Schwarzer Wind, erfülle unsere Brust!
+_rsv_41712_-1_2_0_1_S13095D61_E13095D61|Schwarzer Wind, erfülle unsere Brust!
+# JP
+_rsv_41709_-1_0_0_0_S13095D61_E13095D61|死すらも無への過程に過ぎぬと知れ……。
+_rsv_41709_-1_0_0_1_S13095D61_E13095D61|死すらも無への過程に過ぎぬと知れ……。
+_rsv_41710_-1_0_0_0_S13095D61_E13095D61|闇の風よ、すべてを無へと送れ……！
+_rsv_41710_-1_0_0_1_S13095D61_E13095D61|闇の風よ、すべてを無へと送れ……！
+_rsv_41711_-1_0_0_0_S13095D61_E13095D61|死よ、我が腕に宿れ……！
+_rsv_41711_-1_0_0_1_S13095D61_E13095D61|死よ、我が腕に宿れ……！
+_rsv_41712_-1_0_0_0_S13095D61_E13095D61|風よ、我が腕に宿れ……！
+_rsv_41712_-1_0_0_1_S13095D61_E13095D61|風よ、我が腕に宿れ……！
+
+#npcyell_data
+
+#logmessage_data
+# EN
+_rsv_10656_-1_1_0_0_SF15185AF_EF15185AF|Vanquishing the stygian shadows deals   damage to the Cloud of Darkness!
+_rsv_10656_-1_1_0_1_SF15185AF_EF15185AF|Vanquishing the stygian shadows deals   damage to the Cloud of Darkness!
+_rsv_10664_-1_1_0_0_SF15185AF_EF15185AF|The stygian shadow sows a dark seed...
+_rsv_10664_-1_1_0_1_SF15185AF_EF15185AF|The stygian shadow sows a dark seed...
+_rsv_10665_-1_1_0_0_SF15185AF_EF15185AF|The stygian shadow manipulates the dark seedling...
+_rsv_10665_-1_1_0_1_SF15185AF_EF15185AF|The stygian shadow manipulates the dark seedling...
+# DE
+_rsv_10656_-1_2_0_0_SF15185AF_EF15185AF|Die abyssischen Abscheulichkeiten vergehen und die Wolke der Dunkelheit erleidet   PunktPunkte Schaden!
+_rsv_10656_-1_2_0_1_SF15185AF_EF15185AF|Die abyssischen Abscheulichkeiten vergehen und die Wolke der Dunkelheit erleidet   PunktPunkte Schaden!
+_rsv_10664_-1_2_0_0_SF15185AF_EF15185AF|Die abyssischen Abscheulichkeiten lassen schwarze Pflanzen sprießen...
+_rsv_10664_-1_2_0_1_SF15185AF_EF15185AF|Die abyssischen Abscheulichkeiten lassen schwarze Pflanzen sprießen...
+_rsv_10665_-1_2_0_0_SF15185AF_EF15185AF|Die abyssischen Abscheulichkeiten befehligen die schwarzen Pflanzen...
+_rsv_10665_-1_2_0_1_SF15185AF_EF15185AF|Die abyssischen Abscheulichkeiten befehligen die schwarzen Pflanzen...
+# JP
+_rsv_10656_-1_0_0_0_SF15185AF_EF15185AF|闇より出づる者を消耗させ、暗闇の雲に �ダメージを与えた！
+_rsv_10656_-1_0_0_1_SF15185AF_EF15185AF|闇より出づる者を消耗させ、暗闇の雲に �ダメージを与えた！
+_rsv_10664_-1_0_0_0_SF15185AF_EF15185AF|闇より出づる者が闇の植物を形作る……
+_rsv_10664_-1_0_0_1_SF15185AF_EF15185AF|闇より出づる者が闇の植物を形作る……
+_rsv_10665_-1_0_0_0_SF15185AF_EF15185AF|闇より出づる者が闇の植物を操る……
+_rsv_10665_-1_0_0_1_SF15185AF_EF15185AF|闇より出づる者が闇の植物を操る……
