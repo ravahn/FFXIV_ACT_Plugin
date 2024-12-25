@@ -254,6 +254,91 @@ _rsv_40525_-1_0_0_1_SE2DC5B04_EE2DC5B04|エアロジャ
 _rsv_40526_-1_0_0_1_SE2DC5B04_EE2DC5B04|エアロジャ
 _rsv_40532_-1_0_0_1_SE2DC5B04_EE2DC5B04|エンエアロジャ
 _rsv_40531_-1_0_0_1_SE2DC5B04_EE2DC5B04|エンデスジャ
+# FR
+_rsv_40461_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma hyperconcentré
+_rsv_40461_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma hyperconcentré
+_rsv_40462_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma hyperconcentré
+_rsv_40462_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma hyperconcentré
+_rsv_40463_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma hyperconcentré
+_rsv_40463_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma hyperconcentré
+_rsv_40464_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma diffus
+_rsv_40464_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma diffus
+_rsv_40465_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma diffus
+_rsv_40465_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma diffus
+_rsv_40466_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma diffus
+_rsv_40466_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma diffus
+_rsv_40467_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40467_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40468_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40468_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40469_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40469_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40470_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40470_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40471_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40471_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma rotatif
+_rsv_40480_-1_3_0_0_SE2DC5B04_EE2DC5B04|Arts ténébreux triple
+_rsv_40480_-1_3_0_1_SE2DC5B04_EE2DC5B04|Arts ténébreux triple
+_rsv_40481_-1_3_0_0_SE2DC5B04_EE2DC5B04|Arts ténébreux
+_rsv_40481_-1_3_0_1_SE2DC5B04_EE2DC5B04|Arts ténébreux
+_rsv_40482_-1_3_0_0_SE2DC5B04_EE2DC5B04|Arts ténébreux
+_rsv_40482_-1_3_0_1_SE2DC5B04_EE2DC5B04|Arts ténébreux
+_rsv_40483_-1_3_0_0_SE2DC5B04_EE2DC5B04|Arts ténébreux triple
+_rsv_40483_-1_3_0_1_SE2DC5B04_EE2DC5B04|Arts ténébreux triple
+_rsv_40484_-1_3_0_0_SE2DC5B04_EE2DC5B04|Arts ténébreux
+_rsv_40484_-1_3_0_1_SE2DC5B04_EE2DC5B04|Arts ténébreux
+_rsv_40485_-1_3_0_0_SE2DC5B04_EE2DC5B04|Arts ténébreux
+_rsv_40485_-1_3_0_1_SE2DC5B04_EE2DC5B04|Arts ténébreux
+_rsv_40486_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma longue portée
+_rsv_40486_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma longue portée
+_rsv_40487_-1_3_0_0_SE2DC5B04_EE2DC5B04|Canon plasma longue portée
+_rsv_40487_-1_3_0_1_SE2DC5B04_EE2DC5B04|Canon plasma longue portée
+_rsv_40488_-1_3_0_0_SE2DC5B04_EE2DC5B04|Faisceau de particules massacreur
+_rsv_40488_-1_3_0_1_SE2DC5B04_EE2DC5B04|Faisceau de particules massacreur
+_rsv_40489_-1_3_0_0_SE2DC5B04_EE2DC5B04|Faisceau de particules massacreur
+_rsv_40489_-1_3_0_1_SE2DC5B04_EE2DC5B04|Faisceau de particules massacreur
+_rsv_40490_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tir semant
+_rsv_40490_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tir semant
+_rsv_40491_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tir semant
+_rsv_40491_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tir semant
+_rsv_40492_-1_3_0_0_SE2DC5B04_EE2DC5B04|Sarment de ronces
+_rsv_40492_-1_3_0_1_SE2DC5B04_EE2DC5B04|Sarment de ronces
+_rsv_40493_-1_3_0_0_SE2DC5B04_EE2DC5B04|Sarment de ronces
+_rsv_40493_-1_3_0_1_SE2DC5B04_EE2DC5B04|Sarment de ronces
+_rsv_40495_-1_3_0_0_SE2DC5B04_EE2DC5B04|Faisceaux centrés et latéraux
+_rsv_40495_-1_3_0_1_SE2DC5B04_EE2DC5B04|Faisceaux centrés et latéraux
+_rsv_40496_-1_3_0_0_SE2DC5B04_EE2DC5B04|Faisceaux latéraux et centrés
+_rsv_40496_-1_3_0_1_SE2DC5B04_EE2DC5B04|Faisceaux latéraux et centrés
+_rsv_40497_-1_3_0_0_SE2DC5B04_EE2DC5B04|Faisceau de particules bondissant
+_rsv_40497_-1_3_0_1_SE2DC5B04_EE2DC5B04|Faisceau de particules bondissant
+_rsv_40515_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40515_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40516_-1_3_0_0_SE2DC5B04_EE2DC5B04|Aspiration
+_rsv_40516_-1_3_0_1_SE2DC5B04_EE2DC5B04|Aspiration
+_rsv_40517_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40517_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40518_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40518_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40519_-1_3_0_0_SE2DC5B04_EE2DC5B04|Aspiration
+_rsv_40519_-1_3_0_1_SE2DC5B04_EE2DC5B04|Aspiration
+_rsv_40520_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40520_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40521_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40521_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Mort
+_rsv_40522_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40522_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40523_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40523_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40524_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40524_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40525_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40525_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40526_-1_3_0_0_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40526_-1_3_0_1_SE2DC5B04_EE2DC5B04|Giga Vent
+_rsv_40531_-1_3_0_0_SE2DC5B04_EE2DC5B04|Onction : Giga Mort
+_rsv_40531_-1_3_0_1_SE2DC5B04_EE2DC5B04|Onction : Giga Mort
+_rsv_40532_-1_3_0_0_SE2DC5B04_EE2DC5B04|Onction : Giga Vent
+_rsv_40532_-1_3_0_1_SE2DC5B04_EE2DC5B04|Onction : Giga Vent
 
 #bnpc_data
 
@@ -321,6 +406,27 @@ _rsv_4182_-1_0_0_0_S74CFC3B0_E74CFC3B0|雲の魔刃
 _rsv_4182_-1_0_1_0_S74CFC3B0_E74CFC3B0|腕部の刃に魔力を込めた状態。次に闇の刃を実行した際、魔力を放出する。
 _rsv_4182_-1_0_0_1_S74CFC3B0_E74CFC3B0|雲の魔刃
 _rsv_4182_-1_0_1_1_S74CFC3B0_E74CFC3B0|腕部の刃に魔力を込めた状態。次に闇の刃を実行した際、魔力を放出する。
+# FR
+_rsv_4177_-1_3_0_0_S74CFC3B0_E74CFC3B0|Barrière de Ténèbres: intérieur
+_rsv_4177_-1_3_0_1_S74CFC3B0_E74CFC3B0|Barrière de Ténèbres: intérieur
+_rsv_4177_-1_3_1_0_S74CFC3B0_E74CFC3B0|À l'intérieur de la barrière de Ténèbres, les attaques sur les suppôts de Ténèbres n'ont aucun effet.
+_rsv_4177_-1_3_1_1_S74CFC3B0_E74CFC3B0|À l'intérieur de la barrière de Ténèbres, les attaques sur les suppôts de Ténèbres n'ont aucun effet.
+_rsv_4178_-1_3_0_0_S74CFC3B0_E74CFC3B0|Barrière de Ténèbres: extérieur
+_rsv_4178_-1_3_0_1_S74CFC3B0_E74CFC3B0|Barrière de Ténèbres: extérieur
+_rsv_4178_-1_3_1_0_S74CFC3B0_E74CFC3B0|À l'extérieur de la barrière de Ténèbres, les attaques sur le Nuage de Ténèbres n'ont aucun effet.
+_rsv_4178_-1_3_1_1_S74CFC3B0_E74CFC3B0|À l'extérieur de la barrière de Ténèbres, les attaques sur le Nuage de Ténèbres n'ont aucun effet.
+_rsv_4180_-1_3_0_0_S74CFC3B0_E74CFC3B0|Déploiement arcanique
+_rsv_4180_-1_3_0_1_S74CFC3B0_E74CFC3B0|Déploiement arcanique
+_rsv_4180_-1_3_1_0_S74CFC3B0_E74CFC3B0|Des cercles arcaniques sont déployés. Bénéficie de redoutables sorts avec une puissance magique accrue en échange d'une augmentation des dégâts subis.
+_rsv_4180_-1_3_1_1_S74CFC3B0_E74CFC3B0|Des cercles arcaniques sont déployés. Bénéficie de redoutables sorts avec une puissance magique accrue en échange d'une augmentation des dégâts subis.
+_rsv_4181_-1_3_0_0_S74CFC3B0_E74CFC3B0|Enlacement ténébreux
+_rsv_4181_-1_3_0_1_S74CFC3B0_E74CFC3B0|Enlacement ténébreux
+_rsv_4181_-1_3_1_0_S74CFC3B0_E74CFC3B0|Les Ténèbres enlacent la victime et des dégâts périodiques sont subis. Provoque l'effet Étreinte d'archée à la fin de l'effet, broyant son âme.
+_rsv_4181_-1_3_1_1_S74CFC3B0_E74CFC3B0|Les Ténèbres enlacent la victime et des dégâts périodiques sont subis. Provoque l'effet Étreinte d'archée à la fin de l'effet, broyant son âme.
+_rsv_4182_-1_3_0_0_S74CFC3B0_E74CFC3B0|Vapeurs caustiques
+_rsv_4182_-1_3_0_1_S74CFC3B0_E74CFC3B0|Vapeurs caustiques
+_rsv_4182_-1_3_1_0_S74CFC3B0_E74CFC3B0|De l'énergie magique concentrée sera libérée lors de la prochaine utilisation de Ténèbres acérées.
+_rsv_4182_-1_3_1_1_S74CFC3B0_E74CFC3B0|De l'énergie magique concentrée sera libérée lors de la prochaine utilisation de Ténèbres acérées.
 
 #instancecontenttextdata_data
 # EN
@@ -350,6 +456,16 @@ _rsv_41711_-1_0_0_0_S13095D61_E13095D61|死よ、我が腕に宿れ……！
 _rsv_41711_-1_0_0_1_S13095D61_E13095D61|死よ、我が腕に宿れ……！
 _rsv_41712_-1_0_0_0_S13095D61_E13095D61|風よ、我が腕に宿れ……！
 _rsv_41712_-1_0_0_1_S13095D61_E13095D61|風よ、我が腕に宿れ……！
+#FR
+_rsv_41709_-1_3_0_0_S13095D61_E13095D61|La mort n'est que le commencement...
+_rsv_41709_-1_3_0_1_S13095D61_E13095D61|La mort n'est que le commencement...
+_rsv_41710_-1_3_0_0_S13095D61_E13095D61|Que le tumulte ténébreux vous emporte!
+_rsv_41710_-1_3_0_1_S13095D61_E13095D61|Que le tumulte ténébreux vous emporte!
+_rsv_41711_-1_3_0_0_S13095D61_E13095D61|Plénitude de la mort... Je t'attire en mon sein!
+_rsv_41711_-1_3_0_1_S13095D61_E13095D61|Plénitude de la mort... Je t'attire en mon sein!
+_rsv_41712_-1_3_0_0_S13095D61_E13095D61|Impétuosité des vents... Je t'attire en mon sein!
+_rsv_41712_-1_3_0_1_S13095D61_E13095D61|Impétuosité des vents... Je t'attire en mon sein!
+
 
 #npcyell_data
 
@@ -375,3 +491,10 @@ _rsv_10664_-1_0_0_0_SF15185AF_EF15185AF|闇より出づる者が闇の植物を�
 _rsv_10664_-1_0_0_1_SF15185AF_EF15185AF|闇より出づる者が闇の植物を形作る……
 _rsv_10665_-1_0_0_0_SF15185AF_EF15185AF|闇より出づる者が闇の植物を操る……
 _rsv_10665_-1_0_0_1_SF15185AF_EF15185AF|闇より出づる者が闇の植物を操る……
+# FR
+_rsv_10656_-1_3_0_0_SF15185AF_EF15185AF|Les suppôts de Ténèbres sont oblitérés, infligeant "	 points de dégâts au Nuage de Ténèbres!
+_rsv_10656_-1_3_0_1_SF15185AF_EF15185AF|Les suppôts de Ténèbres sont oblitérés, infligeant "	 points de dégâts au Nuage de Ténèbres!
+_rsv_10664_-1_3_0_0_SF15185AF_EF15185AF|Des graines sont semées...
+_rsv_10664_-1_3_0_1_SF15185AF_EF15185AF|Des graines sont semées...
+_rsv_10665_-1_3_0_0_SF15185AF_EF15185AF|La végétation s'agite...
+_rsv_10665_-1_3_0_1_SF15185AF_EF15185AF|La végétation s'agite...
