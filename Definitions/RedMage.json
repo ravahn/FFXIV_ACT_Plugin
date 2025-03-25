@@ -29,9 +29,9 @@
 { "6500" : "veraero iii", "damage": [ { "potency": 440} ] },
 { "908c" : "jolt iii", "damage": [ { "potency": 360} ] },
 { "6502" : "resolution", "damage": [ { "potency": 850, "targetindex": 0}, {"potency": 340} ] },
-{ "908d" : "vice of thorns", "damage": [ { "potency": 700, "targetindex": 0}, {"potency": 280} ] },
+{ "908d" : "vice of thorns", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 320} ] },
 { "908e" : "grand impact", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 240} ] },
-{ "908f" : "prefulgence", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 360} ] },
+{ "908f" : "prefulgence", "damage": [ { "potency": 1000, "targetindex": 0}, {"potency": 400} ] },
 
 { "1D67" : "enchanted riposte", "damage": [ { "potency": 300} ] },
 { "1D68" : "enchanted zwerchhau", "damage": [ { "potency": 170, "combo": 360} ] },

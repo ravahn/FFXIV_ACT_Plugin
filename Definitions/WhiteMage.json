@@ -19,7 +19,7 @@
 { "DF2" : "tetragrammaton", "heal": [ { "potency": 700} ] },
 { "1D07" : "stone iv", "damage": [ { "potency": 260} ] },
 { "1D09" : "plenary indulgence", "heal": [ { "potency": 0} ] },
-{ "4094" : "dia", "damage": [ { "potency": 75} ] },
+{ "4094" : "dia", "damage": [ { "potency": 80} ] },
 { "4095" : "glare", "damage": [ { "potency": 290} ] },
 { "4096" : "afflatus rapture", "heal": [ { "potency": 400} ] },
 { "4097" : "afflatus misery", "damage": [ { "potency": 1360, "targetindex": 0},  { "potency": 680 }  ] },
@@ -39,7 +39,7 @@
 { "777": "asylum", "timeproc": { "type": "groundheal", "potency": 100, "maxticks": 8 } },
 { "2E3": "asylum", "timeproc": { "type": "groundheal", "potency": 100, "maxticks": 8 } },
 { "778" : "asylum", "potency": [ {"type": "HealReceiveMultiplier", "amount": 10} ] },
-{ "74F": "dia", "timeproc": { "type": "dot", "potency": 75, "damagetype": "magic", "maxticks": 10 } },
+{ "74F": "dia", "timeproc": { "type": "dot", "potency": 80, "damagetype": "magic", "maxticks": 10 } },
 { "a94" : "aquaveil", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -15} ] },
 
 { "4C3": "confession", "timeproc": { "type": "groundheal", "potency": 200, "maxticks": 3 } },

@@ -23,8 +23,8 @@
 { "64a0" : "double down", "damage": [ { "potency": 1200, "targetindex": 0}, {"potency": 1020} ] },
 { "9047" : "great nebula", "heal": [ { "potency": 0} ] },
 { "9048" : "fated brand", "damage": [ { "potency": 120} ] },
-{ "9049" : "reign of beasts", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 320} ] },
-{ "904a" : "noble blood", "damage": [ { "potency": 1000, "targetindex": 0}, {"potency": 400} ] },
+{ "9049" : "reign of beasts", "damage": [ { "potency": 1000, "targetindex": 0}, {"potency": 600} ] },
+{ "904a" : "noble blood", "damage": [ { "potency": 1100, "targetindex": 0}, {"potency": 660} ] },
 { "904b" : "lion heart", "damage": [ { "potency": 1200, "targetindex": 0}, {"potency": 480} ] },
 
 

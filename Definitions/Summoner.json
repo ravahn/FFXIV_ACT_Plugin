@@ -65,7 +65,7 @@
 { "64FD" : "earthen fury ii", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 320} ] },
 { "64FE" : "aerial blast ii", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 320} ] },
 
-{ "907e" : "necrotize", "damage": [{ "potency": 440 }]},
+{ "907e" : "necrotize", "damage": [{ "potency": 460 }]},
 { "907f" : "searing flash", "damage": [{ "potency": 600}]},
 { "9085" : "lux solaris", "heal": [{ "potency": 500}]},
 { "9082" : "umbral impulse", "damage": [{ "potency": 620}]},
@@ -73,7 +73,7 @@
 { "9084" : "sunflare", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 320} ] },
 { "9086" : "enkindle solar bahamut", "damage": [ { "potency": 1400, "targetindex": 0}, {"potency": 560} ] },
 { "9081" : "luxware", "damage": [ { "potency": 160 } ] },
-{ "9087" : "exodus", "damage": [ { "potency": 1400, "targetindex": 0}, {"potency": 560} ] },
+{ "9087" : "exodus", "damage": [ { "potency": 1500, "targetindex": 0}, {"potency": 600} ] },
 
 ],
 "statuseffects" : [ 

@@ -37,10 +37,10 @@
 { "8754" : "uncoiled twinfang", "damage": [ { "potency": 0} ]},
 { "8755" : "uncoiled twinblood", "damage": [ { "potency": 0} ]},
 { "8747" : "ouroboros", "damage": [ { "potency": 1150, "targetindex": 0}, {"potency": 460 } ]},
-{ "8750" : "first legacy", "damage": [ { "potency": 280, "targetindex": 0}, {"potency": 112 } ]},
-{ "8751" : "second legacy", "damage": [ { "potency": 280, "targetindex": 0}, {"potency": 112 } ]},
-{ "8752" : "third legacy", "damage": [ { "potency": 280, "targetindex": 0}, {"potency": 112 } ]},
-{ "8753" : "fourth legacy", "damage": [ { "potency": 280, "targetindex": 0}, {"potency": 112 } ]},
+{ "8750" : "first legacy", "damage": [ { "potency": 320, "targetindex": 0}, {"potency": 128 } ]},
+{ "8751" : "second legacy", "damage": [ { "potency": 320, "targetindex": 0}, {"potency": 128 } ]},
+{ "8752" : "third legacy", "damage": [ { "potency": 320, "targetindex": 0}, {"potency": 128 } ]},
+{ "8753" : "fourth legacy", "damage": [ { "potency": 320, "targetindex": 0}, {"potency": 128 } ]},
 
 ],
 "statuseffects" : [ 

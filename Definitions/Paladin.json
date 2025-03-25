@@ -3,12 +3,12 @@
 "actions" : [
 { "09" : "fast blade", "damage": [ { "potency": 220} ] },
 { "0F" : "riot blade", "damage": [ { "potency": 170, "combo": 330} ] },
-{ "1CD5" : "total eclipse", "damage": [ { "potency": 100} ] },
+{ "1CD5" : "total eclipse", "damage": [ { "potency": 120} ] },
 { "10" : "shield bash", "damage": [ { "potency": 100} ] },
 { "18" : "shield lob", "damage": [ { "potency": 100} ] },
 { "15" : "rage of halone", "damage": [ { "potency": 100, "combo": 330} ] },
 { "1D" : "spirits within", "damage": [ { "potency": 270} ] },
-{ "4049" : "prominence", "damage": [ { "potency": 100, "combo": 170} ] },
+{ "4049" : "prominence", "damage": [ { "potency": 100, "combo": 220} ] },
 { "17" : "circle of scorn", "damage": [ { "potency": 140} ] },
 { "DD2" : "goring blade", "damage": [ { "potency": 700 } ] },
 { "DD4" : "divine veil", "heal": [ { "potency": 400} ] },
@@ -27,8 +27,8 @@
 
 { "9036" : "supplication", "damage": [ { "potency": 500} ] },
 { "9037" : "sepulchre", "damage": [ { "potency": 540} ] },
-{ "9039" : "imperator", "damage": [ { "potency": 580, "targetindex": 0},{"potency": 290} ] },
-{ "903a" : "blade of honor", "damage": [ { "potency": 1000, "targetindex": 0},{"potency": 500} ] },
+{ "9039" : "imperator", "damage": [ { "potency": 580, "targetindex": 0},{"potency": 232} ] },
+{ "903a" : "blade of honor", "damage": [ { "potency": 1000, "targetindex": 0},{"potency": 400} ] },
 
 ],
 "statuseffects" : [ 

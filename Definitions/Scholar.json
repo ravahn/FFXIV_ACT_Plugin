@@ -38,7 +38,7 @@
     { "317" : "dissipation", "potency": [ {"type": "HealDoneMultiplier", "amount": 20, "LimitToActionCategory": "Spell" } ] },
     { "318": "emergency tactics", "reactiveproc": { "type": "HealOnHealCast" } },
     { "4C5": "chain strategem", "multiplier": [ { "type":  "criticalreceived", "amount": 10 } ] },
-    { "767": "biolysis", "timeproc": { "type": "dot", "potency": 75, "damagetype": "magic", "maxticks": 10 } },
+    { "767": "biolysis", "timeproc": { "type": "dot", "potency": 80, "damagetype": "magic", "maxticks": 10 } },
     { "a96": "protraction", "potency": [{ "type": "HealReceiveMultiplier", "amount":10 }] },
     { "a98": "expedience", "potency": [{ "type": "damagereceivedmultiplier", "amount": -10 }] },
     { "798": "sacred soil regen", "timeproc": { "type": "groundheal", "potency": "100", "maxticks": "5" } },

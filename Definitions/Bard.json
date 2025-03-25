@@ -19,11 +19,11 @@
     { "406E" : "shadowbite", "damage": [ { "potency": 0} ] },
     { "406F" : "burst shot", "damage": [ { "potency": 220} ] },
     { "4070" : "apex arrow", "damage": [ { "potency": 0} ] },
-    { "64b7" : "ladonsbite", "damage": [ { "potency": 130} ] },
+    { "64b7" : "ladonsbite", "damage": [ { "potency": 140} ] },
     { "64b8" : "blast arrow", "damage": [ { "potency": 240}, { "potency": 600, "targetindex": 0} ] },
 
     { "906f" : "heartbreak shot", "damage": [ { "potency": 180 } ] },
-    { "9070" : "resonant arrow", "damage": [ { "potency": 600, "targetindex": 0 },{"potency": 300} ] },
+    { "9070" : "resonant arrow", "damage": [ { "potency": 600, "targetindex": 0 },{"potency": 270} ] },
     { "9071" : "radiant encore", "damage": [ { "potency": 0} ] },
 
 ],
