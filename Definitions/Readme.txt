@@ -1,4 +1,4 @@
-This folder contains a copy of the FFXIV_ACT_Plugin ability & status definition JSON files as of version 2.6.3.8, for FFXIV Patch 6.05.  
+This folder contains a copy of the FFXIV_ACT_Plugin ability & status definition JSON files as of version 2.7.2.7, for FFXIV Patch 7.10.
 
 These files adhere to the following json structure:
 "job": descriptive string of the job suppored by this data.  The job name is arbitrary.
