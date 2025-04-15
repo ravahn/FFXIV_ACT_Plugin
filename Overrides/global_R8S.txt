@@ -1,0 +1,1291 @@
+# EN
+_rsv_10924_-1_1_0_0_SF15185AF_EF15185AF|The Howling Blade has overcharged the teleporters, limiting their availability...
+_rsv_10924_-1_1_0_1_SF15185AF_EF15185AF|The Howling Blade has overcharged the teleporters, limiting their availability...
+_rsv_10925_-1_1_0_0_SF15185AF_EF15185AF|The teleporters have returned to normal!
+_rsv_10925_-1_1_0_1_SF15185AF_EF15185AF|The teleporters have returned to normal!
+_rsv_13851_-1_1_0_0_S64755250_E64755250|font of wind aether
+_rsv_13851_-1_1_0_1_S64755250_E64755250|font of wind aether
+_rsv_13851_-1_1_2_0_S64755250_E64755250|fonts of wind aether
+_rsv_13851_-1_1_2_1_S64755250_E64755250|fonts of wind aether
+_rsv_13852_-1_1_0_0_S64755250_E64755250|font of earth aether
+_rsv_13852_-1_1_0_1_S64755250_E64755250|font of earth aether
+_rsv_13852_-1_1_2_0_S64755250_E64755250|fonts earth aether
+_rsv_13852_-1_1_2_1_S64755250_E64755250|fonts earth aether
+_rsv_18441_-1_1_0_0_SCFE39641_ECFE39641|There's no escape!
+_rsv_18441_-1_1_0_1_SCFE39641_ECFE39641|There's no escape!
+_rsv_41883_-1_1_0_0_SE2DC5B04_EE2DC5B04|Reign's End
+_rsv_41883_-1_1_0_1_SE2DC5B04_EE2DC5B04|Reign's End
+_rsv_41884_-1_1_0_0_SE2DC5B04_EE2DC5B04|Sovereign Scar
+_rsv_41884_-1_1_0_1_SE2DC5B04_EE2DC5B04|Sovereign Scar
+_rsv_41885_-1_1_0_0_SE2DC5B04_EE2DC5B04|Windfang
+_rsv_41885_-1_1_0_1_SE2DC5B04_EE2DC5B04|Windfang
+_rsv_41886_-1_1_0_0_SE2DC5B04_EE2DC5B04|Windfang
+_rsv_41886_-1_1_0_1_SE2DC5B04_EE2DC5B04|Windfang
+_rsv_41887_-1_1_0_0_SE2DC5B04_EE2DC5B04|Windfang
+_rsv_41887_-1_1_0_1_SE2DC5B04_EE2DC5B04|Windfang
+_rsv_41888_-1_1_0_0_SE2DC5B04_EE2DC5B04|Windfang
+_rsv_41888_-1_1_0_1_SE2DC5B04_EE2DC5B04|Windfang
+_rsv_41889_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stonefang
+_rsv_41889_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stonefang
+_rsv_41890_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stonefang
+_rsv_41890_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stonefang
+_rsv_41904_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stonefang
+_rsv_41904_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stonefang
+_rsv_41905_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stonefang
+_rsv_41905_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stonefang
+_rsv_41906_-1_1_0_0_SE2DC5B04_EE2DC5B04|Millennial Decay
+_rsv_41906_-1_1_0_1_SE2DC5B04_EE2DC5B04|Millennial Decay
+_rsv_41908_-1_1_0_0_SE2DC5B04_EE2DC5B04|Breath of Decay
+_rsv_41908_-1_1_0_1_SE2DC5B04_EE2DC5B04|Breath of Decay
+_rsv_41909_-1_1_0_0_SE2DC5B04_EE2DC5B04|Winds of Decay
+_rsv_41909_-1_1_0_1_SE2DC5B04_EE2DC5B04|Winds of Decay
+_rsv_41912_-1_1_0_0_S13095D61_E13095D61|With Fenrir's might, I rouse a storm!
+_rsv_41912_-1_1_0_1_S13095D61_E13095D61|With Fenrir's might, I rouse a storm!
+_rsv_41913_-1_1_0_0_S13095D61_E13095D61|This has gone on long enough. Victory is mine!
+_rsv_41913_-1_1_0_1_S13095D61_E13095D61|This has gone on long enough. Victory is mine!
+_rsv_41914_-1_1_0_0_S13095D61_E13095D61|No, I will not lose... I need more power!
+_rsv_41914_-1_1_0_1_S13095D61_E13095D61|No, I will not lose... I need more power!
+_rsv_41915_-1_1_0_0_S13095D61_E13095D61|Fenrir's unbound might!
+_rsv_41915_-1_1_0_1_S13095D61_E13095D61|Fenrir's unbound might!
+_rsv_41916_-1_1_0_0_S13095D61_E13095D61|No matter what becomes of my body...defeat is not an option!
+_rsv_41916_-1_1_0_1_S13095D61_E13095D61|No matter what becomes of my body...defeat is not an option!
+_rsv_41917_-1_1_0_0_S13095D61_E13095D61|Something's amiss... What does he intend to do!?
+_rsv_41917_-1_1_0_1_S13095D61_E13095D61|Something's amiss... What does he intend to do!?
+_rsv_41918_-1_1_0_0_S13095D61_E13095D61|Egads! The ring's been destroyed, and they've fallen below!
+_rsv_41918_-1_1_0_1_S13095D61_E13095D61|Egads! The ring's been destroyed, and they've fallen below!
+_rsv_41919_-1_1_0_0_S13095D61_E13095D61|They've moved to floating deathtraps!How will they fight with so little room?
+_rsv_41919_-1_1_0_1_S13095D61_E13095D61|They've moved to floating deathtraps!How will they fight with so little room?
+_rsv_41920_-1_1_0_0_S13095D61_E13095D61|Now I fight with everything I have! Prepare yourself!
+_rsv_41920_-1_1_0_1_S13095D61_E13095D61|Now I fight with everything I have! Prepare yourself!
+_rsv_41921_-1_1_0_0_S13095D61_E13095D61|I will rend all asunder!
+_rsv_41921_-1_1_0_1_S13095D61_E13095D61|I will rend all asunder!
+_rsv_41922_-1_1_0_0_S13095D61_E13095D61|You'll have nowhere to stand!
+_rsv_41922_-1_1_0_1_S13095D61_E13095D61|You'll have nowhere to stand!
+_rsv_41923_-1_1_0_0_S13095D61_E13095D61|He's destroyed an isle! It'll take time to restore it!
+_rsv_41923_-1_1_0_1_S13095D61_E13095D61|He's destroyed an isle! It'll take time to restore it!
+_rsv_41924_-1_1_0_0_S13095D61_E13095D61|The power of wind unleashed!
+_rsv_41924_-1_1_0_1_S13095D61_E13095D61|The power of wind unleashed!
+_rsv_41925_-1_1_0_0_S13095D61_E13095D61|You cannot escape from the wolf!
+_rsv_41925_-1_1_0_1_S13095D61_E13095D61|You cannot escape from the wolf!
+_rsv_41926_-1_1_0_0_S13095D61_E13095D61|I will draw upon my all to defeat you!
+_rsv_41926_-1_1_0_1_S13095D61_E13095D61|I will draw upon my all to defeat you!
+_rsv_41927_-1_1_0_0_S13095D61_E13095D61|Even if it costs me my life...
+_rsv_41927_-1_1_0_1_S13095D61_E13095D61|Even if it costs me my life...
+_rsv_41928_-1_1_0_0_S13095D61_E13095D61|Neither side is holding back, but there can be only one champion!
+_rsv_41928_-1_1_0_1_S13095D61_E13095D61|Neither side is holding back, but there can be only one champion!
+_rsv_41929_-1_1_0_0_S13095D61_E13095D61|I will prevail!
+_rsv_41929_-1_1_0_1_S13095D61_E13095D61|I will prevail!
+_rsv_41930_-1_1_0_0_S13095D61_E13095D61|You're strong, I admit... But I'm the one who will win!
+_rsv_41930_-1_1_0_1_S13095D61_E13095D61|You're strong, I admit... But I'm the one who will win!
+_rsv_41931_-1_1_0_0_S13095D61_E13095D61|Dodge this if you can!
+_rsv_41931_-1_1_0_1_S13095D61_E13095D61|Dodge this if you can!
+_rsv_41932_-1_1_0_0_S13095D61_E13095D61|Will you be able to stay on your feet?
+_rsv_41932_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pack Predation
+_rsv_41932_-1_1_0_1_S13095D61_E13095D61|Will you be able to stay on your feet?
+_rsv_41932_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pack Predation
+_rsv_41933_-1_1_0_0_SE2DC5B04_EE2DC5B04|Alpha Wind
+_rsv_41933_-1_1_0_1_SE2DC5B04_EE2DC5B04|Alpha Wind
+_rsv_41934_-1_1_0_0_S13095D61_E13095D61|Aaarrrgh!
+_rsv_41934_-1_1_0_1_S13095D61_E13095D61|Aaarrrgh!
+_rsv_41935_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stalking Wind
+_rsv_41935_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stalking Wind
+_rsv_41936_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forlorn Wind
+_rsv_41936_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forlorn Wind
+_rsv_41937_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forlorn Wind
+_rsv_41937_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forlorn Wind
+_rsv_41938_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forlorn Wind
+_rsv_41938_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forlorn Wind
+_rsv_41939_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forlorn Stone
+_rsv_41939_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forlorn Stone
+_rsv_41940_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forlorn Stone
+_rsv_41940_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forlorn Stone
+_rsv_41941_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forlorn Stone
+_rsv_41941_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forlorn Stone
+_rsv_41943_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fanged Crossing
+_rsv_41943_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fanged Crossing
+_rsv_41947_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Havoc
+_rsv_41947_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Havoc
+_rsv_41948_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Havoc
+_rsv_41948_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Havoc
+_rsv_41949_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Havoc
+_rsv_41949_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Havoc
+_rsv_41954_-1_1_0_0_SE2DC5B04_EE2DC5B04|Alpha Stone
+_rsv_41954_-1_1_0_1_SE2DC5B04_EE2DC5B04|Alpha Stone
+_rsv_41956_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stalking Stone
+_rsv_41956_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stalking Stone
+_rsv_41957_-1_1_0_0_SE2DC5B04_EE2DC5B04|Great Whirlwind
+_rsv_41957_-1_1_0_1_SE2DC5B04_EE2DC5B04|Great Whirlwind
+_rsv_41965_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wind Surge
+_rsv_41965_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wind Surge
+_rsv_41966_-1_1_0_0_SE2DC5B04_EE2DC5B04|Sand Surge
+_rsv_41966_-1_1_0_1_SE2DC5B04_EE2DC5B04|Sand Surge
+_rsv_41967_-1_1_0_0_SE2DC5B04_EE2DC5B04|Gale Surge
+_rsv_41967_-1_1_0_1_SE2DC5B04_EE2DC5B04|Gale Surge
+_rsv_41968_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stone Surge
+_rsv_41968_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stone Surge
+_rsv_41969_-1_1_0_0_SE2DC5B04_EE2DC5B04|Extraplanar Feast
+_rsv_41969_-1_1_0_1_SE2DC5B04_EE2DC5B04|Extraplanar Feast
+_rsv_42076_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultraviolent Ray
+_rsv_42076_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultraviolent Ray
+_rsv_42077_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultraviolent Ray
+_rsv_42077_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultraviolent Ray
+_rsv_42078_-1_1_0_0_SE2DC5B04_EE2DC5B04|Gleaming Beam
+_rsv_42078_-1_1_0_1_SE2DC5B04_EE2DC5B04|Gleaming Beam
+_rsv_42079_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hero's Blow
+_rsv_42079_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hero's Blow
+_rsv_42080_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hero's Blow
+_rsv_42080_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hero's Blow
+_rsv_42081_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hero's Blow
+_rsv_42081_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hero's Blow
+_rsv_42082_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hero's Blow
+_rsv_42082_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hero's Blow
+_rsv_42083_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fanged Maw
+_rsv_42083_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fanged Maw
+_rsv_42084_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fanged Perimeter
+_rsv_42084_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fanged Perimeter
+_rsv_42085_-1_1_0_0_SE2DC5B04_EE2DC5B04|Mooncleaver
+_rsv_42085_-1_1_0_1_SE2DC5B04_EE2DC5B04|Mooncleaver
+_rsv_42086_-1_1_0_0_SE2DC5B04_EE2DC5B04|Mooncleaver
+_rsv_42086_-1_1_0_1_SE2DC5B04_EE2DC5B04|Mooncleaver
+_rsv_42087_-1_1_0_0_SE2DC5B04_EE2DC5B04|Elemental Purge
+_rsv_42087_-1_1_0_1_SE2DC5B04_EE2DC5B04|Elemental Purge
+_rsv_42088_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aerotemporal Blast
+_rsv_42088_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aerotemporal Blast
+_rsv_42089_-1_1_0_0_SE2DC5B04_EE2DC5B04|Geotemporal Blast
+_rsv_42089_-1_1_0_1_SE2DC5B04_EE2DC5B04|Geotemporal Blast
+_rsv_42092_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hunter's Harvest
+_rsv_42092_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hunter's Harvest
+_rsv_42093_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hunter's Harvest
+_rsv_42093_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hunter's Harvest
+_rsv_42094_-1_1_0_0_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42094_-1_1_0_1_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42095_-1_1_0_0_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42095_-1_1_0_1_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42097_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twofold Tempest
+_rsv_42097_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twofold Tempest
+_rsv_42098_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twofold Tempest
+_rsv_42098_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twofold Tempest
+_rsv_42099_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twofold Tempest
+_rsv_42099_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twofold Tempest
+_rsv_42100_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twofold Tempest
+_rsv_42100_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twofold Tempest
+_rsv_42102_-1_1_0_0_SE2DC5B04_EE2DC5B04|Gleaming Barrage
+_rsv_42102_-1_1_0_1_SE2DC5B04_EE2DC5B04|Gleaming Barrage
+_rsv_42103_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42103_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42104_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42104_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42105_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42105_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42106_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42106_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42107_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42107_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42108_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42108_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42109_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42109_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42110_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42110_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42111_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42111_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42112_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42112_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42113_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42113_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42114_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42114_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42115_-1_1_0_0_SE2DC5B04_EE2DC5B04|Lone Wolf's Lament
+_rsv_42115_-1_1_0_1_SE2DC5B04_EE2DC5B04|Lone Wolf's Lament
+_rsv_42117_-1_1_0_0_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42117_-1_1_0_1_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42118_-1_1_0_0_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42118_-1_1_0_1_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42119_-1_1_0_0_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42119_-1_1_0_1_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42120_-1_1_0_0_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42120_-1_1_0_1_SE2DC5B04_EE2DC5B04|Prowling Gale
+_rsv_42132_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42132_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42133_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42133_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42134_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42134_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42135_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42135_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42136_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42136_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42137_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42137_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42138_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42138_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42139_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42139_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42140_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42140_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_42141_-1_1_0_0_SE2DC5B04_EE2DC5B04|Starcleaver
+_rsv_42141_-1_1_0_1_SE2DC5B04_EE2DC5B04|Starcleaver
+_rsv_42142_-1_1_0_0_SE2DC5B04_EE2DC5B04|Starcleaver
+_rsv_42142_-1_1_0_1_SE2DC5B04_EE2DC5B04|Starcleaver
+_rsv_42145_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42145_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42146_-1_1_0_0_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42146_-1_1_0_1_SE2DC5B04_EE2DC5B04|Champion's Circuit
+_rsv_42189_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twinbite
+_rsv_42189_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twinbite
+_rsv_42190_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twinbite
+_rsv_42190_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twinbite
+_rsv_42828_-1_1_0_0_SE2DC5B04_EE2DC5B04|Mooncleaver
+_rsv_42828_-1_1_0_1_SE2DC5B04_EE2DC5B04|Mooncleaver
+_rsv_42829_-1_1_0_0_SE2DC5B04_EE2DC5B04|Mooncleaver
+_rsv_42829_-1_1_0_1_SE2DC5B04_EE2DC5B04|Mooncleaver
+_rsv_43050_-1_1_0_0_SE2DC5B04_EE2DC5B04|Rise of the Howling Wind
+_rsv_43050_-1_1_0_1_SE2DC5B04_EE2DC5B04|Rise of the Howling Wind
+_rsv_43052_-1_1_0_0_SE2DC5B04_EE2DC5B04|Rise of the Hunter's Blade
+_rsv_43052_-1_1_0_1_SE2DC5B04_EE2DC5B04|Rise of the Hunter's Blade
+_rsv_43137_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wind Surge
+_rsv_43137_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wind Surge
+_rsv_43138_-1_1_0_0_SE2DC5B04_EE2DC5B04|Sand Surge
+_rsv_43138_-1_1_0_1_SE2DC5B04_EE2DC5B04|Sand Surge
+_rsv_43281_-1_1_0_0_SE2DC5B04_EE2DC5B04|Eminent Reign
+_rsv_43281_-1_1_0_1_SE2DC5B04_EE2DC5B04|Eminent Reign
+_rsv_43282_-1_1_0_0_SE2DC5B04_EE2DC5B04|Eminent Reign
+_rsv_43282_-1_1_0_1_SE2DC5B04_EE2DC5B04|Eminent Reign
+_rsv_43283_-1_1_0_0_SE2DC5B04_EE2DC5B04|Revolutionary Reign
+_rsv_43283_-1_1_0_1_SE2DC5B04_EE2DC5B04|Revolutionary Reign
+_rsv_43284_-1_1_0_0_SE2DC5B04_EE2DC5B04|Revolutionary Reign
+_rsv_43284_-1_1_0_1_SE2DC5B04_EE2DC5B04|Revolutionary Reign
+_rsv_43297_-1_1_0_0_SE2DC5B04_EE2DC5B04|Eminent Reign
+_rsv_43297_-1_1_0_1_SE2DC5B04_EE2DC5B04|Eminent Reign
+_rsv_43298_-1_1_0_0_SE2DC5B04_EE2DC5B04|Revolutionary Reign
+_rsv_43298_-1_1_0_1_SE2DC5B04_EE2DC5B04|Revolutionary Reign
+_rsv_43312_-1_1_0_0_SE2DC5B04_EE2DC5B04|Eminent Reign
+_rsv_43312_-1_1_0_1_SE2DC5B04_EE2DC5B04|Eminent Reign
+_rsv_43313_-1_1_0_0_SE2DC5B04_EE2DC5B04|Revolutionary Reign
+_rsv_43313_-1_1_0_1_SE2DC5B04_EE2DC5B04|Revolutionary Reign
+_rsv_43519_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wind Surge
+_rsv_43519_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wind Surge
+_rsv_43520_-1_1_0_0_SE2DC5B04_EE2DC5B04|Sand Surge
+_rsv_43520_-1_1_0_1_SE2DC5B04_EE2DC5B04|Sand Surge
+_rsv_43522_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43522_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43523_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43523_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43524_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43524_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43525_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43525_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43526_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43526_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43527_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43527_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43528_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43528_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43529_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43529_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43530_-1_1_0_0_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_43530_-1_1_0_1_SE2DC5B04_EE2DC5B04|Howling Eight
+_rsv_4389_-1_1_0_0_S74CFC3B0_E74CFC3B0|Windpack
+_rsv_4389_-1_1_0_1_S74CFC3B0_E74CFC3B0|Windpack
+_rsv_4389_-1_1_1_0_S74CFC3B0_E74CFC3B0|Bound by wind aether and unable to deal damage to the wolf of wind.
+_rsv_4389_-1_1_1_1_S74CFC3B0_E74CFC3B0|Bound by wind aether and unable to deal damage to the wolf of wind.
+_rsv_4390_-1_1_0_0_S74CFC3B0_E74CFC3B0|Stonepack
+_rsv_4390_-1_1_0_1_S74CFC3B0_E74CFC3B0|Stonepack
+_rsv_4390_-1_1_1_0_S74CFC3B0_E74CFC3B0|Bound by earth aether and unable to deal damage to the wolf of stone.
+_rsv_4390_-1_1_1_1_S74CFC3B0_E74CFC3B0|Bound by earth aether and unable to deal damage to the wolf of stone.
+_rsv_4391_-1_1_0_0_S74CFC3B0_E74CFC3B0|Earthborne End
+_rsv_4391_-1_1_0_1_S74CFC3B0_E74CFC3B0|Earthborne End
+_rsv_4391_-1_1_1_0_S74CFC3B0_E74CFC3B0|Condemned by the element of earth to perish when this effect expires. Effect can be removed through contact with a font of earth aether.
+_rsv_4391_-1_1_1_1_S74CFC3B0_E74CFC3B0|Condemned by the element of earth to perish when this effect expires. Effect can be removed through contact with a font of earth aether.
+_rsv_4392_-1_1_0_0_S74CFC3B0_E74CFC3B0|Windborne End
+_rsv_4392_-1_1_0_1_S74CFC3B0_E74CFC3B0|Windborne End
+_rsv_4392_-1_1_1_0_S74CFC3B0_E74CFC3B0|Condemned by the element of wind to perish when this effect expires. Effect can be removed through contact with a font of wind aether.
+_rsv_4392_-1_1_1_1_S74CFC3B0_E74CFC3B0|Condemned by the element of wind to perish when this effect expires. Effect can be removed through contact with a font of wind aether.
+_rsv_4393_-1_1_0_0_S74CFC3B0_E74CFC3B0|Terrestrial Chains
+_rsv_4393_-1_1_0_1_S74CFC3B0_E74CFC3B0|Terrestrial Chains
+_rsv_4393_-1_1_1_0_S74CFC3B0_E74CFC3B0|Bound to the ground and unable to jump.
+_rsv_4393_-1_1_1_1_S74CFC3B0_E74CFC3B0|Bound to the ground and unable to jump.
+_rsv_4394_-1_1_0_0_S74CFC3B0_E74CFC3B0|Patience of Wind
+_rsv_4394_-1_1_0_1_S74CFC3B0_E74CFC3B0|Patience of Wind
+_rsv_4394_-1_1_1_0_S74CFC3B0_E74CFC3B0|Wind aether lurks in the body, waiting to be unleashed upon the surrounding area when this effect expires.
+_rsv_4394_-1_1_1_1_S74CFC3B0_E74CFC3B0|Wind aether lurks in the body, waiting to be unleashed upon the surrounding area when this effect expires.
+_rsv_4395_-1_1_0_0_S74CFC3B0_E74CFC3B0|Patience of Stone
+_rsv_4395_-1_1_0_1_S74CFC3B0_E74CFC3B0|Patience of Stone
+_rsv_4395_-1_1_1_0_S74CFC3B0_E74CFC3B0|Earth aether lurks in the body, waiting to be unleashed upon the surrounding area when this effect expires.
+_rsv_4395_-1_1_1_1_S74CFC3B0_E74CFC3B0|Earth aether lurks in the body, waiting to be unleashed upon the surrounding area when this effect expires.
+_rsv_4396_-1_1_0_0_S74CFC3B0_E74CFC3B0|Lament of the Close
+_rsv_4396_-1_1_0_1_S74CFC3B0_E74CFC3B0|Lament of the Close
+_rsv_4396_-1_1_1_0_S74CFC3B0_E74CFC3B0|Moving too far from the bearer of the same lament will result in a massive explosion.
+_rsv_4396_-1_1_1_1_S74CFC3B0_E74CFC3B0|Moving too far from the bearer of the same lament will result in a massive explosion.
+_rsv_4397_-1_1_0_0_S74CFC3B0_E74CFC3B0|Lament of the Distant
+_rsv_4397_-1_1_0_1_S74CFC3B0_E74CFC3B0|Lament of the Distant
+_rsv_4397_-1_1_1_0_S74CFC3B0_E74CFC3B0|Growing too close to the bearer of the same lament will result in a massive explosion.
+_rsv_4397_-1_1_1_1_S74CFC3B0_E74CFC3B0|Growing too close to the bearer of the same lament will result in a massive explosion.
+
+#JP
+_rsv_10924_-1_0_0_0_SF15185AF_EF15185AF|ハウリングブレードが干渉し、転移装置の再使用可能時間が延びてしまった……
+_rsv_10924_-1_0_0_1_SF15185AF_EF15185AF|ハウリングブレードが干渉し、転移装置の再使用可能時間が延びてしまった……
+_rsv_10925_-1_0_0_0_SF15185AF_EF15185AF|転移装置の再使用可能時間が元に戻った……！
+_rsv_10925_-1_0_0_1_SF15185AF_EF15185AF|転移装置の再使用可能時間が元に戻った……！
+_rsv_13851_-1_0_0_0_S64755250_E64755250|風のエーテル塊
+_rsv_13851_-1_0_0_1_S64755250_E64755250|風のエーテル塊
+_rsv_13852_-1_0_0_0_S64755250_E64755250|土のエーテル塊
+_rsv_13852_-1_0_0_1_S64755250_E64755250|土のエーテル塊
+_rsv_18441_-1_0_0_0_SCFE39641_ECFE39641|逃げ場はないぞッ！
+_rsv_18441_-1_0_0_1_SCFE39641_ECFE39641|逃げ場はないぞッ！
+_rsv_41883_-1_0_0_0_SE2DC5B04_EE2DC5B04|群狼斬波
+_rsv_41883_-1_0_0_1_SE2DC5B04_EE2DC5B04|群狼斬波
+_rsv_41884_-1_0_0_0_SE2DC5B04_EE2DC5B04|重衝波
+_rsv_41884_-1_0_0_1_SE2DC5B04_EE2DC5B04|重衝波
+_rsv_41885_-1_0_0_0_SE2DC5B04_EE2DC5B04|風の魔技
+_rsv_41885_-1_0_0_1_SE2DC5B04_EE2DC5B04|風の魔技
+_rsv_41886_-1_0_0_0_SE2DC5B04_EE2DC5B04|風の魔技
+_rsv_41886_-1_0_0_1_SE2DC5B04_EE2DC5B04|風の魔技
+_rsv_41887_-1_0_0_0_SE2DC5B04_EE2DC5B04|風の魔技
+_rsv_41887_-1_0_0_1_SE2DC5B04_EE2DC5B04|風の魔技
+_rsv_41888_-1_0_0_0_SE2DC5B04_EE2DC5B04|風の魔技
+_rsv_41888_-1_0_0_1_SE2DC5B04_EE2DC5B04|風の魔技
+_rsv_41889_-1_0_0_0_SE2DC5B04_EE2DC5B04|土の魔技
+_rsv_41889_-1_0_0_1_SE2DC5B04_EE2DC5B04|土の魔技
+_rsv_41890_-1_0_0_0_SE2DC5B04_EE2DC5B04|土の魔技
+_rsv_41890_-1_0_0_1_SE2DC5B04_EE2DC5B04|土の魔技
+_rsv_41904_-1_0_0_0_SE2DC5B04_EE2DC5B04|土の魔技
+_rsv_41904_-1_0_0_1_SE2DC5B04_EE2DC5B04|土の魔技
+_rsv_41905_-1_0_0_0_SE2DC5B04_EE2DC5B04|土の魔技
+_rsv_41905_-1_0_0_1_SE2DC5B04_EE2DC5B04|土の魔技
+_rsv_41906_-1_0_0_0_SE2DC5B04_EE2DC5B04|千年の風化
+_rsv_41906_-1_0_0_1_SE2DC5B04_EE2DC5B04|千年の風化
+_rsv_41908_-1_0_0_0_SE2DC5B04_EE2DC5B04|千年の風声
+_rsv_41908_-1_0_0_1_SE2DC5B04_EE2DC5B04|千年の風声
+_rsv_41909_-1_0_0_0_SE2DC5B04_EE2DC5B04|千年の大風
+_rsv_41909_-1_0_0_1_SE2DC5B04_EE2DC5B04|千年の大風
+_rsv_41912_-1_0_0_0_S13095D61_E13095D61|フェンリルの力で、嵐を巻き起こす！
+_rsv_41912_-1_0_0_1_S13095D61_E13095D61|フェンリルの力で、嵐を巻き起こす！
+_rsv_41913_-1_0_0_0_S13095D61_E13095D61|もう終わらせよう！この試合、ボクの勝ちだ！
+_rsv_41913_-1_0_0_1_S13095D61_E13095D61|もう終わらせよう！この試合、ボクの勝ちだ！
+_rsv_41914_-1_0_0_0_S13095D61_E13095D61|クッ……ボクは負けられない！もっと力を……！
+_rsv_41914_-1_0_0_1_S13095D61_E13095D61|クッ……ボクは負けられない！もっと力を……！
+_rsv_41915_-1_0_0_0_S13095D61_E13095D61|フェンリルの力をすべて取り込む！
+_rsv_41915_-1_0_0_1_S13095D61_E13095D61|フェンリルの力をすべて取り込む！
+_rsv_41916_-1_0_0_0_S13095D61_E13095D61|この身体がどうなろうとも……オレに敗北は許されないんだ！
+_rsv_41916_-1_0_0_1_S13095D61_E13095D61|この身体がどうなろうとも……オレに敗北は許されないんだ！
+_rsv_41917_-1_0_0_0_S13095D61_E13095D61|様子がおかしいぞ！いったい、何をする気でしょうか……！？
+_rsv_41917_-1_0_0_1_S13095D61_E13095D61|様子がおかしいぞ！いったい、何をする気でしょうか……！？
+_rsv_41918_-1_0_0_0_S13095D61_E13095D61|なんと！リングが破壊され  下の階に落ちてしまったァ～！
+_rsv_41918_-1_0_0_1_S13095D61_E13095D61|なんと！リングが破壊され  下の階に落ちてしまったァ～！
+_rsv_41919_-1_0_0_0_S13095D61_E13095D61|ここは、浮島デスマッチのリングだ！限られた足場でどう戦うか！？
+_rsv_41919_-1_0_0_1_S13095D61_E13095D61|ここは、浮島デスマッチのリングだ！限られた足場でどう戦うか！？
+_rsv_41920_-1_0_0_0_S13095D61_E13095D61|これからが本当の闘いだ！いくぞッ……！
+_rsv_41920_-1_0_0_1_S13095D61_E13095D61|これからが本当の闘いだ！いくぞッ……！
+_rsv_41921_-1_0_0_0_S13095D61_E13095D61|すべて薙ぎ払う！
+_rsv_41921_-1_0_0_1_S13095D61_E13095D61|すべて薙ぎ払う！
+_rsv_41922_-1_0_0_0_S13095D61_E13095D61|足場ごと叩き斬る！
+_rsv_41922_-1_0_0_1_S13095D61_E13095D61|足場ごと叩き斬る！
+_rsv_41923_-1_0_0_0_S13095D61_E13095D61|浮島が壊れたァ！修復されるまでしばらくかかります！
+_rsv_41923_-1_0_0_1_S13095D61_E13095D61|浮島が壊れたァ！修復されるまでしばらくかかります！
+_rsv_41924_-1_0_0_0_S13095D61_E13095D61|風の力を暴走させる！「双牙暴風撃」！
+_rsv_41924_-1_0_0_1_S13095D61_E13095D61|風の力を暴走させる！「双牙暴風撃」！
+_rsv_41925_-1_0_0_0_S13095D61_E13095D61|この技から逃れられるか！？「廻天動地」！
+_rsv_41925_-1_0_0_1_S13095D61_E13095D61|この技から逃れられるか！？「廻天動地」！
+_rsv_41926_-1_0_0_0_S13095D61_E13095D61|すべてを出し切って、必ずお前を倒す！
+_rsv_41926_-1_0_0_1_S13095D61_E13095D61|すべてを出し切って、必ずお前を倒す！
+_rsv_41927_-1_0_0_0_S13095D61_E13095D61|命、尽きようとも……オレは……！
+_rsv_41927_-1_0_0_1_S13095D61_E13095D61|命、尽きようとも……オレは……！
+_rsv_41928_-1_0_0_0_S13095D61_E13095D61|死力を尽くした闘いです！どちらに軍配が上がるのかァ～？
+_rsv_41928_-1_0_0_1_S13095D61_E13095D61|死力を尽くした闘いです！どちらに軍配が上がるのかァ～？
+_rsv_41929_-1_0_0_0_S13095D61_E13095D61|絶対に……負けは……しない！
+_rsv_41929_-1_0_0_1_S13095D61_E13095D61|絶対に……負けは……しない！
+_rsv_41930_-1_0_0_0_S13095D61_E13095D61|認めよう……お前は強い……。だが……勝つのはオレだ！
+_rsv_41930_-1_0_0_1_S13095D61_E13095D61|認めよう……お前は強い……。だが……勝つのはオレだ！
+_rsv_41931_-1_0_0_0_S13095D61_E13095D61|見切れるものなら、やってみろ！
+_rsv_41931_-1_0_0_1_S13095D61_E13095D61|見切れるものなら、やってみろ！
+_rsv_41932_-1_0_0_0_S13095D61_E13095D61|この技を喰らって、立ってられるか！？
+_rsv_41932_-1_0_0_0_SE2DC5B04_EE2DC5B04|光狼陣
+_rsv_41932_-1_0_0_1_S13095D61_E13095D61|この技を喰らって、立ってられるか！？
+_rsv_41932_-1_0_0_1_SE2DC5B04_EE2DC5B04|光狼陣
+_rsv_41933_-1_0_0_0_SE2DC5B04_EE2DC5B04|光狼の風
+_rsv_41933_-1_0_0_1_SE2DC5B04_EE2DC5B04|光狼の風
+_rsv_41934_-1_0_0_0_S13095D61_E13095D61|ウオオオオオオッ！
+_rsv_41934_-1_0_0_1_S13095D61_E13095D61|ウオオオオオオッ！
+_rsv_41935_-1_0_0_0_SE2DC5B04_EE2DC5B04|光狼風烈波
+_rsv_41935_-1_0_0_1_SE2DC5B04_EE2DC5B04|光狼風烈波
+_rsv_41936_-1_0_0_0_SE2DC5B04_EE2DC5B04|風の狼吼
+_rsv_41936_-1_0_0_1_SE2DC5B04_EE2DC5B04|風の狼吼
+_rsv_41937_-1_0_0_0_SE2DC5B04_EE2DC5B04|風の狼吼
+_rsv_41937_-1_0_0_1_SE2DC5B04_EE2DC5B04|風の狼吼
+_rsv_41938_-1_0_0_0_SE2DC5B04_EE2DC5B04|風の狼吼
+_rsv_41938_-1_0_0_1_SE2DC5B04_EE2DC5B04|風の狼吼
+_rsv_41939_-1_0_0_0_SE2DC5B04_EE2DC5B04|土の狼吼
+_rsv_41939_-1_0_0_1_SE2DC5B04_EE2DC5B04|土の狼吼
+_rsv_41940_-1_0_0_0_SE2DC5B04_EE2DC5B04|土の狼吼
+_rsv_41940_-1_0_0_1_SE2DC5B04_EE2DC5B04|土の狼吼
+_rsv_41941_-1_0_0_0_SE2DC5B04_EE2DC5B04|土の狼吼
+_rsv_41941_-1_0_0_1_SE2DC5B04_EE2DC5B04|土の狼吼
+_rsv_41943_-1_0_0_0_SE2DC5B04_EE2DC5B04|十字光牙
+_rsv_41943_-1_0_0_1_SE2DC5B04_EE2DC5B04|十字光牙
+_rsv_41947_-1_0_0_0_SE2DC5B04_EE2DC5B04|風塵の咆哮
+_rsv_41947_-1_0_0_1_SE2DC5B04_EE2DC5B04|風塵の咆哮
+_rsv_41948_-1_0_0_0_SE2DC5B04_EE2DC5B04|風塵の咆哮
+_rsv_41948_-1_0_0_1_SE2DC5B04_EE2DC5B04|風塵の咆哮
+_rsv_41949_-1_0_0_0_SE2DC5B04_EE2DC5B04|風塵の咆哮
+_rsv_41949_-1_0_0_1_SE2DC5B04_EE2DC5B04|風塵の咆哮
+_rsv_41954_-1_0_0_0_SE2DC5B04_EE2DC5B04|光狼の土
+_rsv_41954_-1_0_0_1_SE2DC5B04_EE2DC5B04|光狼の土
+_rsv_41956_-1_0_0_0_SE2DC5B04_EE2DC5B04|光狼地烈波
+_rsv_41956_-1_0_0_1_SE2DC5B04_EE2DC5B04|光狼地烈波
+_rsv_41957_-1_0_0_0_SE2DC5B04_EE2DC5B04|大旋風
+_rsv_41957_-1_0_0_1_SE2DC5B04_EE2DC5B04|大旋風
+_rsv_41965_-1_0_0_0_SE2DC5B04_EE2DC5B04|風爆
+_rsv_41965_-1_0_0_1_SE2DC5B04_EE2DC5B04|風爆
+_rsv_41966_-1_0_0_0_SE2DC5B04_EE2DC5B04|土爆
+_rsv_41966_-1_0_0_1_SE2DC5B04_EE2DC5B04|土爆
+_rsv_41967_-1_0_0_0_SE2DC5B04_EE2DC5B04|大風爆
+_rsv_41967_-1_0_0_1_SE2DC5B04_EE2DC5B04|大風爆
+_rsv_41968_-1_0_0_0_SE2DC5B04_EE2DC5B04|大土爆
+_rsv_41968_-1_0_0_1_SE2DC5B04_EE2DC5B04|大土爆
+_rsv_41969_-1_0_0_0_SE2DC5B04_EE2DC5B04|空間斬り・滅
+_rsv_41969_-1_0_0_1_SE2DC5B04_EE2DC5B04|空間斬り・滅
+_rsv_42076_-1_0_0_0_SE2DC5B04_EE2DC5B04|魔光
+_rsv_42076_-1_0_0_1_SE2DC5B04_EE2DC5B04|魔光
+_rsv_42077_-1_0_0_0_SE2DC5B04_EE2DC5B04|魔光
+_rsv_42077_-1_0_0_1_SE2DC5B04_EE2DC5B04|魔光
+_rsv_42078_-1_0_0_0_SE2DC5B04_EE2DC5B04|閃光砲
+_rsv_42078_-1_0_0_1_SE2DC5B04_EE2DC5B04|閃光砲
+_rsv_42079_-1_0_0_0_SE2DC5B04_EE2DC5B04|鎧袖一触
+_rsv_42079_-1_0_0_1_SE2DC5B04_EE2DC5B04|鎧袖一触
+_rsv_42080_-1_0_0_0_SE2DC5B04_EE2DC5B04|鎧袖一触
+_rsv_42080_-1_0_0_1_SE2DC5B04_EE2DC5B04|鎧袖一触
+_rsv_42081_-1_0_0_0_SE2DC5B04_EE2DC5B04|鎧袖一触
+_rsv_42081_-1_0_0_1_SE2DC5B04_EE2DC5B04|鎧袖一触
+_rsv_42082_-1_0_0_0_SE2DC5B04_EE2DC5B04|鎧袖一触
+_rsv_42082_-1_0_0_1_SE2DC5B04_EE2DC5B04|鎧袖一触
+_rsv_42083_-1_0_0_0_SE2DC5B04_EE2DC5B04|回転光牙
+_rsv_42083_-1_0_0_1_SE2DC5B04_EE2DC5B04|回転光牙
+_rsv_42084_-1_0_0_0_SE2DC5B04_EE2DC5B04|旋回光牙
+_rsv_42084_-1_0_0_1_SE2DC5B04_EE2DC5B04|旋回光牙
+_rsv_42085_-1_0_0_0_SE2DC5B04_EE2DC5B04|剛刃一閃
+_rsv_42085_-1_0_0_1_SE2DC5B04_EE2DC5B04|剛刃一閃
+_rsv_42086_-1_0_0_0_SE2DC5B04_EE2DC5B04|剛刃一閃
+_rsv_42086_-1_0_0_1_SE2DC5B04_EE2DC5B04|剛刃一閃
+_rsv_42087_-1_0_0_0_SE2DC5B04_EE2DC5B04|風震の魔印
+_rsv_42087_-1_0_0_1_SE2DC5B04_EE2DC5B04|風震の魔印
+_rsv_42088_-1_0_0_0_SE2DC5B04_EE2DC5B04|時限風撃
+_rsv_42088_-1_0_0_1_SE2DC5B04_EE2DC5B04|時限風撃
+_rsv_42089_-1_0_0_0_SE2DC5B04_EE2DC5B04|時限震撃
+_rsv_42089_-1_0_0_1_SE2DC5B04_EE2DC5B04|時限震撃
+_rsv_42092_-1_0_0_0_SE2DC5B04_EE2DC5B04|貪狼の剣
+_rsv_42092_-1_0_0_1_SE2DC5B04_EE2DC5B04|貪狼の剣
+_rsv_42093_-1_0_0_0_SE2DC5B04_EE2DC5B04|貪狼の剣
+_rsv_42093_-1_0_0_1_SE2DC5B04_EE2DC5B04|貪狼の剣
+_rsv_42094_-1_0_0_0_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42094_-1_0_0_1_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42095_-1_0_0_0_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42095_-1_0_0_1_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42097_-1_0_0_0_SE2DC5B04_EE2DC5B04|双牙暴風撃
+_rsv_42097_-1_0_0_1_SE2DC5B04_EE2DC5B04|双牙暴風撃
+_rsv_42098_-1_0_0_0_SE2DC5B04_EE2DC5B04|双牙暴風撃
+_rsv_42098_-1_0_0_1_SE2DC5B04_EE2DC5B04|双牙暴風撃
+_rsv_42099_-1_0_0_0_SE2DC5B04_EE2DC5B04|双牙暴風撃
+_rsv_42099_-1_0_0_1_SE2DC5B04_EE2DC5B04|双牙暴風撃
+_rsv_42100_-1_0_0_0_SE2DC5B04_EE2DC5B04|双牙暴風撃
+_rsv_42100_-1_0_0_1_SE2DC5B04_EE2DC5B04|双牙暴風撃
+_rsv_42102_-1_0_0_0_SE2DC5B04_EE2DC5B04|連撃閃光砲
+_rsv_42102_-1_0_0_1_SE2DC5B04_EE2DC5B04|連撃閃光砲
+_rsv_42103_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42103_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42104_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42104_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42105_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42105_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42106_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42106_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42107_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42107_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42108_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42108_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42109_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42109_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42110_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42110_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42111_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42111_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42112_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42112_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42113_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42113_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42114_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42114_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42115_-1_0_0_0_SE2DC5B04_EE2DC5B04|孤狼の呪い
+_rsv_42115_-1_0_0_1_SE2DC5B04_EE2DC5B04|孤狼の呪い
+_rsv_42117_-1_0_0_0_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42117_-1_0_0_1_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42118_-1_0_0_0_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42118_-1_0_0_1_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42119_-1_0_0_0_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42119_-1_0_0_1_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42120_-1_0_0_0_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42120_-1_0_0_1_SE2DC5B04_EE2DC5B04|風狼陣
+_rsv_42132_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42132_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42133_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42133_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42134_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42134_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42135_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42135_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42136_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42136_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42137_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42137_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42138_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42138_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42139_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42139_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42140_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42140_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_42141_-1_0_0_0_SE2DC5B04_EE2DC5B04|剛刃一閃・終
+_rsv_42141_-1_0_0_1_SE2DC5B04_EE2DC5B04|剛刃一閃・終
+_rsv_42142_-1_0_0_0_SE2DC5B04_EE2DC5B04|剛刃一閃・終
+_rsv_42142_-1_0_0_1_SE2DC5B04_EE2DC5B04|剛刃一閃・終
+_rsv_42145_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42145_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42146_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42146_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻天動地
+_rsv_42189_-1_0_0_0_SE2DC5B04_EE2DC5B04|双牙撃
+_rsv_42189_-1_0_0_1_SE2DC5B04_EE2DC5B04|双牙撃
+_rsv_42190_-1_0_0_0_SE2DC5B04_EE2DC5B04|双牙撃
+_rsv_42190_-1_0_0_1_SE2DC5B04_EE2DC5B04|双牙撃
+_rsv_42828_-1_0_0_0_SE2DC5B04_EE2DC5B04|剛刃一閃
+_rsv_42828_-1_0_0_1_SE2DC5B04_EE2DC5B04|剛刃一閃
+_rsv_42829_-1_0_0_0_SE2DC5B04_EE2DC5B04|剛刃一閃
+_rsv_42829_-1_0_0_1_SE2DC5B04_EE2DC5B04|剛刃一閃
+_rsv_43050_-1_0_0_0_SE2DC5B04_EE2DC5B04|魔狼戦型・天嵐の相
+_rsv_43050_-1_0_0_1_SE2DC5B04_EE2DC5B04|魔狼戦型・天嵐の相
+_rsv_43052_-1_0_0_0_SE2DC5B04_EE2DC5B04|魔狼戦型・呪刃の相
+_rsv_43052_-1_0_0_1_SE2DC5B04_EE2DC5B04|魔狼戦型・呪刃の相
+_rsv_43137_-1_0_0_0_SE2DC5B04_EE2DC5B04|風爆
+_rsv_43137_-1_0_0_1_SE2DC5B04_EE2DC5B04|風爆
+_rsv_43138_-1_0_0_0_SE2DC5B04_EE2DC5B04|土爆
+_rsv_43138_-1_0_0_1_SE2DC5B04_EE2DC5B04|土爆
+_rsv_43281_-1_0_0_0_SE2DC5B04_EE2DC5B04|薙の群狼剣
+_rsv_43281_-1_0_0_1_SE2DC5B04_EE2DC5B04|薙の群狼剣
+_rsv_43282_-1_0_0_0_SE2DC5B04_EE2DC5B04|薙の群狼剣
+_rsv_43282_-1_0_0_1_SE2DC5B04_EE2DC5B04|薙の群狼剣
+_rsv_43283_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻の群狼剣
+_rsv_43283_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻の群狼剣
+_rsv_43284_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻の群狼剣
+_rsv_43284_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻の群狼剣
+_rsv_43297_-1_0_0_0_SE2DC5B04_EE2DC5B04|薙の群狼剣
+_rsv_43297_-1_0_0_1_SE2DC5B04_EE2DC5B04|薙の群狼剣
+_rsv_43298_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻の群狼剣
+_rsv_43298_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻の群狼剣
+_rsv_43312_-1_0_0_0_SE2DC5B04_EE2DC5B04|薙の群狼剣
+_rsv_43312_-1_0_0_1_SE2DC5B04_EE2DC5B04|薙の群狼剣
+_rsv_43313_-1_0_0_0_SE2DC5B04_EE2DC5B04|廻の群狼剣
+_rsv_43313_-1_0_0_1_SE2DC5B04_EE2DC5B04|廻の群狼剣
+_rsv_43519_-1_0_0_0_SE2DC5B04_EE2DC5B04|風爆
+_rsv_43519_-1_0_0_1_SE2DC5B04_EE2DC5B04|風爆
+_rsv_43520_-1_0_0_0_SE2DC5B04_EE2DC5B04|土爆
+_rsv_43520_-1_0_0_1_SE2DC5B04_EE2DC5B04|土爆
+_rsv_43522_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43522_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43523_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43523_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43524_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43524_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43525_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43525_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43526_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43526_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43527_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43527_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43528_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43528_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43529_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43529_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43530_-1_0_0_0_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_43530_-1_0_0_1_SE2DC5B04_EE2DC5B04|八連光弾
+_rsv_4389_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の戒め
+_rsv_4389_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の戒め
+_rsv_4389_-1_0_1_0_S74CFC3B0_E74CFC3B0|風属性のエーテルを纏わされ、同属性の狼頭に対しダメージを与えられなくなる状態。
+_rsv_4389_-1_0_1_1_S74CFC3B0_E74CFC3B0|風属性のエーテルを纏わされ、同属性の狼頭に対しダメージを与えられなくなる状態。
+_rsv_4390_-1_0_0_0_S74CFC3B0_E74CFC3B0|土の戒め
+_rsv_4390_-1_0_0_1_S74CFC3B0_E74CFC3B0|土の戒め
+_rsv_4390_-1_0_1_0_S74CFC3B0_E74CFC3B0|土属性のエーテルを纏わされ、同属性の狼頭に対しダメージを与えられなくなる状態。
+_rsv_4390_-1_0_1_1_S74CFC3B0_E74CFC3B0|土属性のエーテルを纏わされ、同属性の狼頭に対しダメージを与えられなくなる状態。
+_rsv_4391_-1_0_0_0_S74CFC3B0_E74CFC3B0|土の呪痕
+_rsv_4391_-1_0_0_1_S74CFC3B0_E74CFC3B0|土の呪痕
+_rsv_4391_-1_0_1_0_S74CFC3B0_E74CFC3B0|土属性の呪いを受けた状態。効果時間が終了すると戦闘不能になるが、土のエーテル塊に接触することで解除できる
+_rsv_4391_-1_0_1_1_S74CFC3B0_E74CFC3B0|土属性の呪いを受けた状態。効果時間が終了すると戦闘不能になるが、土のエーテル塊に接触することで解除できる
+_rsv_4392_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の呪痕
+_rsv_4392_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の呪痕
+_rsv_4392_-1_0_1_0_S74CFC3B0_E74CFC3B0|風属性の呪いを受けた状態。効果時間が終了すると戦闘不能になるが、風のエーテル塊に接触することで解除できる
+_rsv_4392_-1_0_1_1_S74CFC3B0_E74CFC3B0|風属性の呪いを受けた状態。効果時間が終了すると戦闘不能になるが、風のエーテル塊に接触することで解除できる
+_rsv_4393_-1_0_0_0_S74CFC3B0_E74CFC3B0|大地の縛鎖
+_rsv_4393_-1_0_0_1_S74CFC3B0_E74CFC3B0|大地の縛鎖
+_rsv_4393_-1_0_1_0_S74CFC3B0_E74CFC3B0|呪縛によって地面に縛り付けられ、ジャンプが実行不可となった状態。
+_rsv_4393_-1_0_1_1_S74CFC3B0_E74CFC3B0|呪縛によって地面に縛り付けられ、ジャンプが実行不可となった状態。
+_rsv_4394_-1_0_0_0_S74CFC3B0_E74CFC3B0|風の残響
+_rsv_4394_-1_0_0_1_S74CFC3B0_E74CFC3B0|風の残響
+_rsv_4394_-1_0_1_0_S74CFC3B0_E74CFC3B0|風属性の魔力が体内に残った状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_4394_-1_0_1_1_S74CFC3B0_E74CFC3B0|風属性の魔力が体内に残った状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_4395_-1_0_0_0_S74CFC3B0_E74CFC3B0|土の残響
+_rsv_4395_-1_0_0_1_S74CFC3B0_E74CFC3B0|土の残響
+_rsv_4395_-1_0_1_0_S74CFC3B0_E74CFC3B0|土属性の魔力が体内に残った状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_4395_-1_0_1_1_S74CFC3B0_E74CFC3B0|土属性の魔力が体内に残った状態。効果時間が終了すると、周囲に魔法が発動する。
+_rsv_4396_-1_0_0_0_S74CFC3B0_E74CFC3B0|孤狼の呪い［近］
+_rsv_4396_-1_0_0_1_S74CFC3B0_E74CFC3B0|孤狼の呪い［近］
+_rsv_4396_-1_0_1_0_S74CFC3B0_E74CFC3B0|同じ呪いを受けた者同士が離れると、大爆発を起こす状態。
+_rsv_4396_-1_0_1_1_S74CFC3B0_E74CFC3B0|同じ呪いを受けた者同士が離れると、大爆発を起こす状態。
+_rsv_4397_-1_0_0_0_S74CFC3B0_E74CFC3B0|孤狼の呪い［遠］
+_rsv_4397_-1_0_0_1_S74CFC3B0_E74CFC3B0|孤狼の呪い［遠］
+_rsv_4397_-1_0_1_0_S74CFC3B0_E74CFC3B0|同じ呪いを受けた者同士が近づくと、大爆発を起こす状態。
+_rsv_4397_-1_0_1_1_S74CFC3B0_E74CFC3B0|同じ呪いを受けた者同士が近づくと、大爆発を起こす状態。
+
+#FR
+_rsv_10924_-1_3_0_0_SF15185AF_EF15185AF|Howling Blade a surchargé les téléporteurs et a rendu leur utilisation limitée...
+_rsv_10924_-1_3_0_1_SF15185AF_EF15185AF|Howling Blade a surchargé les téléporteurs et a rendu leur utilisation limitée...
+_rsv_10925_-1_3_0_0_SF15185AF_EF15185AF|Les téléporteurs peuvent à nouveau être empruntés normalement!
+_rsv_10925_-1_3_0_1_SF15185AF_EF15185AF|Les téléporteurs peuvent à nouveau être empruntés normalement!
+_rsv_13851_-1_3_0_0_S64755250_E64755250|amas d'éther de vent
+_rsv_13851_-1_3_0_1_S64755250_E64755250|amas d'éther de vent
+_rsv_13851_-1_3_2_0_S64755250_E64755250|amas d'éther de vent
+_rsv_13851_-1_3_2_1_S64755250_E64755250|amas d'éther de vent
+_rsv_13852_-1_3_0_0_S64755250_E64755250|amas d'éther de terre
+_rsv_13852_-1_3_0_1_S64755250_E64755250|amas d'éther de terre
+_rsv_13852_-1_3_2_0_S64755250_E64755250|amas d'éther de terre
+_rsv_13852_-1_3_2_1_S64755250_E64755250|amas d'éther de terre
+_rsv_18441_-1_3_0_0_SCFE39641_ECFE39641|Tu n'as nulle parrrt où fuir!
+_rsv_18441_-1_3_0_1_SCFE39641_ECFE39641|Tu n'as nulle parrrt où fuir!
+_rsv_41883_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame déferlante de la meute
+_rsv_41883_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame déferlante de la meute
+_rsv_41884_-1_3_0_0_SE2DC5B04_EE2DC5B04|Fracas sismique
+_rsv_41884_-1_3_0_1_SE2DC5B04_EE2DC5B04|Fracas sismique
+_rsv_41885_-1_3_0_0_SE2DC5B04_EE2DC5B04|Magie des tempêtes
+_rsv_41885_-1_3_0_1_SE2DC5B04_EE2DC5B04|Magie des tempêtes
+_rsv_41886_-1_3_0_0_SE2DC5B04_EE2DC5B04|Magie des tempêtes
+_rsv_41886_-1_3_0_1_SE2DC5B04_EE2DC5B04|Magie des tempêtes
+_rsv_41887_-1_3_0_0_SE2DC5B04_EE2DC5B04|Magie des tempêtes
+_rsv_41887_-1_3_0_1_SE2DC5B04_EE2DC5B04|Magie des tempêtes
+_rsv_41888_-1_3_0_0_SE2DC5B04_EE2DC5B04|Magie des tempêtes
+_rsv_41888_-1_3_0_1_SE2DC5B04_EE2DC5B04|Magie des tempêtes
+_rsv_41889_-1_3_0_0_SE2DC5B04_EE2DC5B04|Magie tellurique
+_rsv_41889_-1_3_0_1_SE2DC5B04_EE2DC5B04|Magie tellurique
+_rsv_41890_-1_3_0_0_SE2DC5B04_EE2DC5B04|Magie tellurique
+_rsv_41890_-1_3_0_1_SE2DC5B04_EE2DC5B04|Magie tellurique
+_rsv_41904_-1_3_0_0_SE2DC5B04_EE2DC5B04|Magie tellurique
+_rsv_41904_-1_3_0_1_SE2DC5B04_EE2DC5B04|Magie tellurique
+_rsv_41905_-1_3_0_0_SE2DC5B04_EE2DC5B04|Magie tellurique
+_rsv_41905_-1_3_0_1_SE2DC5B04_EE2DC5B04|Magie tellurique
+_rsv_41906_-1_3_0_0_SE2DC5B04_EE2DC5B04|Érosion millénaire
+_rsv_41906_-1_3_0_1_SE2DC5B04_EE2DC5B04|Érosion millénaire
+_rsv_41908_-1_3_0_0_SE2DC5B04_EE2DC5B04|Souffle millénaire
+_rsv_41908_-1_3_0_1_SE2DC5B04_EE2DC5B04|Souffle millénaire
+_rsv_41909_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tempête millénaire
+_rsv_41909_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tempête millénaire
+_rsv_41912_-1_3_0_0_S13095D61_E13095D61|La puissance de Fenrir va s'abattrrre sur toi!
+_rsv_41912_-1_3_0_1_S13095D61_E13095D61|La puissance de Fenrir va s'abattrrre sur toi!
+_rsv_41913_-1_3_0_0_S13095D61_E13095D61|Finissons-en! La victoirrre m'appartient!
+_rsv_41913_-1_3_0_1_S13095D61_E13095D61|Finissons-en! La victoirrre m'appartient!
+_rsv_41914_-1_3_0_0_S13095D61_E13095D61|Ugh... Je ne peux pas perdrrre... Il me faut plus de puissance!
+_rsv_41914_-1_3_0_1_S13095D61_E13095D61|Ugh... Je ne peux pas perdrrre... Il me faut plus de puissance!
+_rsv_41915_-1_3_0_0_S13095D61_E13095D61|J'absorberai toute l'énerrrgie de Fenrir!
+_rsv_41915_-1_3_0_1_S13095D61_E13095D61|J'absorberai toute l'énerrrgie de Fenrir!
+_rsv_41916_-1_3_0_0_S13095D61_E13095D61|Je refuse de perdre! Peu importe le prrrix à payer...
+_rsv_41916_-1_3_0_1_S13095D61_E13095D61|Je refuse de perdre! Peu importe le prrrix à payer...
+_rsv_41917_-1_3_0_0_S13095D61_E13095D61|Tiens, c'est étrange... Qu'est-ce qu'il nous mijote?
+_rsv_41917_-1_3_0_1_S13095D61_E13095D61|Tiens, c'est étrange... Qu'est-ce qu'il nous mijote?
+_rsv_41918_-1_3_0_0_S13095D61_E13095D61|Stupéfiant! Howling Blade a détruit le ring! Le combat continue à l'étage du dessous!
+_rsv_41918_-1_3_0_1_S13095D61_E13095D61|Stupéfiant! Howling Blade a détruit le ring! Le combat continue à l'étage du dessous!
+_rsv_41919_-1_3_0_0_S13095D61_E13095D61|L'île flottante de la mort! Attention où vous mettez les pieds!
+_rsv_41919_-1_3_0_1_S13095D61_E13095D61|L'île flottante de la mort! Attention où vous mettez les pieds!
+_rsv_41920_-1_3_0_0_S13095D61_E13095D61|Le véritable combat commence maintenant! En garrrde!
+_rsv_41920_-1_3_0_1_S13095D61_E13095D61|Le véritable combat commence maintenant! En garrrde!
+_rsv_41921_-1_3_0_0_S13095D61_E13095D61|Je vais tout rrréduire à néant!
+_rsv_41921_-1_3_0_1_S13095D61_E13095D61|Je vais tout rrréduire à néant!
+_rsv_41922_-1_3_0_0_S13095D61_E13095D61|Tu disparaîtrrras avec cette arène!
+_rsv_41922_-1_3_0_1_S13095D61_E13095D61|Tu disparaîtrrras avec cette arène!
+_rsv_41923_-1_3_0_0_S13095D61_E13095D61|L'île a été détruite! Nous allons réparer ça au plus vite!
+_rsv_41923_-1_3_0_1_S13095D61_E13095D61|L'île a été détruite! Nous allons réparer ça au plus vite!
+_rsv_41924_-1_3_0_0_S13095D61_E13095D61|Que les vents se déchaînent! À moi, tempête de crrrocs!
+_rsv_41924_-1_3_0_1_S13095D61_E13095D61|Que les vents se déchaînent! À moi, tempête de crrrocs!
+_rsv_41925_-1_3_0_0_S13095D61_E13095D61|Arriverrras-tu à esquiver ce coup? Secousse cosmique!
+_rsv_41925_-1_3_0_1_S13095D61_E13095D61|Arriverrras-tu à esquiver ce coup? Secousse cosmique!
+_rsv_41926_-1_3_0_0_S13095D61_E13095D61|Je suis prêt à tout donner pour te battrrre!
+_rsv_41926_-1_3_0_1_S13095D61_E13095D61|Je suis prêt à tout donner pour te battrrre!
+_rsv_41927_-1_3_0_0_S13095D61_E13095D61|Même si je dois y laisser la vie... Je...
+_rsv_41927_-1_3_0_1_S13095D61_E13095D61|Même si je dois y laisser la vie... Je...
+_rsv_41928_-1_3_0_0_S13095D61_E13095D61|Ce combat prend des proportions épiques! Qui va réussir à l'emporter?
+_rsv_41928_-1_3_0_1_S13095D61_E13095D61|Ce combat prend des proportions épiques! Qui va réussir à l'emporter?
+_rsv_41929_-1_3_0_0_S13095D61_E13095D61|Pas... question... de perrrdre!
+_rsv_41929_-1_3_0_1_S13095D61_E13095D61|Pas... question... de perrrdre!
+_rsv_41930_-1_3_0_0_S13095D61_E13095D61|Ta forrrce dépasse toutes mes attentes. Mais j'emporterai la victoire!
+_rsv_41930_-1_3_0_1_S13095D61_E13095D61|Ta forrrce dépasse toutes mes attentes. Mais j'emporterai la victoire!
+_rsv_41931_-1_3_0_0_S13095D61_E13095D61|Prrrouve-moi que tu peux esquiver mes coups!
+_rsv_41931_-1_3_0_1_S13095D61_E13095D61|Prrrouve-moi que tu peux esquiver mes coups!
+_rsv_41932_-1_3_0_0_S13095D61_E13095D61|Arriveras-tu à te rrrelever après avoir encaissé ça?
+_rsv_41932_-1_3_0_0_SE2DC5B04_EE2DC5B04|Meute du loup radieux
+_rsv_41932_-1_3_0_1_S13095D61_E13095D61|Arriveras-tu à te rrrelever après avoir encaissé ça?
+_rsv_41932_-1_3_0_1_SE2DC5B04_EE2DC5B04|Meute du loup radieux
+_rsv_41933_-1_3_0_0_SE2DC5B04_EE2DC5B04|Souffle du loup radieux
+_rsv_41933_-1_3_0_1_SE2DC5B04_EE2DC5B04|Souffle du loup radieux
+_rsv_41934_-1_3_0_0_S13095D61_E13095D61|Grrraaaaaah!
+_rsv_41934_-1_3_0_1_S13095D61_E13095D61|Grrraaaaaah!
+_rsv_41935_-1_3_0_0_SE2DC5B04_EE2DC5B04|Autan du loup radieux
+_rsv_41935_-1_3_0_1_SE2DC5B04_EE2DC5B04|Autan du loup radieux
+_rsv_41936_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement du vent
+_rsv_41936_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement du vent
+_rsv_41937_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement du vent
+_rsv_41937_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement du vent
+_rsv_41938_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement du vent
+_rsv_41938_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement du vent
+_rsv_41939_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement de la terre
+_rsv_41939_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement de la terre
+_rsv_41940_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement de la terre
+_rsv_41940_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement de la terre
+_rsv_41941_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement de la terre
+_rsv_41941_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement de la terre
+_rsv_41943_-1_3_0_0_SE2DC5B04_EE2DC5B04|Crocs croisés
+_rsv_41943_-1_3_0_1_SE2DC5B04_EE2DC5B04|Crocs croisés
+_rsv_41947_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement tempétueux
+_rsv_41947_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement tempétueux
+_rsv_41948_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement tempétueux
+_rsv_41948_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement tempétueux
+_rsv_41949_-1_3_0_0_SE2DC5B04_EE2DC5B04|Hurlement tempétueux
+_rsv_41949_-1_3_0_1_SE2DC5B04_EE2DC5B04|Hurlement tempétueux
+_rsv_41954_-1_3_0_0_SE2DC5B04_EE2DC5B04|Terre du loup radieux
+_rsv_41954_-1_3_0_1_SE2DC5B04_EE2DC5B04|Terre du loup radieux
+_rsv_41956_-1_3_0_0_SE2DC5B04_EE2DC5B04|Onde du loup radieux
+_rsv_41956_-1_3_0_1_SE2DC5B04_EE2DC5B04|Onde du loup radieux
+_rsv_41957_-1_3_0_0_SE2DC5B04_EE2DC5B04|Grand tourbillon
+_rsv_41957_-1_3_0_1_SE2DC5B04_EE2DC5B04|Grand tourbillon
+_rsv_41965_-1_3_0_0_SE2DC5B04_EE2DC5B04|Déflagration aérienne
+_rsv_41965_-1_3_0_1_SE2DC5B04_EE2DC5B04|Déflagration aérienne
+_rsv_41966_-1_3_0_0_SE2DC5B04_EE2DC5B04|Déflagration tellurique
+_rsv_41966_-1_3_0_1_SE2DC5B04_EE2DC5B04|Déflagration tellurique
+_rsv_41967_-1_3_0_0_SE2DC5B04_EE2DC5B04|Explosion aérienne
+_rsv_41967_-1_3_0_1_SE2DC5B04_EE2DC5B04|Explosion aérienne
+_rsv_41968_-1_3_0_0_SE2DC5B04_EE2DC5B04|Explosion tellurique
+_rsv_41968_-1_3_0_1_SE2DC5B04_EE2DC5B04|Explosion tellurique
+_rsv_41969_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tranchage funeste du vide
+_rsv_41969_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tranchage funeste du vide
+_rsv_42076_-1_3_0_0_SE2DC5B04_EE2DC5B04|Rayon mystique
+_rsv_42076_-1_3_0_1_SE2DC5B04_EE2DC5B04|Rayon mystique
+_rsv_42077_-1_3_0_0_SE2DC5B04_EE2DC5B04|Rayon mystique
+_rsv_42077_-1_3_0_1_SE2DC5B04_EE2DC5B04|Rayon mystique
+_rsv_42078_-1_3_0_0_SE2DC5B04_EE2DC5B04|Artillerie éclair
+_rsv_42078_-1_3_0_1_SE2DC5B04_EE2DC5B04|Artillerie éclair
+_rsv_42079_-1_3_0_0_SE2DC5B04_EE2DC5B04|Frappe du manche
+_rsv_42079_-1_3_0_1_SE2DC5B04_EE2DC5B04|Frappe du manche
+_rsv_42080_-1_3_0_0_SE2DC5B04_EE2DC5B04|Frappe du manche
+_rsv_42080_-1_3_0_1_SE2DC5B04_EE2DC5B04|Frappe du manche
+_rsv_42081_-1_3_0_0_SE2DC5B04_EE2DC5B04|Frappe du manche
+_rsv_42081_-1_3_0_1_SE2DC5B04_EE2DC5B04|Frappe du manche
+_rsv_42082_-1_3_0_0_SE2DC5B04_EE2DC5B04|Frappe du manche
+_rsv_42082_-1_3_0_1_SE2DC5B04_EE2DC5B04|Frappe du manche
+_rsv_42083_-1_3_0_0_SE2DC5B04_EE2DC5B04|Crocs tournoyants
+_rsv_42083_-1_3_0_1_SE2DC5B04_EE2DC5B04|Crocs tournoyants
+_rsv_42084_-1_3_0_0_SE2DC5B04_EE2DC5B04|Crocs tourbillonants
+_rsv_42084_-1_3_0_1_SE2DC5B04_EE2DC5B04|Crocs tourbillonants
+_rsv_42085_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tranchage éclair
+_rsv_42085_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tranchage éclair
+_rsv_42086_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tranchage éclair
+_rsv_42086_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tranchage éclair
+_rsv_42087_-1_3_0_0_SE2DC5B04_EE2DC5B04|Sceau du vent et de la terre
+_rsv_42087_-1_3_0_1_SE2DC5B04_EE2DC5B04|Sceau du vent et de la terre
+_rsv_42088_-1_3_0_0_SE2DC5B04_EE2DC5B04|Assaut tempétueux à retardement
+_rsv_42088_-1_3_0_1_SE2DC5B04_EE2DC5B04|Assaut tempétueux à retardement
+_rsv_42089_-1_3_0_0_SE2DC5B04_EE2DC5B04|Assaut tellurique à retardement
+_rsv_42089_-1_3_0_1_SE2DC5B04_EE2DC5B04|Assaut tellurique à retardement
+_rsv_42092_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame du loup vorace
+_rsv_42092_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame du loup vorace
+_rsv_42093_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame du loup vorace
+_rsv_42093_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame du loup vorace
+_rsv_42094_-1_3_0_0_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42094_-1_3_0_1_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42095_-1_3_0_0_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42095_-1_3_0_1_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42097_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tempête de crocs
+_rsv_42097_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tempête de crocs
+_rsv_42098_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tempête de crocs
+_rsv_42098_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tempête de crocs
+_rsv_42099_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tempête de crocs
+_rsv_42099_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tempête de crocs
+_rsv_42100_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tempête de crocs
+_rsv_42100_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tempête de crocs
+_rsv_42102_-1_3_0_0_SE2DC5B04_EE2DC5B04|Rafale d'artillerie éclair
+_rsv_42102_-1_3_0_1_SE2DC5B04_EE2DC5B04|Rafale d'artillerie éclair
+_rsv_42103_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42103_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42104_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42104_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42105_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42105_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42106_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42106_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42107_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42107_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42108_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42108_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42109_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42109_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42110_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42110_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42111_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42111_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42112_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42112_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42113_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42113_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42114_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42114_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42115_-1_3_0_0_SE2DC5B04_EE2DC5B04|Malédiction du loup solitaire
+_rsv_42115_-1_3_0_1_SE2DC5B04_EE2DC5B04|Malédiction du loup solitaire
+_rsv_42117_-1_3_0_0_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42117_-1_3_0_1_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42118_-1_3_0_0_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42118_-1_3_0_1_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42119_-1_3_0_0_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42119_-1_3_0_1_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42120_-1_3_0_0_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42120_-1_3_0_1_SE2DC5B04_EE2DC5B04|Meute des loups du vent
+_rsv_42132_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42132_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42133_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42133_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42134_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42134_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42135_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42135_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42136_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42136_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42137_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42137_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42138_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42138_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42139_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42139_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42140_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42140_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_42141_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tranchage éclair final
+_rsv_42141_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tranchage éclair final
+_rsv_42142_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tranchage éclair final
+_rsv_42142_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tranchage éclair final
+_rsv_42145_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42145_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42146_-1_3_0_0_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42146_-1_3_0_1_SE2DC5B04_EE2DC5B04|Secousse cosmique
+_rsv_42189_-1_3_0_0_SE2DC5B04_EE2DC5B04|Frappe des crocs jumeaux
+_rsv_42189_-1_3_0_1_SE2DC5B04_EE2DC5B04|Frappe des crocs jumeaux
+_rsv_42190_-1_3_0_0_SE2DC5B04_EE2DC5B04|Frappe des crocs jumeaux
+_rsv_42190_-1_3_0_1_SE2DC5B04_EE2DC5B04|Frappe des crocs jumeaux
+_rsv_42828_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tranchage éclair
+_rsv_42828_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tranchage éclair
+_rsv_42829_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tranchage éclair
+_rsv_42829_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tranchage éclair
+_rsv_43050_-1_3_0_0_SE2DC5B04_EE2DC5B04|Tempête divine du loup mystique
+_rsv_43050_-1_3_0_1_SE2DC5B04_EE2DC5B04|Tempête divine du loup mystique
+_rsv_43052_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame maudite du loup mystique
+_rsv_43052_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame maudite du loup mystique
+_rsv_43137_-1_3_0_0_SE2DC5B04_EE2DC5B04|Déflagration aérienne
+_rsv_43137_-1_3_0_1_SE2DC5B04_EE2DC5B04|Déflagration aérienne
+_rsv_43138_-1_3_0_0_SE2DC5B04_EE2DC5B04|Déflagration tellurique
+_rsv_43138_-1_3_0_1_SE2DC5B04_EE2DC5B04|Déflagration tellurique
+_rsv_43281_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame de la meute dévastatrice
+_rsv_43281_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame de la meute dévastatrice
+_rsv_43282_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame de la meute dévastatrice
+_rsv_43282_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame de la meute dévastatrice
+_rsv_43283_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame de la meute tourbillonnante 
+_rsv_43283_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame de la meute tourbillonnante 
+_rsv_43284_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame de la meute tourbillonnante 
+_rsv_43284_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame de la meute tourbillonnante 
+_rsv_43297_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame de la meute dévastatrice
+_rsv_43297_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame de la meute dévastatrice
+_rsv_43298_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame de la meute tourbillonnante 
+_rsv_43298_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame de la meute tourbillonnante 
+_rsv_43312_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame de la meute dévastatrice
+_rsv_43312_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame de la meute dévastatrice
+_rsv_43313_-1_3_0_0_SE2DC5B04_EE2DC5B04|Lame de la meute tourbillonnante 
+_rsv_43313_-1_3_0_1_SE2DC5B04_EE2DC5B04|Lame de la meute tourbillonnante 
+_rsv_43519_-1_3_0_0_SE2DC5B04_EE2DC5B04|Déflagration aérienne
+_rsv_43519_-1_3_0_1_SE2DC5B04_EE2DC5B04|Déflagration aérienne
+_rsv_43520_-1_3_0_0_SE2DC5B04_EE2DC5B04|Déflagration tellurique
+_rsv_43520_-1_3_0_1_SE2DC5B04_EE2DC5B04|Déflagration tellurique
+_rsv_43522_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43522_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43523_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43523_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43524_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43524_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43525_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43525_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43526_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43526_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43527_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43527_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43528_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43528_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43529_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43529_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43530_-1_3_0_0_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_43530_-1_3_0_1_SE2DC5B04_EE2DC5B04|Octorayon
+_rsv_4389_-1_3_0_0_S74CFC3B0_E74CFC3B0|Châtiment du vent
+_rsv_4389_-1_3_0_1_S74CFC3B0_E74CFC3B0|Châtiment du vent
+_rsv_4389_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est enveloppé par un éther de type vent. Impossible d'infliger des dégâts à la tête du loup du même élément.
+_rsv_4389_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est enveloppé par un éther de type vent. Impossible d'infliger des dégâts à la tête du loup du même élément.
+_rsv_4390_-1_3_0_0_S74CFC3B0_E74CFC3B0|Châtiment de la terre
+_rsv_4390_-1_3_0_1_S74CFC3B0_E74CFC3B0|Châtiment de la terre
+_rsv_4390_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est enveloppé par un éther de type terre. Impossible d'infliger des dégâts à la tête du loup du même élément.
+_rsv_4390_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est enveloppé par un éther de type terre. Impossible d'infliger des dégâts à la tête du loup du même élément.
+_rsv_4391_-1_3_0_0_S74CFC3B0_E74CFC3B0|Fléau de la terre
+_rsv_4391_-1_3_0_1_S74CFC3B0_E74CFC3B0|Fléau de la terre
+_rsv_4391_-1_3_1_0_S74CFC3B0_E74CFC3B0|Subit un maléfice de terre qui provoque le K.O. à la fin de l'effet. Peut-être annulé au contact d'un amas d'éther de terre.
+_rsv_4391_-1_3_1_1_S74CFC3B0_E74CFC3B0|Subit un maléfice de terre qui provoque le K.O. à la fin de l'effet. Peut-être annulé au contact d'un amas d'éther de terre.
+_rsv_4392_-1_3_0_0_S74CFC3B0_E74CFC3B0|Fléau du vent
+_rsv_4392_-1_3_0_1_S74CFC3B0_E74CFC3B0|Fléau du vent
+_rsv_4392_-1_3_1_0_S74CFC3B0_E74CFC3B0|Subit un maléfice de vent qui provoque le K.O. à la fin de l'effet. Peut-être annulé au contact d'un amas d'éther de vent.
+_rsv_4392_-1_3_1_1_S74CFC3B0_E74CFC3B0|Subit un maléfice de vent qui provoque le K.O. à la fin de l'effet. Peut-être annulé au contact d'un amas d'éther de vent.
+_rsv_4393_-1_3_0_0_S74CFC3B0_E74CFC3B0|Entrave terrestre
+_rsv_4393_-1_3_0_1_S74CFC3B0_E74CFC3B0|Entrave terrestre
+_rsv_4393_-1_3_1_0_S74CFC3B0_E74CFC3B0|L'âme est clouée au sol par un puissant sortilège. L'utilisation du saut est impossible.
+_rsv_4393_-1_3_1_1_S74CFC3B0_E74CFC3B0|L'âme est clouée au sol par un puissant sortilège. L'utilisation du saut est impossible.
+_rsv_4394_-1_3_0_0_S74CFC3B0_E74CFC3B0|Résonance du vent
+_rsv_4394_-1_3_0_1_S74CFC3B0_E74CFC3B0|Résonance du vent
+_rsv_4394_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est affecté par une magie de vent. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_4394_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est affecté par une magie de vent. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_4395_-1_3_0_0_S74CFC3B0_E74CFC3B0|Résonance de la terre
+_rsv_4395_-1_3_0_1_S74CFC3B0_E74CFC3B0|Résonance de la terre
+_rsv_4395_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est affecté par une magie de terre. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_4395_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est affecté par une magie de terre. Un sort se déclenche autour de lui lorsque la durée de l'effet s'est écoulée.
+_rsv_4396_-1_3_0_0_S74CFC3B0_E74CFC3B0|Fléau du loup solitaire proche
+_rsv_4396_-1_3_0_1_S74CFC3B0_E74CFC3B0|Fléau du loup solitaire proche
+_rsv_4396_-1_3_1_0_S74CFC3B0_E74CFC3B0|S'éloigner d'une autre victime de ce fléau provoque une grosse explosion.
+_rsv_4396_-1_3_1_1_S74CFC3B0_E74CFC3B0|S'éloigner d'une autre victime de ce fléau provoque une grosse explosion.
+_rsv_4397_-1_3_0_0_S74CFC3B0_E74CFC3B0|Fléau du loup solitaire éloigné
+_rsv_4397_-1_3_0_1_S74CFC3B0_E74CFC3B0|Fléau du loup solitaire éloigné
+_rsv_4397_-1_3_1_0_S74CFC3B0_E74CFC3B0|Se rapprocher d'une autre victime de ce fléau provoque une grosse explosion.
+_rsv_4397_-1_3_1_1_S74CFC3B0_E74CFC3B0|Se rapprocher d'une autre victime de ce fléau provoque une grosse explosion.
+
+#DE
+_rsv_10924_-1_2_0_0_SF15185AF_EF15185AF|Heulende Klinges Einfluss schränkt die Verfügbarkeit der Teleporter ein...!
+_rsv_10924_-1_2_0_1_SF15185AF_EF15185AF|Heulende Klinges Einfluss schränkt die Verfügbarkeit der Teleporter ein...!
+_rsv_10925_-1_2_0_0_SF15185AF_EF15185AF|Die Teleporter sind in ihren Ausgangszustand zurückgekehrt...!
+_rsv_10925_-1_2_0_1_SF15185AF_EF15185AF|Die Teleporter sind in ihren Ausgangszustand zurückgekehrt...!
+_rsv_13851_-1_2_0_0_S64755250_E64755250|Windäthermasse
+_rsv_13851_-1_2_0_1_S64755250_E64755250|Windäthermasse
+_rsv_13851_-1_2_2_0_S64755250_E64755250|Windäthermassen
+_rsv_13851_-1_2_2_1_S64755250_E64755250|Windäthermassen
+_rsv_13852_-1_2_0_0_S64755250_E64755250|Erdäthermasse
+_rsv_13852_-1_2_0_1_S64755250_E64755250|Erdäthermasse
+_rsv_13852_-1_2_2_0_S64755250_E64755250|Erdäthermassen
+_rsv_13852_-1_2_2_1_S64755250_E64755250|Erdäthermassen
+_rsv_18441_-1_2_0_0_SCFE39641_ECFE39641|Kein Entkommen!
+_rsv_18441_-1_2_0_1_SCFE39641_ECFE39641|Kein Entkommen!
+_rsv_41883_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wolfsrudelimpuls
+_rsv_41883_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wolfsrudelimpuls
+_rsv_41884_-1_2_0_0_SE2DC5B04_EE2DC5B04|Fokusschwankung
+_rsv_41884_-1_2_0_1_SE2DC5B04_EE2DC5B04|Fokusschwankung
+_rsv_41885_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kunst des Windes
+_rsv_41885_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kunst des Windes
+_rsv_41886_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kunst des Windes
+_rsv_41886_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kunst des Windes
+_rsv_41887_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kunst des Windes
+_rsv_41887_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kunst des Windes
+_rsv_41888_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kunst des Windes
+_rsv_41888_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kunst des Windes
+_rsv_41889_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kunst der Erde
+_rsv_41889_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kunst der Erde
+_rsv_41890_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kunst der Erde
+_rsv_41890_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kunst der Erde
+_rsv_41904_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kunst der Erde
+_rsv_41904_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kunst der Erde
+_rsv_41905_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kunst der Erde
+_rsv_41905_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kunst der Erde
+_rsv_41906_-1_2_0_0_SE2DC5B04_EE2DC5B04|Milleniumsverwitterung
+_rsv_41906_-1_2_0_1_SE2DC5B04_EE2DC5B04|Milleniumsverwitterung
+_rsv_41908_-1_2_0_0_SE2DC5B04_EE2DC5B04|Milleniumssäuseln
+_rsv_41908_-1_2_0_1_SE2DC5B04_EE2DC5B04|Milleniumssäuseln
+_rsv_41909_-1_2_0_0_SE2DC5B04_EE2DC5B04|Milleniumstaifun
+_rsv_41909_-1_2_0_1_SE2DC5B04_EE2DC5B04|Milleniumstaifun
+_rsv_41912_-1_2_0_0_S13095D61_E13095D61|Selbst Stürme unterwerfen sich Fenrirs Macht!
+_rsv_41912_-1_2_0_1_S13095D61_E13095D61|Selbst Stürme unterwerfen sich Fenrirs Macht!
+_rsv_41913_-1_2_0_0_S13095D61_E13095D61|Das war's dann. Der Sieg gehört mir!
+_rsv_41913_-1_2_0_1_S13095D61_E13095D61|Das war's dann. Der Sieg gehört mir!
+_rsv_41914_-1_2_0_0_S13095D61_E13095D61|Urgh... Ich werde nicht aufgeben...!
+_rsv_41914_-1_2_0_1_S13095D61_E13095D61|Urgh... Ich werde nicht aufgeben...!
+_rsv_41915_-1_2_0_0_S13095D61_E13095D61|Fenrir, gib mir auch den Rest deiner Kraft!
+_rsv_41915_-1_2_0_1_S13095D61_E13095D61|Fenrir, gib mir auch den Rest deiner Kraft!
+_rsv_41916_-1_2_0_0_S13095D61_E13095D61|Was mit mir auch geschieht... ich darf hier nicht verlieren!
+_rsv_41916_-1_2_0_1_S13095D61_E13095D61|Was mit mir auch geschieht... ich darf hier nicht verlieren!
+_rsv_41917_-1_2_0_0_S13095D61_E13095D61|Da stimmt was nicht! Was hat Heulende Klinge nur vor...?!
+_rsv_41917_-1_2_0_1_S13095D61_E13095D61|Da stimmt was nicht! Was hat Heulende Klinge nur vor...?!
+_rsv_41918_-1_2_0_0_S13095D61_E13095D61|Da geht der Ring zu Bruch! Der Kampf verlagert sich nach unten!
+_rsv_41918_-1_2_0_1_S13095D61_E13095D61|Da geht der Ring zu Bruch! Der Kampf verlagert sich nach unten!
+_rsv_41919_-1_2_0_0_S13095D61_E13095D61|Schwebende Inseln...! Haben sie hier überhaupt genug Platz?!
+_rsv_41919_-1_2_0_1_S13095D61_E13095D61|Schwebende Inseln...! Haben sie hier überhaupt genug Platz?!
+_rsv_41920_-1_2_0_0_S13095D61_E13095D61|Schluss mit lustig. Macht euch bereit!
+_rsv_41920_-1_2_0_1_S13095D61_E13095D61|Schluss mit lustig. Macht euch bereit!
+_rsv_41921_-1_2_0_0_S13095D61_E13095D61|Alles wird niedergemäht!
+_rsv_41921_-1_2_0_1_S13095D61_E13095D61|Alles wird niedergemäht!
+_rsv_41922_-1_2_0_0_S13095D61_E13095D61|Diese Insel ist im Weg!
+_rsv_41922_-1_2_0_1_S13095D61_E13095D61|Diese Insel ist im Weg!
+_rsv_41923_-1_2_0_0_S13095D61_E13095D61|Er hat eine Insel zerschmettert! Wir setzen uns sofort an die Reparatur!
+_rsv_41923_-1_2_0_1_S13095D61_E13095D61|Er hat eine Insel zerschmettert! Wir setzen uns sofort an die Reparatur!
+_rsv_41924_-1_2_0_0_S13095D61_E13095D61|Nichts hält der entfesselten Macht des Windes stand!
+_rsv_41924_-1_2_0_1_S13095D61_E13095D61|Nichts hält der entfesselten Macht des Windes stand!
+_rsv_41925_-1_2_0_0_S13095D61_E13095D61|Vor mir gibt es kein Entkommen!
+_rsv_41925_-1_2_0_1_S13095D61_E13095D61|Vor mir gibt es kein Entkommen!
+_rsv_41926_-1_2_0_0_S13095D61_E13095D61|Mit all meiner Kraft... werde ich euch besiegen!
+_rsv_41926_-1_2_0_1_S13095D61_E13095D61|Mit all meiner Kraft... werde ich euch besiegen!
+_rsv_41927_-1_2_0_0_S13095D61_E13095D61|Selbst wenn... es mich mein Leben kostet...!
+_rsv_41927_-1_2_0_1_S13095D61_E13095D61|Selbst wenn... es mich mein Leben kostet...!
+_rsv_41928_-1_2_0_0_S13095D61_E13095D61|Ein verzweifelter Kampf auf beiden Seiten! Wen verlassen die Kräfte zuerst?!
+_rsv_41928_-1_2_0_1_S13095D61_E13095D61|Ein verzweifelter Kampf auf beiden Seiten! Wen verlassen die Kräfte zuerst?!
+_rsv_41929_-1_2_0_0_S13095D61_E13095D61|Eine Niederlage... kann ich... nicht akzeptieren!
+_rsv_41929_-1_2_0_1_S13095D61_E13095D61|Eine Niederlage... kann ich... nicht akzeptieren!
+_rsv_41930_-1_2_0_0_S13095D61_E13095D61|Ihr seid wirklich stark...! Aber gewinnen... Werde iiiich!
+_rsv_41930_-1_2_0_1_S13095D61_E13095D61|Ihr seid wirklich stark...! Aber gewinnen... Werde iiiich!
+_rsv_41931_-1_2_0_0_S13095D61_E13095D61|Weicht ruhig aus, wenn ihr könnt!
+_rsv_41931_-1_2_0_1_S13095D61_E13095D61|Weicht ruhig aus, wenn ihr könnt!
+_rsv_41932_-1_2_0_0_S13095D61_E13095D61|Ob ihr euch hiernach noch bewegen könnt?
+_rsv_41932_-1_2_0_0_SE2DC5B04_EE2DC5B04|Lichtwolfszirkel
+_rsv_41932_-1_2_0_1_S13095D61_E13095D61|Ob ihr euch hiernach noch bewegen könnt?
+_rsv_41932_-1_2_0_1_SE2DC5B04_EE2DC5B04|Lichtwolfszirkel
+_rsv_41933_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wind des Lichtwolfs
+_rsv_41933_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wind des Lichtwolfs
+_rsv_41934_-1_2_0_0_S13095D61_E13095D61|Huooaah!
+_rsv_41934_-1_2_0_1_S13095D61_E13095D61|Huooaah!
+_rsv_41935_-1_2_0_0_SE2DC5B04_EE2DC5B04|Leuchtender Wind
+_rsv_41935_-1_2_0_1_SE2DC5B04_EE2DC5B04|Leuchtender Wind
+_rsv_41936_-1_2_0_0_SE2DC5B04_EE2DC5B04|Heulender Wind
+_rsv_41936_-1_2_0_1_SE2DC5B04_EE2DC5B04|Heulender Wind
+_rsv_41937_-1_2_0_0_SE2DC5B04_EE2DC5B04|Heulender Wind
+_rsv_41937_-1_2_0_1_SE2DC5B04_EE2DC5B04|Heulender Wind
+_rsv_41938_-1_2_0_0_SE2DC5B04_EE2DC5B04|Heulender Wind
+_rsv_41938_-1_2_0_1_SE2DC5B04_EE2DC5B04|Heulender Wind
+_rsv_41939_-1_2_0_0_SE2DC5B04_EE2DC5B04|Heulende Erde
+_rsv_41939_-1_2_0_1_SE2DC5B04_EE2DC5B04|Heulende Erde
+_rsv_41940_-1_2_0_0_SE2DC5B04_EE2DC5B04|Heulende Erde
+_rsv_41940_-1_2_0_1_SE2DC5B04_EE2DC5B04|Heulende Erde
+_rsv_41941_-1_2_0_0_SE2DC5B04_EE2DC5B04|Heulende Erde
+_rsv_41941_-1_2_0_1_SE2DC5B04_EE2DC5B04|Heulende Erde
+_rsv_41943_-1_2_0_0_SE2DC5B04_EE2DC5B04|Lichtreißerkreuz
+_rsv_41943_-1_2_0_1_SE2DC5B04_EE2DC5B04|Lichtreißerkreuz
+_rsv_41947_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ruf des Sturms
+_rsv_41947_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ruf des Sturms
+_rsv_41948_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ruf des Sturms
+_rsv_41948_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ruf des Sturms
+_rsv_41949_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ruf des Sturms
+_rsv_41949_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ruf des Sturms
+_rsv_41954_-1_2_0_0_SE2DC5B04_EE2DC5B04|Erde des Lichtwolfs
+_rsv_41954_-1_2_0_1_SE2DC5B04_EE2DC5B04|Erde des Lichtwolfs
+_rsv_41956_-1_2_0_0_SE2DC5B04_EE2DC5B04|Leuchtende Erde
+_rsv_41956_-1_2_0_1_SE2DC5B04_EE2DC5B04|Leuchtende Erde
+_rsv_41957_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windhose
+_rsv_41957_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windhose
+_rsv_41965_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windbombe
+_rsv_41965_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windbombe
+_rsv_41966_-1_2_0_0_SE2DC5B04_EE2DC5B04|Erdbombe
+_rsv_41966_-1_2_0_1_SE2DC5B04_EE2DC5B04|Erdbombe
+_rsv_41967_-1_2_0_0_SE2DC5B04_EE2DC5B04|Große Windbombe
+_rsv_41967_-1_2_0_1_SE2DC5B04_EE2DC5B04|Große Windbombe
+_rsv_41968_-1_2_0_0_SE2DC5B04_EE2DC5B04|Große Erdbombe
+_rsv_41968_-1_2_0_1_SE2DC5B04_EE2DC5B04|Große Erdbombe
+_rsv_41969_-1_2_0_0_SE2DC5B04_EE2DC5B04|Radikaler Raumspalter
+_rsv_41969_-1_2_0_1_SE2DC5B04_EE2DC5B04|Radikaler Raumspalter
+_rsv_42076_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ätherlicht
+_rsv_42076_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ätherlicht
+_rsv_42077_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ätherlicht
+_rsv_42077_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ätherlicht
+_rsv_42078_-1_2_0_0_SE2DC5B04_EE2DC5B04|Blitzartillerie
+_rsv_42078_-1_2_0_1_SE2DC5B04_EE2DC5B04|Blitzartillerie
+_rsv_42079_-1_2_0_0_SE2DC5B04_EE2DC5B04|Leichte Beute
+_rsv_42079_-1_2_0_1_SE2DC5B04_EE2DC5B04|Leichte Beute
+_rsv_42080_-1_2_0_0_SE2DC5B04_EE2DC5B04|Leichte Beute
+_rsv_42080_-1_2_0_1_SE2DC5B04_EE2DC5B04|Leichte Beute
+_rsv_42081_-1_2_0_0_SE2DC5B04_EE2DC5B04|Leichte Beute
+_rsv_42081_-1_2_0_1_SE2DC5B04_EE2DC5B04|Leichte Beute
+_rsv_42082_-1_2_0_0_SE2DC5B04_EE2DC5B04|Leichte Beute
+_rsv_42082_-1_2_0_1_SE2DC5B04_EE2DC5B04|Leichte Beute
+_rsv_42083_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kreisende Lichtreißer
+_rsv_42083_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kreisende Lichtreißer
+_rsv_42084_-1_2_0_0_SE2DC5B04_EE2DC5B04|Rotierende Lichtreißer
+_rsv_42084_-1_2_0_1_SE2DC5B04_EE2DC5B04|Rotierende Lichtreißer
+_rsv_42085_-1_2_0_0_SE2DC5B04_EE2DC5B04|Klingensturz
+_rsv_42085_-1_2_0_1_SE2DC5B04_EE2DC5B04|Klingensturz
+_rsv_42086_-1_2_0_0_SE2DC5B04_EE2DC5B04|Klingensturz
+_rsv_42086_-1_2_0_1_SE2DC5B04_EE2DC5B04|Klingensturz
+_rsv_42087_-1_2_0_0_SE2DC5B04_EE2DC5B04|Siegel des Windes
+_rsv_42087_-1_2_0_1_SE2DC5B04_EE2DC5B04|Siegel des Windes
+_rsv_42088_-1_2_0_0_SE2DC5B04_EE2DC5B04|Temporärer Wind
+_rsv_42088_-1_2_0_1_SE2DC5B04_EE2DC5B04|Temporärer Wind
+_rsv_42089_-1_2_0_0_SE2DC5B04_EE2DC5B04|Temporäres Beben
+_rsv_42089_-1_2_0_1_SE2DC5B04_EE2DC5B04|Temporäres Beben
+_rsv_42092_-1_2_0_0_SE2DC5B04_EE2DC5B04|Gierige Wolfsklinge
+_rsv_42092_-1_2_0_1_SE2DC5B04_EE2DC5B04|Gierige Wolfsklinge
+_rsv_42093_-1_2_0_0_SE2DC5B04_EE2DC5B04|Gierige Wolfsklinge
+_rsv_42093_-1_2_0_1_SE2DC5B04_EE2DC5B04|Gierige Wolfsklinge
+_rsv_42094_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42094_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42095_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42095_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42097_-1_2_0_0_SE2DC5B04_EE2DC5B04|Orkanreißer
+_rsv_42097_-1_2_0_1_SE2DC5B04_EE2DC5B04|Orkanreißer
+_rsv_42098_-1_2_0_0_SE2DC5B04_EE2DC5B04|Orkanreißer
+_rsv_42098_-1_2_0_1_SE2DC5B04_EE2DC5B04|Orkanreißer
+_rsv_42099_-1_2_0_0_SE2DC5B04_EE2DC5B04|Orkanreißer
+_rsv_42099_-1_2_0_1_SE2DC5B04_EE2DC5B04|Orkanreißer
+_rsv_42100_-1_2_0_0_SE2DC5B04_EE2DC5B04|Orkanreißer
+_rsv_42100_-1_2_0_1_SE2DC5B04_EE2DC5B04|Orkanreißer
+_rsv_42102_-1_2_0_0_SE2DC5B04_EE2DC5B04|Multiblitzkanone
+_rsv_42102_-1_2_0_1_SE2DC5B04_EE2DC5B04|Multiblitzkanone
+_rsv_42103_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42103_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42104_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42104_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42105_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42105_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42106_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42106_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42107_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42107_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42108_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42108_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42109_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42109_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42110_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42110_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42111_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42111_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42112_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42112_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42113_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42113_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42114_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42114_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42115_-1_2_0_0_SE2DC5B04_EE2DC5B04|Fluch des Wolfes
+_rsv_42115_-1_2_0_1_SE2DC5B04_EE2DC5B04|Fluch des Wolfes
+_rsv_42117_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42117_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42118_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42118_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42119_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42119_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42120_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42120_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windwolfszirkel
+_rsv_42132_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42132_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42133_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42133_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42134_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42134_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42135_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42135_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42136_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42136_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42137_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42137_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42138_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42138_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42139_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42139_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42140_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42140_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_42141_-1_2_0_0_SE2DC5B04_EE2DC5B04|Finaler Klingensturz
+_rsv_42141_-1_2_0_1_SE2DC5B04_EE2DC5B04|Finaler Klingensturz
+_rsv_42142_-1_2_0_0_SE2DC5B04_EE2DC5B04|Finaler Klingensturz
+_rsv_42142_-1_2_0_1_SE2DC5B04_EE2DC5B04|Finaler Klingensturz
+_rsv_42145_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42145_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42146_-1_2_0_0_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42146_-1_2_0_1_SE2DC5B04_EE2DC5B04|Himmelsreigen
+_rsv_42189_-1_2_0_0_SE2DC5B04_EE2DC5B04|Doppelreißer
+_rsv_42189_-1_2_0_1_SE2DC5B04_EE2DC5B04|Doppelreißer
+_rsv_42190_-1_2_0_0_SE2DC5B04_EE2DC5B04|Doppelreißer
+_rsv_42190_-1_2_0_1_SE2DC5B04_EE2DC5B04|Doppelreißer
+_rsv_42828_-1_2_0_0_SE2DC5B04_EE2DC5B04|Klingensturz
+_rsv_42828_-1_2_0_1_SE2DC5B04_EE2DC5B04|Klingensturz
+_rsv_42829_-1_2_0_0_SE2DC5B04_EE2DC5B04|Klingensturz
+_rsv_42829_-1_2_0_1_SE2DC5B04_EE2DC5B04|Klingensturz
+_rsv_43050_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dämonenwolf: Himmelsturm
+_rsv_43050_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dämonenwolf: Himmelsturm
+_rsv_43052_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dämonenwolf: Klingenfluch
+_rsv_43052_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dämonenwolf: Klingenfluch
+_rsv_43137_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windbombe
+_rsv_43137_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windbombe
+_rsv_43138_-1_2_0_0_SE2DC5B04_EE2DC5B04|Erdbombe
+_rsv_43138_-1_2_0_1_SE2DC5B04_EE2DC5B04|Erdbombe
+_rsv_43281_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wildes Wolfsrudel
+_rsv_43281_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wildes Wolfsrudel
+_rsv_43282_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wildes Wolfsrudel
+_rsv_43282_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wildes Wolfsrudel
+_rsv_43283_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kreisendes Wolfsrudel
+_rsv_43283_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kreisendes Wolfsrudel
+_rsv_43284_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kreisendes Wolfsrudel
+_rsv_43284_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kreisendes Wolfsrudel
+_rsv_43297_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wildes Wolfsrudel
+_rsv_43297_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wildes Wolfsrudel
+_rsv_43298_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kreisendes Wolfsrudel
+_rsv_43298_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kreisendes Wolfsrudel
+_rsv_43312_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wildes Wolfsrudel
+_rsv_43312_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wildes Wolfsrudel
+_rsv_43313_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kreisendes Wolfsrudel
+_rsv_43313_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kreisendes Wolfsrudel
+_rsv_43519_-1_2_0_0_SE2DC5B04_EE2DC5B04|Windbombe
+_rsv_43519_-1_2_0_1_SE2DC5B04_EE2DC5B04|Windbombe
+_rsv_43520_-1_2_0_0_SE2DC5B04_EE2DC5B04|Erdbombe
+_rsv_43520_-1_2_0_1_SE2DC5B04_EE2DC5B04|Erdbombe
+_rsv_43522_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43522_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43523_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43523_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43524_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43524_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43525_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43525_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43526_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43526_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43527_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43527_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43528_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43528_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43529_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43529_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43530_-1_2_0_0_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_43530_-1_2_0_1_SE2DC5B04_EE2DC5B04|Achtfache Lichtkugel
+_rsv_4389_-1_2_0_0_S74CFC3B0_E74CFC3B0|Strafe des Windes
+_rsv_4389_-1_2_0_1_S74CFC3B0_E74CFC3B0|Strafe des Windes
+_rsv_4389_-1_2_1_0_S74CFC3B0_E74CFC3B0|Von Wind-Äther umhüllt. Kann Wolfsköpfen des gleichen Elements keinen Schaden zufügen.
+_rsv_4389_-1_2_1_1_S74CFC3B0_E74CFC3B0|Von Wind-Äther umhüllt. Kann Wolfsköpfen des gleichen Elements keinen Schaden zufügen.
+_rsv_4390_-1_2_0_0_S74CFC3B0_E74CFC3B0|Strafe der Erde
+_rsv_4390_-1_2_0_1_S74CFC3B0_E74CFC3B0|Strafe der Erde
+_rsv_4390_-1_2_1_0_S74CFC3B0_E74CFC3B0|Von Erd-Äther umhüllt. Kann Wolfsköpfen des gleichen Elements keinen Schaden zufügen.
+_rsv_4390_-1_2_1_1_S74CFC3B0_E74CFC3B0|Von Erd-Äther umhüllt. Kann Wolfsköpfen des gleichen Elements keinen Schaden zufügen.
+_rsv_4391_-1_2_0_0_S74CFC3B0_E74CFC3B0|Fluch der Erde
+_rsv_4391_-1_2_0_1_S74CFC3B0_E74CFC3B0|Fluch der Erde
+_rsv_4391_-1_2_1_0_S74CFC3B0_E74CFC3B0|Mit einem erdelementaren Fluch belegt. Wird bei Ablauf des Effekts kampfunfähig. Kann durch Kontakt mit einer Erdäthermasse entfernt werden.
+_rsv_4391_-1_2_1_1_S74CFC3B0_E74CFC3B0|Mit einem erdelementaren Fluch belegt. Wird bei Ablauf des Effekts kampfunfähig. Kann durch Kontakt mit einer Erdäthermasse entfernt werden.
+_rsv_4392_-1_2_0_0_S74CFC3B0_E74CFC3B0|Fluch des Windes
+_rsv_4392_-1_2_0_1_S74CFC3B0_E74CFC3B0|Fluch des Windes
+_rsv_4392_-1_2_1_0_S74CFC3B0_E74CFC3B0|Mit einem windelementaren Fluch belegt. Wird bei Ablauf des Effekts kampfunfähig. Kann durch Kontakt mit einer Windäthermasse entfernt werden.
+_rsv_4392_-1_2_1_1_S74CFC3B0_E74CFC3B0|Mit einem windelementaren Fluch belegt. Wird bei Ablauf des Effekts kampfunfähig. Kann durch Kontakt mit einer Windäthermasse entfernt werden.
+_rsv_4393_-1_2_0_0_S74CFC3B0_E74CFC3B0|Fesseln der Erde
+_rsv_4393_-1_2_0_1_S74CFC3B0_E74CFC3B0|Fesseln der Erde
+_rsv_4393_-1_2_1_0_S74CFC3B0_E74CFC3B0|Aufgrund eines Fluches an die Erde gebunden, wodurch Springen nicht möglich ist.
+_rsv_4393_-1_2_1_1_S74CFC3B0_E74CFC3B0|Aufgrund eines Fluches an die Erde gebunden, wodurch Springen nicht möglich ist.
+_rsv_4394_-1_2_0_0_S74CFC3B0_E74CFC3B0|Nachhall des Windes
+_rsv_4394_-1_2_0_1_S74CFC3B0_E74CFC3B0|Nachhall des Windes
+_rsv_4394_-1_2_1_0_S74CFC3B0_E74CFC3B0|Überreste von Wind-Äther befinden sich im Körper. Bei Ablauf des Effekts wird die Magie freigesetzt.
+_rsv_4394_-1_2_1_1_S74CFC3B0_E74CFC3B0|Überreste von Wind-Äther befinden sich im Körper. Bei Ablauf des Effekts wird die Magie freigesetzt.
+_rsv_4395_-1_2_0_0_S74CFC3B0_E74CFC3B0|Nachhall der Erde
+_rsv_4395_-1_2_0_1_S74CFC3B0_E74CFC3B0|Nachhall der Erde
+_rsv_4395_-1_2_1_0_S74CFC3B0_E74CFC3B0|Überreste von Erd-Äther befinden sich im Körper. Bei Ablauf des Effekts wird die Magie freigesetzt.
+_rsv_4395_-1_2_1_1_S74CFC3B0_E74CFC3B0|Überreste von Erd-Äther befinden sich im Körper. Bei Ablauf des Effekts wird die Magie freigesetzt.
+_rsv_4396_-1_2_0_0_S74CFC3B0_E74CFC3B0|Rudelwolf
+_rsv_4396_-1_2_0_1_S74CFC3B0_E74CFC3B0|Rudelwolf
+_rsv_4396_-1_2_1_0_S74CFC3B0_E74CFC3B0|Explodiert, wenn sich zu weit von der Person mit dem gleichen Effekt entfernt wird.
+_rsv_4396_-1_2_1_1_S74CFC3B0_E74CFC3B0|Explodiert, wenn sich zu weit von der Person mit dem gleichen Effekt entfernt wird.
+_rsv_4397_-1_2_0_0_S74CFC3B0_E74CFC3B0|Einsamer Wolf
+_rsv_4397_-1_2_0_1_S74CFC3B0_E74CFC3B0|Einsamer Wolf
+_rsv_4397_-1_2_1_0_S74CFC3B0_E74CFC3B0|Explodiert, wenn sich der Person mit dem gleichen Effekt zu sehr genährt wird.
+_rsv_4397_-1_2_1_1_S74CFC3B0_E74CFC3B0|Explodiert, wenn sich der Person mit dem gleichen Effekt zu sehr genährt wird.
