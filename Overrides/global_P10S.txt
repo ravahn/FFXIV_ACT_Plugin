@@ -122,17 +122,3 @@ _rsv_3696_-1_3_0_1_S74CFC3B0_E74CFC3B0|Quadruple lien pandæmoniaque
 _rsv_3696_-1_3_1_0_S74CFC3B0_E74CFC3B0|La victime est quadruplement maudite, et subit des dégâts à la fin de l'effet.
 _rsv_3696_-1_3_1_1_S74CFC3B0_E74CFC3B0|La victime est quadruplement maudite, et subit des dégâts à la fin de l'effet.
 
-# logmessage_data
-# JA
-_rsv_10322_-1_0_0_0_SF15185AF_EF15185AF|粘糸によって、障壁が生成された……
-_rsv_10322_-1_0_0_1_SF15185AF_EF15185AF|粘糸によって、障壁が生成された……
-# EN
-_rsv_10322_-1_1_0_0_SF15185AF_EF15185AF|The webs are impassable!
-_rsv_10322_-1_1_0_1_SF15185AF_EF15185AF|The webs are impassable!
-# DE
-_rsv_10322_-1_2_0_0_SF15185AF_EF15185AF|Die Fäden bilden ein Hindernis!
-_rsv_10322_-1_2_0_1_SF15185AF_EF15185AF|Die Fäden bilden ein Hindernis!
-# FR
-_rsv_10322_-1_3_0_0_SF15185AF_EF15185AF|La toile d'araignée forme une barrière impénétrable!
-_rsv_10322_-1_3_0_1_SF15185AF_EF15185AF|La toile d'araignée forme une barrière impénétrable!
-

@@ -1,0 +1,118 @@
+#AAC Cruiserweight M2 (Savage)
+#status_data
+# JA
+_rsv_4448_-1_0_0_0_S74CFC3B0_E74CFC3B0|重熱蓄積
+_rsv_4448_-1_0_0_1_S74CFC3B0_E74CFC3B0|重熱蓄積
+_rsv_4448_-1_0_1_0_S74CFC3B0_E74CFC3B0|熱を蓄積させられている状態。効果時間終了時、自分を中心に範囲攻撃が発生する。
+_rsv_4448_-1_0_1_1_S74CFC3B0_E74CFC3B0|熱を蓄積させられている状態。効果時間終了時、自分を中心に範囲攻撃が発生する。
+_rsv_4450_-1_0_0_0_S74CFC3B0_E74CFC3B0|ウイングマーク
+_rsv_4450_-1_0_0_1_S74CFC3B0_E74CFC3B0|ウイングマーク
+_rsv_4450_-1_0_1_0_S74CFC3B0_E74CFC3B0|翼を描かれた状態。効果時間終了時、前方向に移動してしまう。
+_rsv_4450_-1_0_1_1_S74CFC3B0_E74CFC3B0|翼を描かれた状態。効果時間終了時、前方向に移動してしまう。
+_rsv_4451_-1_0_0_0_S74CFC3B0_E74CFC3B0|ウォームカラー
+_rsv_4451_-1_0_0_1_S74CFC3B0_E74CFC3B0|ウォームカラー
+_rsv_4451_-1_0_1_0_S74CFC3B0_E74CFC3B0|ウォームペイントボムの影響を受け、体内の属性エーテルが偏った状態。再度同じ攻撃を受けると大ダメージを受ける。
+_rsv_4451_-1_0_1_1_S74CFC3B0_E74CFC3B0|ウォームペイントボムの影響を受け、体内の属性エーテルが偏った状態。再度同じ攻撃を受けると大ダメージを受ける。
+_rsv_4452_-1_0_0_0_S74CFC3B0_E74CFC3B0|コールドカラー
+_rsv_4452_-1_0_0_1_S74CFC3B0_E74CFC3B0|コールドカラー
+_rsv_4452_-1_0_1_0_S74CFC3B0_E74CFC3B0|コールドペイントボムの影響を受け、体内の属性エーテルが偏った状態。再度同じ攻撃を受けると大ダメージを受ける。
+_rsv_4452_-1_0_1_1_S74CFC3B0_E74CFC3B0|コールドペイントボムの影響を受け、体内の属性エーテルが偏った状態。再度同じ攻撃を受けると大ダメージを受ける。
+_rsv_4453_-1_0_0_0_S74CFC3B0_E74CFC3B0|ねばねばムース
+_rsv_4453_-1_0_0_1_S74CFC3B0_E74CFC3B0|ねばねばムース
+_rsv_4453_-1_0_1_0_S74CFC3B0_E74CFC3B0|粘着性物質により、身動きが取れない状態。効果時間終了時に爆発する。
+_rsv_4453_-1_0_1_1_S74CFC3B0_E74CFC3B0|粘着性物質により、身動きが取れない状態。効果時間終了時に爆発する。
+_rsv_4454_-1_0_0_0_S74CFC3B0_E74CFC3B0|熱蓄積
+_rsv_4454_-1_0_0_1_S74CFC3B0_E74CFC3B0|熱蓄積
+_rsv_4454_-1_0_1_0_S74CFC3B0_E74CFC3B0|熱を蓄積させられている状態。効果時間終了時、自分を中心に範囲攻撃が発生する。
+_rsv_4454_-1_0_1_1_S74CFC3B0_E74CFC3B0|熱を蓄積させられている状態。効果時間終了時、自分を中心に範囲攻撃が発生する。
+_rsv_4457_-1_0_0_0_S74CFC3B0_E74CFC3B0|いらだちキャット
+_rsv_4457_-1_0_0_1_S74CFC3B0_E74CFC3B0|いらだちキャット
+_rsv_4457_-1_0_1_0_S74CFC3B0_E74CFC3B0|エーテルを奪えず、苛立っている状態。
+_rsv_4457_-1_0_1_1_S74CFC3B0_E74CFC3B0|エーテルを奪えず、苛立っている状態。
+# EN
+_rsv_4448_-1_1_0_0_S74CFC3B0_E74CFC3B0|Burning Up
+_rsv_4448_-1_1_0_1_S74CFC3B0_E74CFC3B0|Burning Up
+_rsv_4448_-1_1_1_0_S74CFC3B0_E74CFC3B0|Getting hotter by the moment, resulting in damage to those nearby when this effect expires.
+_rsv_4448_-1_1_1_1_S74CFC3B0_E74CFC3B0|Getting hotter by the moment, resulting in damage to those nearby when this effect expires.
+_rsv_4450_-1_1_0_0_S74CFC3B0_E74CFC3B0|Wingmark
+_rsv_4450_-1_1_0_1_S74CFC3B0_E74CFC3B0|Wingmark
+_rsv_4450_-1_1_1_0_S74CFC3B0_E74CFC3B0|Bearing painted wings. Will fly forward when this effect expires.
+_rsv_4450_-1_1_1_1_S74CFC3B0_E74CFC3B0|Bearing painted wings. Will fly forward when this effect expires.
+_rsv_4451_-1_1_0_0_S74CFC3B0_E74CFC3B0|Warm Tint
+_rsv_4451_-1_1_0_1_S74CFC3B0_E74CFC3B0|Warm Tint
+_rsv_4451_-1_1_1_0_S74CFC3B0_E74CFC3B0|Bodily aether has become unbalanced by the influence of warm hues. Will take severe damage if hit by another Warm Bomb.
+_rsv_4451_-1_1_1_1_S74CFC3B0_E74CFC3B0|Bodily aether has become unbalanced by the influence of warm hues. Will take severe damage if hit by another Warm Bomb.
+_rsv_4452_-1_1_0_0_S74CFC3B0_E74CFC3B0|Cool Tint
+_rsv_4452_-1_1_0_1_S74CFC3B0_E74CFC3B0|Cool Tint
+_rsv_4452_-1_1_1_0_S74CFC3B0_E74CFC3B0|Bodily aether has become unbalanced by the influence of cool hues. Will take severe damage if hit by another Cool Bomb.
+_rsv_4452_-1_1_1_1_S74CFC3B0_E74CFC3B0|Bodily aether has become unbalanced by the influence of cool hues. Will take severe damage if hit by another Cool Bomb.
+_rsv_4453_-1_1_0_0_S74CFC3B0_E74CFC3B0|Mousse Mine
+_rsv_4453_-1_1_0_1_S74CFC3B0_E74CFC3B0|Mousse Mine
+_rsv_4453_-1_1_1_0_S74CFC3B0_E74CFC3B0|Covered in mousse and unable to move. Will detonate when this effect expires.
+_rsv_4453_-1_1_1_1_S74CFC3B0_E74CFC3B0|Covered in mousse and unable to move. Will detonate when this effect expires.
+_rsv_4454_-1_1_0_0_S74CFC3B0_E74CFC3B0|Heating Up
+_rsv_4454_-1_1_0_1_S74CFC3B0_E74CFC3B0|Heating Up
+_rsv_4454_-1_1_1_0_S74CFC3B0_E74CFC3B0|Getting hotter by the moment, resulting in damage to those nearby when this effect expires.
+_rsv_4454_-1_1_1_1_S74CFC3B0_E74CFC3B0|Getting hotter by the moment, resulting in damage to those nearby when this effect expires.
+_rsv_4457_-1_1_0_0_S74CFC3B0_E74CFC3B0|Huffy Cat
+_rsv_4457_-1_1_0_1_S74CFC3B0_E74CFC3B0|Huffy Cat
+_rsv_4457_-1_1_1_0_S74CFC3B0_E74CFC3B0|Failure to purloin tasty aether is inspiring pure and fluffy rage.
+_rsv_4457_-1_1_1_1_S74CFC3B0_E74CFC3B0|Failure to purloin tasty aether is inspiring pure and fluffy rage.
+# DE
+_rsv_4448_-1_2_0_0_S74CFC3B0_E74CFC3B0|Hitzespeicher
+_rsv_4448_-1_2_0_1_S74CFC3B0_E74CFC3B0|Hitzespeicher
+_rsv_4448_-1_2_1_0_S74CFC3B0_E74CFC3B0|Sammelt Hitze in sich an. Löst bei Ablauf des Effekts einen Flächenangriff um sich aus.
+_rsv_4448_-1_2_1_1_S74CFC3B0_E74CFC3B0|Sammelt Hitze in sich an. Löst bei Ablauf des Effekts einen Flächenangriff um sich aus.
+_rsv_4450_-1_2_0_0_S74CFC3B0_E74CFC3B0|Beschwingt
+_rsv_4450_-1_2_0_1_S74CFC3B0_E74CFC3B0|Beschwingt
+_rsv_4450_-1_2_1_0_S74CFC3B0_E74CFC3B0|Mt gemalten Schwingen versehen. Bewegt sich nach Ablauf des Effekts vorwärts.
+_rsv_4450_-1_2_1_1_S74CFC3B0_E74CFC3B0|Mt gemalten Schwingen versehen. Bewegt sich nach Ablauf des Effekts vorwärts.
+_rsv_4451_-1_2_0_0_S74CFC3B0_E74CFC3B0|Warm gefärbt
+_rsv_4451_-1_2_0_1_S74CFC3B0_E74CFC3B0|Warm gefärbt
+_rsv_4451_-1_2_1_0_S74CFC3B0_E74CFC3B0|Der eigene Äther ist von warmen Farben erfüllt. Erleidet hohen Schaden, wenn man erneut von demselben Angriff getroffen wird.
+_rsv_4451_-1_2_1_1_S74CFC3B0_E74CFC3B0|Der eigene Äther ist von warmen Farben erfüllt. Erleidet hohen Schaden, wenn man erneut von demselben Angriff getroffen wird.
+_rsv_4452_-1_2_0_0_S74CFC3B0_E74CFC3B0|Kalt gefärbt
+_rsv_4452_-1_2_0_1_S74CFC3B0_E74CFC3B0|Kalt gefärbt
+_rsv_4452_-1_2_1_0_S74CFC3B0_E74CFC3B0|Der eigene Äther ist von kalten Farben erfüllt. Erleidet hohen Schaden, wenn man erneut von demselben Angriff getroffen wird.
+_rsv_4452_-1_2_1_1_S74CFC3B0_E74CFC3B0|Der eigene Äther ist von kalten Farben erfüllt. Erleidet hohen Schaden, wenn man erneut von demselben Angriff getroffen wird.
+_rsv_4453_-1_2_0_0_S74CFC3B0_E74CFC3B0|Klebriges Mousse
+_rsv_4453_-1_2_0_1_S74CFC3B0_E74CFC3B0|Klebriges Mousse
+_rsv_4453_-1_2_1_0_S74CFC3B0_E74CFC3B0|Von einer klebrigen Substanz umhüllt und daher bewegungsunfähig. Explodiert bei Ablauf des Effekts.
+_rsv_4453_-1_2_1_1_S74CFC3B0_E74CFC3B0|Von einer klebrigen Substanz umhüllt und daher bewegungsunfähig. Explodiert bei Ablauf des Effekts.
+_rsv_4454_-1_2_0_0_S74CFC3B0_E74CFC3B0|Wärmespeicher
+_rsv_4454_-1_2_0_1_S74CFC3B0_E74CFC3B0|Wärmespeicher
+_rsv_4454_-1_2_1_0_S74CFC3B0_E74CFC3B0|Sammelt Wärme in sich an. Löst bei Ablauf des Effekts einen Flächenangriff um sich aus.
+_rsv_4454_-1_2_1_1_S74CFC3B0_E74CFC3B0|Sammelt Wärme in sich an. Löst bei Ablauf des Effekts einen Flächenangriff um sich aus.
+_rsv_4457_-1_2_0_0_S74CFC3B0_E74CFC3B0|Katzenärger
+_rsv_4457_-1_2_0_1_S74CFC3B0_E74CFC3B0|Katzenärger
+_rsv_4457_-1_2_1_0_S74CFC3B0_E74CFC3B0|Genervt, dass kein Äther gestohlen werden konnte
+_rsv_4457_-1_2_1_1_S74CFC3B0_E74CFC3B0|Genervt, dass kein Äther gestohlen werden konnte
+# FR
+_rsv_4448_-1_3_0_0_S74CFC3B0_E74CFC3B0|Surcharge thermique
+_rsv_4448_-1_3_0_1_S74CFC3B0_E74CFC3B0|Surcharge thermique
+_rsv_4448_-1_3_1_0_S74CFC3B0_E74CFC3B0|La chaleur s'accumule dangereusement dans le corps. Provoque une attaque sur les équipiers alentour à la fin de l'effet.
+_rsv_4448_-1_3_1_1_S74CFC3B0_E74CFC3B0|La chaleur s'accumule dangereusement dans le corps. Provoque une attaque sur les équipiers alentour à la fin de l'effet.
+_rsv_4450_-1_3_0_0_S74CFC3B0_E74CFC3B0|Emblème ailé
+_rsv_4450_-1_3_0_1_S74CFC3B0_E74CFC3B0|Emblème ailé
+_rsv_4450_-1_3_1_0_S74CFC3B0_E74CFC3B0|Des ailes sont dessinées. À la fin de l'effet, le corps est contraint d'aller vers l'avant.
+_rsv_4450_-1_3_1_1_S74CFC3B0_E74CFC3B0|Des ailes sont dessinées. À la fin de l'effet, le corps est contraint d'aller vers l'avant.
+_rsv_4451_-1_3_0_0_S74CFC3B0_E74CFC3B0|Couleurs chaudes
+_rsv_4451_-1_3_0_1_S74CFC3B0_E74CFC3B0|Couleurs chaudes
+_rsv_4451_-1_3_1_0_S74CFC3B0_E74CFC3B0|L'équilibre éthéré du corps a été perturbé par une bombe de couleurs chaudes. Les attaques similaires infligeront d'importants dégâts.
+_rsv_4451_-1_3_1_1_S74CFC3B0_E74CFC3B0|L'équilibre éthéré du corps a été perturbé par une bombe de couleurs chaudes. Les attaques similaires infligeront d'importants dégâts.
+_rsv_4452_-1_3_0_0_S74CFC3B0_E74CFC3B0|Couleurs froides
+_rsv_4452_-1_3_0_1_S74CFC3B0_E74CFC3B0|Couleurs froides
+_rsv_4452_-1_3_1_0_S74CFC3B0_E74CFC3B0|L'équilibre éthéré du corps a été perturbé par une bombe de couleurs froides. Les attaques similaires infligeront d'importants dégâts.
+_rsv_4452_-1_3_1_1_S74CFC3B0_E74CFC3B0|L'équilibre éthéré du corps a été perturbé par une bombe de couleurs froides. Les attaques similaires infligeront d'importants dégâts.
+_rsv_4453_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mousse collante
+_rsv_4453_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mousse collante
+_rsv_4453_-1_3_1_0_S74CFC3B0_E74CFC3B0|Une substance collante empêche tout mouvement et provoquera une explosion à la fin de l'effet.
+_rsv_4453_-1_3_1_1_S74CFC3B0_E74CFC3B0|Une substance collante empêche tout mouvement et provoquera une explosion à la fin de l'effet.
+_rsv_4454_-1_3_0_0_S74CFC3B0_E74CFC3B0|Accumulation thermique
+_rsv_4454_-1_3_0_1_S74CFC3B0_E74CFC3B0|Accumulation thermique
+_rsv_4454_-1_3_1_0_S74CFC3B0_E74CFC3B0|La chaleur s'accumule dangereusement dans le corps. Provoque une attaque sur les équipiers alentour à la fin de l'effet.
+_rsv_4454_-1_3_1_1_S74CFC3B0_E74CFC3B0|La chaleur s'accumule dangereusement dans le corps. Provoque une attaque sur les équipiers alentour à la fin de l'effet.
+_rsv_4457_-1_3_0_0_S74CFC3B0_E74CFC3B0|Félin vexé
+_rsv_4457_-1_3_0_1_S74CFC3B0_E74CFC3B0|Félin vexé
+_rsv_4457_-1_3_1_0_S74CFC3B0_E74CFC3B0|L'impossibilité de dérober de l'éther cause une forte frustration.
+_rsv_4457_-1_3_1_1_S74CFC3B0_E74CFC3B0|L'impossibilité de dérober de l'éther cause une forte frustration.
