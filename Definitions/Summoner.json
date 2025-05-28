@@ -35,11 +35,11 @@
 { "64DB" : "emerald ruin iii", "damage": [ { "potency": 180} ] },
 { "64DC" : "astral impulse", "damage": [{ "potency": 500 }]},
 { "64DD" : "astral flare", "damage": [{ "potency": 180 }]},
-{ "DFE" : "deathflare", "damage": [ { "potency": 500, "targetindex": 0}, {"potency": 200 } ] },
+{ "DFE" : "deathflare", "damage": [ { "potency": 500, "targetindex": 0}, {"potency": 250 } ] },
 
 { "1D02" : "ruin iv", "damage": [ { "potency": 0 } ] },
 { "1D04" : "wyrmwave", "damage": [ { "potency": 150} ] },
-{ "1D19" : "akh morn", "damage": [ { "potency": 1300, "targetindex": 0}, {"potency": 520 } ] },
+{ "1D19" : "akh morn", "damage": [ { "potency": 1300, "targetindex": 0}, {"potency": 650 } ] },
 
 { "64df" : "ruby rite", "damage": [{ "potency": 540 }]},
 { "64e0" : "topaz rite", "damage": [{ "potency": 340 }]},
@@ -52,7 +52,7 @@
 { "4083" : "brand of purgatory", "damage": [ { "potency": 240} ] },
 { "64e6" : "rekindle", "heal": [{ "potency": 400 }]},
 { "4087" : "scarlet flame", "damage": [ { "potency": 150} ] },
-{ "4086" : "revelation", "damage": [ { "potency": 1300, "targetindex": 0}, {"potency": 520} ] },
+{ "4086" : "revelation", "damage": [ { "potency": 1300, "targetindex": 0}, {"potency": 650} ] },
 
 { "64E8" : "ruby catastrophe", "damage": [{ "potency": 210 }]},
 { "64E9" : "topaz catastrophe", "damage": [{ "potency": 140 }]},
@@ -70,10 +70,10 @@
 { "9085" : "lux solaris", "heal": [{ "potency": 500}]},
 { "9082" : "umbral impulse", "damage": [{ "potency": 620}]},
 { "9083" : "umbral flare", "damage": [{ "potency": 280}]},
-{ "9084" : "sunflare", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 320} ] },
+{ "9084" : "sunflare", "damage": [ { "potency": 800, "targetindex": 0}, {"potency": 400} ] },
 { "9086" : "enkindle solar bahamut", "damage": [ { "potency": 1400, "targetindex": 0}, {"potency": 560} ] },
 { "9081" : "luxware", "damage": [ { "potency": 160 } ] },
-{ "9087" : "exodus", "damage": [ { "potency": 1500, "targetindex": 0}, {"potency": 600} ] },
+{ "9087" : "exodus", "damage": [ { "potency": 1500, "targetindex": 0}, {"potency": 750} ] },
 
 ],
 "statuseffects" : [ 

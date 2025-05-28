@@ -8,7 +8,7 @@
 { "B36" : "spread shot", "damage": [ { "potency": 110} ] },
 { "B39" : "clean shot", "damage": [ { "potency": 100, "combo": 270 } ] },
 { "1CF2" : "heat blast", "damage": [ { "potency": 200 } ] },
-{ "B4A" : "ricochet", "damage": [ { "potency": 130, "targetindex": 0},{"potency": 78} ] },
+{ "B4A" : "ricochet", "damage": [ { "potency": 130, "targetindex": 0},{"potency": 91} ] },
 { "4071" : "auto crossbow", "damage": [ { "potency": 160} ] },
 { "1CF3" : "heated split shot", "damage": [ { "potency": 220} ] },
 { "4072" : "drill", "damage": [ { "potency": 600} ] },
@@ -22,7 +22,7 @@
 { "4336" : "roller dash", "damage": [ { "potency": 0} ] },
 { "64ba" : "scattergun", "damage": [ { "potency": 130} ] },
 { "64bb" : "crowned collider", "damage": [ { "potency": 0} ] },
-{ "64bc" : "chain saw", "damage": [ { "potency": 600, "targetindex": 0},{"potency": 300} ] },
+{ "64bc" : "chain saw", "damage": [ { "potency": 600, "targetindex": 0},{"potency": 390} ] },
 
 { "B4B" : "volley fire", "damage": [ { "potency": 0} ] },
 { "B4C" : "aether mortar", "damage": [ { "potency": 0} ] },
@@ -30,10 +30,10 @@
 { "E05" : "charged aether mortar", "damage": [ { "potency": 0} ] },
 
 { "9072" : "blazing shot", "damage": [ { "potency": 240} ] },
-{ "9073" : "double check", "damage": [ { "potency": 170, "targetindex": 0}, {"potency": 102} ] },
-{ "9074" : "checkmate", "damage": [ { "potency": 170, "targetindex": 0}, {"potency": 102} ] },
-{ "9075" : "excavator", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 300} ] },
-{ "9076" : "full metal field", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 540} ] },
+{ "9073" : "double check", "damage": [ { "potency": 170, "targetindex": 0}, {"potency": 119} ] },
+{ "9074" : "checkmate", "damage": [ { "potency": 170, "targetindex": 0}, {"potency": 119} ] },
+{ "9075" : "excavator", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 390} ] },
+{ "9076" : "full metal field", "damage": [ { "potency": 900, "targetindex": 0}, {"potency": 630} ] },
 
 
 ],
