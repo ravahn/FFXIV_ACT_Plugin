@@ -17,7 +17,7 @@
 { "409D" : "broil iii", "damage": [ { "potency": 255} ] },
 { "40A0" : "fey blessing", "heal": [ { "potency": 320} ] },
 { "40A3" : "consolation", "heal": [ { "potency": 250} ] },
-{ "6509" : "broil iv", "damage": [ { "potency": 310} ] },
+{ "6509" : "broil iv", "damage": [ { "potency": 320} ] },
 { "650a" : "art of war ii", "damage": [ { "potency": 180} ] },
 { "650b" : "protraction", "heal": [ { "potency": 0} ] },
 

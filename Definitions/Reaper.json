@@ -26,14 +26,14 @@
 { "5f4f" : "lemure's slice", "damage": [ { "potency": 280} ] },
 { "5f50" : "lemure's scythe", "damage": [ { "potency": 100} ] },
 { "5f41" : "plentiful harvest", "damage": [ { "potency": 0} ] },
-{ "5f4e" : "communio", "damage": [ { "potency": 1100, "targetindex": 0}, {"potency": 660 } ] },
+{ "5f4e" : "communio", "damage": [ { "potency": 1100, "targetindex": 0}, {"potency": 880 } ] },
 
-{ "9069" : "sacrificium", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 360 } ] },
+{ "9069" : "sacrificium", "damage": [ { "potency": 600, "targetindex": 0}, {"potency": 480 } ] },
 { "906a" : "executioner's gibbet", "damage": [ { "potency": 0} ] },
 
 { "906b" : "executioner's gallows", "damage": [ { "potency": 0} ] },
 { "906c" : "executioner's guillotine", "damage": [ { "potency": 260} ] },
-{ "906d" : "perfectio", "damage": [ { "potency": 1300, "targetindex": 0},{"potency": 780} ] },
+{ "906d" : "perfectio", "damage": [ { "potency": 1300, "targetindex": 0},{"potency": 1040} ] },
 
 ],
 "statuseffects" : [ 

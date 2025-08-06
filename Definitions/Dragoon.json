@@ -19,7 +19,7 @@
 { "405D" : "coerthan torment", "damage": [ { "potency": 100, "combo": 150} ] },
 { "405E" : "high jump", "damage": [ { "potency": 400} ] },
 { "405F" : "raiden thrust", "damage": [ { "potency": 320} ] },
-{ "4060" : "stardiver", "damage": [ { "potency": 840, "targetindex": 0}, { "potency": 420} ] },
+{ "4060" : "stardiver", "damage": [ { "potency": 840, "targetindex": 0}, { "potency": 504} ] },
 { "64aa" : "draconian fury", "damage": [ { "potency": 130} ] },
 { "64ab" : "heavens' thrust", "damage": [ { "potency": 160, "combo": 460} ] },
 { "64ac" : "chaotic spring", "damage": [ { "potency": 0 } ] },
@@ -29,7 +29,7 @@
 { "9059" : "rise of the dragon", "damage": [ { "potency": 550, "targetindex": 0}, { "potency": 275} ] },
 { "905a" : "lance barrage", "damage": [ { "potency": 130, "combo": 340} ] },
 { "905b" : "spiral blow", "damage": [ { "potency": 140, "combo": 300} ] },
-{ "905c" : "starcross", "damage": [ { "potency": 1000, "targetindex": 0}, { "potency": 500} ] },
+{ "905c" : "starcross", "damage": [ { "potency": 1000, "targetindex": 0}, { "potency": 600} ] },
 
 
 ],

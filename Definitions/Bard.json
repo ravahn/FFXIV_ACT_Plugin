@@ -23,7 +23,7 @@
     { "64b8" : "blast arrow", "damage": [ { "potency": 300}, { "potency": 600, "targetindex": 0} ] },
 
     { "906f" : "heartbreak shot", "damage": [ { "potency": 180 } ] },
-    { "9070" : "resonant arrow", "damage": [ { "potency": 600, "targetindex": 0 },{"potency": 300} ] },
+    { "9070" : "resonant arrow", "damage": [ { "potency": 640, "targetindex": 0 },{"potency": 320} ] },
     { "9071" : "radiant encore", "damage": [ { "potency": 0} ] },
 
 ],
