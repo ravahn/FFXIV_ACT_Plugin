@@ -1,0 +1,154 @@
+#AAC Cruiserweight M3 (Savage)
+#action_data
+# JA
+_rsv_42335_-1_0_0_0_SE2DC5B04_EE2DC5B04|ニア・スマッシュ
+_rsv_42335_-1_0_0_1_SE2DC5B04_EE2DC5B04|ニア・スマッシュ
+_rsv_42336_-1_0_0_0_SE2DC5B04_EE2DC5B04|ファー・スマッシュ
+_rsv_42336_-1_0_0_1_SE2DC5B04_EE2DC5B04|ファー・スマッシュ
+# EN
+_rsv_42335_-1_1_0_0_SE2DC5B04_EE2DC5B04|Smash Here
+_rsv_42335_-1_1_0_1_SE2DC5B04_EE2DC5B04|Smash Here
+_rsv_42336_-1_1_0_0_SE2DC5B04_EE2DC5B04|Smash There
+_rsv_42336_-1_1_0_1_SE2DC5B04_EE2DC5B04|Smash There
+# DE
+_rsv_42335_-1_2_0_0_SE2DC5B04_EE2DC5B04|Naher Schlag
+_rsv_42335_-1_2_0_1_SE2DC5B04_EE2DC5B04|Naher Schlag
+_rsv_42336_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ferner Schlag
+_rsv_42336_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ferner Schlag
+# FR
+_rsv_42335_-1_3_0_0_SE2DC5B04_EE2DC5B04|Balayage proche
+_rsv_42335_-1_3_0_1_SE2DC5B04_EE2DC5B04|Balayage proche
+_rsv_42336_-1_3_0_0_SE2DC5B04_EE2DC5B04|Balayage éloigné
+_rsv_42336_-1_3_0_1_SE2DC5B04_EE2DC5B04|Balayage éloigné
+#status_data
+# JA
+_rsv_4466_-1_0_0_0_S74CFC3B0_E74CFC3B0|ソーンデスマッチI
+_rsv_4466_-1_0_0_1_S74CFC3B0_E74CFC3B0|ソーンデスマッチI
+_rsv_4466_-1_0_1_0_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、徐々にＨＰが減少する状態。
+_rsv_4466_-1_0_1_1_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、徐々にＨＰが減少する状態。
+_rsv_4467_-1_0_0_0_S74CFC3B0_E74CFC3B0|ソーンデスマッチII
+_rsv_4467_-1_0_0_1_S74CFC3B0_E74CFC3B0|ソーンデスマッチII
+_rsv_4467_-1_0_1_0_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、徐々にＨＰが減少する状態。
+_rsv_4467_-1_0_1_1_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、徐々にＨＰが減少する状態。
+_rsv_4468_-1_0_0_0_S74CFC3B0_E74CFC3B0|ソーンデスマッチIII
+_rsv_4468_-1_0_0_1_S74CFC3B0_E74CFC3B0|ソーンデスマッチIII
+_rsv_4468_-1_0_1_0_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、急激にＨＰが減少する状態。
+_rsv_4468_-1_0_1_1_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、急激にＨＰが減少する状態。
+_rsv_4469_-1_0_0_0_S74CFC3B0_E74CFC3B0|ソーンデスマッチIV
+_rsv_4469_-1_0_0_1_S74CFC3B0_E74CFC3B0|ソーンデスマッチIV
+_rsv_4469_-1_0_1_0_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、即座にＨＰが減少する状態。
+_rsv_4469_-1_0_1_1_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、即座にＨＰが減少する状態。
+_rsv_4499_-1_0_0_0_S74CFC3B0_E74CFC3B0|ソーンデスマッチI
+_rsv_4499_-1_0_0_1_S74CFC3B0_E74CFC3B0|ソーンデスマッチI
+_rsv_4499_-1_0_1_0_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、徐々にＨＰが減少する状態。
+_rsv_4499_-1_0_1_1_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、徐々にＨＰが減少する状態。
+_rsv_4500_-1_0_0_0_S74CFC3B0_E74CFC3B0|ソーンデスマッチII
+_rsv_4500_-1_0_0_1_S74CFC3B0_E74CFC3B0|ソーンデスマッチII
+_rsv_4500_-1_0_1_0_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、徐々にＨＰが減少する状態。
+_rsv_4500_-1_0_1_1_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、徐々にＨＰが減少する状態。
+_rsv_4501_-1_0_0_0_S74CFC3B0_E74CFC3B0|ソーンデスマッチIII
+_rsv_4501_-1_0_0_1_S74CFC3B0_E74CFC3B0|ソーンデスマッチIII
+_rsv_4501_-1_0_1_0_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、急激にＨＰが減少する状態。
+_rsv_4501_-1_0_1_1_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、急激にＨＰが減少する状態。
+_rsv_4502_-1_0_0_0_S74CFC3B0_E74CFC3B0|ソーンデスマッチIV
+_rsv_4502_-1_0_0_1_S74CFC3B0_E74CFC3B0|ソーンデスマッチIV
+_rsv_4502_-1_0_1_0_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、即座にＨＰが減少する状態。
+_rsv_4502_-1_0_1_1_S74CFC3B0_E74CFC3B0|茨の鎖につながれ、即座にＨＰが減少する状態。
+# EN
+_rsv_4466_-1_1_0_0_S74CFC3B0_E74CFC3B0|Thorns of Death I
+_rsv_4466_-1_1_0_1_S74CFC3B0_E74CFC3B0|Thorns of Death I
+_rsv_4466_-1_1_1_0_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking damage over time.
+_rsv_4466_-1_1_1_1_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking damage over time.
+_rsv_4467_-1_1_0_0_S74CFC3B0_E74CFC3B0|Thorns of Death II
+_rsv_4467_-1_1_0_1_S74CFC3B0_E74CFC3B0|Thorns of Death II
+_rsv_4467_-1_1_1_0_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking damage over time.
+_rsv_4467_-1_1_1_1_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking damage over time.
+_rsv_4468_-1_1_0_0_S74CFC3B0_E74CFC3B0|Thorns of Death III
+_rsv_4468_-1_1_0_1_S74CFC3B0_E74CFC3B0|Thorns of Death III
+_rsv_4468_-1_1_1_0_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking high damage over time.
+_rsv_4468_-1_1_1_1_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking high damage over time.
+_rsv_4469_-1_1_0_0_S74CFC3B0_E74CFC3B0|Thorns of Death IV
+_rsv_4469_-1_1_0_1_S74CFC3B0_E74CFC3B0|Thorns of Death IV
+_rsv_4469_-1_1_1_0_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking massive damage over time.
+_rsv_4469_-1_1_1_1_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking massive damage over time.
+_rsv_4499_-1_1_0_0_S74CFC3B0_E74CFC3B0|Thorns of Death I
+_rsv_4499_-1_1_0_1_S74CFC3B0_E74CFC3B0|Thorns of Death I
+_rsv_4499_-1_1_1_0_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking damage over time.
+_rsv_4499_-1_1_1_1_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking damage over time.
+_rsv_4500_-1_1_0_0_S74CFC3B0_E74CFC3B0|Thorns of Death II
+_rsv_4500_-1_1_0_1_S74CFC3B0_E74CFC3B0|Thorns of Death II
+_rsv_4500_-1_1_1_0_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking damage over time.
+_rsv_4500_-1_1_1_1_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking damage over time.
+_rsv_4501_-1_1_0_0_S74CFC3B0_E74CFC3B0|Thorns of Death III
+_rsv_4501_-1_1_0_1_S74CFC3B0_E74CFC3B0|Thorns of Death III
+_rsv_4501_-1_1_1_0_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking high damage over time.
+_rsv_4501_-1_1_1_1_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking high damage over time.
+_rsv_4502_-1_1_0_0_S74CFC3B0_E74CFC3B0|Thorns of Death IV
+_rsv_4502_-1_1_0_1_S74CFC3B0_E74CFC3B0|Thorns of Death IV
+_rsv_4502_-1_1_1_0_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking massive damage over time.
+_rsv_4502_-1_1_1_1_S74CFC3B0_E74CFC3B0|Grappled by thorny chains and taking massive damage over time.
+# DE
+_rsv_4466_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf I
+_rsv_4466_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf I
+_rsv_4466_-1_2_1_0_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig LP.
+_rsv_4466_-1_2_1_1_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig LP.
+_rsv_4467_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf II
+_rsv_4467_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf II
+_rsv_4467_-1_2_1_0_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig LP.
+_rsv_4467_-1_2_1_1_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig LP.
+_rsv_4468_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf III
+_rsv_4468_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf III
+_rsv_4468_-1_2_1_0_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig eine große Menge LP.
+_rsv_4468_-1_2_1_1_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig eine große Menge LP.
+_rsv_4469_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf IV
+_rsv_4469_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf IV
+_rsv_4469_-1_2_1_0_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig eine gewaltige Menge LP.
+_rsv_4469_-1_2_1_1_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig eine gewaltige Menge LP.
+_rsv_4499_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf I
+_rsv_4499_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf I
+_rsv_4499_-1_2_1_0_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig LP.
+_rsv_4499_-1_2_1_1_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig LP.
+_rsv_4500_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf II
+_rsv_4500_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf II
+_rsv_4500_-1_2_1_0_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig LP.
+_rsv_4500_-1_2_1_1_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig LP.
+_rsv_4501_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf III
+_rsv_4501_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf III
+_rsv_4501_-1_2_1_0_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig eine große Menge LP.
+_rsv_4501_-1_2_1_1_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig eine große Menge LP.
+_rsv_4502_-1_2_0_0_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf IV
+_rsv_4502_-1_2_0_1_S74CFC3B0_E74CFC3B0|Dornen-Todeskampf IV
+_rsv_4502_-1_2_1_0_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig eine gewaltige Menge LP.
+_rsv_4502_-1_2_1_1_S74CFC3B0_E74CFC3B0|An eine Dornenkette gebunden. Verliert stetig eine gewaltige Menge LP.
+# FR
+_rsv_4466_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mise à mort épineuse I
+_rsv_4466_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mise à mort épineuse I
+_rsv_4466_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent progressivement.
+_rsv_4466_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent progressivement.
+_rsv_4467_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mise à mort épineuse II
+_rsv_4467_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mise à mort épineuse II
+_rsv_4467_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent progressivement.
+_rsv_4467_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent progressivement.
+_rsv_4468_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mise à mort épineuse III
+_rsv_4468_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mise à mort épineuse III
+_rsv_4468_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent rapidement.
+_rsv_4468_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent rapidement.
+_rsv_4469_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mise à mort épineuse IV
+_rsv_4469_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mise à mort épineuse IV
+_rsv_4469_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent instantanément.
+_rsv_4469_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent instantanément.
+_rsv_4499_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mise à mort épineuse I
+_rsv_4499_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mise à mort épineuse I
+_rsv_4499_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent progressivement.
+_rsv_4499_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent progressivement.
+_rsv_4500_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mise à mort épineuse II
+_rsv_4500_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mise à mort épineuse II
+_rsv_4500_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent progressivement.
+_rsv_4501_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mise à mort épineuse III
+_rsv_4501_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mise à mort épineuse III
+_rsv_4501_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent rapidement.
+_rsv_4501_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent rapidement.
+_rsv_4502_-1_3_0_0_S74CFC3B0_E74CFC3B0|Mise à mort épineuse IV
+_rsv_4502_-1_3_0_1_S74CFC3B0_E74CFC3B0|Mise à mort épineuse IV
+_rsv_4502_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent instantanément.
+_rsv_4502_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est pris au piège dans une chaîne de ronce. Les PV diminuent instantanément.

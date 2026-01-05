@@ -1,0 +1,138 @@
+﻿_rsv_39879_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_39880_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40118_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Path of Darkness
+_rsv_40119_-1_1_0_0_SE2DC5B04_EE2DC5B04|Cruel Path of Light
+_rsv_40120_-1_1_0_0_SE2DC5B04_EE2DC5B04|Cruel Path of Darkness
+_rsv_40121_-1_1_0_0_SE2DC5B04_EE2DC5B04|Icecrusher
+_rsv_40174_-1_1_0_0_SE2DC5B04_EE2DC5B04|Edge of Oblivion
+_rsv_40233_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40234_-1_1_0_0_SE2DC5B04_EE2DC5B04|Polarizing Paths
+_rsv_40239_-1_1_0_0_SE2DC5B04_EE2DC5B04|Darklit Dragonsong
+_rsv_40240_-1_1_0_0_SE2DC5B04_EE2DC5B04|Crystallize Time
+_rsv_40260_-1_1_0_0_SE2DC5B04_EE2DC5B04|Depths of Oblivion
+_rsv_40261_-1_1_0_0_SE2DC5B04_EE2DC5B04|Memory Paradox
+_rsv_40298_-1_1_0_0_SE2DC5B04_EE2DC5B04|Crystallize Time
+_rsv_40301_-1_1_0_0_SE2DC5B04_EE2DC5B04|Darklit Dragonsong
+_rsv_40306_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fulgent Blade
+_rsv_40307_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Path of Light
+_rsv_40308_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Path of Light
+_rsv_40309_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Path of Darkness
+_rsv_40310_-1_1_0_0_SE2DC5B04_EE2DC5B04|Akh Morn
+_rsv_40311_-1_1_0_0_SE2DC5B04_EE2DC5B04|Akh Morn
+_rsv_40312_-1_1_0_0_SE2DC5B04_EE2DC5B04|Akh Morn
+_rsv_40313_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40314_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40315_-1_1_0_0_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40316_-1_1_0_0_SE2DC5B04_EE2DC5B04|Polarizing Strikes
+_rsv_40317_-1_1_0_0_SE2DC5B04_EE2DC5B04|Cruel Path of Light
+_rsv_40318_-1_1_0_0_SE2DC5B04_EE2DC5B04|Cruel Path of Darkness
+_rsv_40319_-1_1_0_0_SE2DC5B04_EE2DC5B04|Paradise Regained
+_rsv_40320_-1_1_0_0_SE2DC5B04_EE2DC5B04|Explosion
+_rsv_40321_-1_1_0_0_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_40322_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twin Poles
+_rsv_40323_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twin Poles
+_rsv_40324_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twin Poles
+_rsv_40325_-1_1_0_0_SE2DC5B04_EE2DC5B04|Twin Poles
+_rsv_40326_-1_1_0_0_SE2DC5B04_EE2DC5B04|Pandora's Box
+_rsv_40327_-1_1_0_0_SE2DC5B04_EE2DC5B04|Paradise Lost
+_rsv_40328_-1_1_0_0_SE2DC5B04_EE2DC5B04|Paradise Lost
+_rsv_39879_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_39880_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40118_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Path of Darkness
+_rsv_40119_-1_1_0_1_SE2DC5B04_EE2DC5B04|Cruel Path of Light
+_rsv_40120_-1_1_0_1_SE2DC5B04_EE2DC5B04|Cruel Path of Darkness
+_rsv_40121_-1_1_0_1_SE2DC5B04_EE2DC5B04|Icecrusher
+_rsv_40174_-1_1_0_1_SE2DC5B04_EE2DC5B04|Edge of Oblivion
+_rsv_40233_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40234_-1_1_0_1_SE2DC5B04_EE2DC5B04|Polarizing Paths
+_rsv_40239_-1_1_0_1_SE2DC5B04_EE2DC5B04|Darklit Dragonsong
+_rsv_40240_-1_1_0_1_SE2DC5B04_EE2DC5B04|Crystallize Time
+_rsv_40260_-1_1_0_1_SE2DC5B04_EE2DC5B04|Depths of Oblivion
+_rsv_40261_-1_1_0_1_SE2DC5B04_EE2DC5B04|Memory Paradox
+_rsv_40298_-1_1_0_1_SE2DC5B04_EE2DC5B04|Crystallize Time
+_rsv_40301_-1_1_0_1_SE2DC5B04_EE2DC5B04|Darklit Dragonsong
+_rsv_40306_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fulgent Blade
+_rsv_40307_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Path of Light
+_rsv_40308_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Path of Light
+_rsv_40309_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Path of Darkness
+_rsv_40310_-1_1_0_1_SE2DC5B04_EE2DC5B04|Akh Morn
+_rsv_40311_-1_1_0_1_SE2DC5B04_EE2DC5B04|Akh Morn
+_rsv_40312_-1_1_0_1_SE2DC5B04_EE2DC5B04|Akh Morn
+_rsv_40313_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40314_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40315_-1_1_0_1_SE2DC5B04_EE2DC5B04|Wings Dark and Light
+_rsv_40316_-1_1_0_1_SE2DC5B04_EE2DC5B04|Polarizing Strikes
+_rsv_40317_-1_1_0_1_SE2DC5B04_EE2DC5B04|Cruel Path of Light
+_rsv_40318_-1_1_0_1_SE2DC5B04_EE2DC5B04|Cruel Path of Darkness
+_rsv_40319_-1_1_0_1_SE2DC5B04_EE2DC5B04|Paradise Regained
+_rsv_40320_-1_1_0_1_SE2DC5B04_EE2DC5B04|Explosion
+_rsv_40321_-1_1_0_1_SE2DC5B04_EE2DC5B04|Unmitigated Explosion
+_rsv_40322_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twin Poles
+_rsv_40323_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twin Poles
+_rsv_40324_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twin Poles
+_rsv_40325_-1_1_0_1_SE2DC5B04_EE2DC5B04|Twin Poles
+_rsv_40326_-1_1_0_1_SE2DC5B04_EE2DC5B04|Pandora's Box
+_rsv_40327_-1_1_0_1_SE2DC5B04_EE2DC5B04|Paradise Lost
+_rsv_40328_-1_1_0_1_SE2DC5B04_EE2DC5B04|Paradise Lost
+_rsv_12809_-1_1_0_0_S64755250_E64755250|Usurper of Frost
+_rsv_12809_-1_1_2_0_S64755250_E64755250|Usurper of Frost
+_rsv_13554_-1_1_0_0_S64755250_E64755250|oracle's reflection
+_rsv_13554_-1_1_2_0_S64755250_E64755250|oracle's reflections
+_rsv_13555_-1_1_0_0_S64755250_E64755250|crystal of light
+_rsv_13555_-1_1_2_0_S64755250_E64755250|crystals of light
+_rsv_13556_-1_1_0_0_S64755250_E64755250|crystal of darkness
+_rsv_13556_-1_1_2_0_S64755250_E64755250|crystals of darkness
+_rsv_13557_-1_1_0_0_S64755250_E64755250|joy's hourglass
+_rsv_13557_-1_1_2_0_S64755250_E64755250|joy's hourglasses
+_rsv_13558_-1_1_0_0_S64755250_E64755250|delight's hourglass
+_rsv_13558_-1_1_2_0_S64755250_E64755250|delight's hourglasses
+_rsv_13559_-1_1_0_0_S64755250_E64755250|fragment of fate
+_rsv_13559_-1_1_2_0_S64755250_E64755250|fragments of fate
+_rsv_13560_-1_1_0_0_S64755250_E64755250|fragment of memory
+_rsv_13560_-1_1_2_0_S64755250_E64755250|fragments of memory
+_rsv_13561_-1_1_0_0_S64755250_E64755250|Pandora
+_rsv_13561_-1_1_2_0_S64755250_E64755250|Pandora
+_rsv_13699_-1_1_0_0_S64755250_E64755250|Ryne & Gaia
+_rsv_13699_-1_1_2_0_S64755250_E64755250|Ryne & Gaia
+_rsv_13700_-1_1_0_0_S64755250_E64755250|Usurper of Frost & Oracle of Darkness
+_rsv_13700_-1_1_2_0_S64755250_E64755250|Usurper of Frost & Oracle of Darkness
+_rsv_12809_-1_1_0_1_S64755250_E64755250|Usurper of Frost
+_rsv_12809_-1_1_2_1_S64755250_E64755250|Usurper of Frost
+_rsv_13554_-1_1_0_1_S64755250_E64755250|oracle's reflection
+_rsv_13554_-1_1_2_1_S64755250_E64755250|oracle's reflections
+_rsv_13555_-1_1_0_1_S64755250_E64755250|crystal of light
+_rsv_13555_-1_1_2_1_S64755250_E64755250|crystals of light
+_rsv_13556_-1_1_0_1_S64755250_E64755250|crystal of darkness
+_rsv_13556_-1_1_2_1_S64755250_E64755250|crystals of darkness
+_rsv_13557_-1_1_0_1_S64755250_E64755250|joy's hourglass
+_rsv_13557_-1_1_2_1_S64755250_E64755250|joy's hourglasses
+_rsv_13558_-1_1_0_1_S64755250_E64755250|delight's hourglass
+_rsv_13558_-1_1_2_1_S64755250_E64755250|delight's hourglasses
+_rsv_13559_-1_1_0_1_S64755250_E64755250|fragment of fate
+_rsv_13559_-1_1_2_1_S64755250_E64755250|fragments of fate
+_rsv_13560_-1_1_0_1_S64755250_E64755250|fragment of memory
+_rsv_13560_-1_1_2_1_S64755250_E64755250|fragments of memory
+_rsv_13561_-1_1_0_1_S64755250_E64755250|Pandora
+_rsv_13561_-1_1_2_1_S64755250_E64755250|Pandora
+_rsv_13699_-1_1_0_1_S64755250_E64755250|Ryne & Gaia
+_rsv_13699_-1_1_2_1_S64755250_E64755250|Ryne & Gaia
+_rsv_13700_-1_1_0_1_S64755250_E64755250|Usurper of Frost & Oracle of Darkness
+_rsv_13700_-1_1_2_1_S64755250_E64755250|Usurper of Frost & Oracle of Darkness
+_rsv_4157_-1_1_0_0_S74CFC3B0_E74CFC3B0|Chains of Everlasting Light
+_rsv_4158_-1_1_0_0_S74CFC3B0_E74CFC3B0|Curse of Everlasting Light
+_rsv_4159_-1_1_0_0_S74CFC3B0_E74CFC3B0|The Weight of Light
+_rsv_4160_-1_1_0_0_S74CFC3B0_E74CFC3B0|Light's Design
+_rsv_4161_-1_1_0_0_S74CFC3B0_E74CFC3B0|Darkness's Design
+_rsv_4165_-1_1_0_0_S74CFC3B0_E74CFC3B0|Fated Burn Mark
+_rsv_4166_-1_1_0_0_S74CFC3B0_E74CFC3B0|Powder Mark Trail
+_rsv_4171_-1_1_0_0_S74CFC3B0_E74CFC3B0|Spell-in-Waiting: Return II
+_rsv_4172_-1_1_0_0_S74CFC3B0_E74CFC3B0|Return II
+_rsv_4157_-1_1_0_1_S74CFC3B0_E74CFC3B0|Chains of Everlasting Light
+_rsv_4158_-1_1_0_1_S74CFC3B0_E74CFC3B0|Curse of Everlasting Light
+_rsv_4159_-1_1_0_1_S74CFC3B0_E74CFC3B0|The Weight of Light
+_rsv_4160_-1_1_0_1_S74CFC3B0_E74CFC3B0|Light's Design
+_rsv_4161_-1_1_0_1_S74CFC3B0_E74CFC3B0|Darkness's Design
+_rsv_4165_-1_1_0_1_S74CFC3B0_E74CFC3B0|Fated Burn Mark
+_rsv_4166_-1_1_0_1_S74CFC3B0_E74CFC3B0|Powder Mark Trail
+_rsv_4171_-1_1_0_1_S74CFC3B0_E74CFC3B0|Spell-in-Waiting: Return II
+_rsv_4172_-1_1_0_1_S74CFC3B0_E74CFC3B0|Return II

@@ -1,0 +1,651 @@
+#action_data
+# JA
+_rsv_37826_-1_0_0_0_SE2DC5B04_EE2DC5B04|インサイドアウト
+_rsv_37826_-1_0_0_1_SE2DC5B04_EE2DC5B04|インサイドアウト
+_rsv_37827_-1_0_0_0_SE2DC5B04_EE2DC5B04|インサイドアウト
+_rsv_37827_-1_0_0_1_SE2DC5B04_EE2DC5B04|インサイドアウト
+_rsv_37828_-1_0_0_0_SE2DC5B04_EE2DC5B04|アウトサイドイン
+_rsv_37828_-1_0_0_1_SE2DC5B04_EE2DC5B04|アウトサイドイン
+_rsv_37829_-1_0_0_0_SE2DC5B04_EE2DC5B04|アウトサイドイン
+_rsv_37829_-1_0_0_1_SE2DC5B04_EE2DC5B04|アウトサイドイン
+_rsv_37832_-1_0_0_0_SE2DC5B04_EE2DC5B04|ラウドジングルA
+_rsv_37832_-1_0_0_1_SE2DC5B04_EE2DC5B04|ラウドジングルA
+_rsv_37833_-1_0_0_0_SE2DC5B04_EE2DC5B04|ラウドジングルB
+_rsv_37833_-1_0_0_1_SE2DC5B04_EE2DC5B04|ラウドジングルB
+_rsv_39475_-1_0_0_0_SE2DC5B04_EE2DC5B04|静音爆発
+_rsv_39475_-1_0_0_1_SE2DC5B04_EE2DC5B04|静音爆発
+_rsv_39476_-1_0_0_0_SE2DC5B04_EE2DC5B04|静音爆発
+_rsv_39476_-1_0_0_1_SE2DC5B04_EE2DC5B04|静音爆発
+_rsv_39478_-1_0_0_0_SE2DC5B04_EE2DC5B04|静音爆発
+_rsv_39478_-1_0_0_1_SE2DC5B04_EE2DC5B04|静音爆発
+_rsv_39908_-1_0_0_0_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_39908_-1_0_0_1_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_41840_-1_0_0_0_SE2DC5B04_EE2DC5B04|ナイトフィーバー・アンコール
+_rsv_41840_-1_0_0_1_SE2DC5B04_EE2DC5B04|ナイトフィーバー・アンコール
+_rsv_41872_-1_0_0_0_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41872_-1_0_0_1_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41873_-1_0_0_0_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41873_-1_0_0_1_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41874_-1_0_0_0_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41874_-1_0_0_1_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41875_-1_0_0_0_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41875_-1_0_0_1_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41876_-1_0_0_0_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41876_-1_0_0_1_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41877_-1_0_0_0_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_41877_-1_0_0_1_SE2DC5B04_EE2DC5B04|レッツダンス・ダンス・ダンス！
+_rsv_42203_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42203_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42204_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42204_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42205_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42205_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42206_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42206_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42207_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42207_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42208_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42208_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42209_-1_0_0_0_SE2DC5B04_EE2DC5B04|ファイナル・アッセンブル
+_rsv_42209_-1_0_0_1_SE2DC5B04_EE2DC5B04|ファイナル・アッセンブル
+_rsv_42792_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42792_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42793_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42793_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42794_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42794_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42795_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42795_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42796_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42796_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42797_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42797_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42798_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42798_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42799_-1_0_0_0_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42799_-1_0_0_1_SE2DC5B04_EE2DC5B04|2ポイント、ポーズ＆ジングル
+_rsv_42800_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42800_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42801_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42801_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42802_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42802_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42803_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42803_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42804_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42804_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42805_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42805_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42806_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42806_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42807_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42807_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42808_-1_0_0_0_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42808_-1_0_0_1_SE2DC5B04_EE2DC5B04|3ポイント、ポーズ＆ジングル
+_rsv_42809_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42809_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42810_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42810_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42811_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42811_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42812_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42812_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42813_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42813_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42814_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42814_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42815_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42815_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42816_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42816_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42817_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42817_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42818_-1_0_0_0_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42818_-1_0_0_1_SE2DC5B04_EE2DC5B04|4ポイント、ポーズ＆ジングル
+_rsv_42850_-1_0_0_0_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_42850_-1_0_0_1_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_42851_-1_0_0_0_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_42851_-1_0_0_1_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_42852_-1_0_0_0_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_42852_-1_0_0_1_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_42853_-1_0_0_0_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_42853_-1_0_0_1_SE2DC5B04_EE2DC5B04|ゲットダウン！
+_rsv_42854_-1_0_0_0_SE2DC5B04_EE2DC5B04|音響爆発
+_rsv_42854_-1_0_0_1_SE2DC5B04_EE2DC5B04|音響爆発
+_rsv_42855_-1_0_0_0_SE2DC5B04_EE2DC5B04|音響爆発
+_rsv_42855_-1_0_0_1_SE2DC5B04_EE2DC5B04|音響爆発
+_rsv_42856_-1_0_0_0_SE2DC5B04_EE2DC5B04|静音爆発
+_rsv_42856_-1_0_0_1_SE2DC5B04_EE2DC5B04|静音爆発
+_rsv_42857_-1_0_0_0_SE2DC5B04_EE2DC5B04|大音響爆発
+_rsv_42857_-1_0_0_1_SE2DC5B04_EE2DC5B04|大音響爆発
+_rsv_42871_-1_0_0_0_SE2DC5B04_EE2DC5B04|ダンシングウェーブ
+_rsv_42871_-1_0_0_1_SE2DC5B04_EE2DC5B04|ダンシングウェーブ
+_rsv_42872_-1_0_0_0_SE2DC5B04_EE2DC5B04|ダンシングウェーブ
+_rsv_42872_-1_0_0_1_SE2DC5B04_EE2DC5B04|ダンシングウェーブ
+_rsv_42873_-1_0_0_0_SE2DC5B04_EE2DC5B04|ハイエナジー・ナイトフィーバー
+_rsv_42873_-1_0_0_1_SE2DC5B04_EE2DC5B04|ハイエナジー・ナイトフィーバー
+_rsv_42876_-1_0_0_0_SE2DC5B04_EE2DC5B04|インサイドアウト
+_rsv_42876_-1_0_0_1_SE2DC5B04_EE2DC5B04|インサイドアウト
+_rsv_42877_-1_0_0_0_SE2DC5B04_EE2DC5B04|インサイドアウト
+_rsv_42877_-1_0_0_1_SE2DC5B04_EE2DC5B04|インサイドアウト
+_rsv_42878_-1_0_0_0_SE2DC5B04_EE2DC5B04|アウトサイドイン
+_rsv_42878_-1_0_0_1_SE2DC5B04_EE2DC5B04|アウトサイドイン
+_rsv_42879_-1_0_0_0_SE2DC5B04_EE2DC5B04|アウトサイドイン
+_rsv_42879_-1_0_0_1_SE2DC5B04_EE2DC5B04|アウトサイドイン
+_rsv_42880_-1_0_0_0_SE2DC5B04_EE2DC5B04|ジングル予約A
+_rsv_42880_-1_0_0_1_SE2DC5B04_EE2DC5B04|ジングル予約A
+_rsv_42881_-1_0_0_0_SE2DC5B04_EE2DC5B04|ジングル予約B
+_rsv_42881_-1_0_0_1_SE2DC5B04_EE2DC5B04|ジングル予約B
+_rsv_42883_-1_0_0_0_SE2DC5B04_EE2DC5B04|ラウドジングルA
+_rsv_42883_-1_0_0_1_SE2DC5B04_EE2DC5B04|ラウドジングルA
+_rsv_42884_-1_0_0_0_SE2DC5B04_EE2DC5B04|ラウドジングルB
+_rsv_42884_-1_0_0_1_SE2DC5B04_EE2DC5B04|ラウドジングルB
+# EN
+_rsv_37826_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inside Out
+_rsv_37826_-1_1_0_1_SE2DC5B04_EE2DC5B04|Inside Out
+_rsv_37827_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inside Out
+_rsv_37827_-1_1_0_1_SE2DC5B04_EE2DC5B04|Inside Out
+_rsv_37828_-1_1_0_0_SE2DC5B04_EE2DC5B04|Outside In
+_rsv_37828_-1_1_0_1_SE2DC5B04_EE2DC5B04|Outside In
+_rsv_37829_-1_1_0_0_SE2DC5B04_EE2DC5B04|Outside In
+_rsv_37829_-1_1_0_1_SE2DC5B04_EE2DC5B04|Outside In
+_rsv_37832_-1_1_0_0_SE2DC5B04_EE2DC5B04|Play A-side
+_rsv_37832_-1_1_0_1_SE2DC5B04_EE2DC5B04|Play A-side
+_rsv_37833_-1_1_0_0_SE2DC5B04_EE2DC5B04|Play B-side
+_rsv_37833_-1_1_0_1_SE2DC5B04_EE2DC5B04|Play B-side
+_rsv_39475_-1_1_0_0_SE2DC5B04_EE2DC5B04|Minor Freak Out
+_rsv_39475_-1_1_0_1_SE2DC5B04_EE2DC5B04|Minor Freak Out
+_rsv_39476_-1_1_0_0_SE2DC5B04_EE2DC5B04|Minor Freak Out
+_rsv_39476_-1_1_0_1_SE2DC5B04_EE2DC5B04|Minor Freak Out
+_rsv_39478_-1_1_0_0_SE2DC5B04_EE2DC5B04|Minor Freak Out
+_rsv_39478_-1_1_0_1_SE2DC5B04_EE2DC5B04|Minor Freak Out
+_rsv_39908_-1_1_0_0_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_39908_-1_1_0_1_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_41840_-1_1_0_0_SE2DC5B04_EE2DC5B04|Arcady Night Encore
+_rsv_41840_-1_1_0_1_SE2DC5B04_EE2DC5B04|Arcady Night Encore
+_rsv_41872_-1_1_0_0_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41872_-1_1_0_1_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41873_-1_1_0_0_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41873_-1_1_0_1_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41874_-1_1_0_0_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41874_-1_1_0_1_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41875_-1_1_0_0_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41875_-1_1_0_1_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41876_-1_1_0_0_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41876_-1_1_0_1_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41877_-1_1_0_0_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_41877_-1_1_0_1_SE2DC5B04_EE2DC5B04|Let's Dance! Remix
+_rsv_42203_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42203_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42204_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42204_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42205_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42205_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42206_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42206_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42207_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42207_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42208_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42208_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42209_-1_1_0_0_SE2DC5B04_EE2DC5B04|Frogtourage Finale
+_rsv_42209_-1_1_0_1_SE2DC5B04_EE2DC5B04|Frogtourage Finale
+_rsv_42792_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42792_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42793_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42793_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42794_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42794_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42795_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42795_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42796_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42796_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42797_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42797_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42798_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42798_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42799_-1_1_0_0_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42799_-1_1_0_1_SE2DC5B04_EE2DC5B04|2-snap Twist & Drop the Needle
+_rsv_42800_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42800_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42801_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42801_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42802_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42802_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42803_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42803_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42804_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42804_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42805_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42805_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42806_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42806_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42807_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42807_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42808_-1_1_0_0_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42808_-1_1_0_1_SE2DC5B04_EE2DC5B04|3-snap Twist & Drop the Needle
+_rsv_42809_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42809_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42810_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42810_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42811_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42811_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42812_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42812_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42813_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42813_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42814_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42814_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42815_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42815_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42816_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42816_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42817_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42817_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42818_-1_1_0_0_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42818_-1_1_0_1_SE2DC5B04_EE2DC5B04|4-snap Twist & Drop the Needle
+_rsv_42850_-1_1_0_0_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_42850_-1_1_0_1_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_42851_-1_1_0_0_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_42851_-1_1_0_1_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_42852_-1_1_0_0_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_42852_-1_1_0_1_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_42853_-1_1_0_0_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_42853_-1_1_0_1_SE2DC5B04_EE2DC5B04|Get Down!
+_rsv_42854_-1_1_0_0_SE2DC5B04_EE2DC5B04|Freak Out
+_rsv_42854_-1_1_0_1_SE2DC5B04_EE2DC5B04|Freak Out
+_rsv_42855_-1_1_0_0_SE2DC5B04_EE2DC5B04|Freak Out
+_rsv_42855_-1_1_0_1_SE2DC5B04_EE2DC5B04|Freak Out
+_rsv_42856_-1_1_0_0_SE2DC5B04_EE2DC5B04|Minor Freak Out
+_rsv_42856_-1_1_0_1_SE2DC5B04_EE2DC5B04|Minor Freak Out
+_rsv_42857_-1_1_0_0_SE2DC5B04_EE2DC5B04|Major Freak Out
+_rsv_42857_-1_1_0_1_SE2DC5B04_EE2DC5B04|Major Freak Out
+_rsv_42871_-1_1_0_0_SE2DC5B04_EE2DC5B04|Back-up Dance
+_rsv_42871_-1_1_0_1_SE2DC5B04_EE2DC5B04|Back-up Dance
+_rsv_42872_-1_1_0_0_SE2DC5B04_EE2DC5B04|Back-up Dance
+_rsv_42872_-1_1_0_1_SE2DC5B04_EE2DC5B04|Back-up Dance
+_rsv_42873_-1_1_0_0_SE2DC5B04_EE2DC5B04|Hi-NRG Fever
+_rsv_42873_-1_1_0_1_SE2DC5B04_EE2DC5B04|Hi-NRG Fever
+_rsv_42876_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inside Out
+_rsv_42876_-1_1_0_1_SE2DC5B04_EE2DC5B04|Inside Out
+_rsv_42877_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inside Out
+_rsv_42877_-1_1_0_1_SE2DC5B04_EE2DC5B04|Inside Out
+_rsv_42878_-1_1_0_0_SE2DC5B04_EE2DC5B04|Outside In
+_rsv_42878_-1_1_0_1_SE2DC5B04_EE2DC5B04|Outside In
+_rsv_42879_-1_1_0_0_SE2DC5B04_EE2DC5B04|Outside In
+_rsv_42879_-1_1_0_1_SE2DC5B04_EE2DC5B04|Outside In
+_rsv_42880_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flip to A-side
+_rsv_42880_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flip to A-side
+_rsv_42881_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flip to B-side
+_rsv_42881_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flip to B-side
+_rsv_42883_-1_1_0_0_SE2DC5B04_EE2DC5B04|Play A-side
+_rsv_42883_-1_1_0_1_SE2DC5B04_EE2DC5B04|Play A-side
+_rsv_42884_-1_1_0_0_SE2DC5B04_EE2DC5B04|Play B-side
+_rsv_42884_-1_1_0_1_SE2DC5B04_EE2DC5B04|Play B-side
+# DE
+_rsv_37826_-1_2_0_0_SE2DC5B04_EE2DC5B04|Innerer Rhythmus
+_rsv_37826_-1_2_0_1_SE2DC5B04_EE2DC5B04|Innerer Rhythmus
+_rsv_37827_-1_2_0_0_SE2DC5B04_EE2DC5B04|Innerer Rhythmus
+_rsv_37827_-1_2_0_1_SE2DC5B04_EE2DC5B04|Innerer Rhythmus
+_rsv_37828_-1_2_0_0_SE2DC5B04_EE2DC5B04|Äußerer Rhythmus
+_rsv_37828_-1_2_0_1_SE2DC5B04_EE2DC5B04|Äußerer Rhythmus
+_rsv_37829_-1_2_0_0_SE2DC5B04_EE2DC5B04|Äußerer Rhythmus
+_rsv_37829_-1_2_0_1_SE2DC5B04_EE2DC5B04|Äußerer Rhythmus
+_rsv_37832_-1_2_0_0_SE2DC5B04_EE2DC5B04|Spiele A-Seite
+_rsv_37832_-1_2_0_1_SE2DC5B04_EE2DC5B04|Spiele A-Seite
+_rsv_37833_-1_2_0_0_SE2DC5B04_EE2DC5B04|Spiele B-Seite
+_rsv_37833_-1_2_0_1_SE2DC5B04_EE2DC5B04|Spiele B-Seite
+_rsv_39475_-1_2_0_0_SE2DC5B04_EE2DC5B04|Gedämpfte Schallexplosion
+_rsv_39475_-1_2_0_1_SE2DC5B04_EE2DC5B04|Gedämpfte Schallexplosion
+_rsv_39476_-1_2_0_0_SE2DC5B04_EE2DC5B04|Gedämpfte Schallexplosion
+_rsv_39476_-1_2_0_1_SE2DC5B04_EE2DC5B04|Gedämpfte Schallexplosion
+_rsv_39478_-1_2_0_0_SE2DC5B04_EE2DC5B04|Gedämpfte Schallexplosion
+_rsv_39478_-1_2_0_1_SE2DC5B04_EE2DC5B04|Gedämpfte Schallexplosion
+_rsv_39908_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_39908_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_41840_-1_2_0_0_SE2DC5B04_EE2DC5B04|Tanzfieber-Zugabe
+_rsv_41840_-1_2_0_1_SE2DC5B04_EE2DC5B04|Tanzfieber-Zugabe
+_rsv_41872_-1_2_0_0_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41872_-1_2_0_1_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41873_-1_2_0_0_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41873_-1_2_0_1_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41874_-1_2_0_0_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41874_-1_2_0_1_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41875_-1_2_0_0_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41875_-1_2_0_1_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41876_-1_2_0_0_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41876_-1_2_0_1_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41877_-1_2_0_0_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_41877_-1_2_0_1_SE2DC5B04_EE2DC5B04|Fühl' dich Disco, Disco, Disco!
+_rsv_42203_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42203_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42204_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42204_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42205_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42205_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42206_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42206_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42207_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42207_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42208_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42208_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42209_-1_2_0_0_SE2DC5B04_EE2DC5B04|Finaler Groove
+_rsv_42209_-1_2_0_1_SE2DC5B04_EE2DC5B04|Finaler Groove
+_rsv_42792_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!\n
+_rsv_42792_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!\n
+_rsv_42793_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42793_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42794_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42794_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42795_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42795_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42796_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42796_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42797_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42797_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42798_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42798_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42799_-1_2_0_0_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42799_-1_2_0_1_SE2DC5B04_EE2DC5B04|Zweifachzeig, Pose, Musik ab!
+_rsv_42800_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42800_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42801_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42801_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42802_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42802_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42803_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42803_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42804_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42804_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42805_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42805_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42806_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42806_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42807_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42807_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42808_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42808_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreifachzeig, Pose, Musik ab!
+_rsv_42809_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42809_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42810_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42810_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42811_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42811_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42812_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42812_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42813_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42813_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42814_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42814_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42815_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42815_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42816_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42816_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42817_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42817_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42818_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42818_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vierfachzeig, Pose, Musik ab!
+_rsv_42850_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_42850_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_42851_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_42851_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_42852_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_42852_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_42853_-1_2_0_0_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_42853_-1_2_0_1_SE2DC5B04_EE2DC5B04|Hoch die Hände!
+_rsv_42854_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schallexplosion
+_rsv_42854_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schallexplosion
+_rsv_42855_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schallexplosion
+_rsv_42855_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schallexplosion
+_rsv_42856_-1_2_0_0_SE2DC5B04_EE2DC5B04|Gedämpfte Schallexplosion
+_rsv_42856_-1_2_0_1_SE2DC5B04_EE2DC5B04|Gedämpfte Schallexplosion
+_rsv_42857_-1_2_0_0_SE2DC5B04_EE2DC5B04|Verstärkte Schallexplosion
+_rsv_42857_-1_2_0_1_SE2DC5B04_EE2DC5B04|Verstärkte Schallexplosion
+_rsv_42871_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wilde Welle
+_rsv_42871_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wilde Welle
+_rsv_42872_-1_2_0_0_SE2DC5B04_EE2DC5B04|Wilde Welle
+_rsv_42872_-1_2_0_1_SE2DC5B04_EE2DC5B04|Wilde Welle
+_rsv_42873_-1_2_0_0_SE2DC5B04_EE2DC5B04|Totales Tanzfieber
+_rsv_42873_-1_2_0_1_SE2DC5B04_EE2DC5B04|Totales Tanzfieber
+_rsv_42876_-1_2_0_0_SE2DC5B04_EE2DC5B04|Innerer Rhythmus
+_rsv_42876_-1_2_0_1_SE2DC5B04_EE2DC5B04|Innerer Rhythmus
+_rsv_42877_-1_2_0_0_SE2DC5B04_EE2DC5B04|Innerer Rhythmus
+_rsv_42877_-1_2_0_1_SE2DC5B04_EE2DC5B04|Innerer Rhythmus
+_rsv_42878_-1_2_0_0_SE2DC5B04_EE2DC5B04|Äußerer Rhythmus
+_rsv_42878_-1_2_0_1_SE2DC5B04_EE2DC5B04|Äußerer Rhythmus
+_rsv_42879_-1_2_0_0_SE2DC5B04_EE2DC5B04|Äußerer Rhythmus
+_rsv_42879_-1_2_0_1_SE2DC5B04_EE2DC5B04|Äußerer Rhythmus
+_rsv_42880_-1_2_0_0_SE2DC5B04_EE2DC5B04|A-Seite auflegen
+_rsv_42880_-1_2_0_1_SE2DC5B04_EE2DC5B04|A-Seite auflegen
+_rsv_42881_-1_2_0_0_SE2DC5B04_EE2DC5B04|B-Seite auflegen
+_rsv_42881_-1_2_0_1_SE2DC5B04_EE2DC5B04|B-Seite auflegen
+_rsv_42883_-1_2_0_0_SE2DC5B04_EE2DC5B04|A-Seite abspielen
+_rsv_42883_-1_2_0_1_SE2DC5B04_EE2DC5B04|A-Seite abspielen
+_rsv_42884_-1_2_0_0_SE2DC5B04_EE2DC5B04|B-Seite abspielen
+_rsv_42884_-1_2_0_1_SE2DC5B04_EE2DC5B04|B-Seite abspielen
+# FR
+_rsv_37826_-1_3_0_0_SE2DC5B04_EE2DC5B04|Pas extérieur
+_rsv_37826_-1_3_0_1_SE2DC5B04_EE2DC5B04|Pas extérieur
+_rsv_37827_-1_3_0_0_SE2DC5B04_EE2DC5B04|Pas extérieur
+_rsv_37827_-1_3_0_1_SE2DC5B04_EE2DC5B04|Pas extérieur
+_rsv_37828_-1_3_0_0_SE2DC5B04_EE2DC5B04|Pas intérieur
+_rsv_37828_-1_3_0_1_SE2DC5B04_EE2DC5B04|Pas intérieur
+_rsv_37829_-1_3_0_0_SE2DC5B04_EE2DC5B04|Pas intérieur
+_rsv_37829_-1_3_0_1_SE2DC5B04_EE2DC5B04|Pas intérieur
+_rsv_37832_-1_3_0_0_SE2DC5B04_EE2DC5B04|Jingle fracassant A
+_rsv_37832_-1_3_0_1_SE2DC5B04_EE2DC5B04|Jingle fracassant A
+_rsv_37833_-1_3_0_0_SE2DC5B04_EE2DC5B04|Jingle fracassant B
+_rsv_37833_-1_3_0_1_SE2DC5B04_EE2DC5B04|Jingle fracassant B
+_rsv_39475_-1_3_0_0_SE2DC5B04_EE2DC5B04|Explosion étouffée
+_rsv_39475_-1_3_0_1_SE2DC5B04_EE2DC5B04|Explosion étouffée
+_rsv_39476_-1_3_0_0_SE2DC5B04_EE2DC5B04|Explosion étouffée
+_rsv_39476_-1_3_0_1_SE2DC5B04_EE2DC5B04|Explosion étouffée
+_rsv_39478_-1_3_0_0_SE2DC5B04_EE2DC5B04|Explosion étouffée
+_rsv_39478_-1_3_0_1_SE2DC5B04_EE2DC5B04|Explosion étouffée
+_rsv_39908_-1_3_0_0_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_39908_-1_3_0_1_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_41840_-1_3_0_0_SE2DC5B04_EE2DC5B04|Fièvre de l'Arcadion : rappel
+_rsv_41840_-1_3_0_1_SE2DC5B04_EE2DC5B04|Fièvre de l'Arcadion : rappel
+_rsv_41872_-1_3_0_0_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41872_-1_3_0_1_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41873_-1_3_0_0_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41873_-1_3_0_1_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41874_-1_3_0_0_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41874_-1_3_0_1_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41875_-1_3_0_0_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41875_-1_3_0_1_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41876_-1_3_0_0_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41876_-1_3_0_1_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41877_-1_3_0_0_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_41877_-1_3_0_1_SE2DC5B04_EE2DC5B04|Alors on danse, danse, danse !
+_rsv_42203_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42203_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42204_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42204_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42205_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42205_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42206_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42206_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42207_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42207_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42208_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42208_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42209_-1_3_0_0_SE2DC5B04_EE2DC5B04|Rassemblement final
+_rsv_42209_-1_3_0_1_SE2DC5B04_EE2DC5B04|Rassemblement final
+_rsv_42792_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42792_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42793_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42793_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42794_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42794_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42795_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42795_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42796_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42796_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42797_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42797_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42798_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42798_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42799_-1_3_0_0_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42799_-1_3_0_1_SE2DC5B04_EE2DC5B04|Doublé pointé, pose & NUIT DE FOLIE !
+_rsv_42800_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42800_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42801_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42801_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42802_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42802_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42803_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42803_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42804_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42804_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42805_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42805_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42806_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42806_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42807_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42807_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42808_-1_3_0_0_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42808_-1_3_0_1_SE2DC5B04_EE2DC5B04|Triple pointé, pose & NUIT DE FOLIE !
+_rsv_42809_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42809_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42810_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42810_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42811_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42811_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42812_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42812_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42813_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42813_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42814_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42814_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42815_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42815_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42816_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42816_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42817_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42817_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42818_-1_3_0_0_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42818_-1_3_0_1_SE2DC5B04_EE2DC5B04|Quadruple pointé, pose & NUIT DE FOLIE !
+_rsv_42850_-1_3_0_0_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_42850_-1_3_0_1_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_42851_-1_3_0_0_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_42851_-1_3_0_1_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_42852_-1_3_0_0_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_42852_-1_3_0_1_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_42853_-1_3_0_0_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_42853_-1_3_0_1_SE2DC5B04_EE2DC5B04|Bouge de là !
+_rsv_42854_-1_3_0_0_SE2DC5B04_EE2DC5B04|Déflagration acoustique
+_rsv_42854_-1_3_0_1_SE2DC5B04_EE2DC5B04|Déflagration acoustique
+_rsv_42855_-1_3_0_0_SE2DC5B04_EE2DC5B04|Déflagration acoustique
+_rsv_42855_-1_3_0_1_SE2DC5B04_EE2DC5B04|Déflagration acoustique
+_rsv_42856_-1_3_0_0_SE2DC5B04_EE2DC5B04|Explosion étouffée
+_rsv_42856_-1_3_0_1_SE2DC5B04_EE2DC5B04|Explosion étouffée
+_rsv_42857_-1_3_0_0_SE2DC5B04_EE2DC5B04|Explosion assourdissante
+_rsv_42857_-1_3_0_1_SE2DC5B04_EE2DC5B04|Explosion assourdissante
+_rsv_42871_-1_3_0_0_SE2DC5B04_EE2DC5B04|Vague dansante
+_rsv_42871_-1_3_0_1_SE2DC5B04_EE2DC5B04|Vague dansante
+_rsv_42872_-1_3_0_0_SE2DC5B04_EE2DC5B04|Vague dansante
+_rsv_42872_-1_3_0_1_SE2DC5B04_EE2DC5B04|Vague dansante
+_rsv_42873_-1_3_0_0_SE2DC5B04_EE2DC5B04|Fièvre de la nuit survoltée
+_rsv_42873_-1_3_0_1_SE2DC5B04_EE2DC5B04|Fièvre de la nuit survoltée
+_rsv_42876_-1_3_0_0_SE2DC5B04_EE2DC5B04|Pas extérieur
+_rsv_42876_-1_3_0_1_SE2DC5B04_EE2DC5B04|Pas extérieur
+_rsv_42877_-1_3_0_0_SE2DC5B04_EE2DC5B04|Pas extérieur
+_rsv_42877_-1_3_0_1_SE2DC5B04_EE2DC5B04|Pas extérieur
+_rsv_42878_-1_3_0_0_SE2DC5B04_EE2DC5B04|Pas intérieur
+_rsv_42878_-1_3_0_1_SE2DC5B04_EE2DC5B04|Pas intérieur
+_rsv_42879_-1_3_0_0_SE2DC5B04_EE2DC5B04|Pas intérieur
+_rsv_42879_-1_3_0_1_SE2DC5B04_EE2DC5B04|Pas intérieur
+_rsv_42880_-1_3_0_0_SE2DC5B04_EE2DC5B04|Programmation : face A
+_rsv_42880_-1_3_0_1_SE2DC5B04_EE2DC5B04|Programmation : face A
+_rsv_42881_-1_3_0_0_SE2DC5B04_EE2DC5B04|Programmation : face B
+_rsv_42881_-1_3_0_1_SE2DC5B04_EE2DC5B04|Programmation : face B
+_rsv_42883_-1_3_0_0_SE2DC5B04_EE2DC5B04|Jingle fracassant A
+_rsv_42883_-1_3_0_1_SE2DC5B04_EE2DC5B04|Jingle fracassant A
+_rsv_42884_-1_3_0_0_SE2DC5B04_EE2DC5B04|Jingle fracassant B
+_rsv_42884_-1_3_0_1_SE2DC5B04_EE2DC5B04|Jingle fracassant B
+
+#status_data
+# JA
+_rsv_3998_-1_0_0_0_S74CFC3B0_E74CFC3B0|ダンシングウェーブ耐性低下
+_rsv_3998_-1_0_0_1_S74CFC3B0_E74CFC3B0|ダンシングウェーブ耐性低下
+_rsv_3998_-1_0_1_0_S74CFC3B0_E74CFC3B0|ダンシングウェーブへの耐性が著しく低下した状態。
+_rsv_3998_-1_0_1_1_S74CFC3B0_E74CFC3B0|ダンシングウェーブへの耐性が著しく低下した状態。
+_rsv_4459_-1_0_0_0_S74CFC3B0_E74CFC3B0|ジングル予約
+_rsv_4459_-1_0_0_1_S74CFC3B0_E74CFC3B0|ジングル予約
+_rsv_4459_-1_0_1_0_S74CFC3B0_E74CFC3B0|ジングルの再生を予約した状態。
+_rsv_4459_-1_0_1_1_S74CFC3B0_E74CFC3B0|ジングルの再生を予約した状態。
+_rsv_4461_-1_0_0_0_S74CFC3B0_E74CFC3B0|ディスコインファーナル
+_rsv_4461_-1_0_0_1_S74CFC3B0_E74CFC3B0|ディスコインファーナル
+_rsv_4461_-1_0_1_0_S74CFC3B0_E74CFC3B0|ダンスに誘われ、踊らずにはいられない状態。効果時間終了時に身体が勝手にポーズをとり、その際にひとりでスポットライトを浴びていないと被害が発生してしまう。
+_rsv_4461_-1_0_1_1_S74CFC3B0_E74CFC3B0|ダンスに誘われ、踊らずにはいられない状態。効果時間終了時に身体が勝手にポーズをとり、その際にひとりでスポットライトを浴びていないと被害が発生してしまう。
+_rsv_4462_-1_0_0_0_S74CFC3B0_E74CFC3B0|音響爆弾α
+_rsv_4462_-1_0_0_1_S74CFC3B0_E74CFC3B0|音響爆弾α
+_rsv_4462_-1_0_1_0_S74CFC3B0_E74CFC3B0|音響爆弾が仕掛けられ、効果時間終了時に爆発を起こす状態。爆発時に対となる音をぶつけることで威力を軽減できるが、同音、あるいは3つ以上の音が重なると大爆発を起こす。
+_rsv_4462_-1_0_1_1_S74CFC3B0_E74CFC3B0|音響爆弾が仕掛けられ、効果時間終了時に爆発を起こす状態。爆発時に対となる音をぶつけることで威力を軽減できるが、同音、あるいは3つ以上の音が重なると大爆発を起こす。
+_rsv_4463_-1_0_0_0_S74CFC3B0_E74CFC3B0|音響爆弾β
+_rsv_4463_-1_0_0_1_S74CFC3B0_E74CFC3B0|音響爆弾β
+_rsv_4463_-1_0_1_0_S74CFC3B0_E74CFC3B0|音響爆弾が仕掛けられ、効果時間終了時に爆発を起こす状態。爆発時に対となる音をぶつけることで威力を軽減できるが、同音、あるいは3つ以上の音が重なると大爆発を起こす。
+_rsv_4463_-1_0_1_1_S74CFC3B0_E74CFC3B0|音響爆弾が仕掛けられ、効果時間終了時に爆発を起こす状態。爆発時に対となる音をぶつけることで威力を軽減できるが、同音、あるいは3つ以上の音が重なると大爆発を起こす。
+# EN
+_rsv_3998_-1_1_0_0_S74CFC3B0_E74CFC3B0|Frogtourage Fan
+_rsv_3998_-1_1_0_1_S74CFC3B0_E74CFC3B0|Frogtourage Fan
+_rsv_3998_-1_1_1_0_S74CFC3B0_E74CFC3B0|Back-up Dance resistance is significantly reduced.
+_rsv_3998_-1_1_1_1_S74CFC3B0_E74CFC3B0|Back-up Dance resistance is significantly reduced.
+_rsv_4459_-1_1_0_0_S74CFC3B0_E74CFC3B0|Needle Poised
+_rsv_4459_-1_1_0_1_S74CFC3B0_E74CFC3B0|Needle Poised
+_rsv_4459_-1_1_1_0_S74CFC3B0_E74CFC3B0|Ready to play selected side.
+_rsv_4459_-1_1_1_1_S74CFC3B0_E74CFC3B0|Ready to play selected side.
+_rsv_4461_-1_1_0_0_S74CFC3B0_E74CFC3B0|Burn Baby Burn
+_rsv_4461_-1_1_0_1_S74CFC3B0_E74CFC3B0|Burn Baby Burn
+_rsv_4461_-1_1_1_0_S74CFC3B0_E74CFC3B0|Consumed by the Disco Infernal and condemned to strike a groovy pose when this effect expires. Failure to stand alone in the spotlight when posing will result in damage taken.
+_rsv_4461_-1_1_1_1_S74CFC3B0_E74CFC3B0|Consumed by the Disco Infernal and condemned to strike a groovy pose when this effect expires. Failure to stand alone in the spotlight when posing will result in damage taken.
+_rsv_4462_-1_1_0_0_S74CFC3B0_E74CFC3B0|Wavelength α
+_rsv_4462_-1_1_0_1_S74CFC3B0_E74CFC3B0|Wavelength α
+_rsv_4462_-1_1_1_0_S74CFC3B0_E74CFC3B0|A sound bomb will detonate when this effect expires. Its damage can be reduced by sound of a different wavelength. However, mixing two sounds of the same wavelength, or more than two sounds total, will result in cacophonous explosion.
+_rsv_4462_-1_1_1_1_S74CFC3B0_E74CFC3B0|A sound bomb will detonate when this effect expires. Its damage can be reduced by sound of a different wavelength. However, mixing two sounds of the same wavelength, or more than two sounds total, will result in cacophonous explosion.
+_rsv_4463_-1_1_0_0_S74CFC3B0_E74CFC3B0|Wavelength β
+_rsv_4463_-1_1_0_1_S74CFC3B0_E74CFC3B0|Wavelength β
+_rsv_4463_-1_1_1_0_S74CFC3B0_E74CFC3B0|A sound bomb will detonate when this effect expires. Its damage can be reduced by sound of a different wavelength. However, mixing two sounds of the same wavelength, or more than two sounds total, will result in cacophonous explosion.
+_rsv_4463_-1_1_1_1_S74CFC3B0_E74CFC3B0|A sound bomb will detonate when this effect expires. Its damage can be reduced by sound of a different wavelength. However, mixing two sounds of the same wavelength, or more than two sounds total, will result in cacophonous explosion.
+# DE
+_rsv_3998_-1_2_0_0_S74CFC3B0_E74CFC3B0|Durchgeschüttelt
+_rsv_3998_-1_2_0_1_S74CFC3B0_E74CFC3B0|Durchgeschüttelt
+_rsv_3998_-1_2_1_0_S74CFC3B0_E74CFC3B0|Resistenz gegen Wilde Welle ist stark verringert.
+_rsv_3998_-1_2_1_1_S74CFC3B0_E74CFC3B0|Resistenz gegen Wilde Welle ist stark verringert.
+_rsv_4459_-1_2_0_0_S74CFC3B0_E74CFC3B0|Abspielbereit
+_rsv_4459_-1_2_0_1_S74CFC3B0_E74CFC3B0|Abspielbereit
+_rsv_4459_-1_2_1_0_S74CFC3B0_E74CFC3B0|Bereit, jederzeit Musik abzuspielen.
+_rsv_4459_-1_2_1_1_S74CFC3B0_E74CFC3B0|Bereit, jederzeit Musik abzuspielen.
+_rsv_4461_-1_2_0_0_S74CFC3B0_E74CFC3B0|Höllendisco
+_rsv_4461_-1_2_0_1_S74CFC3B0_E74CFC3B0|Höllendisco
+_rsv_4461_-1_2_1_0_S74CFC3B0_E74CFC3B0|Kann die Aufforderung zum Tanz nicht ablehnen und posiert bei Ablauf des Effekts. Löst negative Effekte aus, wenn man sich zu diesem Zeitpunkt nicht alleine in einem Rampenlicht befindet.
+_rsv_4461_-1_2_1_1_S74CFC3B0_E74CFC3B0|Kann die Aufforderung zum Tanz nicht ablehnen und posiert bei Ablauf des Effekts. Löst negative Effekte aus, wenn man sich zu diesem Zeitpunkt nicht alleine in einem Rampenlicht befindet.
+_rsv_4462_-1_2_0_0_S74CFC3B0_E74CFC3B0|Schallbombe α
+_rsv_4462_-1_2_0_1_S74CFC3B0_E74CFC3B0|Schallbombe α
+_rsv_4462_-1_2_1_0_S74CFC3B0_E74CFC3B0|Mit einer Schallbombe behaftet, die bei Ablauf des Effekts explodiert. Trifft die Explosion auf den gegensätzlichen Schall, so wird der Schaden reduziert. Trifft der Schall auf den gleichen Schall oder treffen drei oder mehr Explosionen aufeinander, wird die Explosion verstärkt.
+_rsv_4462_-1_2_1_1_S74CFC3B0_E74CFC3B0|Mit einer Schallbombe behaftet, die bei Ablauf des Effekts explodiert. Trifft die Explosion auf den gegensätzlichen Schall, so wird der Schaden reduziert. Trifft der Schall auf den gleichen Schall oder treffen drei oder mehr Explosionen aufeinander, wird die Explosion verstärkt.
+_rsv_4463_-1_2_0_0_S74CFC3B0_E74CFC3B0|Schallbombe β
+_rsv_4463_-1_2_0_1_S74CFC3B0_E74CFC3B0|Schallbombe β
+_rsv_4463_-1_2_1_0_S74CFC3B0_E74CFC3B0|Mit einer Schallbombe behaftet, die bei Ablauf des Effekts explodiert. Trifft die Explosion auf den gegensätzlichen Schall, so wird der Schaden reduziert. Trifft der Schall auf den gleichen Schall oder treffen drei oder mehr Explosionen aufeinander, wird die Explosion verstärkt.
+_rsv_4463_-1_2_1_1_S74CFC3B0_E74CFC3B0|Mit einer Schallbombe behaftet, die bei Ablauf des Effekts explodiert. Trifft die Explosion auf den gegensätzlichen Schall, so wird der Schaden reduziert. Trifft der Schall auf den gleichen Schall oder treffen drei oder mehr Explosionen aufeinander, wird die Explosion verstärkt.
+# FR
+_rsv_3998_-1_3_0_0_S74CFC3B0_E74CFC3B0|Résistance à Vague dansante réduite
+_rsv_3998_-1_3_0_1_S74CFC3B0_E74CFC3B0|Résistance à Vague dansante réduite
+_rsv_3998_-1_3_1_0_S74CFC3B0_E74CFC3B0|La résistance à Vague dansante est considérablement réduite.
+_rsv_3998_-1_3_1_1_S74CFC3B0_E74CFC3B0|La résistance à Vague dansante est considérablement réduite.
+_rsv_4459_-1_3_0_0_S74CFC3B0_E74CFC3B0|Face programmée
+_rsv_4459_-1_3_0_1_S74CFC3B0_E74CFC3B0|Face programmée
+_rsv_4459_-1_3_1_0_S74CFC3B0_E74CFC3B0|Une face de disque a été programmée.
+_rsv_4459_-1_3_1_1_S74CFC3B0_E74CFC3B0|Une face de disque a été programmée.
+_rsv_4461_-1_3_0_0_S74CFC3B0_E74CFC3B0|Enfer du disco
+_rsv_4461_-1_3_0_1_S74CFC3B0_E74CFC3B0|Enfer du disco
+_rsv_4461_-1_3_1_0_S74CFC3B0_E74CFC3B0|Le corps est entraîné par le rythme et ne peut s'empêcher de danser. À la fin de l'effet, prend une pose. Des dégâts sont subis lorsque celle-ci est effectuée à plusieurs, ou en dehors de la lumière des projecteurs.
+_rsv_4461_-1_3_1_1_S74CFC3B0_E74CFC3B0|Le corps est entraîné par le rythme et ne peut s'empêcher de danser. À la fin de l'effet, prend une pose. Des dégâts sont subis lorsque celle-ci est effectuée à plusieurs, ou en dehors de la lumière des projecteurs.
+_rsv_4462_-1_3_0_0_S74CFC3B0_E74CFC3B0|Bombe sonore α
+_rsv_4462_-1_3_0_1_S74CFC3B0_E74CFC3B0|Bombe sonore α
+_rsv_4462_-1_3_1_0_S74CFC3B0_E74CFC3B0|La bombe sonore provoquera une explosion à la fin de l'effet. La puissance de l'explosion peut être réduite en cognant un son opposé. Toutefois, si le même son est répété ou si plus de trois sons sont cognés, provoque une plus grande explosion.
+_rsv_4462_-1_3_1_1_S74CFC3B0_E74CFC3B0|La bombe sonore provoquera une explosion à la fin de l'effet. La puissance de l'explosion peut être réduite en cognant un son opposé. Toutefois, si le même son est répété ou si plus de trois sons sont cognés, provoque une plus grande explosion.
+_rsv_4463_-1_3_0_0_S74CFC3B0_E74CFC3B0|Bombe sonore β
+_rsv_4463_-1_3_0_1_S74CFC3B0_E74CFC3B0|Bombe sonore β
+_rsv_4463_-1_3_1_0_S74CFC3B0_E74CFC3B0|La bombe sonore provoquera une explosion à la fin de l'effet. La puissance de l'explosion peut être réduite en cognant un son opposé. Toutefois, si le même son est répété ou si plus de trois sons sont cognés, provoque une plus grande explosion.
+_rsv_4463_-1_3_1_1_S74CFC3B0_E74CFC3B0|La bombe sonore provoquera une explosion à la fin de l'effet. La puissance de l'explosion peut être réduite en cognant un son opposé. Toutefois, si le même son est répété ou si plus de trois sons sont cognés, provoque une plus grande explosion.

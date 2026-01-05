@@ -62,6 +62,8 @@
 { "24F" : "bluefire", "potency": [ {"type": "damagedonemultiplier", "amount": -90, "limittozoneid": "195"},
     {"type": "healreceivemultiplier", "amount": -80, "limittozoneid": "195"} 
 ] },
+{ "274" :  "damage down", "potency": [ {"type":  "DamagedoneMultiplier", "amount": 0, "amountbyte": 2 } ] },
+
 { "2AA" : "defensive optimization", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -50} ] },
 { "2AB" : "blessing of earth", "potency": [ {"type": "DamageReceivedMultiplier", "amount": -40} ] },
 { "2CA" : "vulnerability up", "potency": [ {"type": "DamageReceivedMultiplier", "amount": 10, "isstacked": true} ] },

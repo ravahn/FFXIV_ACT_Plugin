@@ -2,7 +2,7 @@
 "job": "job role",
 "actions" : [
 { "1D6F" : "reprisal", "damage": [ { "potency": 210} ] },
-{ "1D75" : "second wind", "heal": [ { "potency": 500} ] },
+{ "1D75" : "second wind", "heal": [ { "potency": 800} ] },
 { "5750" : "lost flare star", "damage": [ { "potency": 300} ] },
 
 ],
@@ -25,11 +25,11 @@
     { "type": "HealDoneMultiplier", "amount": -50 }
 ] },
 { "54": "bloodbath", "reactiveproc": { "type": "HealOnDamageDealt" } },
-{"1000008": "feint", "potency": [
+{"4ab": "feint", "potency": [
    { "type": "damagedonemultiplier", "amount": -10, "limittodamagetype": "physical"},
    { "type": "damagedonemultiplier", "amount": -5, "limittodamagetype": "magic"},
  ]},
-{"1000009": "addle", "potency": [
+{"4b3": "addle", "potency": [
    { "type": "damagedonemultiplier", "amount": -5, "limittodamagetype": "physical"},
    { "type": "damagedonemultiplier", "amount": -10, "limittodamagetype": "magic"},
  ]}

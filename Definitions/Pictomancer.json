@@ -1,0 +1,39 @@
+{
+"job": "pictomancer",
+"actions" : [
+{ "875a" : "fire in red", "damage": [ { "potency": 0 } ] },
+{ "875b" : "aero in green", "damage": [ { "potency": 0 } ] },
+{ "875c" : "water in blue", "damage": [ { "potency": 0 } ] },
+{ "8760" : "fire ii in red", "damage": [ { "potency": 0 } ] },
+{ "8774" : "mog of the ages", "damage": [ { "potency": 0 } ] },
+{ "876e" : "pom muse", "damage": [ { "potency": 0 } ] },
+{ "876f" : "winged muse", "damage": [ { "potency": 0 } ] },
+{ "8761" : "aero ii in green", "damage": [ { "potency": 0 } ] },
+{ "8762" : "water ii in blue", "damage": [ { "potency": 0 } ] },
+{ "8776" : "hammer stamp", "damage": [ { "potency": 0 } ] },
+{ "875d" : "blizzard in cyan", "damage": [ { "potency": 0 } ] },
+{ "8763" : "blizzard ii in cyan", "damage": [ { "potency": 0 } ] },
+{ "875e" : "stone in yellow", "damage": [ { "potency": 0 } ] },
+{ "875f" : "thunder in magenta", "damage": [ { "potency": 0 } ] },
+{ "8764" : "stone ii in yellow", "damage": [ { "potency": 0 } ] },
+{ "8765" : "thunder ii in magenta", "damage": [ { "potency": 0 } ] },
+{ "8766" : "holy in white", "damage": [ { "potency": 0 } ] },
+{ "8777" : "hammer brush", "damage": [ { "potency": 0 } ] },
+{ "8778" : "polishing hammer", "damage": [ { "potency": 0 } ] },
+{ "8767" : "comet in black", "damage": [ { "potency": 0 } ] },
+{ "8780" : "rainbow drip", "damage": [ { "potency": 0 } ] },
+{ "8770" : "clawed muse", "damage": [ { "potency": 0 } ] },
+{ "8771" : "fanged muse", "damage": [ { "potency": 0 } ] },
+{ "8775" : "retribution of the madeen", "damage": [ { "potency": 0 } ] },
+{ "8779" : "star prism", "damage": [ { "potency": 0 } ],
+  "heal": [{"potency": 400 }]
+},
+
+],
+"statuseffects" : [ 
+{ "e66" : "tempera coat", "damageshield": { "type": "TargetHpPercent", "amount": 20 } },
+{ "e65" : "starry muse", "potency": [{ "type": "DamageDoneMultiplier", "amount": 5}] },
+{ "e67" : "tempera grassa", "damageshield": { "type": "TargetHpPercent", "amount": 10 } },
+
+]
+}
