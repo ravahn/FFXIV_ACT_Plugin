@@ -25,7 +25,7 @@
 { "8DC" : "hyoton", "damage": [ { "potency": 350} ] },
 { "8dd" : "huton", "damage": [ { "potency": 240} ] },
 { "8DF" : "suiton", "damage": [ { "potency": 580} ] },
-{ "406B" : "goka mekkyaku", "damage": [ { "potency": 600} ] },
+{ "406B" : "goka mekkyaku", "damage": [ { "potency": 850} ] },
 { "406C" : "hyosho ranryu", "damage": [ { "potency": 1300} ] },
 
 { "905d" : "dokumori", "damage": [ { "potency": 400 } ] },

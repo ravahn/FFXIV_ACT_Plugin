@@ -26,7 +26,7 @@
     { "5ef6" : "holos", "heal": [ { "potency": 300} ]},
     { "5ef8" : "dosis iii", "damage": [ { "potency": 380} ],
                             "heal": [{"potency": 170}] },
-    { "5ef9" : "phlegma iii", "damage": [{"potency": 600, "targetindex": 0}, {"potency": 300}],
+    { "5ef9" : "phlegma iii", "damage": [{"potency": 690, "targetindex": 0}, {"potency": 345}],
                               "heal": [ { "potency": 170} ] },
     { "5efa" : "eukrasian dosis iii", "heal": [ { "potency": 170} ] },
     { "5efb" : "dyskrasia ii", "damage": [ { "potency": 170} ],
@@ -38,7 +38,7 @@
     { "6B84" : "pneuma heal", "heal": [ { "potency": 600} ] },
 
     { "90a8" : "eukrasian dyskrasia", "heal": [ { "potency": 170} ] },
-    { "90a9" : "psyche", "damage": [{"potency": 600, "targetindex": 0}, {"potency": 300 } ] },
+    { "90a9" : "psyche", "damage": [{"potency": 690, "targetindex": 0}, {"potency": 345 } ] },
     { "90aa" : "eukrasian prognosis ii", "heal": [ { "potency": 100} ] },
 
 ],
@@ -62,7 +62,7 @@
     { "a37": "eukrasian dosis ii", "timeproc": { "type": "dot", "potency": 60, "maxticks": 10 } },
     { "bbb": "holos", "potency": [{ "type": "DamageReceivedMultiplier", "amount": -10 }] },
     { "d25": "holosakos", "damageshield": { "type": "HealPercent", "amount": 100 } },
-    { "a38": "eukrasian dosis iii", "timeproc": { "type": "dot", "potency": 80, "maxticks": 10 } },
+    { "a38": "eukrasian dosis iii", "timeproc": { "type": "dot", "potency": 85, "maxticks": 10 } },
     { "a3e": "krasis", "potency": [{"type": "healreceivemultiplier", "amount": 20}] },
     { "a3f": "pneuma", "timeproc": {"type": "groundheal", "potency": 600, "maxticks": 1}},
     { "a2f" : "eukrasian diagnosis", "damageshield": { "type": "HealPercent", "amount": 180 } },

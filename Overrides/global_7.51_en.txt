@@ -1,0 +1,386 @@
+﻿_rsv_47864_-1_1_0_0_SE2DC5B04_EE2DC5B04|Cyclone
+_rsv_47865_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Earth
+_rsv_47868_-1_1_0_0_SE2DC5B04_EE2DC5B04|Nothingness
+_rsv_47843_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima Blaster
+_rsv_47870_-1_1_0_0_SE2DC5B04_EE2DC5B04|Latitudinal Implosion
+_rsv_47871_-1_1_0_0_SE2DC5B04_EE2DC5B04|Shockwave
+_rsv_47873_-1_1_0_0_SE2DC5B04_EE2DC5B04|Damning Edict
+_rsv_47874_-1_1_0_0_SE2DC5B04_EE2DC5B04|Knock Down
+_rsv_47872_-1_1_0_0_SE2DC5B04_EE2DC5B04|Umbra Smash
+_rsv_47875_-1_1_0_0_SE2DC5B04_EE2DC5B04|Knock Down
+_rsv_47877_-1_1_0_0_SE2DC5B04_EE2DC5B04|Big Bang
+_rsv_47878_-1_1_0_0_SE2DC5B04_EE2DC5B04|Big Bang
+_rsv_47881_-1_1_0_0_SE2DC5B04_EE2DC5B04|Thunder III
+_rsv_47883_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fire III
+_rsv_47884_-1_1_0_0_SE2DC5B04_EE2DC5B04|Thunder III
+_rsv_47886_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fire III
+_rsv_47888_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fire III
+_rsv_47855_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stomp-a-Mole
+_rsv_47862_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Spray
+_rsv_47893_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Bomb
+_rsv_47887_-1_1_0_0_SE2DC5B04_EE2DC5B04|Blizzard III
+_rsv_47894_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Shriek
+_rsv_47867_-1_1_0_0_SE2DC5B04_EE2DC5B04|Black Hole
+_rsv_47895_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Shriek
+_rsv_47850_-1_1_0_0_SE2DC5B04_EE2DC5B04|Shocking Impact
+_rsv_47854_-1_1_0_0_SE2DC5B04_EE2DC5B04|Look upon Me and Despair
+_rsv_47869_-1_1_0_0_SE2DC5B04_EE2DC5B04|Longitudinal Implosion
+_rsv_47848_-1_1_0_0_SE2DC5B04_EE2DC5B04|Slap Happy
+_rsv_47896_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Bolt
+_rsv_47897_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Bolt
+_rsv_47847_-1_1_0_0_SE2DC5B04_EE2DC5B04|Slap Happy
+_rsv_47899_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Wave
+_rsv_47885_-1_1_0_0_SE2DC5B04_EE2DC5B04|Blizzard III
+_rsv_47898_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Wave
+_rsv_47900_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Surge
+_rsv_47852_-1_1_0_0_SE2DC5B04_EE2DC5B04|Look upon Me and Despair
+_rsv_47903_-1_1_0_0_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47849_-1_1_0_0_SE2DC5B04_EE2DC5B04|Slap Happy
+_rsv_47890_-1_1_0_0_SE2DC5B04_EE2DC5B04|Thunder III
+_rsv_47891_-1_1_0_0_SE2DC5B04_EE2DC5B04|Vacuum Wave
+_rsv_47907_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Flames
+_rsv_47857_-1_1_0_0_SE2DC5B04_EE2DC5B04|Unmitigated Impact
+_rsv_47926_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forsaken
+_rsv_47925_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forsaken
+_rsv_47928_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forsaken
+_rsv_47909_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Spray
+_rsv_47927_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forsaken Ground
+_rsv_47929_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forsaken Bonds
+_rsv_47930_-1_1_0_0_SE2DC5B04_EE2DC5B04|Forsaken Null
+_rsv_47931_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Apocalypse
+_rsv_47932_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Apocalypse
+_rsv_47933_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Apocalypse
+_rsv_47858_-1_1_0_0_SE2DC5B04_EE2DC5B04|Bowels of Agony
+_rsv_47936_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima Repeater
+_rsv_47937_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima Repeater
+_rsv_47845_-1_1_0_0_SE2DC5B04_EE2DC5B04|Max
+_rsv_47856_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stomp-a-Mole
+_rsv_47940_-1_1_0_0_SE2DC5B04_EE2DC5B04|Blizzard III
+_rsv_47934_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Entropy
+_rsv_47860_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inferno
+_rsv_47935_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Entropy
+_rsv_47944_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stardust Thunder III
+_rsv_47846_-1_1_0_0_SE2DC5B04_EE2DC5B04|Slap Happy
+_rsv_47947_-1_1_0_0_SE2DC5B04_EE2DC5B04|Tornado
+_rsv_47946_-1_1_0_0_SE2DC5B04_EE2DC5B04|Quake
+_rsv_47853_-1_1_0_0_SE2DC5B04_EE2DC5B04|Look upon Me and Despair
+_rsv_47953_-1_1_0_0_SE2DC5B04_EE2DC5B04|Maddening Orchestra
+_rsv_47941_-1_1_0_0_SE2DC5B04_EE2DC5B04|Thunder III
+_rsv_47892_-1_1_0_0_SE2DC5B04_EE2DC5B04|Grand Cross
+_rsv_47939_-1_1_0_0_SE2DC5B04_EE2DC5B04|Fire III
+_rsv_47955_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chaotic Flare
+_rsv_47954_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flare
+_rsv_47956_-1_1_0_0_SE2DC5B04_EE2DC5B04|Holy
+_rsv_47842_-1_1_0_0_SE2DC5B04_EE2DC5B04|Definition of Insanity
+_rsv_48333_-1_1_0_0_SE2DC5B04_EE2DC5B04|Black Spark
+_rsv_47943_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stardust Blizzard III
+_rsv_47951_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chaotic Flood
+_rsv_47866_-1_1_0_0_SE2DC5B04_EE2DC5B04|Earthquake
+_rsv_49743_-1_1_0_0_SE2DC5B04_EE2DC5B04|Catastrophic Choice
+_rsv_47942_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stardust Fire III
+_rsv_49752_-1_1_0_0_SE2DC5B04_EE2DC5B04|Meteor
+_rsv_47859_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Flames
+_rsv_49878_-1_1_0_0_SE2DC5B04_EE2DC5B04|Trance
+_rsv_49884_-1_1_0_0_SE2DC5B04_EE2DC5B04|Kefka Says
+_rsv_49753_-1_1_0_0_SE2DC5B04_EE2DC5B04|Bowels of Agony
+_rsv_47902_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inferno
+_rsv_47851_-1_1_0_0_SE2DC5B04_EE2DC5B04|Shockwave
+_rsv_47938_-1_1_0_0_SE2DC5B04_EE2DC5B04|Celestriad
+_rsv_47861_-1_1_0_0_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47952_-1_1_0_0_SE2DC5B04_EE2DC5B04|Maddening Orchestra
+_rsv_47958_-1_1_0_0_SE2DC5B04_EE2DC5B04|Chaotic Holy
+_rsv_47957_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flare Diffusion
+_rsv_47905_-1_1_0_0_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47844_-1_1_0_0_SE2DC5B04_EE2DC5B04|Ultima Blaster
+_rsv_47863_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Gusts
+_rsv_49742_-1_1_0_0_SE2DC5B04_EE2DC5B04|Catastrophic Choice
+_rsv_49769_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flood
+_rsv_47904_-1_1_0_0_SE2DC5B04_EE2DC5B04|Inferno
+_rsv_47906_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Flames
+_rsv_47908_-1_1_0_0_SE2DC5B04_EE2DC5B04|Stray Spray
+_rsv_47901_-1_1_0_0_SE2DC5B04_EE2DC5B04|Death Surge
+_rsv_47889_-1_1_0_0_SE2DC5B04_EE2DC5B04|Blizzard III
+_rsv_48486_-1_1_0_0_SE2DC5B04_EE2DC5B04|White Hole
+_rsv_49890_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Decisive Battle
+_rsv_49893_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aetherlink
+_rsv_50067_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flood of Naught
+_rsv_50070_-1_1_0_0_SE2DC5B04_EE2DC5B04|Edge of Death
+_rsv_50545_-1_1_0_0_SE2DC5B04_EE2DC5B04|Earthquake
+_rsv_50546_-1_1_0_0_SE2DC5B04_EE2DC5B04|Earthquake
+_rsv_50718_-1_1_0_0_SE2DC5B04_EE2DC5B04|Meteor
+_rsv_49892_-1_1_0_0_SE2DC5B04_EE2DC5B04|Aetherlink
+_rsv_50069_-1_1_0_0_SE2DC5B04_EE2DC5B04|Black Antilight
+_rsv_47842_-1_1_0_1_SE2DC5B04_EE2DC5B04|Definition of Insanity
+_rsv_47844_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima Blaster
+_rsv_47847_-1_1_0_1_SE2DC5B04_EE2DC5B04|Slap Happy
+_rsv_47848_-1_1_0_1_SE2DC5B04_EE2DC5B04|Slap Happy
+_rsv_47846_-1_1_0_1_SE2DC5B04_EE2DC5B04|Slap Happy
+_rsv_47850_-1_1_0_1_SE2DC5B04_EE2DC5B04|Shocking Impact
+_rsv_50066_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flood of Naught
+_rsv_49891_-1_1_0_0_SE2DC5B04_EE2DC5B04|the Decisive Battle
+_rsv_47849_-1_1_0_1_SE2DC5B04_EE2DC5B04|Slap Happy
+_rsv_50068_-1_1_0_0_SE2DC5B04_EE2DC5B04|White Antilight
+_rsv_47851_-1_1_0_1_SE2DC5B04_EE2DC5B04|Shockwave
+_rsv_47852_-1_1_0_1_SE2DC5B04_EE2DC5B04|Look upon Me and Despair
+_rsv_50081_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flood of Naught
+_rsv_50719_-1_1_0_0_SE2DC5B04_EE2DC5B04|Bowels of Agony
+_rsv_47853_-1_1_0_1_SE2DC5B04_EE2DC5B04|Look upon Me and Despair
+_rsv_47854_-1_1_0_1_SE2DC5B04_EE2DC5B04|Look upon Me and Despair
+_rsv_50082_-1_1_0_0_SE2DC5B04_EE2DC5B04|Flood of Naught
+_rsv_47843_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima Blaster
+_rsv_47845_-1_1_0_1_SE2DC5B04_EE2DC5B04|Max
+_rsv_47855_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stomp-a-Mole
+_rsv_47857_-1_1_0_1_SE2DC5B04_EE2DC5B04|Unmitigated Impact
+_rsv_47858_-1_1_0_1_SE2DC5B04_EE2DC5B04|Bowels of Agony
+_rsv_47861_-1_1_0_1_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47862_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Spray
+_rsv_47864_-1_1_0_1_SE2DC5B04_EE2DC5B04|Cyclone
+_rsv_47865_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Earth
+_rsv_47866_-1_1_0_1_SE2DC5B04_EE2DC5B04|Earthquake
+_rsv_47867_-1_1_0_1_SE2DC5B04_EE2DC5B04|Black Hole
+_rsv_47870_-1_1_0_1_SE2DC5B04_EE2DC5B04|Latitudinal Implosion
+_rsv_47873_-1_1_0_1_SE2DC5B04_EE2DC5B04|Damning Edict
+_rsv_47859_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Flames
+_rsv_47874_-1_1_0_1_SE2DC5B04_EE2DC5B04|Knock Down
+_rsv_47875_-1_1_0_1_SE2DC5B04_EE2DC5B04|Knock Down
+_rsv_47863_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Gusts
+_rsv_47881_-1_1_0_1_SE2DC5B04_EE2DC5B04|Thunder III
+_rsv_47878_-1_1_0_1_SE2DC5B04_EE2DC5B04|Big Bang
+_rsv_47883_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fire III
+_rsv_47884_-1_1_0_1_SE2DC5B04_EE2DC5B04|Thunder III
+_rsv_47885_-1_1_0_1_SE2DC5B04_EE2DC5B04|Blizzard III
+_rsv_47869_-1_1_0_1_SE2DC5B04_EE2DC5B04|Longitudinal Implosion
+_rsv_47856_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stomp-a-Mole
+_rsv_47860_-1_1_0_1_SE2DC5B04_EE2DC5B04|Inferno
+_rsv_47871_-1_1_0_1_SE2DC5B04_EE2DC5B04|Shockwave
+_rsv_47872_-1_1_0_1_SE2DC5B04_EE2DC5B04|Umbra Smash
+_rsv_47877_-1_1_0_1_SE2DC5B04_EE2DC5B04|Big Bang
+_rsv_47868_-1_1_0_1_SE2DC5B04_EE2DC5B04|Nothingness
+_rsv_47886_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fire III
+_rsv_47887_-1_1_0_1_SE2DC5B04_EE2DC5B04|Blizzard III
+_rsv_47889_-1_1_0_1_SE2DC5B04_EE2DC5B04|Blizzard III
+_rsv_47891_-1_1_0_1_SE2DC5B04_EE2DC5B04|Vacuum Wave
+_rsv_47895_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Shriek
+_rsv_47897_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Bolt
+_rsv_47898_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Wave
+_rsv_47900_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Surge
+_rsv_47892_-1_1_0_1_SE2DC5B04_EE2DC5B04|Grand Cross
+_rsv_47903_-1_1_0_1_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47899_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Wave
+_rsv_47905_-1_1_0_1_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47906_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Flames
+_rsv_47896_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Bolt
+_rsv_47904_-1_1_0_1_SE2DC5B04_EE2DC5B04|Inferno
+_rsv_47927_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forsaken Ground
+_rsv_47928_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forsaken
+_rsv_47929_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forsaken Bonds
+_rsv_47926_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forsaken
+_rsv_47908_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Spray
+_rsv_47909_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Spray
+_rsv_47893_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Bomb
+_rsv_47888_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fire III
+_rsv_47902_-1_1_0_1_SE2DC5B04_EE2DC5B04|Inferno
+_rsv_47901_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Surge
+_rsv_47907_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Flames
+_rsv_47890_-1_1_0_1_SE2DC5B04_EE2DC5B04|Thunder III
+_rsv_47894_-1_1_0_1_SE2DC5B04_EE2DC5B04|Death Shriek
+_rsv_47925_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forsaken
+_rsv_47930_-1_1_0_1_SE2DC5B04_EE2DC5B04|Forsaken Null
+_rsv_47932_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Apocalypse
+_rsv_47934_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Entropy
+_rsv_47937_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima Repeater
+_rsv_47939_-1_1_0_1_SE2DC5B04_EE2DC5B04|Fire III
+_rsv_47943_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stardust Blizzard III
+_rsv_47947_-1_1_0_1_SE2DC5B04_EE2DC5B04|Tornado
+_rsv_47953_-1_1_0_1_SE2DC5B04_EE2DC5B04|Maddening Orchestra
+_rsv_47931_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Apocalypse
+_rsv_47946_-1_1_0_1_SE2DC5B04_EE2DC5B04|Quake
+_rsv_47952_-1_1_0_1_SE2DC5B04_EE2DC5B04|Maddening Orchestra
+_rsv_47955_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chaotic Flare
+_rsv_47956_-1_1_0_1_SE2DC5B04_EE2DC5B04|Holy
+_rsv_47957_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flare Diffusion
+_rsv_47958_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chaotic Holy
+_rsv_47938_-1_1_0_1_SE2DC5B04_EE2DC5B04|Celestriad
+_rsv_48486_-1_1_0_1_SE2DC5B04_EE2DC5B04|White Hole
+_rsv_49742_-1_1_0_1_SE2DC5B04_EE2DC5B04|Catastrophic Choice
+_rsv_47941_-1_1_0_1_SE2DC5B04_EE2DC5B04|Thunder III
+_rsv_49743_-1_1_0_1_SE2DC5B04_EE2DC5B04|Catastrophic Choice
+_rsv_47940_-1_1_0_1_SE2DC5B04_EE2DC5B04|Blizzard III
+_rsv_47936_-1_1_0_1_SE2DC5B04_EE2DC5B04|Ultima Repeater
+_rsv_49878_-1_1_0_1_SE2DC5B04_EE2DC5B04|Trance
+_rsv_49891_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Decisive Battle
+_rsv_47933_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Apocalypse
+_rsv_49753_-1_1_0_1_SE2DC5B04_EE2DC5B04|Bowels of Agony
+_rsv_49893_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aetherlink
+_rsv_50066_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flood of Naught
+_rsv_47942_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stardust Fire III
+_rsv_50068_-1_1_0_1_SE2DC5B04_EE2DC5B04|White Antilight
+_rsv_50067_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flood of Naught
+_rsv_50069_-1_1_0_1_SE2DC5B04_EE2DC5B04|Black Antilight
+_rsv_47954_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flare
+_rsv_47935_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stray Entropy
+_rsv_48333_-1_1_0_1_SE2DC5B04_EE2DC5B04|Black Spark
+_rsv_49752_-1_1_0_1_SE2DC5B04_EE2DC5B04|Meteor
+_rsv_49769_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flood
+_rsv_47951_-1_1_0_1_SE2DC5B04_EE2DC5B04|Chaotic Flood
+_rsv_49890_-1_1_0_1_SE2DC5B04_EE2DC5B04|the Decisive Battle
+_rsv_49892_-1_1_0_1_SE2DC5B04_EE2DC5B04|Aetherlink
+_rsv_49884_-1_1_0_1_SE2DC5B04_EE2DC5B04|Kefka Says
+_rsv_47944_-1_1_0_1_SE2DC5B04_EE2DC5B04|Stardust Thunder III
+_rsv_50070_-1_1_0_1_SE2DC5B04_EE2DC5B04|Edge of Death
+_rsv_50082_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flood of Naught
+_rsv_50546_-1_1_0_1_SE2DC5B04_EE2DC5B04|Earthquake
+_rsv_50718_-1_1_0_1_SE2DC5B04_EE2DC5B04|Meteor
+_rsv_50719_-1_1_0_1_SE2DC5B04_EE2DC5B04|Bowels of Agony
+_rsv_4887_-1_1_0_0_S74CFC3B0_E74CFC3B0|White Wound
+_rsv_4888_-1_1_0_0_S74CFC3B0_E74CFC3B0|Black Wound
+_rsv_50545_-1_1_0_1_SE2DC5B04_EE2DC5B04|Earthquake
+_rsv_5078_-1_1_0_0_S74CFC3B0_E74CFC3B0|Double-trouble Trap
+_rsv_5083_-1_1_0_0_S74CFC3B0_E74CFC3B0|Spells' Trouble
+_rsv_50081_-1_1_0_1_SE2DC5B04_EE2DC5B04|Flood of Naught
+_rsv_4888_-1_1_1_0_S74CFC3B0_E74CFC3B0|Spiritually wounded and taking extra damage from H��I��Black AntilightIH.
+_rsv_4887_-1_1_1_0_S74CFC3B0_E74CFC3B0|Physically wounded and taking extra damage from H��I��White AntilightIH.
+_rsv_5078_-1_1_1_0_S74CFC3B0_E74CFC3B0|When this effect expires, everyone else in the immediate vicinity will take damage. Should any players take damage, the H��I��Double-trouble TrapIH will be passed to one of them.
+_rsv_5083_-1_1_1_0_S74CFC3B0_E74CFC3B0|Burdened by a number of magicks. A spell will activate when hit by a wave of Kefka's own magicks, decreasing stacks. Damage taken from Light of Judgment is greatly increased while under this effect.
+_rsv_5144_-1_1_0_0_S74CFC3B0_E74CFC3B0|Forsaken
+_rsv_5144_-1_1_1_0_S74CFC3B0_E74CFC3B0|Vanished, sense of self having been eroded by destructive power.
+_rsv_5350_-1_1_0_0_S74CFC3B0_E74CFC3B0|Surprise Flare
+_rsv_5350_-1_1_1_0_S74CFC3B0_E74CFC3B0|H��I��Flare DiffusionIH will activate when this effect expires.
+_rsv_5351_-1_1_0_0_S74CFC3B0_E74CFC3B0|Surprise Holy
+_rsv_5351_-1_1_1_0_S74CFC3B0_E74CFC3B0|H��I��Chaotic HolyIH will activate when this effect expires.
+_rsv_5452_-1_1_1_0_S74CFC3B0_E74CFC3B0|In the process of being unmade. Accruing two stacks will reduce you to Meanest Existence.
+_rsv_5452_-1_1_0_0_S74CFC3B0_E74CFC3B0|Unbecoming
+_rsv_5453_-1_1_0_0_S74CFC3B0_E74CFC3B0|Meanest Existence
+_rsv_5453_-1_1_1_0_S74CFC3B0_E74CFC3B0|Nearly reduced to nonbeing, lowering resistance. Further exposure to H��I��NothingnessIH will result in KO.
+_rsv_5454_-1_1_0_0_S74CFC3B0_E74CFC3B0|Primordial Crust
+_rsv_5454_-1_1_1_0_S74CFC3B0_E74CFC3B0|Plagued by rapidly hardening mud. Effect dissipates when damage that would cause HP to drop below 0 is taken, leaving HP at 1.
+_rsv_5464_-1_1_0_0_S74CFC3B0_E74CFC3B0|Beyond Death
+_rsv_5464_-1_1_1_0_S74CFC3B0_E74CFC3B0|Only beyond death's boundaries can life be achieved.
+_rsv_4887_-1_1_0_1_S74CFC3B0_E74CFC3B0|White Wound
+_rsv_4887_-1_1_1_1_S74CFC3B0_E74CFC3B0|Physically wounded and taking extra damage from H��I��White AntilightIH.
+_rsv_4888_-1_1_0_1_S74CFC3B0_E74CFC3B0|Black Wound
+_rsv_5078_-1_1_0_1_S74CFC3B0_E74CFC3B0|Double-trouble Trap
+_rsv_5078_-1_1_1_1_S74CFC3B0_E74CFC3B0|When this effect expires, everyone else in the immediate vicinity will take damage. Should any players take damage, the H��I��Double-trouble TrapIH will be passed to one of them.
+_rsv_4888_-1_1_1_1_S74CFC3B0_E74CFC3B0|Spiritually wounded and taking extra damage from H��I��Black AntilightIH.
+_rsv_5083_-1_1_0_1_S74CFC3B0_E74CFC3B0|Spells' Trouble
+_rsv_5083_-1_1_1_1_S74CFC3B0_E74CFC3B0|Burdened by a number of magicks. A spell will activate when hit by a wave of Kefka's own magicks, decreasing stacks. Damage taken from Light of Judgment is greatly increased while under this effect.
+_rsv_5144_-1_1_0_1_S74CFC3B0_E74CFC3B0|Forsaken
+_rsv_5144_-1_1_1_1_S74CFC3B0_E74CFC3B0|Vanished, sense of self having been eroded by destructive power.
+_rsv_5350_-1_1_0_1_S74CFC3B0_E74CFC3B0|Surprise Flare
+_rsv_5350_-1_1_1_1_S74CFC3B0_E74CFC3B0|H��I��Flare DiffusionIH will activate when this effect expires.
+_rsv_5351_-1_1_0_1_S74CFC3B0_E74CFC3B0|Surprise Holy
+_rsv_5351_-1_1_1_1_S74CFC3B0_E74CFC3B0|H��I��Chaotic HolyIH will activate when this effect expires.
+_rsv_5453_-1_1_0_1_S74CFC3B0_E74CFC3B0|Meanest Existence
+_rsv_5454_-1_1_0_1_S74CFC3B0_E74CFC3B0|Primordial Crust
+_rsv_45501_-1_1_0_0_S13095D61_E13095D61|Quick, now! Make your peace with death!Because I'm making your death with all these pieces!
+_rsv_45504_-1_1_0_0_S13095D61_E13095D61|Gahahahahaha! UNLEASH IT ALL!
+_rsv_45502_-1_1_0_0_S13095D61_E13095D61|Did you think you'd won?Oh no no no, we've only just begun!
+_rsv_5464_-1_1_1_1_S74CFC3B0_E74CFC3B0|Only beyond death's boundaries can life be achieved.
+_rsv_5452_-1_1_0_1_S74CFC3B0_E74CFC3B0|Unbecoming
+_rsv_45503_-1_1_0_0_S13095D61_E13095D61|Still alive? Unbelieeevable!I really must insist you die!
+_rsv_5453_-1_1_1_1_S74CFC3B0_E74CFC3B0|Nearly reduced to nonbeing, lowering resistance. Further exposure to H��I��NothingnessIH will result in KO.
+_rsv_5452_-1_1_1_1_S74CFC3B0_E74CFC3B0|In the process of being unmade. Accruing two stacks will reduce you to Meanest Existence.
+_rsv_5454_-1_1_1_1_S74CFC3B0_E74CFC3B0|Plagued by rapidly hardening mud. Effect dissipates when damage that would cause HP to drop below 0 is taken, leaving HP at 1.
+_rsv_45500_-1_1_0_0_S13095D61_E13095D61|7This is my first time, so please take it easy!8
+_rsv_5464_-1_1_0_1_S74CFC3B0_E74CFC3B0|Beyond Death
+_rsv_45505_-1_1_0_0_S13095D61_E13095D61|Yes... I am filled with glorious purpose!
+_rsv_45507_-1_1_0_0_S13095D61_E13095D61|Such things as those...are mine to destroy!
+_rsv_45509_-1_1_0_0_S13095D61_E13095D61|Destroy! Destroy! Destroy! ...I will destroy it all!!!
+_rsv_45510_-1_1_0_0_S13095D61_E13095D61|Hahaha! Hook, line, and stinker!
+_rsv_45511_-1_1_0_0_S13095D61_E13095D61|What!? There's no way that didn't work!
+_rsv_45513_-1_1_0_0_S13095D61_E13095D61|Intriguing. This clearly isn't your first time...
+_rsv_45514_-1_1_0_0_S13095D61_E13095D61|This is meant to be our ultimate encounter...
+_rsv_45512_-1_1_0_0_S13095D61_E13095D61|How boring. Guess I'll have to spice things up!
+_rsv_45515_-1_1_0_0_S13095D61_E13095D61|Crafty little bastards, aren't you?
+_rsv_45516_-1_1_0_0_S13095D61_E13095D61|Hmph. I see what's going on here.
+_rsv_45517_-1_1_0_0_S13095D61_E13095D61|Oh, you're in for it now!
+_rsv_45519_-1_1_0_0_S13095D61_E13095D61|I'm talking to you, of course! Y.O.U.!
+_rsv_45518_-1_1_0_0_S13095D61_E13095D61|Who am I talking to?
+_rsv_45520_-1_1_0_0_S13095D61_E13095D61|Right! Let's see if I can't take the reins for a spell...
+_rsv_45521_-1_1_0_0_S13095D61_E13095D61|Hahaha! There's nothing I can't do!
+_rsv_45522_-1_1_0_0_S13095D61_E13095D61|Oh! What other toys can I throw in here...
+_rsv_45523_-1_1_0_0_S13095D61_E13095D61|Ohohohoho! What a marvelous sensation!
+_rsv_45524_-1_1_0_0_S13095D61_E13095D61|Jealous? Enthralled? I don't blame you!
+_rsv_45525_-1_1_0_0_S13095D61_E13095D61|Careful now!
+_rsv_45526_-1_1_0_0_S13095D61_E13095D61|I've got big ambitions and a big attitude...
+_rsv_45528_-1_1_0_0_S13095D61_E13095D61|Take this! And that! And one of these!
+_rsv_45508_-1_1_0_0_S13095D61_E13095D61|I'm afraid that's all I have time for today. Bye-bye now!
+_rsv_45531_-1_1_0_0_S13095D61_E13095D61|Hey, look─my friends are back!
+_rsv_45537_-1_1_0_0_S13095D61_E13095D61|Embrace oblivion!
+_rsv_45536_-1_1_0_0_S13095D61_E13095D61|I'll raze to the ground with a smile!
+_rsv_45539_-1_1_0_0_S13095D61_E13095D61|Sizzle, crackle, and zap!
+_rsv_45538_-1_1_0_0_S13095D61_E13095D61|Let the party begin!
+_rsv_45534_-1_1_0_0_S13095D61_E13095D61|Destruction is the fate of all things.
+_rsv_45527_-1_1_0_0_S13095D61_E13095D61|And now a big body to match─behold!
+_rsv_45506_-1_1_0_0_S13095D61_E13095D61|Life... Dreams... Hope...Where do they come from? And where do they go?
+_rsv_45529_-1_1_0_0_S13095D61_E13095D61|Aaand... Kaboom!
+_rsv_45535_-1_1_0_0_S13095D61_E13095D61|Anything you fools would dare build...
+_rsv_45532_-1_1_0_0_S13095D61_E13095D61|Go on then, make yourselves useful!
+_rsv_45533_-1_1_0_0_S13095D61_E13095D61|Oh, you were so close! But close isn't good enough!
+_rsv_45530_-1_1_0_0_S13095D61_E13095D61|Dance! Dance for me!
+_rsv_45540_-1_1_0_0_S13095D61_E13095D61|Ugh! You lot are no fun at all!
+_rsv_45541_-1_1_0_0_S13095D61_E13095D61|It's not enough...I must destroy more!
+_rsv_45542_-1_1_0_0_S13095D61_E13095D61|Destruction...Destruction is what makes life worth living!
+_rsv_45543_-1_1_0_0_S13095D61_E13095D61|You, your friends, this wretched world─I'll destroy everything!
+_rsv_45544_-1_1_0_0_S13095D61_E13095D61|Life... Love... Passion...All worthless...
+_rsv_45545_-1_1_0_0_S13095D61_E13095D61|Better luck next time, kids!
+_rsv_45547_-1_1_0_0_S13095D61_E13095D61|Here I go!
+_rsv_45548_-1_1_0_0_S13095D61_E13095D61|Congratulations...you lose! Try something else next time and maybe we'll have some real fun!
+_rsv_45501_-1_1_0_1_S13095D61_E13095D61|Quick, now! Make your peace with death!Because I'm making your death with all these pieces!
+_rsv_45502_-1_1_0_1_S13095D61_E13095D61|Did you think you'd won?Oh no no no, we've only just begun!
+_rsv_45500_-1_1_0_1_S13095D61_E13095D61|7This is my first time, so please take it easy!8
+_rsv_45503_-1_1_0_1_S13095D61_E13095D61|Still alive? Unbelieeevable!I really must insist you die!
+_rsv_45504_-1_1_0_1_S13095D61_E13095D61|Gahahahahaha! UNLEASH IT ALL!
+_rsv_45505_-1_1_0_1_S13095D61_E13095D61|Yes... I am filled with glorious purpose!
+_rsv_45546_-1_1_0_0_S13095D61_E13095D61|Boring!
+_rsv_45506_-1_1_0_1_S13095D61_E13095D61|Life... Dreams... Hope...Where do they come from? And where do they go?
+_rsv_45507_-1_1_0_1_S13095D61_E13095D61|Such things as those...are mine to destroy!
+_rsv_45509_-1_1_0_1_S13095D61_E13095D61|Destroy! Destroy! Destroy! ...I will destroy it all!!!
+_rsv_45510_-1_1_0_1_S13095D61_E13095D61|Hahaha! Hook, line, and stinker!
+_rsv_45511_-1_1_0_1_S13095D61_E13095D61|What!? There's no way that didn't work!
+_rsv_45512_-1_1_0_1_S13095D61_E13095D61|How boring. Guess I'll have to spice things up!
+_rsv_45513_-1_1_0_1_S13095D61_E13095D61|Intriguing. This clearly isn't your first time...
+_rsv_45508_-1_1_0_1_S13095D61_E13095D61|I'm afraid that's all I have time for today. Bye-bye now!
+_rsv_45514_-1_1_0_1_S13095D61_E13095D61|This is meant to be our ultimate encounter...
+_rsv_45517_-1_1_0_1_S13095D61_E13095D61|Oh, you're in for it now!
+_rsv_45515_-1_1_0_1_S13095D61_E13095D61|Crafty little bastards, aren't you?
+_rsv_45521_-1_1_0_1_S13095D61_E13095D61|Hahaha! There's nothing I can't do!
+_rsv_45522_-1_1_0_1_S13095D61_E13095D61|Oh! What other toys can I throw in here...
+_rsv_45520_-1_1_0_1_S13095D61_E13095D61|Right! Let's see if I can't take the reins for a spell...
+_rsv_45516_-1_1_0_1_S13095D61_E13095D61|Hmph. I see what's going on here.
+_rsv_45523_-1_1_0_1_S13095D61_E13095D61|Ohohohoho! What a marvelous sensation!
+_rsv_45518_-1_1_0_1_S13095D61_E13095D61|Who am I talking to?
+_rsv_45524_-1_1_0_1_S13095D61_E13095D61|Jealous? Enthralled? I don't blame you!
+_rsv_45526_-1_1_0_1_S13095D61_E13095D61|I've got big ambitions and a big attitude...
+_rsv_45525_-1_1_0_1_S13095D61_E13095D61|Careful now!
+_rsv_45527_-1_1_0_1_S13095D61_E13095D61|And now a big body to match─behold!
+_rsv_45528_-1_1_0_1_S13095D61_E13095D61|Take this! And that! And one of these!
+_rsv_45519_-1_1_0_1_S13095D61_E13095D61|I'm talking to you, of course! Y.O.U.!
+_rsv_45530_-1_1_0_1_S13095D61_E13095D61|Dance! Dance for me!
+_rsv_45531_-1_1_0_1_S13095D61_E13095D61|Hey, look─my friends are back!
+_rsv_45533_-1_1_0_1_S13095D61_E13095D61|Oh, you were so close! But close isn't good enough!
+_rsv_45532_-1_1_0_1_S13095D61_E13095D61|Go on then, make yourselves useful!
+_rsv_45529_-1_1_0_1_S13095D61_E13095D61|Aaand... Kaboom!
+_rsv_45534_-1_1_0_1_S13095D61_E13095D61|Destruction is the fate of all things.
+_rsv_45537_-1_1_0_1_S13095D61_E13095D61|Embrace oblivion!
+_rsv_45539_-1_1_0_1_S13095D61_E13095D61|Sizzle, crackle, and zap!
+_rsv_45542_-1_1_0_1_S13095D61_E13095D61|Destruction...Destruction is what makes life worth living!
+_rsv_45546_-1_1_0_1_S13095D61_E13095D61|Boring!
+_rsv_45543_-1_1_0_1_S13095D61_E13095D61|You, your friends, this wretched world─I'll destroy everything!
+_rsv_45544_-1_1_0_1_S13095D61_E13095D61|Life... Love... Passion...All worthless...
+_rsv_45545_-1_1_0_1_S13095D61_E13095D61|Better luck next time, kids!
+_rsv_45538_-1_1_0_1_S13095D61_E13095D61|Let the party begin!
+_rsv_45540_-1_1_0_1_S13095D61_E13095D61|Ugh! You lot are no fun at all!
+_rsv_45535_-1_1_0_1_S13095D61_E13095D61|Anything you fools would dare build...
+_rsv_45541_-1_1_0_1_S13095D61_E13095D61|It's not enough...I must destroy more!
+_rsv_45547_-1_1_0_1_S13095D61_E13095D61|Here I go!
+_rsv_45536_-1_1_0_1_S13095D61_E13095D61|I'll raze to the ground with a smile!
+_rsv_45548_-1_1_0_1_S13095D61_E13095D61|Congratulations...you lose! Try something else next time and maybe we'll have some real fun!
+_rsv_19494_-1_1_0_0_SCFE39641_ECFE39641|Haha!
+_rsv_19497_-1_1_0_0_SCFE39641_ECFE39641|Let's destroy everything!
+_rsv_19495_-1_1_0_1_SCFE39641_ECFE39641|There's no escape!
+_rsv_19497_-1_1_0_1_SCFE39641_ECFE39641|Let's destroy everything!
+_rsv_19495_-1_1_0_0_SCFE39641_ECFE39641|There's no escape!
+_rsv_19496_-1_1_0_0_SCFE39641_ECFE39641|That all you got?
+_rsv_19494_-1_1_0_1_SCFE39641_ECFE39641|Haha!
+_rsv_19496_-1_1_0_1_SCFE39641_ECFE39641|That all you got?

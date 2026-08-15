@@ -1,0 +1,395 @@
+﻿Dancing Mad (Ultimate)
+#action_data
+# DE
+_rsv_47842_-1_2_0_0_SE2DC5B04_EE2DC5B04|Rekonstruktion
+_rsv_47842_-1_2_0_1_SE2DC5B04_EE2DC5B04|Rekonstruktion
+_rsv_47843_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ultima-Kanone
+_rsv_47843_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ultima-Kanone
+_rsv_47844_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ultima-Kanone
+_rsv_47844_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ultima-Kanone
+_rsv_47845_-1_2_0_0_SE2DC5B04_EE2DC5B04|Riese
+_rsv_47845_-1_2_0_1_SE2DC5B04_EE2DC5B04|Riese
+_rsv_47846_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kolossale Klatsche
+_rsv_47846_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kolossale Klatsche
+_rsv_47847_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kolossale Klatsche
+_rsv_47847_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kolossale Klatsche
+_rsv_47848_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kolossale Klatsche
+_rsv_47848_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kolossale Klatsche
+_rsv_47849_-1_2_0_0_SE2DC5B04_EE2DC5B04|Kolossale Klatsche
+_rsv_47849_-1_2_0_1_SE2DC5B04_EE2DC5B04|Kolossale Klatsche
+_rsv_47850_-1_2_0_0_SE2DC5B04_EE2DC5B04|Heftiger Impakt
+_rsv_47850_-1_2_0_1_SE2DC5B04_EE2DC5B04|Heftiger Impakt
+_rsv_47851_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schockwelle
+_rsv_47851_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schockwelle
+_rsv_47852_-1_2_0_0_SE2DC5B04_EE2DC5B04|Voller Körpereinsatz
+_rsv_47852_-1_2_0_1_SE2DC5B04_EE2DC5B04|Voller Körpereinsatz
+_rsv_47853_-1_2_0_0_SE2DC5B04_EE2DC5B04|Voller Körpereinsatz
+_rsv_47853_-1_2_0_1_SE2DC5B04_EE2DC5B04|Voller Körpereinsatz
+_rsv_47854_-1_2_0_0_SE2DC5B04_EE2DC5B04|Voller Körpereinsatz
+_rsv_47854_-1_2_0_1_SE2DC5B04_EE2DC5B04|Voller Körpereinsatz
+_rsv_47855_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schallender Stampfer
+_rsv_47855_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schallender Stampfer
+_rsv_47856_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schallender Stampfer
+_rsv_47856_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schallender Stampfer
+_rsv_47857_-1_2_0_0_SE2DC5B04_EE2DC5B04|Mega-Impakt
+_rsv_47857_-1_2_0_1_SE2DC5B04_EE2DC5B04|Mega-Impakt
+_rsv_47858_-1_2_0_0_SE2DC5B04_EE2DC5B04|Quälende Eingeweide
+_rsv_47858_-1_2_0_1_SE2DC5B04_EE2DC5B04|Quälende Eingeweide
+_rsv_47859_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosflammen
+_rsv_47859_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosflammen
+_rsv_47860_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flamme
+_rsv_47860_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flamme
+_rsv_47861_-1_2_0_0_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47861_-1_2_0_1_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47862_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosspritzer
+_rsv_47862_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosspritzer
+_rsv_47863_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosböen
+_rsv_47863_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosböen
+_rsv_47864_-1_2_0_0_SE2DC5B04_EE2DC5B04|Tornado
+_rsv_47864_-1_2_0_1_SE2DC5B04_EE2DC5B04|Tornado
+_rsv_47865_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaoserde
+_rsv_47865_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaoserde
+_rsv_47866_-1_2_0_0_SE2DC5B04_EE2DC5B04|Erdbeben
+_rsv_47866_-1_2_0_1_SE2DC5B04_EE2DC5B04|Erdbeben
+_rsv_47867_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schwarzes Loch
+_rsv_47867_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schwarzes Loch
+_rsv_47868_-1_2_0_0_SE2DC5B04_EE2DC5B04|Welle der Leere
+_rsv_47868_-1_2_0_1_SE2DC5B04_EE2DC5B04|Welle der Leere
+_rsv_47869_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vertikale Implosion
+_rsv_47869_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vertikale Implosion
+_rsv_47870_-1_2_0_0_SE2DC5B04_EE2DC5B04|Horizontale Implosion
+_rsv_47870_-1_2_0_1_SE2DC5B04_EE2DC5B04|Horizontale Implosion
+_rsv_47871_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schockwelle
+_rsv_47871_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schockwelle
+_rsv_47872_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schattenschlag
+_rsv_47872_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schattenschlag
+_rsv_47873_-1_2_0_0_SE2DC5B04_EE2DC5B04|Verdammendes Edikt
+_rsv_47873_-1_2_0_1_SE2DC5B04_EE2DC5B04|Verdammendes Edikt
+_rsv_47874_-1_2_0_0_SE2DC5B04_EE2DC5B04|Niederschmettern
+_rsv_47874_-1_2_0_1_SE2DC5B04_EE2DC5B04|Niederschmettern
+_rsv_47875_-1_2_0_0_SE2DC5B04_EE2DC5B04|Einschlag
+_rsv_47875_-1_2_0_1_SE2DC5B04_EE2DC5B04|Einschlag
+_rsv_47877_-1_2_0_0_SE2DC5B04_EE2DC5B04|Quantengravitationsschleife
+_rsv_47877_-1_2_0_1_SE2DC5B04_EE2DC5B04|Quantengravitationsschleife
+_rsv_47878_-1_2_0_0_SE2DC5B04_EE2DC5B04|Quantengravitation
+_rsv_47878_-1_2_0_1_SE2DC5B04_EE2DC5B04|Quantengravitation
+_rsv_47881_-1_2_0_0_SE2DC5B04_EE2DC5B04|Blitzga
+_rsv_47881_-1_2_0_1_SE2DC5B04_EE2DC5B04|Blitzga
+_rsv_47883_-1_2_0_0_SE2DC5B04_EE2DC5B04|Feuga
+_rsv_47883_-1_2_0_1_SE2DC5B04_EE2DC5B04|Feuga
+_rsv_47884_-1_2_0_0_SE2DC5B04_EE2DC5B04|Blitzga
+_rsv_47884_-1_2_0_1_SE2DC5B04_EE2DC5B04|Blitzga
+_rsv_47885_-1_2_0_0_SE2DC5B04_EE2DC5B04|Eisga
+_rsv_47885_-1_2_0_1_SE2DC5B04_EE2DC5B04|Eisga
+_rsv_47886_-1_2_0_0_SE2DC5B04_EE2DC5B04|Feuga
+_rsv_47886_-1_2_0_1_SE2DC5B04_EE2DC5B04|Feuga
+_rsv_47887_-1_2_0_0_SE2DC5B04_EE2DC5B04|Eisga
+_rsv_47887_-1_2_0_1_SE2DC5B04_EE2DC5B04|Eisga
+_rsv_47888_-1_2_0_0_SE2DC5B04_EE2DC5B04|Feuga
+_rsv_47888_-1_2_0_1_SE2DC5B04_EE2DC5B04|Feuga
+_rsv_47889_-1_2_0_0_SE2DC5B04_EE2DC5B04|Eisga
+_rsv_47889_-1_2_0_1_SE2DC5B04_EE2DC5B04|Eisga
+_rsv_47890_-1_2_0_0_SE2DC5B04_EE2DC5B04|Blitzga
+_rsv_47890_-1_2_0_1_SE2DC5B04_EE2DC5B04|Blitzga
+_rsv_47891_-1_2_0_0_SE2DC5B04_EE2DC5B04|Vakuumwelle
+_rsv_47891_-1_2_0_1_SE2DC5B04_EE2DC5B04|Vakuumwelle
+_rsv_47892_-1_2_0_0_SE2DC5B04_EE2DC5B04|Supernova
+_rsv_47892_-1_2_0_1_SE2DC5B04_EE2DC5B04|Supernova
+_rsv_47893_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todesbombe
+_rsv_47893_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todesbombe
+_rsv_47894_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todesschrei
+_rsv_47894_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todesschrei
+_rsv_47895_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todesschrei
+_rsv_47895_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todesschrei
+_rsv_47896_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todeskeil
+_rsv_47896_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todeskeil
+_rsv_47897_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todeskeil
+_rsv_47897_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todeskeil
+_rsv_47898_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todeswelle
+_rsv_47898_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todeswelle
+_rsv_47899_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todeswelle
+_rsv_47899_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todeswelle
+_rsv_47900_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todeswallung
+_rsv_47900_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todeswallung
+_rsv_47901_-1_2_0_0_SE2DC5B04_EE2DC5B04|Todeswallung
+_rsv_47901_-1_2_0_1_SE2DC5B04_EE2DC5B04|Todeswallung
+_rsv_47902_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flamme
+_rsv_47902_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flamme
+_rsv_47903_-1_2_0_0_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47903_-1_2_0_1_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47904_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flamme
+_rsv_47904_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flamme
+_rsv_47905_-1_2_0_0_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47905_-1_2_0_1_SE2DC5B04_EE2DC5B04|Tsunami
+_rsv_47906_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosflammen
+_rsv_47906_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosflammen
+_rsv_47907_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosflammen
+_rsv_47907_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosflammen
+_rsv_47908_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosspritzer
+_rsv_47908_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosspritzer
+_rsv_47909_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosspritzer
+_rsv_47909_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosspritzer
+_rsv_47925_-1_2_0_0_SE2DC5B04_EE2DC5B04|Verloren
+_rsv_47925_-1_2_0_1_SE2DC5B04_EE2DC5B04|Verloren
+_rsv_47926_-1_2_0_0_SE2DC5B04_EE2DC5B04|Verloren
+_rsv_47926_-1_2_0_1_SE2DC5B04_EE2DC5B04|Verloren
+_rsv_47927_-1_2_0_0_SE2DC5B04_EE2DC5B04|Verlorener Boden
+_rsv_47927_-1_2_0_1_SE2DC5B04_EE2DC5B04|Verlorener Boden
+_rsv_47928_-1_2_0_0_SE2DC5B04_EE2DC5B04|Verloren
+_rsv_47928_-1_2_0_1_SE2DC5B04_EE2DC5B04|Verloren
+_rsv_47929_-1_2_0_0_SE2DC5B04_EE2DC5B04|Verlorene Bunde
+_rsv_47929_-1_2_0_1_SE2DC5B04_EE2DC5B04|Verlorene Bunde
+_rsv_47930_-1_2_0_0_SE2DC5B04_EE2DC5B04|Verlorenes Sein
+_rsv_47930_-1_2_0_1_SE2DC5B04_EE2DC5B04|Verlorenes Sein
+_rsv_47931_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosende
+_rsv_47931_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosende
+_rsv_47932_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosende
+_rsv_47932_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosende
+_rsv_47933_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaosende
+_rsv_47933_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaosende
+_rsv_47934_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaoswirbel
+_rsv_47934_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaoswirbel
+_rsv_47935_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaoswirbel
+_rsv_47935_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaoswirbel
+_rsv_47936_-1_2_0_0_SE2DC5B04_EE2DC5B04|Multi-Ultima
+_rsv_47936_-1_2_0_1_SE2DC5B04_EE2DC5B04|Multi-Ultima
+_rsv_47937_-1_2_0_0_SE2DC5B04_EE2DC5B04|Multi-Ultima
+_rsv_47937_-1_2_0_1_SE2DC5B04_EE2DC5B04|Multi-Ultima
+_rsv_47938_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dreigestirn
+_rsv_47938_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dreigestirn
+_rsv_47939_-1_2_0_0_SE2DC5B04_EE2DC5B04|Feuga
+_rsv_47939_-1_2_0_1_SE2DC5B04_EE2DC5B04|Feuga
+_rsv_47940_-1_2_0_0_SE2DC5B04_EE2DC5B04|Eisga
+_rsv_47940_-1_2_0_1_SE2DC5B04_EE2DC5B04|Eisga
+_rsv_47941_-1_2_0_0_SE2DC5B04_EE2DC5B04|Blitzga
+_rsv_47941_-1_2_0_1_SE2DC5B04_EE2DC5B04|Blitzga
+_rsv_47942_-1_2_0_0_SE2DC5B04_EE2DC5B04|Sternenstaub-Feuga
+_rsv_47942_-1_2_0_1_SE2DC5B04_EE2DC5B04|Sternenstaub-Feuga
+_rsv_47943_-1_2_0_0_SE2DC5B04_EE2DC5B04|Sternenstaub-Eisga
+_rsv_47943_-1_2_0_1_SE2DC5B04_EE2DC5B04|Sternenstaub-Eisga
+_rsv_47944_-1_2_0_0_SE2DC5B04_EE2DC5B04|Sternenstaub-Blitzga
+_rsv_47944_-1_2_0_1_SE2DC5B04_EE2DC5B04|Sternenstaub-Blitzga
+_rsv_47946_-1_2_0_0_SE2DC5B04_EE2DC5B04|Beben
+_rsv_47946_-1_2_0_1_SE2DC5B04_EE2DC5B04|Beben
+_rsv_47947_-1_2_0_0_SE2DC5B04_EE2DC5B04|Tornado
+_rsv_47947_-1_2_0_1_SE2DC5B04_EE2DC5B04|Tornado
+_rsv_47951_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaotische Flut
+_rsv_47951_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaotische Flut
+_rsv_47952_-1_2_0_0_SE2DC5B04_EE2DC5B04|Symphonie des Wahns
+_rsv_47952_-1_2_0_1_SE2DC5B04_EE2DC5B04|Symphonie des Wahns
+_rsv_47953_-1_2_0_0_SE2DC5B04_EE2DC5B04|Symphonie des Wahns
+_rsv_47953_-1_2_0_1_SE2DC5B04_EE2DC5B04|Symphonie des Wahns
+_rsv_47954_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flare
+_rsv_47954_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flare
+_rsv_47955_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaotische Flare
+_rsv_47955_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaotische Flare
+_rsv_47956_-1_2_0_0_SE2DC5B04_EE2DC5B04|Sanctus
+_rsv_47956_-1_2_0_1_SE2DC5B04_EE2DC5B04|Sanctus
+_rsv_47957_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flare-Diffusion
+_rsv_47957_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flare-Diffusion
+_rsv_47958_-1_2_0_0_SE2DC5B04_EE2DC5B04|Chaotisches Sanctus
+_rsv_47958_-1_2_0_1_SE2DC5B04_EE2DC5B04|Chaotisches Sanctus
+_rsv_48333_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schwarzer Funke
+_rsv_48333_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schwarzer Funke
+_rsv_48486_-1_2_0_0_SE2DC5B04_EE2DC5B04|Weißes Loch
+_rsv_48486_-1_2_0_1_SE2DC5B04_EE2DC5B04|Weißes Loch
+_rsv_49742_-1_2_0_0_SE2DC5B04_EE2DC5B04|Katastrophenwahl
+_rsv_49742_-1_2_0_1_SE2DC5B04_EE2DC5B04|Katastrophenwahl
+_rsv_49743_-1_2_0_0_SE2DC5B04_EE2DC5B04|Katastrophenwahl
+_rsv_49743_-1_2_0_1_SE2DC5B04_EE2DC5B04|Katastrophenwahl
+_rsv_49752_-1_2_0_0_SE2DC5B04_EE2DC5B04|Meteo
+_rsv_49752_-1_2_0_1_SE2DC5B04_EE2DC5B04|Meteo
+_rsv_49753_-1_2_0_0_SE2DC5B04_EE2DC5B04|Quälende Eingeweide
+_rsv_49753_-1_2_0_1_SE2DC5B04_EE2DC5B04|Quälende Eingeweide
+_rsv_49769_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flut
+_rsv_49769_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flut
+_rsv_49878_-1_2_0_0_SE2DC5B04_EE2DC5B04|Trance
+_rsv_49878_-1_2_0_1_SE2DC5B04_EE2DC5B04|Trance
+_rsv_49884_-1_2_0_0_SE2DC5B04_EE2DC5B04|Schelmische Seele
+_rsv_49884_-1_2_0_1_SE2DC5B04_EE2DC5B04|Schelmische Seele
+_rsv_49890_-1_2_0_0_SE2DC5B04_EE2DC5B04|Entscheidungsschlacht
+_rsv_49890_-1_2_0_1_SE2DC5B04_EE2DC5B04|Entscheidungsschlacht
+_rsv_49891_-1_2_0_0_SE2DC5B04_EE2DC5B04|Entscheidungsschlacht
+_rsv_49891_-1_2_0_1_SE2DC5B04_EE2DC5B04|Entscheidungsschlacht
+_rsv_49892_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ätherbund
+_rsv_49892_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ätherbund
+_rsv_49893_-1_2_0_0_SE2DC5B04_EE2DC5B04|Ätherbund
+_rsv_49893_-1_2_0_1_SE2DC5B04_EE2DC5B04|Ätherbund
+_rsv_50066_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flut der Leere
+_rsv_50066_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flut der Leere
+_rsv_50067_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flut der Leere
+_rsv_50067_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flut der Leere
+_rsv_50068_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dunkellicht des Lebenden
+_rsv_50068_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dunkellicht des Lebenden
+_rsv_50069_-1_2_0_0_SE2DC5B04_EE2DC5B04|Dunkellicht des Toten
+_rsv_50069_-1_2_0_1_SE2DC5B04_EE2DC5B04|Dunkellicht des Toten
+_rsv_50070_-1_2_0_0_SE2DC5B04_EE2DC5B04|Abgrund des Todes
+_rsv_50070_-1_2_0_1_SE2DC5B04_EE2DC5B04|Abgrund des Todes
+_rsv_50081_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flut der Leere
+_rsv_50081_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flut der Leere
+_rsv_50082_-1_2_0_0_SE2DC5B04_EE2DC5B04|Flut der Leere
+_rsv_50082_-1_2_0_1_SE2DC5B04_EE2DC5B04|Flut der Leere
+_rsv_50545_-1_2_0_0_SE2DC5B04_EE2DC5B04|Erdbeben
+_rsv_50545_-1_2_0_1_SE2DC5B04_EE2DC5B04|Erdbeben
+_rsv_50546_-1_2_0_0_SE2DC5B04_EE2DC5B04|Erdbeben
+_rsv_50546_-1_2_0_1_SE2DC5B04_EE2DC5B04|Erdbeben
+_rsv_50718_-1_2_0_0_SE2DC5B04_EE2DC5B04|Meteo
+_rsv_50718_-1_2_0_1_SE2DC5B04_EE2DC5B04|Meteo
+_rsv_50719_-1_2_0_0_SE2DC5B04_EE2DC5B04|Quälende Eingeweide
+_rsv_50719_-1_2_0_1_SE2DC5B04_EE2DC5B04|Quälende Eingeweide
+#status_data
+# DE
+_rsv_4887_-1_2_0_0_S74CFC3B0_E74CFC3B0|Wunde des Lebenden
+_rsv_4887_-1_2_0_1_S74CFC3B0_E74CFC3B0|Wunde des Lebenden
+_rsv_4887_-1_2_1_0_S74CFC3B0_E74CFC3B0|Durch Dunkellicht des Lebenden erlittener Schaden ist erhöht.
+_rsv_4887_-1_2_1_1_S74CFC3B0_E74CFC3B0|Durch Dunkellicht des Lebenden erlittener Schaden ist erhöht.
+_rsv_4888_-1_2_0_0_S74CFC3B0_E74CFC3B0|Wunde des Toten
+_rsv_4888_-1_2_0_1_S74CFC3B0_E74CFC3B0|Wunde des Toten
+_rsv_4888_-1_2_1_0_S74CFC3B0_E74CFC3B0|Durch Dunkellicht des Toten erlittener Schaden ist erhöht.
+_rsv_4888_-1_2_1_1_S74CFC3B0_E74CFC3B0|Durch Dunkellicht des Toten erlittener Schaden ist erhöht.
+_rsv_5078_-1_2_0_0_S74CFC3B0_E74CFC3B0|Fiese Falle
+_rsv_5078_-1_2_0_1_S74CFC3B0_E74CFC3B0|Fiese Falle
+_rsv_5078_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst bei Ablauf der Wirkungsdauer Umgebungsschaden aus, der einen selbst nicht betrifft. Werden Gruppenmitglieder getroffen, so wird eins davon ebenfalls mit Fiese Falle belegt.
+_rsv_5078_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst bei Ablauf der Wirkungsdauer Umgebungsschaden aus, der einen selbst nicht betrifft. Werden Gruppenmitglieder getroffen, so wird eins davon ebenfalls mit Fiese Falle belegt.
+_rsv_5083_-1_2_0_0_S74CFC3B0_E74CFC3B0|Magischer Risikofaktor
+_rsv_5083_-1_2_0_1_S74CFC3B0_E74CFC3B0|Magischer Risikofaktor
+_rsv_5083_-1_2_1_0_S74CFC3B0_E74CFC3B0|Hat verschiedene Zauber in sich aufgenommen. Durch Aufnahme von Kefkas Äther aktiviert sich ein Zauber und die Stapelanzahl wird reduziert. Darüber hinaus ist der erlittene Schaden durch Licht des Urteils stark erhöht.
+_rsv_5083_-1_2_1_1_S74CFC3B0_E74CFC3B0|Hat verschiedene Zauber in sich aufgenommen. Durch Aufnahme von Kefkas Äther aktiviert sich ein Zauber und die Stapelanzahl wird reduziert. Darüber hinaus ist der erlittene Schaden durch Licht des Urteils stark erhöht.
+_rsv_5144_-1_2_0_0_S74CFC3B0_E74CFC3B0|Verlorene Existenz
+_rsv_5144_-1_2_0_1_S74CFC3B0_E74CFC3B0|Verlorene Existenz
+_rsv_5144_-1_2_1_0_S74CFC3B0_E74CFC3B0|Die eigene Existenz selbst wurde von der Macht des Ruins zerfressen und vollständig getilgt.
+_rsv_5144_-1_2_1_1_S74CFC3B0_E74CFC3B0|Die eigene Existenz selbst wurde von der Macht des Ruins zerfressen und vollständig getilgt.
+_rsv_5350_-1_2_0_0_S74CFC3B0_E74CFC3B0|Bonus-Flare
+_rsv_5350_-1_2_0_1_S74CFC3B0_E74CFC3B0|Bonus-Flare
+_rsv_5350_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst bei Ablauf der Wirkungsdauer Flare-Diffusion aus.
+_rsv_5350_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst bei Ablauf der Wirkungsdauer Flare-Diffusion aus.
+_rsv_5351_-1_2_0_0_S74CFC3B0_E74CFC3B0|Bonus-Sanctus
+_rsv_5351_-1_2_0_1_S74CFC3B0_E74CFC3B0|Bonus-Sanctus
+_rsv_5351_-1_2_1_0_S74CFC3B0_E74CFC3B0|Löst bei Ablauf der Wirkungsdauer Chaotisches Sanctus aus.
+_rsv_5351_-1_2_1_1_S74CFC3B0_E74CFC3B0|Löst bei Ablauf der Wirkungsdauer Chaotisches Sanctus aus.
+_rsv_5452_-1_2_0_0_S74CFC3B0_E74CFC3B0|Nagendes Nichts
+_rsv_5452_-1_2_0_1_S74CFC3B0_E74CFC3B0|Nagendes Nichts
+_rsv_5452_-1_2_1_0_S74CFC3B0_E74CFC3B0|Leicht von der Macht des Nichts durchdrungen. Bei zwei Stapeln ändert sich der Status zu Verschlingendes Nichts.
+_rsv_5452_-1_2_1_1_S74CFC3B0_E74CFC3B0|Leicht von der Macht des Nichts durchdrungen. Bei zwei Stapeln ändert sich der Status zu Verschlingendes Nichts.
+_rsv_5453_-1_2_0_0_S74CFC3B0_E74CFC3B0|Verschlingendes Nichts
+_rsv_5453_-1_2_0_1_S74CFC3B0_E74CFC3B0|Verschlingendes Nichts
+_rsv_5453_-1_2_1_0_S74CFC3B0_E74CFC3B0|Von der Macht des Nichts überwältigt und unfähig, sich gegen diese zu wehren. Wird durch Welle der Leere sofort kampfunfähig.
+_rsv_5453_-1_2_1_1_S74CFC3B0_E74CFC3B0|Von der Macht des Nichts überwältigt und unfähig, sich gegen diese zu wehren. Wird durch Welle der Leere sofort kampfunfähig.
+_rsv_5454_-1_2_0_0_S74CFC3B0_E74CFC3B0|Chaoserde
+_rsv_5454_-1_2_0_1_S74CFC3B0_E74CFC3B0|Chaoserde
+_rsv_5454_-1_2_1_0_S74CFC3B0_E74CFC3B0|Von Chaoserde eingenommen. Wenn die LP unter Null sinken, dann endet der Effekt und die LP steigen auf 1.
+_rsv_5454_-1_2_1_1_S74CFC3B0_E74CFC3B0|Von Chaoserde eingenommen. Wenn die LP unter Null sinken, dann endet der Effekt und die LP steigen auf 1.
+_rsv_5464_-1_2_0_0_S74CFC3B0_E74CFC3B0|Jenseits des Jenseits
+_rsv_5464_-1_2_0_1_S74CFC3B0_E74CFC3B0|Jenseits des Jenseits
+_rsv_5464_-1_2_1_0_S74CFC3B0_E74CFC3B0|Kann nur durch die Überwindung des Todes leben.
+_rsv_5464_-1_2_1_1_S74CFC3B0_E74CFC3B0|Kann nur durch die Überwindung des Todes leben.
+#instancecontenttextdata_data
+# DE
+_rsv_45500_-1_2_0_0_S13095D61_E13095D61|7Ich bin zum ersten Mal hier.87Auf geht's!8
+_rsv_45500_-1_2_0_1_S13095D61_E13095D61|7Ich bin zum ersten Mal hier.87Auf geht's!8
+_rsv_45501_-1_2_0_0_S13095D61_E13095D61|Sprecht euer letztes Gebet! Denn bald... liegt alles... in Trümmern! Hyahaha!
+_rsv_45501_-1_2_0_1_S13095D61_E13095D61|Sprecht euer letztes Gebet! Denn bald... liegt alles... in Trümmern! Hyahaha!
+_rsv_45502_-1_2_0_0_S13095D61_E13095D61|Freut euch nicht zu früh! Unser tödliches Spiel hat gerade erst begonnen!
+_rsv_45502_-1_2_0_1_S13095D61_E13095D61|Freut euch nicht zu früh! Unser tödliches Spiel hat gerade erst begonnen!
+_rsv_45503_-1_2_0_0_S13095D61_E13095D61|Eure Hartnäckigkeit ödet mich an! Fallt auf der Stelle tot um!
+_rsv_45503_-1_2_0_1_S13095D61_E13095D61|Eure Hartnäckigkeit ödet mich an! Fallt auf der Stelle tot um!
+_rsv_45504_-1_2_0_0_S13095D61_E13095D61|Hiyahahaha! Alles soll untergehen!
+_rsv_45504_-1_2_0_1_S13095D61_E13095D61|Hiyahahaha! Alles soll untergehen!
+_rsv_45505_-1_2_0_0_S13095D61_E13095D61|Ah...! Wie erfüllend...!
+_rsv_45505_-1_2_0_1_S13095D61_E13095D61|Ah...! Wie erfüllend...!
+_rsv_45506_-1_2_0_0_S13095D61_E13095D61|Das Leben... Träume... Hoffnungen...Wo kommen sie her, wo gehen sie hin?
+_rsv_45506_-1_2_0_1_S13095D61_E13095D61|Das Leben... Träume... Hoffnungen...Wo kommen sie her, wo gehen sie hin?
+_rsv_45507_-1_2_0_0_S13095D61_E13095D61|Völlig egal... denn ich werde alles beenden!
+_rsv_45507_-1_2_0_1_S13095D61_E13095D61|Völlig egal... denn ich werde alles beenden!
+_rsv_45508_-1_2_0_0_S13095D61_E13095D61|Tut mir leid, aber mehr Zeit habe ich für euch nicht!
+_rsv_45508_-1_2_0_1_S13095D61_E13095D61|Tut mir leid, aber mehr Zeit habe ich für euch nicht!
+_rsv_45509_-1_2_0_0_S13095D61_E13095D61|Alles... Jedes letzte Leben... wird vernichtet!
+_rsv_45509_-1_2_0_1_S13095D61_E13095D61|Alles... Jedes letzte Leben... wird vernichtet!
+_rsv_45510_-1_2_0_0_S13095D61_E13095D61|Ich hoffe, euch gefällt mein Geschenk? Hiyahaha!
+_rsv_45510_-1_2_0_1_S13095D61_E13095D61|Ich hoffe, euch gefällt mein Geschenk? Hiyahaha!
+_rsv_45511_-1_2_0_0_S13095D61_E13095D61|Was?! Mit euch stimmt doch was nicht...
+_rsv_45511_-1_2_0_1_S13095D61_E13095D61|Was?! Mit euch stimmt doch was nicht...
+_rsv_45512_-1_2_0_0_S13095D61_E13095D61|So macht das keinen Spaß! Wieso seid ihr so selbstsicher...?
+_rsv_45512_-1_2_0_1_S13095D61_E13095D61|So macht das keinen Spaß! Wieso seid ihr so selbstsicher...?
+_rsv_45513_-1_2_0_0_S13095D61_E13095D61|Ich verstehe... Wir kämpfen nicht zum ersten Mal, richtig?
+_rsv_45513_-1_2_0_1_S13095D61_E13095D61|Ich verstehe... Wir kämpfen nicht zum ersten Mal, richtig?
+_rsv_45514_-1_2_0_0_S13095D61_E13095D61|Wie FATAL!! Ich wurde einfach so nachgebildet?!
+_rsv_45514_-1_2_0_1_S13095D61_E13095D61|Wie FATAL!! Ich wurde einfach so nachgebildet?!
+_rsv_45515_-1_2_0_0_S13095D61_E13095D61|Wie könnt ihr es wagen?!
+_rsv_45515_-1_2_0_1_S13095D61_E13095D61|Wie könnt ihr es wagen?!
+_rsv_45516_-1_2_0_0_S13095D61_E13095D61|Hiyahaha, so ist das also!
+_rsv_45516_-1_2_0_1_S13095D61_E13095D61|Hiyahaha, so ist das also!
+_rsv_45517_-1_2_0_0_S13095D61_E13095D61|Ihr werdet das hier bitter bereuen...
+_rsv_45517_-1_2_0_1_S13095D61_E13095D61|Ihr werdet das hier bitter bereuen...
+_rsv_45518_-1_2_0_0_S13095D61_E13095D61|Wen ich damit meine?
+_rsv_45518_-1_2_0_1_S13095D61_E13095D61|Wen ich damit meine?
+_rsv_45519_-1_2_0_0_S13095D61_E13095D61|Euch da draußen natürlich!
+_rsv_45519_-1_2_0_1_S13095D61_E13095D61|Euch da draußen natürlich!
+_rsv_45520_-1_2_0_0_S13095D61_E13095D61|Wenn es euch nicht stört... übernehme ich jetzt das Ruder!
+_rsv_45520_-1_2_0_1_S13095D61_E13095D61|Wenn es euch nicht stört... übernehme ich jetzt das Ruder!
+_rsv_45521_-1_2_0_0_S13095D61_E13095D61|Es gibt nichts, was ich nicht kann!
+_rsv_45521_-1_2_0_1_S13095D61_E13095D61|Es gibt nichts, was ich nicht kann!
+_rsv_45522_-1_2_0_0_S13095D61_E13095D61|Und wer ist mein nächstes Spielzeug?
+_rsv_45522_-1_2_0_1_S13095D61_E13095D61|Und wer ist mein nächstes Spielzeug?
+_rsv_45523_-1_2_0_0_S13095D61_E13095D61|Herrlich...! Erfüllt bis in die letzte Faser...!
+_rsv_45523_-1_2_0_1_S13095D61_E13095D61|Herrlich...! Erfüllt bis in die letzte Faser...!
+_rsv_45524_-1_2_0_0_S13095D61_E13095D61|So einen Schönling habt ihr noch nicht gesehen, was?
+_rsv_45524_-1_2_0_1_S13095D61_E13095D61|So einen Schönling habt ihr noch nicht gesehen, was?
+_rsv_45525_-1_2_0_0_S13095D61_E13095D61|Seid lieber vorsichtig! Gyahaha!
+_rsv_45525_-1_2_0_1_S13095D61_E13095D61|Seid lieber vorsichtig! Gyahaha!
+_rsv_45526_-1_2_0_0_S13095D61_E13095D61|Ein so großes Herz mit einer so großen Klappe...
+_rsv_45526_-1_2_0_1_S13095D61_E13095D61|Ein so großes Herz mit einer so großen Klappe...
+_rsv_45527_-1_2_0_0_S13095D61_E13095D61|... verdient einen entsprechenden Körper!
+_rsv_45527_-1_2_0_1_S13095D61_E13095D61|... verdient einen entsprechenden Körper!
+_rsv_45528_-1_2_0_0_S13095D61_E13095D61|Nehmt das! Und das! Und noch eine!
+_rsv_45528_-1_2_0_1_S13095D61_E13095D61|Nehmt das! Und das! Und noch eine!
+_rsv_45529_-1_2_0_0_S13095D61_E13095D61|Und... Wumms!
+_rsv_45529_-1_2_0_1_S13095D61_E13095D61|Und... Wumms!
+_rsv_45530_-1_2_0_0_S13095D61_E13095D61|Wer nicht tanzen will, wird angeschubst!
+_rsv_45530_-1_2_0_1_S13095D61_E13095D61|Wer nicht tanzen will, wird angeschubst!
+_rsv_45531_-1_2_0_0_S13095D61_E13095D61|Jetzt seid ihr wieder dran, meine Püppchen!
+_rsv_45531_-1_2_0_1_S13095D61_E13095D61|Jetzt seid ihr wieder dran, meine Püppchen!
+_rsv_45532_-1_2_0_0_S13095D61_E13095D61|Kommt schon! Strengt euch an! Seid mir nützlich!
+_rsv_45532_-1_2_0_1_S13095D61_E13095D61|Kommt schon! Strengt euch an! Seid mir nützlich!
+_rsv_45533_-1_2_0_0_S13095D61_E13095D61|Wie schade, knapp vorbei! Auf Wiedersehen...
+_rsv_45533_-1_2_0_1_S13095D61_E13095D61|Wie schade, knapp vorbei! Auf Wiedersehen...
+_rsv_45534_-1_2_0_0_S13095D61_E13095D61|Alles ist endlich... Alles ist vergänglich...
+_rsv_45534_-1_2_0_1_S13095D61_E13095D61|Alles ist endlich... Alles ist vergänglich...
+_rsv_45535_-1_2_0_0_S13095D61_E13095D61|Wenn ihr erschafft, schöpft und kreiert...
+_rsv_45535_-1_2_0_1_S13095D61_E13095D61|Wenn ihr erschafft, schöpft und kreiert...
+_rsv_45536_-1_2_0_0_S13095D61_E13095D61|... werde ich ruinieren, vertilgen und vernichten!
+_rsv_45536_-1_2_0_1_S13095D61_E13095D61|... werde ich ruinieren, vertilgen und vernichten!
+_rsv_45537_-1_2_0_0_S13095D61_E13095D61|Werdet Zeugen der ultimativen Zerstörung!
+_rsv_45537_-1_2_0_1_S13095D61_E13095D61|Werdet Zeugen der ultimativen Zerstörung!
+_rsv_45538_-1_2_0_0_S13095D61_E13095D61|Kyaaaaah! Das Fest beginnt!
+_rsv_45538_-1_2_0_1_S13095D61_E13095D61|Kyaaaaah! Das Fest beginnt!
+_rsv_45539_-1_2_0_0_S13095D61_E13095D61|Jetzt geht's halb verkohlt in ein eisiges Grab!
+_rsv_45539_-1_2_0_1_S13095D61_E13095D61|Jetzt geht's halb verkohlt in ein eisiges Grab!
+_rsv_45540_-1_2_0_0_S13095D61_E13095D61|Langweilig! Viel zu langweilig!
+_rsv_45540_-1_2_0_1_S13095D61_E13095D61|Langweilig! Viel zu langweilig!
+_rsv_45541_-1_2_0_0_S13095D61_E13095D61|Das ist nicht genug...! Mehr Zerstörung...! Ich muss mehr zerstören!
+_rsv_45541_-1_2_0_1_S13095D61_E13095D61|Das ist nicht genug...! Mehr Zerstörung...! Ich muss mehr zerstören!
+_rsv_45542_-1_2_0_0_S13095D61_E13095D61|Nur die Zerstörung... Sie gibt dem Leben Sinn!
+_rsv_45542_-1_2_0_1_S13095D61_E13095D61|Nur die Zerstörung... Sie gibt dem Leben Sinn!
+_rsv_45543_-1_2_0_0_S13095D61_E13095D61|Nichts wird übrig bleiben! Weder ihr noch diese Welt!
+_rsv_45543_-1_2_0_1_S13095D61_E13095D61|Nichts wird übrig bleiben! Weder ihr noch diese Welt!
+_rsv_45544_-1_2_0_0_S13095D61_E13095D61|Das Leben... Freundschaft... Stärke...Mehr steckt also wirklich nicht in euch?
+_rsv_45544_-1_2_0_1_S13095D61_E13095D61|Das Leben... Freundschaft... Stärke...Mehr steckt also wirklich nicht in euch?
+_rsv_45545_-1_2_0_0_S13095D61_E13095D61|Macht vielleicht mal 'ne Pause, dann spielen wir weiter!
+_rsv_45545_-1_2_0_1_S13095D61_E13095D61|Macht vielleicht mal 'ne Pause, dann spielen wir weiter!
+_rsv_45546_-1_2_0_0_S13095D61_E13095D61|Langweilig!
+_rsv_45546_-1_2_0_1_S13095D61_E13095D61|Langweilig!
+_rsv_45547_-1_2_0_0_S13095D61_E13095D61|Jetzt wird's lustig!
+_rsv_45547_-1_2_0_1_S13095D61_E13095D61|Jetzt wird's lustig!
+_rsv_45548_-1_2_0_0_S13095D61_E13095D61|Herzlichen Unglückwunsch, ihr Versager! Probiert nächstes Mal lieber was anderes aus, hm? Gyahaha!
+_rsv_45548_-1_2_0_1_S13095D61_E13095D61|Herzlichen Unglückwunsch, ihr Versager! Probiert nächstes Mal lieber was anderes aus, hm? Gyahaha!
+#npcyell_data
+# DE
+_rsv_19494_-1_2_0_0_SCFE39641_ECFE39641|Hyaha, kommt schon!
+_rsv_19494_-1_2_0_1_SCFE39641_ECFE39641|Hyaha, kommt schon!
+_rsv_19495_-1_2_0_0_SCFE39641_ECFE39641|Kein Entkommen!
+_rsv_19495_-1_2_0_1_SCFE39641_ECFE39641|Kein Entkommen!
+_rsv_19496_-1_2_0_0_SCFE39641_ECFE39641|Ich stehe über allem!
+_rsv_19496_-1_2_0_1_SCFE39641_ECFE39641|Ich stehe über allem!
+_rsv_19497_-1_2_0_0_SCFE39641_ECFE39641|Lasst uns alles zerstören!
+_rsv_19497_-1_2_0_1_SCFE39641_ECFE39641|Lasst uns alles zerstören!
